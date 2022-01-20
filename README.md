@@ -40,17 +40,24 @@ World traditions
 
 - [Terry E. Miller, Andrew Shahriari. World Music: A Global Journey](https://amzn.to/3KuLTOx) - A survey of ethnic music traditions from all over the world. [Audio CD examples are on YouTube](https://www.youtube.com/results?search_query=world+music+global+journey)
 
+<img width="694" alt="Screenshot 2022-01-21 at 2 39 45 AM" src="https://user-images.githubusercontent.com/1491908/150439427-5aa4205a-8958-46d8-b381-da5f57ca3814.png">
+
 Arabic music
 ---
 
 - [Johnny Farraj, Sami Abu Shumays. Inside Arabic Music](https://amzn.to/3AiJBxj) - A modern book on all aspects of Arabic maqam music (instruments, forms, rhythms, modulations), with an emphasis on a new researcher look on the actual structure of maqam modulations. Two authors previously created two websites on the topic: http://maqamlessons.com/ and https://www.maqamworld.com/. Also [a YouTube channel](https://www.youtube.com/channel/UCvQd4jztGgzPu4XRZZdPjSw)
+
+<img width="678" alt="Screenshot 2022-01-21 at 2 41 37 AM" src="https://user-images.githubusercontent.com/1491908/150439587-5f279385-0b7f-4ad4-8ab0-4296375830d4.png">
+
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 http://taqasim.net/ - An oud and darbuka school in the City of London (I study oud there)
 
 
 Microtonal music
 ===
 
-- 
+- [William A. Sethares. Tuning, Timbre, Spectrum, Scale](https://sethares.engr.wisc.edu/ttss.html) - Why we divide octave into 12 equal parts, how is it related to string harmonics and how to create artificial timbres that make music in other tunings more consonant. With audio examples
+
+<img width="723" alt="Screenshot 2022-01-21 at 2 47 51 AM" src="https://user-images.githubusercontent.com/1491908/150440160-dbadacde-f65d-4cba-9f71-9cfd257eb908.png">
 
 Ear training
 ===
@@ -67,6 +74,8 @@ Sound design
 - [Helm](https://tytel.org/helm/) - A free and open-source easy-to-grasp VST synth with a very friendly interface, [a tiny blog on its emergence](https://tytel.org/blog/), [a complete manual on 32 pages](https://tytel.org/static/docs/helm_manual.pdf) and [a more powerful sequel Vital made by the same engineer](https://vital.audio/)
 
 ![telegram-cloud-photo-size-2-5420532436367948384-y](https://user-images.githubusercontent.com/1491908/150430889-57ecf3fa-3c39-4152-a7c6-e88231770b86.jpg)
+
+
 
 
 Mixing
