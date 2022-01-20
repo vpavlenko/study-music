@@ -1,6 +1,6 @@
 How to study music: a survey of books, resources and courses to study everything about music and sound in the broadest sense.
 
-Harmony
+Music Theory
 ===
 
 Rock harmony
@@ -35,15 +35,22 @@ Advanced classical harmony
 
 - [Vincent Persichetti. Twentieth-Century Harmony](https://amzn.to/3AgQgbk) - A book from 1960. [Audio examples on YouTube](https://www.youtube.com/playlist?list=PLwRgeNTZ2i6_BA9H4as1srtNKBAzPPjns)
 
-Bach chorales
+World traditions
+===
+
+- [Terry E. Miller, Andrew Shahriari. World Music: A Global Journey](https://amzn.to/3KuLTOx) - A survey of ethnic music traditions from all over the world. [Audio CD examples are on YouTube](https://www.youtube.com/results?search_query=world+music+global+journey)
+
+Arabic music
 ---
 
-- Harmonizing bach chorales
+- [Johnny Farraj, Sami Abu Shumays. Inside Arabic Music](https://amzn.to/3AiJBxj) - A modern book on all aspects of Arabic maqam music (instruments, forms, rhythms, modulations), with an emphasis on a new researcher look on the actual structure of maqam modulations. Two authors previously created two websites on the topic: http://maqamlessons.com/ and https://www.maqamworld.com/. Also [a YouTube channel](https://www.youtube.com/channel/UCvQd4jztGgzPu4XRZZdPjSw)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 http://taqasim.net/ - An oud and darbuka school in the City of London (I study oud there)
 
-Composition
----
 
-- Alan Belkin
+Microtonal music
+===
+
+- 
 
 Ear training
 ===
