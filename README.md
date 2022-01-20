@@ -81,7 +81,11 @@ Sound design
 Mixing
 ===
 
-- [The same book as a 3h YouTube movie](https://www.youtube.com/watch?v=TEjOdqZFvhY)
+- [David Gibson. The Art of Mixing](https://amzn.to/3qIiY1H) - A visual approach to represent a mix. [The same book as a 3h YouTube movie](https://www.youtube.com/watch?v=TEjOdqZFvhY)
+
+![image](https://user-images.githubusercontent.com/1491908/150440495-792afe9a-4786-48d9-a798-6a45d2eac3e0.png)
+
+
 - 🇷🇺 [wikisound](http://wikisound.org/Video/) - Бесплатные многочасовые ютьюб-курсы по компрессии, эквализации и пространству микса, а также платные курсы по DAW'кам и синтезаторам.
 
 Other lists
