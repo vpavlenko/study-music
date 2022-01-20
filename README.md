@@ -27,6 +27,9 @@ The books below give an intro into music notation and are good for a beginner, a
 - [Andre Mount. Fundamentals, Function, and Form](https://milnepublishing.geneseo.edu/fundamentals-function-form/) - An online book with audio examples
 - [Mauro Braunstein. Offtonic Theory](https://offtonic.com/theory/index.html) - An online book with audio examples that is spiced up with Jewish Chasidic examples (in addition to classical and rock ones)  and an intro into Arabic maqamaat music
 
+YouTube videos with harmonic analysis:
+- [David Bennett Thomas](https://www.youtube.com/playlist?list=PL613D1A6B3C4BBDF2) - A very thorough analysis of carefully picked pieces from different styles.
+
 Advanced classical harmony
 ---
 
@@ -53,6 +56,7 @@ Sound design
 - [Syntorial](https://www.syntorial.com/) - An educational app that asks you to repeat the synth sound you hear and progressively gives you
  more controls to manipulate. Has a free trial of 22 lessons, with a full course of 199 lessons. [Demo on YouTube](https://www.youtube.com/watch?v=ulLmILO1oV4)
 - 🇷🇺 [XSSR Academy](https://xssracademy.com/ru/) - Курсы по саунд-дизайну и созданию музыки к играм от аудио-инженеров Wargaming
+- [Learning Synths from Ableton](https://learningsynths.ableton.com/) - A very basic online one-hour intro into synths
 - [Helm](https://tytel.org/helm/) - A free and open-source easy-to-grasp VST synth with a very friendly interface, [a tiny blog on its emergence](https://tytel.org/blog/), [a complete manual on 32 pages](https://tytel.org/static/docs/helm_manual.pdf) and [a more powerful sequel Vital made by the same engineer](https://vital.audio/)
 
 ![telegram-cloud-photo-size-2-5420532436367948384-y](https://user-images.githubusercontent.com/1491908/150430889-57ecf3fa-3c39-4152-a7c6-e88231770b86.jpg)
@@ -64,10 +68,10 @@ Mixing
 - [The same book as a 3h YouTube movie](https://www.youtube.com/watch?v=TEjOdqZFvhY)
 - 🇷🇺 [wikisound](http://wikisound.org/Video/) - Бесплатные многочасовые ютьюб-курсы по компрессии, эквализации и пространству микса, а также платные курсы по DAW'кам и синтезаторам.
 
-Unsorted books
+Other lists
 ===
 
-Tagg
+- [Awesome Music](https://github.com/ciconia/awesome-music)
 
 
 
