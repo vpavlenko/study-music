@@ -17,6 +17,11 @@ Jazz harmony
 - [Joe Mulholland, Tom Hojnacki. The Berklee Book of Jazz Harmony Kindle Edition](https://amzn.to/3qKoDUT) - A book that describes all traditional concepts of a jazz harmony language
   (secondary dominants, tritone substitution, modal interchange, modulation, modal harmony). Each chapter analyzes a special piece written to 
   showcase the very discussed chapter topic (unlike other books that analyze existing jazz standards). I'm not sure whether a Kindle version comes with a code to access the website with audio recordings of those pieces, the paperback one does.
+  
+- [The Jazz Standards Progressions Book](https://mdecks.com/jazzstandards.phtml) - Hundreds of popular jazz standards manually analyzed by authors of mDecks to highlight jazz-specific harmonic patterns (tritone substitution, ii-V-s, to-minor, chord scales)
+
+<img width="1291" alt="Screenshot 2022-01-21 at 2 59 30 AM" src="https://user-images.githubusercontent.com/1491908/150441200-f311d430-29da-47b4-ae72-ddef62fe831f.png">
+
 
 General intro + classical harmony
 ---
