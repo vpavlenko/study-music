@@ -11,6 +11,8 @@ Rock harmony
 
 - [David Temperley. The Musical Language of Rock](https://amzn.to/3nK9eSO) - A book that summarizes [a corpus study](http://rockcorpus.midside.com/) of aspects like harmony, melody, rhythm, timbre and form on 200 rock songs 
 
+- [David Tagg. Everyday Tonality II](http://tagg.org/mmmsp/EverydayTonalityInfo.htm) - The author proves that applying classical harmony framework to all of modern popular Western music gives poor results, and that one must accept the wide existence of music in different modes, scales and non-tertian chord structures on our TV and radio.
+![image](https://user-images.githubusercontent.com/1491908/150502146-c43924b3-8468-442e-a8f6-25cba5aaf1e0.png)
 
 
 
@@ -21,7 +23,9 @@ The books below give an intro into music notation and are good for a beginner, a
 
 - [Steven G. Laitz. The Complete Musician](https://amzn.to/3nKdSAa) - A standard modern book on classical harmony with introduction into a form and XX century techniques. [Audio examples](https://learninglink.oup.com/access/laitz-4e-student-resources) are freely available
 - [Andre Mount. Fundamentals, Function, and Form](https://milnepublishing.geneseo.edu/fundamentals-function-form/) - An online book with audio examples
-- [Mauro Braunstein. Offtonic Theory](https://offtonic.com/theory/index.html) - An online book with audio examples that is spiced up with Jewish Chasidic examples (in addition to classical and rock ones)  and an intro into Arabic maqamaat music
+- [Mauro Braunstein. Offtonic Theory](https://offtonic.com/theory/index.html) - An online book that is spiced up with Jewish Chasidic examples (in addition to classical and rock ones)  and an intro into Arabic maqamaat music
+
+
 
 YouTube videos with harmonic analysis:
 - [David Bennett Thomas](https://www.youtube.com/playlist?list=PL613D1A6B3C4BBDF2) - A very thorough analysis of carefully picked pieces from different styles.
