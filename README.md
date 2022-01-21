@@ -100,8 +100,20 @@ Sound design
 
 ![telegram-cloud-photo-size-2-5420532436367948384-y](https://user-images.githubusercontent.com/1491908/150430889-57ecf3fa-3c39-4152-a7c6-e88231770b86.jpg)
 
+Electronic music
+===
 
+- 🇷🇺 [Антон Маскелиаде. Твой первый трек](https://maskeliade.school/book) - Очень вдохновляющий учебник по созданию электронной музыки в Аблетоне для начинающих 
+ с посылом "у вас сразу всё начнёт получаться" и "не дайте внешней критике загубить ваш талант". Разбирает строение треков (элементы гармонии, форму, сведение), много примеров из Radiohead, есть разделы про психологию начинающего музыканта и сетап домашней студии. Также есть большое дружелюбное комьюнити, [интенсивные курсы](https://maskeliade.school/), [ежемесячная рассылка](https://maskeliade.school/links), [справочник по эффектам Аблетона](https://maskeliade.school/fx)
 
+<img width="982" alt="Screenshot 2022-01-21 at 2 07 44 PM" src="https://user-images.githubusercontent.com/1491908/150516896-ce75b545-7864-4d3b-b235-453608ec10ca.png">
+
+Notable instruments
+===
+
+- [LYRA-8](https://somasynths.com/lyra-organismic-synthesizer/) - An unusual hardware noise-drone-dark-ambient synthesizer with an ability to instantly create horror film soundtrack. It's not MIDI so you play with knobs, not with the keyboard. Upside: no harmony skills required. Downside: harmony skills don't help much. [Watch and listen](https://www.youtube.com/watch?v=h1upe9_y4KY)
+
+<img width="736" alt="Screenshot 2022-01-21 at 2 11 02 PM" src="https://user-images.githubusercontent.com/1491908/150517355-131eec7d-d481-4de7-bcf9-eca189b74399.png">
 
 Mixing
 ===
@@ -111,7 +123,7 @@ Mixing
 ![image](https://user-images.githubusercontent.com/1491908/150440495-792afe9a-4786-48d9-a798-6a45d2eac3e0.png)
 
 
-- 🇷🇺 [wikisound](http://wikisound.org/Video/) - Бесплатные многочасовые ютьюб-курсы по компрессии, эквализации и пространству микса, а также платные курсы по DAW'кам и синтезаторам.
+- 🇷🇺 [Wikisound](http://wikisound.org/Video/) - Бесплатные многочасовые ютьюб-курсы по компрессии, эквализации и пространству микса, а также платные курсы по DAW'кам и синтезаторам.
 
 Other lists
 ===
