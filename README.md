@@ -71,6 +71,19 @@ Some of these books feel pretty esoteric even if they are a serious research.
 
 <img width="774" alt="Screenshot 2022-01-21 at 12 10 47 PM" src="https://user-images.githubusercontent.com/1491908/150499414-7dbb1772-6ceb-44b8-8018-d4869a345fa3.png">
 
+- 🇷🇺 [Кудряшов А.Ю. Теория музыкального содержания](https://www.ozon.ru/product/teoriya-muzykalnogo-soderzhaniya-2632207/) - Я пока не понял, в чём смысл. Но читается сложно, как типичный русский консерваторский учебник.
+
+<img width="916" alt="Screenshot 2022-01-21 at 3 22 56 PM" src="https://user-images.githubusercontent.com/1491908/150526425-0f5618af-acb1-4377-80ea-31e06715cf15.png">
+
+
+Music composition
+===
+
+- [William Russo. Composing music: a new approach (1983)](https://amzn.to/3rDkQrR) - Gives a progressive set of exercises for paper-and-pencil composers familiar with music notation to overcome the fear of the blank page.
+
+<img width="873" alt="Screenshot 2022-01-21 at 3 17 42 PM" src="https://user-images.githubusercontent.com/1491908/150525823-bb0c6058-536d-403e-868e-fc15d4f82ca4.png">
+
+
 Listening guides
 ===
 
