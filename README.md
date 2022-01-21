@@ -54,6 +54,7 @@ Arabic music
 
 <img width="678" alt="Screenshot 2022-01-21 at 2 41 37 AM" src="https://user-images.githubusercontent.com/1491908/150439587-5f279385-0b7f-4ad4-8ab0-4296375830d4.png">
 
+- [Maqamat chapter in Offtonic](https://offtonic.com/theory/book/7-9.html)
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 http://taqasim.net/ - An oud and darbuka school in the City of London (I study oud there)
 
 
