@@ -52,6 +52,11 @@ Bach's chorale harmonizations are a reference for everyone studying classical ha
 
 - [Chris Gill. Harmonising Bach Chorales](https://amzn.to/3rDe1GH) - A short book describing all aspects of pretty regular bach language (at least those 320 chorales written within minor/major modes) - voice-leading, cadences, modulations, chromaticism.
 
+- [David Huron. Voice Leading: The Science behind a Musical Art](https://amzn.to/3FIuIpe) - An accessible scientific explanation for the traditional rules of voice leading, including an account of why listeners find some musical textures more pleasing than others. Introduces the concept of auditory scene and its parsing, explains how ear anatomy leads to masking, cites many other psychoacoustic researches as well as statistical analysis of music corpora.
+
+<img width="871" alt="Screenshot 2022-01-21 at 3 10 44 PM" src="https://user-images.githubusercontent.com/1491908/150524973-e60b9db5-3f1b-4385-b0ea-584e341d56c0.png">
+
+
 Advanced classical harmony
 ---
 
@@ -62,7 +67,7 @@ High-level music theory
 
 Some of these books feel pretty esoteric even if they are a serious research.
 
-- [David Huron. Sweet Anticipation: Music and the Psychology of Expectation](https://amzn.to/3FNCjmo) - (Published in 2006) Describes decades of research on how people expect the continuation of a certain musical phrase, and how music is balancing on being a mashup of expected and unexpected. The author also developed a set of Unix utilities called [Humdrum](https://www.humdrum.org/) to ground all his future statistical music research work - as far as in late 80s.
+- [David Huron. Sweet Anticipation: Music and the Psychology of Expectation](https://amzn.to/3FNCjmo) - (Published in 2006) Describes decades of research on how people expect the continuation of a certain musical phrase, and how music is balancing on being a mashup of expected and unexpected. The author also developed a set of Unix utilities called [Humdrum](https://www.humdrum.org/) to ground all his future statistical music research work - as far as in late 80s. Feels like the audio examples were promised but never delivered.
 
 <img width="774" alt="Screenshot 2022-01-21 at 12 10 47 PM" src="https://user-images.githubusercontent.com/1491908/150499414-7dbb1772-6ceb-44b8-8018-d4869a345fa3.png">
 
@@ -129,7 +134,7 @@ Electronic music
 
 <img width="982" alt="Screenshot 2022-01-21 at 2 07 44 PM" src="https://user-images.githubusercontent.com/1491908/150516896-ce75b545-7864-4d3b-b235-453608ec10ca.png">
 
-- [Tidal Cycles](https://tidalcycles.org/) - A live coding environment with a painful setup that allows you to compose loops using code. Useful for very tricky rhythmic patterns. [Watch](https://www.youtube.com/watch?v=pS24J_cQM-o) [people](https://www.youtube.com/watch?v=XyfPEwdrHAQ) [doing](https://www.youtube.com/watch?v=1YADa-DSQT8) [it](https://www.youtube.com/watch?v=TB0AQ9RRqO0&list=PLKgxw7RG3hcQ84G6jiSA46mk3mPjX97Xo). Also look at [Hydra](https://hydra.ojack.xyz/) to code visuals for your algorave. Also a book edited by its creator describing the algorithmic landscape.
+- [Tidal Cycles](https://tidalcycles.org/) - A live coding environment with a painful setup that allows you to compose loops using code. Useful for very tricky rhythmic patterns. [Watch](https://www.youtube.com/watch?v=pS24J_cQM-o) [people](https://www.youtube.com/watch?v=XyfPEwdrHAQ) [doing](https://www.youtube.com/watch?v=1YADa-DSQT8) [it](https://www.youtube.com/watch?v=TB0AQ9RRqO0&list=PLKgxw7RG3hcQ84G6jiSA46mk3mPjX97Xo). Also look at [Hydra](https://hydra.ojack.xyz/) to code visuals for your algorave. Also [a book](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992) edited by its creator describing the algorithmic landscape.
 
 <img width="1098" alt="Screenshot 2022-01-21 at 2 25 02 PM" src="https://user-images.githubusercontent.com/1491908/150519151-8e4fe664-80f7-42a5-98f4-fffb69c0d865.png">
 
