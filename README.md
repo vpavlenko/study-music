@@ -100,7 +100,7 @@ Other lists
 - [Awesome Music](https://github.com/ciconia/awesome-music)
 
 
-This is work in progress. I've mentioned more resources on https://www.notion.so/vitalypavlenko/ae1b0fe091ab4b25bcee07d4596074dc and https://t.me/keetezh
+This is work in progress. I've mentioned more resources at https://www.notion.so/vitalypavlenko/ae1b0fe091ab4b25bcee07d4596074dc and https://t.me/keetezh
 
 
 
