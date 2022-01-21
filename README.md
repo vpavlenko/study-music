@@ -45,6 +45,13 @@ Jazz harmony
 
 <img width="1291" alt="Screenshot 2022-01-21 at 2 59 30 AM" src="https://user-images.githubusercontent.com/1491908/150441200-f311d430-29da-47b4-ae72-ddef62fe831f.png">
 
+Bach chorales
+---
+
+Bach's chorale harmonizations are a reference for everyone studying classical harmony in relation with voice-leading. Harmonizing a chorale melody is a part of [UK college final exam](https://www.rhinegold.co.uk/wp-content/uploads/2015/10/MT10_scheme_KS5_Bach_chorale_harmonisation.pdf).
+
+- [Chris Gill. Harmonising Bach Chorales](https://amzn.to/3rDe1GH) - A short book describing all aspects of pretty regular bach language (at least those 320 chorales written within minor/major modes) - voice-leading, cadences, modulations, chromaticism.
+
 Advanced classical harmony
 ---
 
@@ -118,6 +125,8 @@ Electronic music
 
 <img width="1098" alt="Screenshot 2022-01-21 at 2 25 02 PM" src="https://user-images.githubusercontent.com/1491908/150519151-8e4fe664-80f7-42a5-98f4-fffb69c0d865.png">
 
+- [Against The Clock](https://www.youtube.com/watch?v=BSs4TMpSwuw&list=PLg5ScSqSDXsvXVvNqW42AjfOmPjIupYZH) - Electronic musicians are asked to create a track in 10 minutes.
+
 
 Notable instruments
 ===
@@ -137,6 +146,13 @@ Mixing
 
 
 - 🇷🇺 [Wikisound](http://wikisound.org/Video/) - Бесплатные многочасовые ютьюб-курсы по компрессии, эквализации и пространству микса, а также платные курсы по DAW'кам и синтезаторам.
+
+
+YouTube channels
+===
+
+
+
 
 Other lists
 ===
