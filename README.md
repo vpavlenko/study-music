@@ -11,16 +11,7 @@ Rock harmony
 
 - [David Temperley. The Musical Language of Rock](https://amzn.to/3nK9eSO) - A book that summarizes [a corpus study](http://rockcorpus.midside.com/) of aspects like harmony, melody, rhythm, timbre and form on 200 rock songs 
 
-Jazz harmony
----
 
-- [Joe Mulholland, Tom Hojnacki. The Berklee Book of Jazz Harmony Kindle Edition](https://amzn.to/3qKoDUT) - A book that describes all traditional concepts of a jazz harmony language
-  (secondary dominants, tritone substitution, modal interchange, modulation, modal harmony). Each chapter analyzes a special piece written to 
-  showcase the very discussed chapter topic (unlike other books that analyze existing jazz standards). I'm not sure whether a Kindle version comes with a code to access the website with audio recordings of those pieces, the paperback one does.
-  
-- [The Jazz Standards Progressions Book](https://mdecks.com/jazzstandards.phtml) - Hundreds of popular jazz standards manually analyzed by authors of mDecks to highlight jazz-specific harmonic patterns (tritone substitution, ii-V-s, to-minor, chord scales)
-
-<img width="1291" alt="Screenshot 2022-01-21 at 2 59 30 AM" src="https://user-images.githubusercontent.com/1491908/150441200-f311d430-29da-47b4-ae72-ddef62fe831f.png">
 
 
 General intro + classical harmony
@@ -35,10 +26,31 @@ The books below give an intro into music notation and are good for a beginner, a
 YouTube videos with harmonic analysis:
 - [David Bennett Thomas](https://www.youtube.com/playlist?list=PL613D1A6B3C4BBDF2) - A very thorough analysis of carefully picked pieces from different styles.
 
+
+Jazz harmony
+---
+
+- [Joe Mulholland, Tom Hojnacki. The Berklee Book of Jazz Harmony Kindle Edition](https://amzn.to/3qKoDUT) - A book that describes all traditional concepts of a jazz harmony language
+  (secondary dominants, tritone substitution, modal interchange, modulation, modal harmony). Each chapter analyzes a special piece written to 
+  showcase the very discussed chapter topic (unlike other books that analyze existing jazz standards). I'm not sure whether a Kindle version comes with a code to access the website with audio recordings of those pieces, the paperback one does.
+  
+- [The Jazz Standards Progressions Book](https://mdecks.com/jazzstandards.phtml) - Hundreds of popular jazz standards manually analyzed by authors of mDecks to highlight jazz-specific harmonic patterns (tritone substitution, ii-V-s, to-minor, chord scales)
+
+<img width="1291" alt="Screenshot 2022-01-21 at 2 59 30 AM" src="https://user-images.githubusercontent.com/1491908/150441200-f311d430-29da-47b4-ae72-ddef62fe831f.png">
+
 Advanced classical harmony
 ---
 
 - [Vincent Persichetti. Twentieth-Century Harmony](https://amzn.to/3AgQgbk) - A book from 1960. [Audio examples on YouTube](https://www.youtube.com/playlist?list=PLwRgeNTZ2i6_BA9H4as1srtNKBAzPPjns)
+
+High-level music theory
+---
+
+Some of these books feel pretty esoteric even if they are a serious research.
+
+- [David Huron. Sweet Anticipation: Music and the Psychology of Expectation](https://amzn.to/3FNCjmo) - (Published in 2006) Describes decades of research on how people expect the continuation of a certain musical phrase, and how music is balancing on being a mashup of expected and unexpected. The author also developed a set of Unix utilities called [Humdrum](https://www.humdrum.org/) to ground all his future statistical music research work - as far as in late 80s.
+
+<img width="774" alt="Screenshot 2022-01-21 at 12 10 47 PM" src="https://user-images.githubusercontent.com/1491908/150499414-7dbb1772-6ceb-44b8-8018-d4869a345fa3.png">
 
 World traditions
 ===
