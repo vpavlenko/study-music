@@ -94,8 +94,14 @@ Sound design
 
 - [Syntorial](https://www.syntorial.com/) - An educational app that asks you to repeat the synth sound you hear and progressively gives you
  more controls to manipulate. Has a free trial of 22 lessons, with a full course of 199 lessons. [Demo on YouTube](https://www.youtube.com/watch?v=ulLmILO1oV4)
+ 
+ ![image](https://user-images.githubusercontent.com/1491908/150519718-6a443cd7-2f04-42a3-89fc-29baca5a6f93.png)
+
+ 
 - 🇷🇺 [XSSR Academy](https://xssracademy.com/ru/) - Курсы по саунд-дизайну и созданию музыки к играм от аудио-инженеров Wargaming
+
 - [Learning Synths from Ableton](https://learningsynths.ableton.com/) - A very basic online one-hour intro into synths
+
 - [Helm](https://tytel.org/helm/) - A free and open-source easy-to-grasp VST synth with a very friendly interface, [a tiny blog on its emergence](https://tytel.org/blog/), [a complete manual on 32 pages](https://tytel.org/static/docs/helm_manual.pdf) and [a more powerful sequel Vital made by the same engineer](https://vital.audio/)
 
 ![telegram-cloud-photo-size-2-5420532436367948384-y](https://user-images.githubusercontent.com/1491908/150430889-57ecf3fa-3c39-4152-a7c6-e88231770b86.jpg)
@@ -107,6 +113,11 @@ Electronic music
  с посылом "у вас сразу всё начнёт получаться" и "не дайте внешней критике загубить ваш талант". Разбирает строение треков (элементы гармонии, форму, сведение), много примеров из Radiohead, есть разделы про психологию начинающего музыканта и сетап домашней студии. Также есть большое дружелюбное комьюнити, [интенсивные курсы](https://maskeliade.school/), [ежемесячная рассылка](https://maskeliade.school/links), [справочник по эффектам Аблетона](https://maskeliade.school/fx)
 
 <img width="982" alt="Screenshot 2022-01-21 at 2 07 44 PM" src="https://user-images.githubusercontent.com/1491908/150516896-ce75b545-7864-4d3b-b235-453608ec10ca.png">
+
+- [Tidal Cycles](https://tidalcycles.org/) - A live coding environment with a painful setup that allows you to compose loops using code. Useful for very tricky rhythmic patterns. [Watch](https://www.youtube.com/watch?v=pS24J_cQM-o) [people](https://www.youtube.com/watch?v=XyfPEwdrHAQ) [doing](https://www.youtube.com/watch?v=1YADa-DSQT8) [it](https://www.youtube.com/watch?v=TB0AQ9RRqO0&list=PLKgxw7RG3hcQ84G6jiSA46mk3mPjX97Xo). Also look at [Hydra](https://hydra.ojack.xyz/) to code visuals for your algorave. Also a book edited by its creator describing the algorithmic landscape.
+
+<img width="1098" alt="Screenshot 2022-01-21 at 2 25 02 PM" src="https://user-images.githubusercontent.com/1491908/150519151-8e4fe664-80f7-42a5-98f4-fffb69c0d865.png">
+
 
 Notable instruments
 ===
