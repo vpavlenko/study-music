@@ -66,6 +66,14 @@ Some of these books feel pretty esoteric even if they are a serious research.
 
 <img width="774" alt="Screenshot 2022-01-21 at 12 10 47 PM" src="https://user-images.githubusercontent.com/1491908/150499414-7dbb1772-6ceb-44b8-8018-d4869a345fa3.png">
 
+Listening guides
+===
+
+- [The Visual Listening Guide](https://www.symphonygraphique.com/) - An approach to visualize the structure of a symphony using small piano rolls and pictograms of instruments.
+
+<img width="1028" alt="Screenshot 2022-01-21 at 2 58 17 PM" src="https://user-images.githubusercontent.com/1491908/150523442-d2cffc16-024e-45ac-88b3-f6cff91ee0fc.png">
+
+
 World traditions
 ===
 
