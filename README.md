@@ -75,13 +75,17 @@ Some of these books feel pretty esoteric even if they are a serious research.
 
 <img width="600" alt="Screenshot 2022-01-21 at 3 22 56 PM" src="https://user-images.githubusercontent.com/1491908/150526425-0f5618af-acb1-4377-80ea-31e06715cf15.png">
 
+- [A Generative Theory of Tonal Music](https://en.wikipedia.org/wiki/Generative_theory_of_tonal_music) - An attempt to build a linguistic grammar for common-practice (pre-20-century) music. This work is also continued in [the essay](https://en.wikipedia.org/wiki/Cognitive_Constraints_on_Compositional_Systems), [the second book](https://amzn.to/3FRzPn1) where the switch from generative grammar to preference rules occurs, and the path is reflected in [the third one](https://amzn.to/3fJCm8p).
+
+<img width="736" alt="Screenshot 2022-01-22 at 3 31 26 PM" src="https://user-images.githubusercontent.com/1491908/150638638-9a578b1b-092b-4c6f-a623-7351cdb131c8.png">
+
 
 Music composition
 ===
 
 - [William Russo. Composing music: a new approach (1983)](https://amzn.to/3rDkQrR) - Gives a progressive set of exercises for paper-and-pencil composers familiar with music notation to overcome the fear of the blank page.
 
-<img width="873" alt="Screenshot 2022-01-21 at 3 17 42 PM" src="https://user-images.githubusercontent.com/1491908/150525823-bb0c6058-536d-403e-868e-fc15d4f82ca4.png">
+<img width="600" alt="Screenshot 2022-01-21 at 3 17 42 PM" src="https://user-images.githubusercontent.com/1491908/150525823-bb0c6058-536d-403e-868e-fc15d4f82ca4.png">
 
 - [Alan Belkin. Musical Composition: Craft and Art](https://amzn.to/3KxbiY0) - A modern book on composition covering topics like motive/phrase, writing for singers and players, forms. Also [his YouTube channel](https://www.youtube.com/channel/UCUQ0TcIbY_VEk_KC406pRpg/playlists) with videos on applied harmony, counterpoint and orchestration.
 
