@@ -12,7 +12,7 @@ Rock harmony
 - [David Temperley. The Musical Language of Rock](https://amzn.to/3nK9eSO) - A book that summarizes [a corpus study](http://rockcorpus.midside.com/) of aspects like harmony, melody, rhythm, timbre and form on 200 rock songs 
 
 - [David Tagg. Everyday Tonality II](http://tagg.org/mmmsp/EverydayTonalityInfo.htm) - The author proves that applying classical harmony framework to all of modern popular Western music gives poor results, and that one must accept the wide existence of music in different modes, scales and non-tertian chord structures on our TV and radio.
-![image](https://user-images.githubusercontent.com/1491908/150502146-c43924b3-8468-442e-a8f6-25cba5aaf1e0.png)
+<img width="600" alt="Screenshot 2022-01-21 at 12 57 44 AM" src="https://user-images.githubusercontent.com/1491908/150502146-c43924b3-8468-442e-a8f6-25cba5aaf1e0.png">
 
 
 
@@ -54,7 +54,7 @@ Bach's chorale harmonizations are a reference for everyone studying classical ha
 
 - [David Huron. Voice Leading: The Science behind a Musical Art](https://amzn.to/3FIuIpe) - An accessible scientific explanation for the traditional rules of voice leading, including an account of why listeners find some musical textures more pleasing than others. Introduces the concept of auditory scene and its parsing, explains how ear anatomy leads to masking, cites many other psychoacoustic researches as well as statistical analysis of music corpora.
 
-<img width="871" alt="Screenshot 2022-01-21 at 3 10 44 PM" src="https://user-images.githubusercontent.com/1491908/150524973-e60b9db5-3f1b-4385-b0ea-584e341d56c0.png">
+<img width="600" alt="Screenshot 2022-01-21 at 3 10 44 PM" src="https://user-images.githubusercontent.com/1491908/150524973-e60b9db5-3f1b-4385-b0ea-584e341d56c0.png">
 
 
 Advanced classical harmony
@@ -73,7 +73,7 @@ Some of these books feel pretty esoteric even if they are a serious research.
 
 - 🇷🇺 [Кудряшов А.Ю. Теория музыкального содержания](https://www.ozon.ru/product/teoriya-muzykalnogo-soderzhaniya-2632207/) - Я пока не понял, в чём смысл. Но читается сложно, как типичный русский консерваторский учебник.
 
-<img width="916" alt="Screenshot 2022-01-21 at 3 22 56 PM" src="https://user-images.githubusercontent.com/1491908/150526425-0f5618af-acb1-4377-80ea-31e06715cf15.png">
+<img width="600" alt="Screenshot 2022-01-21 at 3 22 56 PM" src="https://user-images.githubusercontent.com/1491908/150526425-0f5618af-acb1-4377-80ea-31e06715cf15.png">
 
 
 Music composition
@@ -83,6 +83,9 @@ Music composition
 
 <img width="873" alt="Screenshot 2022-01-21 at 3 17 42 PM" src="https://user-images.githubusercontent.com/1491908/150525823-bb0c6058-536d-403e-868e-fc15d4f82ca4.png">
 
+- [Alan Belkin. Musical Composition: Craft and Art](https://amzn.to/3KxbiY0) - A modern book on composition covering topics like motive/phrase, writing for singers and players, forms. Also [his YouTube channel](https://www.youtube.com/channel/UCUQ0TcIbY_VEk_KC406pRpg/playlists) with videos on applied harmony, counterpoint and orchestration.
+
+<img width="674" alt="Screenshot 2022-01-22 at 12 31 14 PM" src="https://user-images.githubusercontent.com/1491908/150633138-448e8f11-22d2-4731-a2b3-a99c36c213d9.png">
 
 Listening guides
 ===
@@ -149,7 +152,7 @@ Electronic music
 
 - [Tidal Cycles](https://tidalcycles.org/) - A live coding environment with a painful setup that allows you to compose loops using code. Useful for very tricky rhythmic patterns. [Watch](https://www.youtube.com/watch?v=pS24J_cQM-o) [people](https://www.youtube.com/watch?v=XyfPEwdrHAQ) [doing](https://www.youtube.com/watch?v=1YADa-DSQT8) [it](https://www.youtube.com/watch?v=TB0AQ9RRqO0&list=PLKgxw7RG3hcQ84G6jiSA46mk3mPjX97Xo). Also look at [Hydra](https://hydra.ojack.xyz/) to code visuals for your algorave. Also [a book](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992) edited by its creator describing the algorithmic landscape.
 
-<img width="1098" alt="Screenshot 2022-01-21 at 2 25 02 PM" src="https://user-images.githubusercontent.com/1491908/150519151-8e4fe664-80f7-42a5-98f4-fffb69c0d865.png">
+<img width="600" alt="Screenshot 2022-01-21 at 2 25 02 PM" src="https://user-images.githubusercontent.com/1491908/150519151-8e4fe664-80f7-42a5-98f4-fffb69c0d865.png">
 
 - [Against The Clock](https://www.youtube.com/watch?v=BSs4TMpSwuw&list=PLg5ScSqSDXsvXVvNqW42AjfOmPjIupYZH) - Electronic musicians are asked to create a track in 10 minutes.
 
