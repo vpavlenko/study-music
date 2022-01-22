@@ -3,7 +3,7 @@ A survey of books, resources and courses to **study** everything about **music**
 - [Music Theory](#music-theory)
   * [Rock harmony](#rock-harmony)
   * [General intro and classical harmony](#general-intro-and-classical-harmony)
-  * [Jazz harmony](#jazz-harmony)
+  * [Jazz](#jazz)
   * [Bach chorales](#bach-chorales)
   * [Advanced classical harmony](#advanced-classical-harmony)
   * [High-level music theory](#high-level-music-theory)
@@ -54,7 +54,7 @@ YouTube videos with harmonic analysis:
 <img width="1044" alt="Screenshot 2022-01-21 at 12 35 38 PM" src="https://user-images.githubusercontent.com/1491908/150503245-3dcd5745-83b1-4751-850e-28917bb0cde1.png">
 
 
-Jazz harmony
+Jazz
 ---
 
 - [Joe Mulholland, Tom Hojnacki. The Berklee Book of Jazz Harmony Kindle Edition](https://amzn.to/3qKoDUT) - A book that describes all traditional concepts of a jazz harmony language
@@ -63,7 +63,12 @@ Jazz harmony
   
 - [The Jazz Standards Progressions Book](https://mdecks.com/jazzstandards.phtml) - Hundreds of popular jazz standards manually analyzed by authors of mDecks to highlight jazz-specific harmonic patterns (tritone substitution, ii-V-s, to-minor, chord scales)
 
-<img width="1291" alt="Screenshot 2022-01-21 at 2 59 30 AM" src="https://user-images.githubusercontent.com/1491908/150441200-f311d430-29da-47b4-ae72-ddef62fe831f.png">
+<img width="1100" alt="Screenshot 2022-01-21 at 2 59 30 AM" src="https://user-images.githubusercontent.com/1491908/150441200-f311d430-29da-47b4-ae72-ddef62fe831f.png">
+
+- 🇷🇺 [Ю. Н. Чугунов. Эволюция гармонического языка джаза. Джазовые мелодии для гармонизации](https://www.chitai-gorod.ru/catalog/book/809141/)
+
+<img width="600" alt="Screenshot 2022-01-22 at 3 56 22 PM" src="https://user-images.githubusercontent.com/1491908/150639416-193135f2-991f-4b2b-9a37-8ef7b72dc777.png">
+
 
 Bach chorales
 ---
