@@ -4,6 +4,8 @@ A survey of books, resources and courses to **study** everything about **music**
   * [Rock harmony](#rock-harmony)
   * [General intro and classical harmony](#general-intro-and-classical-harmony)
   * [Jazz](#jazz)
+    + [Jazz harmony](#jazz-harmony)
+    + [Jazz solo](#jazz-solo)
   * [Bach chorales](#bach-chorales)
   * [Advanced classical harmony](#advanced-classical-harmony)
   * [High-level music theory](#high-level-music-theory)
@@ -19,6 +21,7 @@ A survey of books, resources and courses to **study** everything about **music**
 - [Mixing](#mixing)
 - [YouTube channels](#youtube-channels)
 - [Other lists](#other-lists)
+
 
 Music Theory
 ===
@@ -57,6 +60,10 @@ YouTube videos with harmonic analysis:
 Jazz
 ---
 
+Jazz knowledge roughly splits into three parts: rhythm, harmony and solo. 
+
+### Jazz harmony 
+
 - [Joe Mulholland, Tom Hojnacki. The Berklee Book of Jazz Harmony Kindle Edition](https://amzn.to/3qKoDUT) - A book that describes all traditional concepts of a jazz harmony language
   (secondary dominants, tritone substitution, modal interchange, modulation, modal harmony). Each chapter analyzes a special piece written to 
   showcase the very discussed chapter topic (unlike other books that analyze existing jazz standards). I'm not sure whether a Kindle version comes with a code to access the website with audio recordings of those pieces, the paperback one does.
@@ -68,6 +75,12 @@ Jazz
 - 🇷🇺 [Ю. Н. Чугунов. Эволюция гармонического языка джаза. Джазовые мелодии для гармонизации](https://www.chitai-gorod.ru/catalog/book/809141/)
 
 <img width="600" alt="Screenshot 2022-01-22 at 3 56 22 PM" src="https://user-images.githubusercontent.com/1491908/150639416-193135f2-991f-4b2b-9a37-8ef7b72dc777.png">
+
+### Jazz solo
+
+- [🎥 Jazz Piano Practice Session - Major II V I & Turn Around Licks](https://www.youtube.com/watch?v=57r-M-oXpsc) - Introduction into solo building strategies
+- [🎥 Analysing a Jazz Solo - Straight, No Chaser (Davis, Coltrane, Adderley, Garland, Chambers)](https://www.youtube.com/watch?v=qo_A5W-Lzvk) - Analysis of notable solos of the time
+- [The Jazzomat Research Project](https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html) - A corpus of transcribed solos
 
 
 Bach chorales
