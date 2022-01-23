@@ -117,6 +117,13 @@ Some of these books feel pretty esoteric even if they are a serious research.
 
 <img width="736" alt="Screenshot 2022-01-22 at 3 31 26 PM" src="https://user-images.githubusercontent.com/1491908/150638638-9a578b1b-092b-4c6f-a623-7351cdb131c8.png">
 
+Misc
+---
+
+- [A website of Milton Mermikides](https://www.miltonline.com/) - A lot of YouTube lectures and blog posts from a British composer.
+
+<img width="600" alt="Screenshot 2022-01-22 at 3 31 26 PM" src="https://user-images.githubusercontent.com/1491908/150666436-3c78921a-124f-428b-8c0c-34c196b628de.png">
+
 
 Music composition
 ===
