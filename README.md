@@ -138,6 +138,8 @@ Misc
 
 <img width="600" alt="Screenshot 2022-01-22 at 3 31 26 PM" src="https://user-images.githubusercontent.com/1491908/150666436-3c78921a-124f-428b-8c0c-34c196b628de.png">
 
+- [David Fuentes. Figuring Out Melody](https://figuringoutmelody.com/fom-ebook/) - At some point I was googling whether there's a book specifically on a melody line. I haven't read it yet
+
 
 Music composition
 ===
