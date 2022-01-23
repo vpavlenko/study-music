@@ -9,6 +9,7 @@ A survey of books, resources and courses to **study** everything about **music**
   * [Bach chorales](#bach-chorales)
   * [Advanced classical harmony](#advanced-classical-harmony)
   * [High-level music theory](#high-level-music-theory)
+  * [Misc](#misc)
 - [Music composition](#music-composition)
 - [Listening guides](#listening-guides)
 - [World traditions](#world-traditions)
@@ -20,7 +21,9 @@ A survey of books, resources and courses to **study** everything about **music**
 - [Notable instruments](#notable-instruments)
 - [Mixing](#mixing)
 - [YouTube channels](#youtube-channels)
+- [Blogs](#blogs)
 - [Other lists](#other-lists)
+
 
 
 Music Theory
@@ -95,6 +98,8 @@ Bach's chorale harmonizations are a reference for everyone studying classical ha
 - [David Huron. Voice Leading: The Science behind a Musical Art](https://amzn.to/3FIuIpe) - An accessible scientific explanation for the traditional rules of voice leading, including an account of why listeners find some musical textures more pleasing than others. Introduces the concept of auditory scene and its parsing, explains how ear anatomy leads to masking, cites many other psychoacoustic researches as well as statistical analysis of music corpora.
 
 <img width="600" alt="Screenshot 2022-01-21 at 3 10 44 PM" src="https://user-images.githubusercontent.com/1491908/150524973-e60b9db5-3f1b-4385-b0ea-584e341d56c0.png">
+
+- [ChoraleGUIDE](http://www.choraleguide.com/) - A concise explanation of the topic
 
 
 Advanced classical harmony
