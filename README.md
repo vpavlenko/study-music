@@ -50,6 +50,7 @@ The books below give an intro into music notation and are good for a beginner, a
 - [Steven G. Laitz. The Complete Musician](https://amzn.to/3nKdSAa) - A standard modern book on classical harmony with introduction into a form and XX century techniques. [Audio examples](https://learninglink.oup.com/access/laitz-4e-student-resources) are freely available
 - [Andre Mount. Fundamentals, Function, and Form](https://milnepublishing.geneseo.edu/fundamentals-function-form/) - An online book with audio examples
 - [Mauro Braunstein. Offtonic Theory](https://offtonic.com/theory/index.html) - An online book that is spiced up with Jewish Chasidic examples (in addition to classical and rock ones)  and an intro into Arabic maqamaat music
+- [Sean Butterfield. Integrated Musicianship: Theory](https://intmus.github.io/inttheory21-22/) - An open-source, interactive, online textbook for college-level music theory courses
 
 
 
@@ -197,6 +198,8 @@ Ear training
 
 - [Artusi](https://www.artusimusic.com/assignments/demo/) - A huge set of free online courses on ear training (melodic, harmonic, rhythmic dictation), four part-writing and counterpoint where you type notes directly in the browser. (Does it make [Counterpointer](https://www.ars-nova.com/counterpointer3.html) obsolete?)
 
+- [Miranda Wilson. Integrated Musicianship: Aural Skills](https://intmus.github.io/intas19-20/) - An open-source, interactive, online textbook for college-level music courses
+
 - [SoundGym](https://www.soundgym.co/dashboard/gym) - Ear training for mixing engineers: EQ, compression, stereo image, gain, reverb
 
 - [ToneGym](https://www.tonegym.co/dashboard/gym) - Intervals, chords, rhythms (with some gamification)
@@ -291,7 +294,7 @@ Other lists
 
 This is work in progress. I've mentioned more resources at https://www.notion.so/vitalypavlenko/ae1b0fe091ab4b25bcee07d4596074dc and https://t.me/keetezh
 
-
+Contact me: cxielamiko@gmail.com, https://t.me/vitalypavlenko
 
 
 
