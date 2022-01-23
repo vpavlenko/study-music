@@ -21,7 +21,7 @@ A survey of books, resources and courses to **study** everything about **music**
 - [Notable instruments](#notable-instruments)
 - [Mixing](#mixing)
 - [YouTube channels](#youtube-channels)
-- [Blogs](#blogs)
+- [Resources](#resources)
 - [Other lists](#other-lists)
 
 
@@ -276,8 +276,10 @@ YouTube channels
 трёхчасовые стримы по записи и сведению треков, введение в теорию музыки на клавишах.
 
 
-Blogs
+Resources
 ===
+
+- [Every Noise at Once](https://everynoise.com/) - a giant map of all music genres with Spotify examples
 
 - 🇷🇺 [Гильдия Разработчиков Интерактивного Аудио](https://griaudio.ru/)
 
