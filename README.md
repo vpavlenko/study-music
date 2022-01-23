@@ -210,6 +210,8 @@ Ear training
 
 - 🇷🇺 [Сольфа](http://solfa.ru/) - Музыкальные диктанты. Советую также попробовать [MacGAMUT Dictation на Artusi](https://www.artusimusic.com/assignments/19791/artusi_main_any_ps014/)
 
+- [https://www.teoria.com/en/exercises/](https://www.teoria.com/en/exercises/)
+
 
 Sound design
 ===
