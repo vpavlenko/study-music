@@ -72,6 +72,8 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 <img width="1100" alt="Screenshot 2022-01-21 at 2 59 30 AM" src="https://user-images.githubusercontent.com/1491908/150441200-f311d430-29da-47b4-ae72-ddef62fe831f.png">
 
+
+
 - 🇷🇺 [Ю. Н. Чугунов. Эволюция гармонического языка джаза. Джазовые мелодии для гармонизации](https://www.chitai-gorod.ru/catalog/book/809141/)
 
 <img width="600" alt="Screenshot 2022-01-22 at 3 56 22 PM" src="https://user-images.githubusercontent.com/1491908/150639416-193135f2-991f-4b2b-9a37-8ef7b72dc777.png">
@@ -100,6 +102,8 @@ Advanced classical harmony
 
 - [Vincent Persichetti. Twentieth-Century Harmony](https://amzn.to/3AgQgbk) - A book from 1960. [Audio examples on YouTube](https://www.youtube.com/playlist?list=PLwRgeNTZ2i6_BA9H4as1srtNKBAzPPjns)
 
+
+
 High-level music theory
 ---
 
@@ -116,6 +120,10 @@ Some of these books feel pretty esoteric even if they are a serious research.
 - [A Generative Theory of Tonal Music](https://en.wikipedia.org/wiki/Generative_theory_of_tonal_music) - An attempt to build a linguistic grammar for common-practice (pre-20-century) music. This work is also continued in [the essay](https://en.wikipedia.org/wiki/Cognitive_Constraints_on_Compositional_Systems), [the second book](https://amzn.to/3FRzPn1) where the switch from generative grammar to preference rules occurs, and the path is reflected in [the third one](https://amzn.to/3fJCm8p).
 
 <img width="736" alt="Screenshot 2022-01-22 at 3 31 26 PM" src="https://user-images.githubusercontent.com/1491908/150638638-9a578b1b-092b-4c6f-a623-7351cdb131c8.png">
+
+- [Neo-Riemannian theory](https://en.wikipedia.org/wiki/Neo-Riemannian_theory)
+
+- [Schenkerian analysis](https://en.wikipedia.org/wiki/Schenkerian_analysis) - Considered harmful
 
 Misc
 ---
@@ -139,6 +147,10 @@ Music composition
 - [William Russo. Composing music: a new approach (1983)](https://amzn.to/3rDkQrR) - Gives a progressive set of exercises for paper-and-pencil composers familiar with music notation to overcome the fear of the blank page.
 
 <img width="600" alt="Screenshot 2022-01-21 at 3 17 42 PM" src="https://user-images.githubusercontent.com/1491908/150525823-bb0c6058-536d-403e-868e-fc15d4f82ca4.png">
+
+- [Peter Edwards. Write Like Mozart: An Introduction to Classical Music Composition](https://www.coursera.org/learn/classical-composition) - A six-week Coursera course that starts with four-part writing rules and goes into textures, chord substitutions, 2:1 counterpoint with examples from Mozart and Beethoven.
+
+
 
 
 
@@ -236,6 +248,9 @@ YouTube channels
 ===
 
 
+- [Guy Michelmore](https://www.youtube.com/playlist?list=PLH1Kp5ewZe_SZJ8ntw615PZb0TwrzC2EG) - A composer of music for film and television
+- [Andrew Huang](https://www.youtube.com/c/andrewhuang) - Electronic music production
+- [8-bit Music Theory](https://www.youtube.com/c/8bitMusicTheory)
 
 - 🇷🇺 [Институт музыкальных инициатив](https://www.youtube.com/c/%D0%98%D0%9C%D0%98%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/) - О музыкальной индустрии
 - 🇷🇺 [Нескучный саунд](https://www.youtube.com/channel/UCc1a1Nm8aNFoqv1G4CfyHzA) - Разборы гармониии Богемской рапсодии и саундтрека к Final Fantasy,
