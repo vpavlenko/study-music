@@ -198,6 +198,9 @@ Ear training
 
 - [Perfect Pitch](https://xn--80ahdkilbo1bvw1el.xn--p1ai/en/home/) - Intervals, chords, scales, inversions
 
+- 🇷🇺 [Сольфа](http://solfa.ru/) - Музыкальные диктанты. Советую также попробовать [MacGAMUT Dictation на Artusi](https://www.artusimusic.com/assignments/19791/artusi_main_any_ps014/)
+
+
 Sound design
 ===
 
@@ -206,7 +209,7 @@ Sound design
  
  ![image](https://user-images.githubusercontent.com/1491908/150519718-6a443cd7-2f04-42a3-89fc-29baca5a6f93.png)
 
- 
+
 - 🇷🇺 [XSSR Academy](https://xssracademy.com/ru/) - Курсы по саунд-дизайну и созданию музыки к играм от аудио-инженеров Wargaming
 
 - [Learning Synths from Ableton](https://learningsynths.ableton.com/) - A very basic online one-hour intro into synths
@@ -262,6 +265,11 @@ YouTube channels
 - 🇷🇺 [Нескучный саунд](https://www.youtube.com/channel/UCc1a1Nm8aNFoqv1G4CfyHzA) - Разборы гармониии Богемской рапсодии и саундтрека к Final Fantasy,
 трёхчасовые стримы по записи и сведению треков, введение в теорию музыки на клавишах.
 
+
+Blogs
+===
+
+- 🇷🇺 [Гильдия Разработчиков Интерактивного Аудио](https://griaudio.ru/)
 
 Other lists
 ===
