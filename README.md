@@ -190,7 +190,13 @@ Microtonal music
 Ear training
 ===
 
-- [Artusi](https://www.artusimusic.com/assignments/demo/) - A huge set of free online courses on ear training (melodic, harmonic, rhythmic dictation), four part-writing and counterpoint where you type notes directly in the browser.
+- [Artusi](https://www.artusimusic.com/assignments/demo/) - A huge set of free online courses on ear training (melodic, harmonic, rhythmic dictation), four part-writing and counterpoint where you type notes directly in the browser. (Does it make [Counterpointer](https://www.ars-nova.com/counterpointer3.html) obsolete?)
+
+- [SoundGym](https://www.soundgym.co/dashboard/gym) - Ear training for mixing engineers: EQ, compression, stereo image, gain, reverb
+
+- [ToneGym](https://www.tonegym.co/dashboard/gym) - Intervals, chords, rhythms (with some gamification)
+
+- [Perfect Pitch](https://xn--80ahdkilbo1bvw1el.xn--p1ai/en/home/) - Intervals, chords, scales, inversions
 
 Sound design
 ===
