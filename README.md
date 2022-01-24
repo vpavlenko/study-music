@@ -1,6 +1,6 @@
 A survey of books, resources and courses to **study** everything about **music** and sound in the broadest sense.
 
-- [Music Theory](#music-theory)
+- [Music theory](#music-theory)
   * [Rock harmony](#rock-harmony)
   * [General intro and classical harmony](#general-intro-and-classical-harmony)
   * [Jazz](#jazz)
@@ -14,6 +14,7 @@ A survey of books, resources and courses to **study** everything about **music**
 - [Listening guides](#listening-guides)
 - [World traditions](#world-traditions)
   * [Arabic music](#arabic-music)
+  * [Gamelan](#gamelan)
 - [Microtonal music](#microtonal-music)
 - [Ear training](#ear-training)
 - [Sound design](#sound-design)
@@ -26,7 +27,7 @@ A survey of books, resources and courses to **study** everything about **music**
 
 
 
-Music Theory
+Music theory
 ===
 
 Rock harmony
@@ -190,7 +191,13 @@ Arabic music
 Gamelan
 ---
 
-- [Dewa Alit](https://www.dewaalitsalukat.com/sound/) - A modern Balinese composer born in 1973.
+- [Marc Perlman. Unplayed Melodies: Javanese Gamelan and the Genesis of Music Theory](https://amzn.to/3ApON2y)
+
+- [Dewa Alit](https://www.dewaalitsalukat.com/sound/) - A modern Balinese composer born in 1973. [A lecture on his piece](https://www.youtube.com/watch?v=kCn3bV436Lg)
+
+- [Leslie A. Tilley. Making It Up Together: The Art of Collective Improvisation in Balinese Music and Beyond](https://amzn.to/3FTWwqL)
+
+Also [google "debussy gamelan"](https://www.google.com/search?q=debussy+gamelan)
 
 Microtonal music
 ===
