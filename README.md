@@ -192,12 +192,19 @@ Gamelan
 ---
 
 - [Marc Perlman. Unplayed Melodies: Javanese Gamelan and the Genesis of Music Theory](https://amzn.to/3ApON2y)
+ 
+<img width="600" alt="Screenshot 2022-01-24 at 4 01 22 PM" src="https://user-images.githubusercontent.com/1491908/150787407-fdf9fda7-d425-4409-bb1e-4884553cfac0.png">
 
 - [Dewa Alit](https://www.dewaalitsalukat.com/sound/) - A modern Balinese composer born in 1973. [A lecture on his piece](https://www.youtube.com/watch?v=kCn3bV436Lg)
 
 - [Leslie A. Tilley. Making It Up Together: The Art of Collective Improvisation in Balinese Music and Beyond](https://amzn.to/3FTWwqL)
 
+<img width="600" alt="Screenshot 2022-01-24 at 3 59 28 PM" src="https://user-images.githubusercontent.com/1491908/150787122-617bd6e6-a77a-421c-a824-44754d321457.png">
+
+
 Also [google "debussy gamelan"](https://www.google.com/search?q=debussy+gamelan)
+
+Also see chapters in the book of William A. Sethares below
 
 Microtonal music
 ===
