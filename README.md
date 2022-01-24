@@ -199,7 +199,7 @@ Gamelan
 
 - [Leslie A. Tilley. Making It Up Together: The Art of Collective Improvisation in Balinese Music and Beyond](https://amzn.to/3FTWwqL)
 
-<img width="600" alt="Screenshot 2022-01-24 at 3 59 28 PM" src="https://user-images.githubusercontent.com/1491908/150787122-617bd6e6-a77a-421c-a824-44754d321457.png">
+<img width="1000" alt="Screenshot 2022-01-24 at 3 59 28 PM" src="https://user-images.githubusercontent.com/1491908/150787122-617bd6e6-a77a-421c-a824-44754d321457.png">
 
 
 Also [google "debussy gamelan"](https://www.google.com/search?q=debussy+gamelan)
