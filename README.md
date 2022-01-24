@@ -216,6 +216,8 @@ Ear training
 
 - [https://www.teoria.com/en/exercises/](https://www.teoria.com/en/exercises/)
 
+- [Auralia](https://www.risingsoftware.com/auralia/topics)
+
 
 Sound design
 ===
