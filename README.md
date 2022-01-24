@@ -187,6 +187,10 @@ Arabic music
 - [Maqamat chapter in Offtonic](https://offtonic.com/theory/book/7-9.html)
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 http://taqasim.net/ - An oud and darbuka school in the City of London (I study oud there)
 
+Gamelan
+---
+
+- [Dewa Alit](https://www.dewaalitsalukat.com/sound/) - A modern Balinese composer born in 1973.
 
 Microtonal music
 ===
