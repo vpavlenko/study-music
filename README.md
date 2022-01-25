@@ -130,7 +130,7 @@ Some of these books feel pretty esoteric even if they are a serious research.
 
 - [Neo-Riemannian theory](https://en.wikipedia.org/wiki/Neo-Riemannian_theory)
 
-- [Schenkerian analysis](https://en.wikipedia.org/wiki/Schenkerian_analysis) - Considered harmful
+- [Schenkerian analysis](https://en.wikipedia.org/wiki/Schenkerian_analysis) - Considered harmful: [Lodewijk Muns. Why I am not a Schenkerian](https://lodewijkmuns.nl/WhyIamNotaSchenkerian.pdf)
 
 Misc
 ---
