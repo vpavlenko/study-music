@@ -132,6 +132,8 @@ Some of these books feel pretty esoteric even if they are a serious research.
 
 - [Schenkerian analysis](https://en.wikipedia.org/wiki/Schenkerian_analysis) - Considered harmful: [Lodewijk Muns. Why I am not a Schenkerian](https://lodewijkmuns.nl/WhyIamNotaSchenkerian.pdf)
 
+- [The Future of Music: Towards a Computational Musical Theory of Everything](https://books.google.ru/books?id=YTzYDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
+
 Misc
 ---
 
