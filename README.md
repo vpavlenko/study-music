@@ -83,11 +83,13 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 <img width="600" alt="Screenshot 2022-01-22 at 3 56 22 PM" src="https://user-images.githubusercontent.com/1491908/150639416-193135f2-991f-4b2b-9a37-8ef7b72dc777.png">
 
+- Berliner. Thinking in Jazz
+
 ### Jazz solo
 
 - [🎥 Jazz Piano Practice Session - Major II V I & Turn Around Licks](https://www.youtube.com/watch?v=57r-M-oXpsc) - Introduction into solo building strategies
 - [🎥 Analysing a Jazz Solo - Straight, No Chaser (Davis, Coltrane, Adderley, Garland, Chambers)](https://www.youtube.com/watch?v=qo_A5W-Lzvk) - Analysis of notable solos of the time
-- [The Jazzomat Research Project](https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html) - A corpus of transcribed solos
+- [The Jazzomat Research Project](https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html) - A corpus of transcribed solos. The book: Inside the Jazzomat
 
 
 Bach chorales
