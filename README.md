@@ -85,6 +85,7 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 - Berliner 1994. Thinking in Jazz
 - [Martin Norgaard. Descriptions of Improvisational Thinking by Artist-level Jazz Musicians](https://repositories.lib.utexas.edu/bitstream/handle/2152/17893/norgaardm.pdf) - Seven jazz artists recorded an improvised solo. After completing their improvisations, participants described the thinking processes that led to the realization of their performances
+- Dariusz Terefenko
 
 ### Jazz solo
 
