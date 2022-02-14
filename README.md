@@ -132,6 +132,16 @@ Bach's chorale harmonizations are a reference for everyone studying classical ha
 
 <img width="680" alt="Screenshot 2022-02-14 at 2 37 28 PM" src="https://user-images.githubusercontent.com/1491908/153857449-a8282c66-1da3-4879-b505-9b349e1bb8e4.png">
 
+There are many ways to paint chorale scores to reveal their harmony:
+
+- [colortriads](http://doc.verovio.humdrum.org/filter/colortriads/) (broken, [an open issue](https://github.com/humdrum-tools/verovio-humdrum-viewer/issues/419))
+
+<img width="680" alt="Screenshot 2022-02-14 at 2 37 28 PM" src="https://user-images.githubusercontent.com/1491908/153858726-4b51cc2c-d5f0-4e8e-8798-ee181581fc8a.png">
+
+- [colored noted by Tomonari Motegi](https://www.youtube.com/watch?v=_3A_qVge3WE)
+
+<img width="700" alt="Screenshot 2022-02-14 at 2 50 08 PM" src="https://user-images.githubusercontent.com/1491908/153859154-1f80886a-503d-4c9d-8e2a-79355b51ca43.png">
+
 
 
 Advanced classical harmony and form
