@@ -7,7 +7,7 @@ A survey of books, resources and courses to **study** everything about **music**
     + [Jazz harmony](#jazz-harmony)
     + [Jazz solo](#jazz-solo)
   * [Bach chorales](#bach-chorales)
-  * [Advanced classical harmony](#advanced-classical-harmony)
+  * [Advanced classical harmony](#advanced-classical-harmony-and-form)
   * [High-level music theory](#high-level-music-theory)
   * [Misc](#misc)
 - [Music composition](#music-composition)
@@ -112,11 +112,29 @@ Bach's chorale harmonizations are a reference for everyone studying classical ha
 - [ChoraleGUIDE](http://www.choraleguide.com/) - A concise explanation of the topic
 
 
-Advanced classical harmony
+Advanced classical harmony and form
 ---
 
 - [Vincent Persichetti. Twentieth-Century Harmony](https://amzn.to/3AgQgbk) - A book from 1960. [Audio examples on YouTube](https://www.youtube.com/playlist?list=PLwRgeNTZ2i6_BA9H4as1srtNKBAzPPjns)
 
+- [Neo-Riemannian theory](https://en.wikipedia.org/wiki/Neo-Riemannian_theory)
+
+- [Schenkerian analysis](https://en.wikipedia.org/wiki/Schenkerian_analysis) - Considered harmful: [Lodewijk Muns. Why I am not a Schenkerian](https://lodewijkmuns.nl/WhyIamNotaSchenkerian.pdf)
+
+- [The Future of Music: Towards a Computational Musical Theory of Everything](https://books.google.ru/books?id=YTzYDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
+
+- [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do)
+
+- [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) - And the Wikipedia articles on [Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata). Also [Daniel Heartz. Music in European Capitals](https://amzn.to/34U1qXY)
+
+- [James Hepokoski. Sonata Theory Handbook](https://amzn.to/3GRLHGa) - And the Wikipedia article on [Sonata theory](https://en.wikipedia.org/wiki/Sonata_theory)
+
+<img width="800" alt="Screenshot 2022-02-14 at 11 41 51 AM" src="https://user-images.githubusercontent.com/1491908/153829331-c9554a4e-c2d9-435d-bd2c-31f773d57125.png">
+
+Research by Dmitri Tymoczko: 
+- [Books and articles](https://dmitri.mycpanel.princeton.edu/publications.html)
+- [Local Harmonic Grammar in Western Classical Music](https://dmitri.mycpanel.princeton.edu/mozart.pdf) - the harmonic syntax of Western classical music can be captured by a simple maplike grammar without recursive generative rules
+- [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
 
 
 High-level music theory
@@ -136,13 +154,10 @@ Some of these books feel pretty esoteric even if they are a serious research.
 
 <img width="736" alt="Screenshot 2022-01-22 at 3 31 26 PM" src="https://user-images.githubusercontent.com/1491908/150638638-9a578b1b-092b-4c6f-a623-7351cdb131c8.png">
 
-- [Neo-Riemannian theory](https://en.wikipedia.org/wiki/Neo-Riemannian_theory)
+- [Jason Yust. Organized Time: Rhythm, Tonality, and Form](https://amzn.to/3BlTlaU) 
 
-- [Schenkerian analysis](https://en.wikipedia.org/wiki/Schenkerian_analysis) - Considered harmful: [Lodewijk Muns. Why I am not a Schenkerian](https://lodewijkmuns.nl/WhyIamNotaSchenkerian.pdf)
+<img width="600" alt="Screenshot 2022-02-14 at 11 28 17 AM" src="https://user-images.githubusercontent.com/1491908/153827329-b364704d-5a5c-4c47-8b2b-a8f8f3200f25.png">
 
-- [The Future of Music: Towards a Computational Musical Theory of Everything](https://books.google.ru/books?id=YTzYDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
-
-- [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome)
 
 Misc
 ---
