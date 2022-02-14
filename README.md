@@ -104,6 +104,10 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 - [🎥 Jazz Piano Practice Session - Major II V I & Turn Around Licks](https://www.youtube.com/watch?v=57r-M-oXpsc) - Introduction into solo building strategies
 - [🎥 Analysing a Jazz Solo - Straight, No Chaser (Davis, Coltrane, Adderley, Garland, Chambers)](https://www.youtube.com/watch?v=qo_A5W-Lzvk) - Analysis of notable solos of the time
 - [The Jazzomat Research Project](https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html) - A corpus of transcribed solos. The book: [Inside the Jazzomat](https://schott-campus.com/wp-content/uploads/2017/11/inside_the_jazzomat_final_rev_oa4.pdf)
+- [Charlie Parker Omnibook (wiki)](https://en.wikipedia.org/wiki/Charlie_Parker_Omnibook) - [pattern explorer by Jazzomat](https://jazzomat.hfm-weimar.de/pattern_explorer/), [progressions analyzed by mDecks](https://mdecks.com/bebopstandards.phtml)
+
+<img width="950" alt="Screenshot 2022-02-14 at 2 07 41 PM" src="https://user-images.githubusercontent.com/1491908/153852934-e256e715-3ecf-4399-92ec-9b20288d1705.png">
+
 
 
 Bach chorales
