@@ -427,7 +427,7 @@ Other lists
 - [http://www.findingmusicresources.com/](http://www.findingmusicresources.com/)
 
 
-This is work in progress. I've mentioned more resources at https://www.notion.so/vitalypavlenko/ae1b0fe091ab4b25bcee07d4596074dc and https://t.me/keetezh
+Work in progress. I mention more resources on https://t.me/keetezh
 
 Contact me: cxielamiko@gmail.com, https://t.me/vitalypavlenko
 
