@@ -169,6 +169,8 @@ Misc
 
 - [David Fuentes. Figuring Out Melody](https://figuringoutmelody.com/fom-ebook/) - At some point I was googling whether there's a book specifically on a melody line. I haven't read it yet
 
+- [Edwin Gordon. Learning Sequences in Music: A Contemporary Music Learning Theory](https://amzn.to/3rMsl0U)
+
 
 Music composition
 ===
@@ -197,6 +199,8 @@ Listening guides
 - [The Visual Listening Guide](https://www.symphonygraphique.com/) - An approach to visualize the structure of a symphony using small piano rolls and pictograms of instruments.
 
 <img width="1028" alt="Screenshot 2022-01-21 at 2 58 17 PM" src="https://user-images.githubusercontent.com/1491908/150523442-d2cffc16-024e-45ac-88b3-f6cff91ee0fc.png">
+
+
 
 
 World traditions
