@@ -340,6 +340,7 @@ Sound design
 
 <img width="600" alt="Screenshot 2022-01-23 at 9 31 49 AM" src="https://user-images.githubusercontent.com/1491908/150667458-853c8c11-bfce-4ed4-bf78-acbb8eb0eabb.png">
 
+- Pejrolo
 
 Electronic music
 ===
