@@ -84,7 +84,8 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 <img width="600" alt="Screenshot 2022-01-22 at 3 56 22 PM" src="https://user-images.githubusercontent.com/1491908/150639416-193135f2-991f-4b2b-9a37-8ef7b72dc777.png">
 
-- Berliner 1994. Thinking in Jazz
+- [Paul F. Berliner. Thinking in Jazz: The Infinite Art of Improvisation](https://amzn.to/3oLsTlS)
+
 - [Martin Norgaard. Descriptions of Improvisational Thinking by Artist-level Jazz Musicians](https://repositories.lib.utexas.edu/bitstream/handle/2152/17893/norgaardm.pdf) - Seven jazz artists recorded an improvised solo. After completing their improvisations, participants described the thinking processes that led to the realization of their performances
 
 <img width="647" alt="Screenshot 2022-02-14 at 10 56 47 AM" src="https://user-images.githubusercontent.com/1491908/153823001-1bca2004-799c-42b7-9c2f-009f4d2bb23c.png">
@@ -95,7 +96,7 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 - [🎥 Jazz Piano Practice Session - Major II V I & Turn Around Licks](https://www.youtube.com/watch?v=57r-M-oXpsc) - Introduction into solo building strategies
 - [🎥 Analysing a Jazz Solo - Straight, No Chaser (Davis, Coltrane, Adderley, Garland, Chambers)](https://www.youtube.com/watch?v=qo_A5W-Lzvk) - Analysis of notable solos of the time
-- [The Jazzomat Research Project](https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html) - A corpus of transcribed solos. The book: Inside the Jazzomat
+- [The Jazzomat Research Project](https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html) - A corpus of transcribed solos. The book: [Inside the Jazzomat](https://schott-campus.com/wp-content/uploads/2017/11/inside_the_jazzomat_final_rev_oa4.pdf)
 
 
 Bach chorales
