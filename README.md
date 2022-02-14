@@ -203,6 +203,10 @@ Arabic music
 Gamelan
 ---
 
+Find a gamelan ensemble in your city, come and learn to play it. You can instantly start playing saron and then gradually expand your skills. 
+
+- 🇷🇺 В Москве можно прийти научиться в [Gamelan Dadali](https://www.instagram.com/gamelandadali/)
+
 - [Marc Perlman. Unplayed Melodies: Javanese Gamelan and the Genesis of Music Theory](https://amzn.to/3ApON2y)
  
 <img width="600" alt="Screenshot 2022-01-24 at 4 01 22 PM" src="https://user-images.githubusercontent.com/1491908/150787407-fdf9fda7-d425-4409-bb1e-4884553cfac0.png">
@@ -214,6 +218,8 @@ Gamelan
 <img width="1000" alt="Screenshot 2022-01-24 at 3 59 28 PM" src="https://user-images.githubusercontent.com/1491908/150787122-617bd6e6-a77a-421c-a824-44754d321457.png">
 
 - [gamelan.org](http://www.gamelan.org/), [Balungan](http://www.gamelan.org/balungan/back_issues/)
+
+- "The concept of pathet in Central Javanese gamelan music", paper.
 
 Also [google "debussy gamelan"](https://www.google.com/search?q=debussy+gamelan)
 
