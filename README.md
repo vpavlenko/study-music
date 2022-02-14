@@ -427,9 +427,7 @@ Other lists
 - [http://www.findingmusicresources.com/](http://www.findingmusicresources.com/)
 
 
-Work in progress. I mention more resources on https://t.me/keetezh
+I mention more resources on https://t.me/keetezh
 
-Contact me: cxielamiko@gmail.com, https://t.me/vitalypavlenko
-
-
+Contacts: cxielamiko@gmail.com, https://t.me/vitalypavlenko
 
