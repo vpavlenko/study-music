@@ -151,6 +151,10 @@ Research by Dmitri Tymoczko:
 - [Local Harmonic Grammar in Western Classical Music](https://dmitri.mycpanel.princeton.edu/mozart.pdf) - the harmonic syntax of Western classical music can be captured by a simple maplike grammar without recursive generative rules
 - [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
 
+- [Craig Stuart Sapp. Harmonic Visualizations of Tonal Music](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.542.226&rep=rep1&type=pdf) - also [the website](https://ccrma.stanford.edu/~craig/keyscape/) with many keyscapes
+
+<img width="700" alt="Screenshot 2022-02-14 at 2 28 22 PM" src="https://user-images.githubusercontent.com/1491908/153856071-cfa30582-c2ea-4ad6-9ec1-07e117c1db96.png">
+
 
 High-level music theory
 ---
@@ -172,6 +176,8 @@ Some of these books feel pretty esoteric even if they are a serious research.
 - [Jason Yust. Organized Time: Rhythm, Tonality, and Form](https://amzn.to/3BlTlaU) 
 
 <img width="600" alt="Screenshot 2022-02-14 at 11 28 17 AM" src="https://user-images.githubusercontent.com/1491908/153827329-b364704d-5a5c-4c47-8b2b-a8f8f3200f25.png">
+
+- [Wallace Berry. Musical Structure and Performance](https://amzn.to/33iBRzm)
 
 
 Misc
@@ -344,6 +350,8 @@ Mixing
 
 - 🇷🇺 [Wikisound](http://wikisound.org/Video/) - Бесплатные многочасовые ютьюб-курсы по компрессии, эквализации и пространству микса, а также платные курсы по DAW'кам и синтезаторам.
 
+- 🇷🇺 [Digital Arts - очные курсы звукорежиссуры и аранжировки в Москве от Марка Брянцева](http://digarts.org/) - хожу, советую
+
 
 YouTube channels
 ===
@@ -366,6 +374,8 @@ Resources
 - 🇷🇺 [Гильдия Разработчиков Интерактивного Аудио](https://griaudio.ru/)
 
 - A modern composer Fazıl Say describes the structure of his Istanbul Symphony: [part 1](https://www.youtube.com/watch?v=Om9ONn5190k), [part 2](https://www.youtube.com/watch?v=Y_cF9Ts9XEU), [home video](https://www.youtube.com/watch?v=i5Etc3g-D5c)
+
+
 
 Other lists
 ===
