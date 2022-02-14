@@ -52,6 +52,7 @@ The books below give an intro into music notation and are good for a beginner, a
 - [Andre Mount. Fundamentals, Function, and Form](https://milnepublishing.geneseo.edu/fundamentals-function-form/) - An online book with audio examples
 - [Mauro Braunstein. Offtonic Theory](https://offtonic.com/theory/index.html) - An online book that is spiced up with Jewish Chasidic examples (in addition to classical and rock ones)  and an intro into Arabic maqamaat music
 - [Sean Butterfield. Integrated Musicianship: Theory](https://intmus.github.io/inttheory21-22/) - An open-source, interactive, online textbook for college-level music theory courses
+- [Robert Hutchinson. Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 
 
 
@@ -85,7 +86,10 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 - Berliner 1994. Thinking in Jazz
 - [Martin Norgaard. Descriptions of Improvisational Thinking by Artist-level Jazz Musicians](https://repositories.lib.utexas.edu/bitstream/handle/2152/17893/norgaardm.pdf) - Seven jazz artists recorded an improvised solo. After completing their improvisations, participants described the thinking processes that led to the realization of their performances
-- Dariusz Terefenko
+
+<img width="647" alt="Screenshot 2022-02-14 at 10 56 47 AM" src="https://user-images.githubusercontent.com/1491908/153823001-1bca2004-799c-42b7-9c2f-009f4d2bb23c.png">
+
+- [Dariusz Terefenko. Jazz Theory: From Basic to Advanced Study](https://amzn.to/3oOlXEC) - Also has [a companion website](https://routledgetextbooks.com/textbooks/9780415537612/recordings.php).
 
 ### Jazz solo
 
@@ -137,6 +141,8 @@ Some of these books feel pretty esoteric even if they are a serious research.
 - [Schenkerian analysis](https://en.wikipedia.org/wiki/Schenkerian_analysis) - Considered harmful: [Lodewijk Muns. Why I am not a Schenkerian](https://lodewijkmuns.nl/WhyIamNotaSchenkerian.pdf)
 
 - [The Future of Music: Towards a Computational Musical Theory of Everything](https://books.google.ru/books?id=YTzYDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
+
+- [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome)
 
 Misc
 ---
