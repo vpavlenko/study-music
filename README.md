@@ -210,6 +210,8 @@ Misc
 
 - [Dorottya Fabian, Renee Timmers, and Emery Schubert. Expressiveness in music performance: Empirical approaches across styles and cultures](https://amzn.to/34XbpMk)
 
+- [Thomas Mark. What Every Pianist Needs to Know About the Body](https://amzn.to/36ev1fx) - how to gain fluidity without injuries
+
 
 Music composition
 ===
@@ -388,10 +390,16 @@ Resources
 
 - [Every Noise at Once](https://everynoise.com/) - a giant map of all music genres with Spotify examples
 
+<img width="800" alt="Screenshot 2022-02-14 at 3 00 12 PM" src="https://user-images.githubusercontent.com/1491908/153860548-1e42f18c-4e1f-4f97-b5a0-886f13ee970a.png">
+
+
 - 🇷🇺 [Гильдия Разработчиков Интерактивного Аудио](https://griaudio.ru/)
 
 - A modern composer Fazıl Say describes the structure of his Istanbul Symphony: [part 1](https://www.youtube.com/watch?v=Om9ONn5190k), [part 2](https://www.youtube.com/watch?v=Y_cF9Ts9XEU), [home video](https://www.youtube.com/watch?v=i5Etc3g-D5c)
 
+- [Dodeka alternative music notation](https://www.dodekamusic.com/learn/alternative-music-notation/)
+
+<img width="545" alt="Screenshot 2022-02-14 at 3 00 40 PM" src="https://user-images.githubusercontent.com/1491908/153860616-4befef29-7b86-47a0-a538-16f4fd47bf91.png">
 
 
 Other lists
