@@ -33,7 +33,7 @@ Music theory
 Rock harmony
 ---
 
-- [HookTheory](https://www.hooktheory.com/) - A database of many rock songs and some jazz songs and game tunes focused at harmonic analysis. Comes with a melody-harmony online editor [HookPad](https://www.hooktheory.com/videos) and [two must-read online books](https://www.hooktheory.com/books) on pop/rock harmony which explain Roman numeral analysis, secondary chords and modes. You should probably start with those books unless you already have a college degree in music. You can read them in two weeks if you focus enough.
+- [HookTheory](https://www.hooktheory.com/) - A database of many rock songs and some jazz songs and game tunes focused at harmonic analysis. Comes with a melody-harmony online editor [HookPad](https://www.hooktheory.com/videos) and [two must-read online books](https://www.hooktheory.com/books) on pop/rock harmony which explain Roman numeral analysis, secondary chords and modes. **You should probably start with those books** unless you already have a college degree in music. You can read them in two weeks if you focus enough.
 <img width="995" alt="Screenshot 2022-01-21 at 12 57 44 AM" src="https://user-images.githubusercontent.com/1491908/150428708-4c3f082d-5cc2-47b5-a088-8558d5c41461.png">
 
 - [David Temperley. The Musical Language of Rock](https://amzn.to/3nK9eSO) - A book that summarizes [a corpus study](http://rockcorpus.midside.com/) of aspects like harmony, melody, rhythm, timbre and form on 200 rock songs. [Also his papers](http://davidtemperley.com/papers/). Also his other books: [The Cognition of Basic Musical Structures](https://amzn.to/3IvaS2I), [Music and Probability](https://amzn.to/3FXBWWu)
@@ -156,6 +156,8 @@ Advanced classical harmony and form
 - [The Future of Music: Towards a Computational Musical Theory of Everything](https://books.google.ru/books?id=YTzYDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
 
 - [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do)
+
+- [Jonathan Biss. Exploring Beethoven’s Piano Sonatas (six-part course on Coursera)](https://www.coursera.org/search?query=beethoven%20sonatas%20biss)
 
 - [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) - And the Wikipedia articles on [Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata). Also [Daniel Heartz. Music in European Capitals](https://amzn.to/34U1qXY)
 
