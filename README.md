@@ -41,6 +41,8 @@ Rock harmony
 - [David Tagg. Everyday Tonality II](http://tagg.org/mmmsp/EverydayTonalityInfo.htm) - The author proves that applying classical harmony framework to all of modern popular Western music gives poor results, and that one must accept the wide existence of music in different modes, scales and non-tertian chord structures on our TV and radio.
 <img width="600" alt="Screenshot 2022-01-21 at 12 57 44 AM" src="https://user-images.githubusercontent.com/1491908/150502146-c43924b3-8468-442e-a8f6-25cba5aaf1e0.png">
 
+- 🇷🇺 [Гармонический язык Цоя](https://t.me/keetezh/148) - подписывайтесь на мой канал
+
 
 
 General intro and classical harmony
@@ -165,10 +167,10 @@ Advanced classical harmony and form
 
 <img width="800" alt="Screenshot 2022-02-14 at 11 41 51 AM" src="https://user-images.githubusercontent.com/1491908/153829331-c9554a4e-c2d9-435d-bd2c-31f773d57125.png">
 
-Research by Dmitri Tymoczko: 
-- [Books and articles](https://dmitri.mycpanel.princeton.edu/publications.html)
-- [Local Harmonic Grammar in Western Classical Music](https://dmitri.mycpanel.princeton.edu/mozart.pdf) - the harmonic syntax of Western classical music can be captured by a simple maplike grammar without recursive generative rules
-- [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
+- Research by Dmitri Tymoczko: 
+  - [Books and articles](https://dmitri.mycpanel.princeton.edu/publications.html)
+  - [Local Harmonic Grammar in Western Classical Music](https://dmitri.mycpanel.princeton.edu/mozart.pdf) - the harmonic syntax of Western classical music can be captured by a simple maplike grammar without recursive generative rules
+  - [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
 
 - [Craig Stuart Sapp. Harmonic Visualizations of Tonal Music](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.542.226&rep=rep1&type=pdf) - also [the website](https://ccrma.stanford.edu/~craig/keyscape/) with many keyscapes
 
@@ -294,6 +296,8 @@ Microtonal music
 - [William A. Sethares. Tuning, Timbre, Spectrum, Scale](https://sethares.engr.wisc.edu/ttss.html) - Why we divide octave into 12 equal parts, how is it related to string harmonics and how to create artificial timbres that make music in other tunings more consonant. With audio examples
 
 <img width="723" alt="Screenshot 2022-01-21 at 2 47 51 AM" src="https://user-images.githubusercontent.com/1491908/150440160-dbadacde-f65d-4cba-9f71-9cfd257eb908.png">
+
+- [Easley Blackwood. Microtonal Compositions](https://www.youtube.com/watch?v=HbuFPpiJL1o)
 
 Ear training
 ===
