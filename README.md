@@ -349,6 +349,16 @@ Electronic music
 
 - [Against The Clock](https://www.youtube.com/watch?v=BSs4TMpSwuw&list=PLg5ScSqSDXsvXVvNqW42AjfOmPjIupYZH) - Electronic musicians are asked to create a track in 10 minutes.
 
+- [J74 Progressive](https://www.fabriziopoce.com/download.html) - A Max for Live tool set for Chord Progression and Harmonic Editing in Ableton Live
+
+![image](https://user-images.githubusercontent.com/1491908/153887377-bff76caf-d83e-4675-83d1-b7c79f251212.png)
+
+- [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
+
+<img width="1243" alt="Screenshot 2022-02-14 at 5 58 22 PM" src="https://user-images.githubusercontent.com/1491908/153888082-229c50b9-de71-4ef3-998e-ec04f9deff1b.png">
+
+
+
 
 Notable instruments
 ===
@@ -392,6 +402,7 @@ Resources
 
 <img width="800" alt="Screenshot 2022-02-14 at 3 00 12 PM" src="https://user-images.githubusercontent.com/1491908/153860548-1e42f18c-4e1f-4f97-b5a0-886f13ee970a.png">
 
+- [Art + Music + Technology podcast](https://artmusictech.libsyn.com/)
 
 - 🇷🇺 [Гильдия Разработчиков Интерактивного Аудио](https://griaudio.ru/)
 
