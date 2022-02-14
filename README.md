@@ -126,6 +126,8 @@ Bach's chorale harmonizations are a reference for everyone studying classical ha
 
 - [ChoraleGUIDE](http://www.choraleguide.com/) - A concise explanation of the topic
 
+- [20 chorales analyzed in "When in Rome" corpus](https://github.com/MarkGotham/When-in-Rome/tree/master/Corpus/Early_Choral/Bach%2C_Johann_Sebastian/Chorales)
+
 
 Advanced classical harmony and form
 ---
