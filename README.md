@@ -177,7 +177,7 @@ Advanced classical harmony and form
 
 - [Jonathan Biss. Exploring Beethoven’s Piano Sonatas (six-part course on Coursera)](https://www.coursera.org/search?query=beethoven%20sonatas%20biss)
 
-- [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) - And the Wikipedia articles on [Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata). Also [Daniel Heartz. Music in European Capitals](https://amzn.to/34U1qXY)
+- [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) - And the Wikipedia articles on [Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata). Also [Daniel Heartz. Music in European Capitals](https://amzn.to/34U1qXY). Also [L. Poundie Burstein. Journeys Through Galant Expositions](https://amzn.to/3gNdYmJ)
 
 - [James Hepokoski. Sonata Theory Handbook](https://amzn.to/3GRLHGa) - And the Wikipedia article on [Sonata theory](https://en.wikipedia.org/wiki/Sonata_theory)
 
