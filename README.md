@@ -221,7 +221,7 @@ Some of these books feel pretty esoteric even if they are a serious research.
 
 <img width="600" alt="Screenshot 2022-02-14 at 11 28 17 AM" src="https://user-images.githubusercontent.com/1491908/153827329-b364704d-5a5c-4c47-8b2b-a8f8f3200f25.png">
 
-- [Wallace Berry. Musical Structure and Performance](https://amzn.to/33iBRzm)
+- [Wallace Berry](https://en.wikipedia.org/wiki/Wallace_Berry)
 
 
 Misc
@@ -444,6 +444,7 @@ Mixing
 
 ![image](https://user-images.githubusercontent.com/1491908/150440495-792afe9a-4786-48d9-a798-6a45d2eac3e0.png)
 
+- [Mike Senior. Mixing Secrets for the Small Studio](https://amzn.to/3BlQY7P)
 
 - [Books by Bobby Owsinski](https://www.amazon.com/Bobby-Owsinski/e/B001K8A8F8%3Fref=dbs_a_mng_rwt_scns_share)
 
