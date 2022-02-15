@@ -502,7 +502,7 @@ Other lists
 - Courses at American universities, eg. [CCRMA](https://ccrma.stanford.edu/)
 
 
-I mention more resources on https://t.me/keetezh
+Real-time feed of new resources: https://t.me/keetezh
 
 Contacts: cxielamiko@gmail.com, https://t.me/vitalypavlenko
 
