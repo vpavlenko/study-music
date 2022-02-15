@@ -87,9 +87,11 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 <img width="700" alt="Screenshot 2022-01-21 at 2 59 30 AM" src="https://user-images.githubusercontent.com/1491908/150441200-f311d430-29da-47b4-ae72-ddef62fe831f.png">
 
-- [Mark Levine. The Jazz Piano Book](https://amzn.to/3uQwd2Q) and also [Mark Levine. The Jazz Theory Book](https://amzn.to/3uVHVt1)
+- [Jack Reilly. The Harmony of Bill Evans](https://amzn.to/3BnNktZ)
 
-<img width="800" alt="Screenshot 2022-02-15 at 5 01 47 PM" src="https://user-images.githubusercontent.com/1491908/154077255-4805e545-fe2e-4d55-81e4-925ca661698f.png">
+<img width="800" alt="Screenshot 2022-02-15 at 6 07 59 PM" src="https://user-images.githubusercontent.com/1491908/154089788-812408de-06d2-45d7-a456-548135de5b4a.png">
+
+
 
 - 🇷🇺 [Ю. Н. Чугунов. Эволюция гармонического языка джаза. Джазовые мелодии для гармонизации](https://www.chitai-gorod.ru/catalog/book/809141/)
 
@@ -115,6 +117,15 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 <img width="950" alt="Screenshot 2022-02-14 at 2 07 41 PM" src="https://user-images.githubusercontent.com/1491908/153852934-e256e715-3ecf-4399-92ec-9b20288d1705.png">
 
+### Jazz piano
+
+- [Mark Levine. The Jazz Piano Book](https://amzn.to/3uQwd2Q) and also [Mark Levine. The Jazz Theory Book](https://amzn.to/3uVHVt1)
+
+<img width="800" alt="Screenshot 2022-02-15 at 5 01 47 PM" src="https://user-images.githubusercontent.com/1491908/154077255-4805e545-fe2e-4d55-81e4-925ca661698f.png">
+
+- [Oscar Peterson. Jazz Exercises, Minuets, Etudes & Pieces for Piano](https://amzn.to/3GQFDOe)
+
+- [Charlie Banacos](https://en.wikipedia.org/wiki/Charlie_Banacos)
 
 
 Bach chorales
@@ -185,6 +196,9 @@ Advanced classical harmony and form
 
 <img width="757" alt="Screenshot 2022-02-15 at 4 34 48 PM" src="https://user-images.githubusercontent.com/1491908/154072499-7c93331a-a90b-432b-982e-7f6f871e150c.png">
 
+- 🇷🇺 Г. Банщиков. Законы функциональной инструментовки
+
+
 
 High-level music theory
 ---
@@ -232,6 +246,8 @@ Misc
 - [Ed Friedland. Building Walking Bass Lines](https://amzn.to/35175vz) and [Ed Friedland. Expanding Walking Bass Lines](https://amzn.to/3LDK8z6) and [many other books](https://www.halleonard.com/search/author/77845/ed-friedland) - the book should contain the code to access audio examples at the publisher's website
 
 <img width="800" alt="Screenshot 2022-02-15 at 4 44 34 PM" src="https://user-images.githubusercontent.com/1491908/154074173-859e4172-ac20-46ed-870d-4227b1967532.png">
+
+- [Мария Шарова. Несложные этюды для «заржавевших» пианистов](http://chtoigrat.com/etudi-dlya-zarzhavevshix-pianistov/)
 
 
 Music composition
@@ -377,6 +393,7 @@ Sound design
 
 
 
+
 Electronic music
 ===
 
@@ -403,8 +420,13 @@ Electronic music
 
 <img width="532" alt="Screenshot 2022-02-15 at 5 32 25 PM" src="https://user-images.githubusercontent.com/1491908/154082815-08213e00-0959-49f7-a75c-938c734e749a.png">
 
+- [Books about Max/MSP](https://cycling74.com/books-about-max)
 
+- [Ric Viers. The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects](https://amzn.to/3sL1qBQ)
 
+- [Alessandro Cipriani, Maurizio Giri. Electronic Music and Sound Design - Theory and Practice with Max and MSP](https://amzn.to/3uPgHEv)
+
+- [Books by Curtis Roads](https://www.amazon.co.uk/Curtis-Roads/e/B000AQ4N20)
 
 Notable instruments
 ===
@@ -423,6 +445,8 @@ Mixing
 ![image](https://user-images.githubusercontent.com/1491908/150440495-792afe9a-4786-48d9-a798-6a45d2eac3e0.png)
 
 
+- [Books by Bobby Owsinski](https://www.amazon.com/Bobby-Owsinski/e/B001K8A8F8%3Fref=dbs_a_mng_rwt_scns_share)
+
 - 🇷🇺 [Wikisound](http://wikisound.org/Video/) - Бесплатные многочасовые ютьюб-курсы по компрессии, эквализации и пространству микса, а также платные курсы по DAW'кам и синтезаторам.
 
 - 🇷🇺 [Digital Arts - очные курсы звукорежиссуры и аранжировки в Москве от Марка Брянцева](http://digarts.org/) - хожу, советую
@@ -435,6 +459,7 @@ YouTube channels
 - [Guy Michelmore](https://www.youtube.com/playlist?list=PLH1Kp5ewZe_SZJ8ntw615PZb0TwrzC2EG) - A composer of music for film and television
 - [Andrew Huang](https://www.youtube.com/c/andrewhuang) - Electronic music production
 - [8-bit Music Theory](https://www.youtube.com/c/8bitMusicTheory)
+- [Tom Cosm](https://www.youtube.com/c/TomCosmNZ)
 
 - 🇷🇺 [Институт музыкальных инициатив](https://www.youtube.com/c/%D0%98%D0%9C%D0%98%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/) - О музыкальной индустрии
 - 🇷🇺 [Нескучный саунд](https://www.youtube.com/channel/UCc1a1Nm8aNFoqv1G4CfyHzA) - Разборы гармониии Богемской рапсодии и саундтрека к Final Fantasy,
@@ -465,6 +490,8 @@ Other lists
 - [Awesome Music](https://github.com/ciconia/awesome-music)
 
 - [http://www.findingmusicresources.com/](http://www.findingmusicresources.com/)
+
+- Courses at American universities, eg. [CCRMA](https://ccrma.stanford.edu/)
 
 
 I mention more resources on https://t.me/keetezh
