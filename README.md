@@ -61,6 +61,9 @@ The books below give an intro into music notation and are good for a beginner, a
 
 YouTube videos with harmonic analyses:
 - [David Bennett Thomas](https://www.youtube.com/playlist?list=PL613D1A6B3C4BBDF2) - A very thorough analysis of carefully picked pieces from different styles.
+
+<img width="800" alt="Screenshot 2022-02-15 at 6 27 08 PM" src="https://user-images.githubusercontent.com/1491908/154093478-04daf0d3-0658-4930-bded-d2623d93fa14.png">
+
 - [mDecks Mapping Tonal Harmony Pro YouTube channel](https://www.youtube.com/watch?v=4Ltni6rPHUk&list=PLt-Oh3MSFwB9ECItA5ED-fcS0PnqPPgr-&index=4) - One should check many of their educational videos. Probably not worth buying the software right away.
 
 <img width="800" alt="Screenshot 2022-01-21 at 12 35 38 PM" src="https://user-images.githubusercontent.com/1491908/150503245-3dcd5745-83b1-4751-850e-28917bb0cde1.png">
