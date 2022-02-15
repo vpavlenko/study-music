@@ -208,13 +208,18 @@ Misc
 
 <img width="600" alt="Screenshot 2022-01-22 at 3 31 26 PM" src="https://user-images.githubusercontent.com/1491908/150666436-3c78921a-124f-428b-8c0c-34c196b628de.png">
 
-- [David Fuentes. Figuring Out Melody](https://figuringoutmelody.com/fom-ebook/) - At some point I was googling whether there's a book specifically on a melody line. I haven't read it yet
+- [David Fuentes. Figuring Out Melody](https://figuringoutmelody.com/fom-ebook/) - At some point I was googling whether there's a book specifically on a melody line
 
 - [Edwin Gordon. Learning Sequences in Music: A Contemporary Music Learning Theory](https://amzn.to/3rMsl0U)
 
 - [Dorottya Fabian, Renee Timmers, and Emery Schubert. Expressiveness in music performance: Empirical approaches across styles and cultures](https://amzn.to/34XbpMk)
 
 - [Thomas Mark. What Every Pianist Needs to Know About the Body](https://amzn.to/36ev1fx) - how to gain fluidity without injuries
+
+- [Meinard Müller. Fundamentals of Music Processing. Audio, Analysis, Algorithms, Applications](https://amzn.to/3HRrgKJ)
+
+<img width="600" alt="Screenshot 2022-02-15 at 4 14 14 PM" src="https://user-images.githubusercontent.com/1491908/154069157-6a3bdc98-f5d5-4fa2-b0c8-aa325b4fc11c.png">
+
 
 
 Music composition
@@ -340,7 +345,7 @@ Sound design
 
 <img width="600" alt="Screenshot 2022-01-23 at 9 31 49 AM" src="https://user-images.githubusercontent.com/1491908/150667458-853c8c11-bfce-4ed4-bf78-acbb8eb0eabb.png">
 
-- Pejrolo
+- [Andrea Pejrolo, Scott B. Metcalfe. Creating Sounds from Scratch: A Practical Guide to Music Synthesis for Producers and Composers](https://amzn.to/3oPzJXD)
 
 Electronic music
 ===
