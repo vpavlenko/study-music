@@ -83,7 +83,7 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 - [Joe Mulholland, Tom Hojnacki. The Berklee Book of Jazz Harmony Kindle Edition](https://amzn.to/3qKoDUT) - A book that describes all traditional concepts of a jazz harmony language
   (secondary dominants, tritone substitution, modal interchange, modulation, modal harmony). Each chapter analyzes a special piece written to 
-  showcase the very discussed chapter topic (unlike other books that analyze existing jazz standards). I'm not sure whether a Kindle version comes with a code to access the website with audio recordings of those pieces, the paperback one does.
+  showcase the very discussed chapter topic (unlike other books that analyze existing jazz standards). I'm not sure whether a Kindle version comes with a code to access the website with audio recordings of those pieces, the paperback one does. This is a new book using Berklee approach, so it supersedes the books by Barrie Nettles and Richard Graf
   
  <img width="700" alt="Screenshot 2022-02-14 at 2 01 14 PM" src="https://user-images.githubusercontent.com/1491908/153851930-f3c8078f-d565-4398-96ba-850eb628b681.png">
 
