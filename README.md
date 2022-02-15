@@ -135,7 +135,7 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 Bach chorales
 ---
 
-Bach's chorale harmonizations are a reference for everyone studying classical harmony in relation with voice-leading. Harmonizing a chorale melody is a part of [UK college final exam](https://www.rhinegold.co.uk/wp-content/uploads/2015/10/MT10_scheme_KS5_Bach_chorale_harmonisation.pdf).
+Bach's chorale harmonizations are a reference for everyone studying classical harmony in relation to voice-leading. Harmonizing a chorale melody is a part of [UK college final exams](https://www.rhinegold.co.uk/wp-content/uploads/2015/10/MT10_scheme_KS5_Bach_chorale_harmonisation.pdf).
 
 - [Chris Gill. Harmonising Bach Chorales](https://amzn.to/3rDe1GH) - A short book describing all aspects of pretty regular bach language (at least those 320 chorales written within minor/major modes) - voice-leading, cadences, modulations, chromaticism.
 
@@ -308,7 +308,7 @@ Arabic music
 <img width="678" alt="Screenshot 2022-01-21 at 2 41 37 AM" src="https://user-images.githubusercontent.com/1491908/150439587-5f279385-0b7f-4ad4-8ab0-4296375830d4.png">
 
 - [Maqamat chapter in Offtonic](https://offtonic.com/theory/book/7-9.html)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 http://taqasim.net/ - An oud and darbuka school in the City of London (I study oud there)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 http://taqasim.net/ - An oud and darbuka school in the City of London (I learn to play oud there)
 
 Gamelan
 ---
