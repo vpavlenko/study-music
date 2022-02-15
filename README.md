@@ -151,6 +151,9 @@ Advanced classical harmony and form
 
 - [Vincent Persichetti. Twentieth-Century Harmony](https://amzn.to/3AgQgbk) - A book from 1960. [Audio examples on YouTube](https://www.youtube.com/playlist?list=PLwRgeNTZ2i6_BA9H4as1srtNKBAzPPjns)
 
+<img width="685" alt="Screenshot 2022-02-15 at 4 37 05 PM" src="https://user-images.githubusercontent.com/1491908/154072861-dd63242e-7510-45c9-9216-5d14452de71e.png">
+
+
 - [Neo-Riemannian theory](https://en.wikipedia.org/wiki/Neo-Riemannian_theory)
 
 - [Schenkerian analysis](https://en.wikipedia.org/wiki/Schenkerian_analysis) - Considered harmful: [Lodewijk Muns. Why I am not a Schenkerian](https://lodewijkmuns.nl/WhyIamNotaSchenkerian.pdf)
@@ -175,6 +178,10 @@ Advanced classical harmony and form
 - [Craig Stuart Sapp. Harmonic Visualizations of Tonal Music](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.542.226&rep=rep1&type=pdf) - also [the website](https://ccrma.stanford.edu/~craig/keyscape/) with many keyscapes
 
 <img width="700" alt="Screenshot 2022-02-14 at 2 28 22 PM" src="https://user-images.githubusercontent.com/1491908/153856071-cfa30582-c2ea-4ad6-9ec1-07e117c1db96.png">
+
+- 🇷🇺 [Ю. Тюлин. Учение о музыкальной фактуре и мелодической фигурации (два тома)](https://archive.org/details/tiulin_muz_factura_1)
+
+<img width="757" alt="Screenshot 2022-02-15 at 4 34 48 PM" src="https://user-images.githubusercontent.com/1491908/154072499-7c93331a-a90b-432b-982e-7f6f871e150c.png">
 
 
 High-level music theory
@@ -220,6 +227,9 @@ Misc
 
 <img width="600" alt="Screenshot 2022-02-15 at 4 14 14 PM" src="https://user-images.githubusercontent.com/1491908/154069157-6a3bdc98-f5d5-4fa2-b0c8-aa325b4fc11c.png">
 
+- [Ed Friedland. Building Walking Bass Lines](https://amzn.to/35175vz) and [Ed Friedland. Expanding Walking Bass Lines](https://amzn.to/3LDK8z6) and [many other books](https://www.halleonard.com/search/author/77845/ed-friedland) - the book should contain the code to access audio examples at the publisher's website
+
+<img width="800" alt="Screenshot 2022-02-15 at 4 44 34 PM" src="https://user-images.githubusercontent.com/1491908/154074173-859e4172-ac20-46ed-870d-4227b1967532.png">
 
 
 Music composition
@@ -346,6 +356,11 @@ Sound design
 <img width="600" alt="Screenshot 2022-01-23 at 9 31 49 AM" src="https://user-images.githubusercontent.com/1491908/150667458-853c8c11-bfce-4ed4-bf78-acbb8eb0eabb.png">
 
 - [Andrea Pejrolo, Scott B. Metcalfe. Creating Sounds from Scratch: A Practical Guide to Music Synthesis for Producers and Composers](https://amzn.to/3oPzJXD)
+
+- 🇷🇺 [Амосов, Наджаров, Хруст. Лекции по электроакустической музыке](https://drive.google.com/file/d/1G5xKssoR5vWTiR3YCtwywgFg2Kay0uK4/view)
+
+<img width="1100" alt="Screenshot 2022-02-15 at 4 30 26 PM" src="https://user-images.githubusercontent.com/1491908/154071804-d42cc08b-2301-48ed-8538-3b1ab007a77d.png">
+
 
 Electronic music
 ===
