@@ -34,7 +34,7 @@ Rock harmony
 ---
 
 - [HookTheory](https://www.hooktheory.com/) - A database of many rock songs and some jazz songs and game tunes focused at harmonic analysis. Comes with a melody-harmony online editor [HookPad](https://www.hooktheory.com/videos) and [two must-read online books](https://www.hooktheory.com/books) on pop/rock harmony which explain Roman numeral analysis, secondary chords and modes. **You should probably start with those books** unless you already have a college degree in music. You can read them in two weeks if you focus enough.
-<img width="995" alt="Screenshot 2022-01-21 at 12 57 44 AM" src="https://user-images.githubusercontent.com/1491908/150428708-4c3f082d-5cc2-47b5-a088-8558d5c41461.png">
+<img width="995" alt="Screenshot 2022-01-21 at 12 57 44 AM" src="https://user-images.githubusercontent.com/1491908/150428708-4c3f082d-5cc2-47b5-a088-8558d5c41461.png" style="filter: drop-shadow(30px 10px 4px #4444dd); border: 1px solid pink">
 
 - [David Temperley. The Musical Language of Rock](https://amzn.to/3nK9eSO) - A book that summarizes [a corpus study](http://rockcorpus.midside.com/) of aspects like harmony, melody, rhythm, timbre and form on 200 rock songs. [Also his papers](http://davidtemperley.com/papers/). Also his other books: [The Cognition of Basic Musical Structures](https://amzn.to/3IvaS2I), [Music and Probability](https://amzn.to/3FXBWWu)
 
@@ -371,6 +371,11 @@ Sound design
 
 <img width="1100" alt="Screenshot 2022-02-15 at 4 30 26 PM" src="https://user-images.githubusercontent.com/1491908/154071804-d42cc08b-2301-48ed-8538-3b1ab007a77d.png">
 
+- [Richard Boulanger, Victor Lazzarini. The Audio Programming Book](https://amzn.to/3rPLaQP) - Mathematical and programming techniques for audio signal processing with source code examples in C
+
+<img width="500" alt="Screenshot 2022-02-15 at 5 30 00 PM" src="https://user-images.githubusercontent.com/1491908/154082341-246eb8f2-732b-4c94-aa5a-0a1edd983c73.png">
+
+
 
 Electronic music
 ===
@@ -393,6 +398,10 @@ Electronic music
 - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
 
 <img width="1243" alt="Screenshot 2022-02-14 at 5 58 22 PM" src="https://user-images.githubusercontent.com/1491908/153888082-229c50b9-de71-4ef3-998e-ec04f9deff1b.png">
+
+- [V.J. Manzo, Will Kuhn. Interactive Composition: Strategies Using Ableton Live and Max for Live](https://amzn.to/3gOvIy0)
+
+<img width="532" alt="Screenshot 2022-02-15 at 5 32 25 PM" src="https://user-images.githubusercontent.com/1491908/154082815-08213e00-0959-49f7-a75c-938c734e749a.png">
 
 
 
