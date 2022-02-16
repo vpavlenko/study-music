@@ -271,7 +271,9 @@ Music composition
 
 - [Peter Edwards. Write Like Mozart: An Introduction to Classical Music Composition](https://www.coursera.org/learn/classical-composition) - A six-week Coursera course that starts with four-part writing rules and goes into textures, chord substitutions, 2:1 counterpoint with examples from Mozart and Beethoven.
 
+- [Building Blocks](https://www.audiblegenius.com/buildingblocks) - A music theory and composition course in an online DAW from the creators of Syntorial (see below)
 
+- [Art of Composing](https://www.artofcomposing.com/) - Email course
 
 
 
