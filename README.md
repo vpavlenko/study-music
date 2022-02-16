@@ -273,7 +273,7 @@ Music composition
 
 - [Building Blocks](https://www.audiblegenius.com/buildingblocks) - A music theory and composition course in an online DAW from the creators of Syntorial (see below)
 
-- [Art of Composing](https://www.artofcomposing.com/) - Email course
+- [Art of Composing](https://www.artofcomposing.com/) - An email course
 
 
 
