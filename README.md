@@ -107,7 +107,7 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 <img width="647" alt="Screenshot 2022-02-14 at 10 56 47 AM" src="https://user-images.githubusercontent.com/1491908/153823001-1bca2004-799c-42b7-9c2f-009f4d2bb23c.png">
 
-- [Dariusz Terefenko. Jazz Theory: From Basic to Advanced Study](https://amzn.to/3oOlXEC) - Also has [a companion website](https://routledgetextbooks.com/textbooks/9780415537612/recordings.php).
+- [Dariusz Terefenko. Jazz Theory: From Basic to Advanced Study](https://amzn.to/3oOlXEC) - Also has [a companion website](https://routledgetextbooks.com/textbooks/9780415537612/recordings.php) with [a workbook](https://routledgetextbooks.com/textbooks/9780415537612/workbook.php).
 
 ### Jazz solo
 
