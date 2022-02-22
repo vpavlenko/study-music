@@ -23,9 +23,9 @@ A survey of books, resources and courses to **study** everything about **music**
 - [Notable instruments](#notable-instruments)
 - [Mixing](#mixing)
 - [YouTube channels](#youtube-channels)
+- [Maps of music](#maps-of-music)
 - [Resources](#resources)
 - [Other lists](#other-lists)
-
 
 
 Music theory
