@@ -421,9 +421,6 @@ Electronic music
 
 ![image](https://user-images.githubusercontent.com/1491908/153887377-bff76caf-d83e-4675-83d1-b7c79f251212.png)
 
-- [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
-
-<img width="1243" alt="Screenshot 2022-02-14 at 5 58 22 PM" src="https://user-images.githubusercontent.com/1491908/153888082-229c50b9-de71-4ef3-998e-ec04f9deff1b.png">
 
 - [V.J. Manzo, Will Kuhn. Interactive Composition: Strategies Using Ableton Live and Max for Live](https://amzn.to/3gOvIy0)
 
@@ -475,13 +472,25 @@ YouTube channels
 - 🇷🇺 [Нескучный саунд](https://www.youtube.com/channel/UCc1a1Nm8aNFoqv1G4CfyHzA) - Разборы гармониии Богемской рапсодии и саундтрека к Final Fantasy,
 трёхчасовые стримы по записи и сведению треков, введение в теорию музыки на клавишах.
 
-
-Resources
+Maps of music
 ===
 
 - [Every Noise at Once](https://everynoise.com/) - a giant map of all music genres with Spotify examples
 
 <img width="800" alt="Screenshot 2022-02-14 at 3 00 12 PM" src="https://user-images.githubusercontent.com/1491908/153860548-1e42f18c-4e1f-4f97-b5a0-886f13ee970a.png">
+
+- [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
+
+<img width="1243" alt="Screenshot 2022-02-14 at 5 58 22 PM" src="https://user-images.githubusercontent.com/1491908/153888082-229c50b9-de71-4ef3-998e-ec04f9deff1b.png">
+
+- [Musicmap: The Genealogy and History of Popular Music Genres](https://musicmap.info/)
+
+<img width="1200" alt="Screenshot 2022-02-22 at 10 18 40 PM" src="https://user-images.githubusercontent.com/1491908/155203170-2807d50e-2f66-4a39-acd9-b470e5c474f4.png">
+
+
+
+Resources
+===
 
 - [Art + Music + Technology podcast](https://artmusictech.libsyn.com/)
 
