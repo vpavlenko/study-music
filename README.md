@@ -16,6 +16,7 @@ A survey of books, resources and courses to **study** everything about **music**
 - [World traditions](#world-traditions)
   * [Arabic music](#arabic-music)
   * [Gamelan](#gamelan)
+- [Sheet music](#sheet-music)
 - [Microtonal music](#microtonal-music)
 - [Ear training](#ear-training)
 - [Sound design](#sound-design)
