@@ -251,7 +251,7 @@ Misc
 
 <img width="800" alt="Screenshot 2022-02-15 at 4 44 34 PM" src="https://user-images.githubusercontent.com/1491908/154074173-859e4172-ac20-46ed-870d-4227b1967532.png">
 
-- [Мария Шарова. Несложные этюды для «заржавевших» пианистов](http://chtoigrat.com/etudi-dlya-zarzhavevshix-pianistov/)
+
 
 
 Music composition
@@ -336,6 +336,13 @@ Find a gamelan ensemble in your city, come and learn to play it. You can instant
 Also [google "debussy gamelan"](https://www.google.com/search?q=debussy+gamelan)
 
 Also see chapters in the book of William A. Sethares below
+
+Sheet music
+===
+
+- [Carol Barratt. All the Tunes You've Ever Wanted to Play: All-time Piano Classics. Easy-to-play Arrangements](https://www.amazon.com/Tunes-Youve-Wanted-Easy-play/dp/0711976627)
+
+- 🇷🇺 [Мария Шарова. Несложные этюды для «заржавевших» пианистов](http://chtoigrat.com/etudi-dlya-zarzhavevshix-pianistov/)
 
 Microtonal music
 ===
