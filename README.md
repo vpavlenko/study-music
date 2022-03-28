@@ -343,6 +343,13 @@ Also [google "debussy gamelan"](https://www.google.com/search?q=debussy+gamelan)
 
 Also see chapters in the book of William A. Sethares below
 
+Irish fiddle
+---
+
+- http://www.oldmusicproject.com/oneils1.html
+- https://www.youtube.com/watch?v=S7jNIFmvpzg&list=PLqKVRZsoDhsYyhvyf2xVdmsuOUCfENYE7
+- https://www.youtube.com/watch?v=C-Kzr07-f9I&list=PL89aHnZ0FvtUOpqhKjU0qbzIwrVJC88Ql
+
 Sheet music
 ===
 
