@@ -8,6 +8,7 @@ A survey of books, resources and courses to **study** everything about **music**
     + [Jazz solo](#jazz-solo)
     + [Jazz piano](#jazz-piano)
   * [Bach chorales](#bach-chorales)
+  * [Neo-Riemannian theory](#neo-riemannian-theory)
   * [Advanced classical harmony and form](#advanced-classical-harmony-and-form)
   * [High-level music theory](#high-level-music-theory)
   * [Misc](#misc)
@@ -16,6 +17,7 @@ A survey of books, resources and courses to **study** everything about **music**
 - [World traditions](#world-traditions)
   * [Arabic music](#arabic-music)
   * [Gamelan](#gamelan)
+  * [Irish fiddle](#irish-fiddle)
 - [Sheet music](#sheet-music)
 - [Microtonal music](#microtonal-music)
 - [Ear training](#ear-training)
@@ -27,6 +29,7 @@ A survey of books, resources and courses to **study** everything about **music**
 - [Maps of music](#maps-of-music)
 - [Resources](#resources)
 - [Other lists](#other-lists)
+
 
 
 Music theory
@@ -168,6 +171,16 @@ There are many ways to paint chorale scores to reveal their harmony:
 <img width="700" alt="Screenshot 2022-02-14 at 2 50 08 PM" src="https://user-images.githubusercontent.com/1491908/153859154-1f80886a-503d-4c9d-8e2a-79355b51ca43.png">
 
 
+Neo-Riemannian theory
+---
+
+- [A Wikipedia article has a nice list of books](https://en.wikipedia.org/wiki/Neo-Riemannian_theory)
+
+- [Frank Lehman. Hollywood Harmony: Musical Wonder and the Sound of Cinema](https://www.amazon.com/Hollywood-Harmony-Musical-Wonder-Cinema/dp/0190606401)
+
+<img width="743" alt="Screenshot 2022-03-29 at 18 22 38" src="https://user-images.githubusercontent.com/1491908/160610249-94f4dc74-c595-4cd9-b996-6bf157422464.png">
+
+- [Neo-Riemannian examples in music: YouTube videos](https://alpof.wordpress.com/2021/10/09/neo-riemannian-examples-in-music/) – 
 
 Advanced classical harmony and form
 ---
@@ -175,9 +188,6 @@ Advanced classical harmony and form
 - [Vincent Persichetti. Twentieth-Century Harmony](https://amzn.to/3AgQgbk) - A book from 1960. [Audio examples on YouTube](https://www.youtube.com/playlist?list=PLwRgeNTZ2i6_BA9H4as1srtNKBAzPPjns)
 
 <img width="685" alt="Screenshot 2022-02-15 at 4 37 05 PM" src="https://user-images.githubusercontent.com/1491908/154072861-dd63242e-7510-45c9-9216-5d14452de71e.png">
-
-
-- [Neo-Riemannian theory](https://en.wikipedia.org/wiki/Neo-Riemannian_theory)
 
 - [Schenkerian analysis](https://en.wikipedia.org/wiki/Schenkerian_analysis) - Considered harmful: [Lodewijk Muns. Why I am not a Schenkerian](https://lodewijkmuns.nl/WhyIamNotaSchenkerian.pdf)
 
