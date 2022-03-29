@@ -366,6 +366,9 @@ Microtonal music
 
 - [Easley Blackwood. Microtonal Compositions](https://www.youtube.com/watch?v=HbuFPpiJL1o). He also published an article "Blackwood, E. (1991). Modes and Chord Progressions in Equal Tunings"
 
+<img width="624" alt="Screenshot 2022-03-29 at 16 09 03" src="https://user-images.githubusercontent.com/1491908/160588361-ad7e83ca-2aab-41ac-8647-c95a309be9e7.png">
+
+
 Ear training
 ===
 
