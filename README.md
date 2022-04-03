@@ -60,6 +60,8 @@ The books below give an intro into music notation and are good for a beginner, a
 - [Mauro Braunstein. Offtonic Theory](https://offtonic.com/theory/index.html) - An online book that is spiced up with Jewish Chasidic examples (in addition to classical and rock ones)  and an intro into Arabic maqamaat music
 - [Sean Butterfield. Integrated Musicianship: Theory](https://intmus.github.io/inttheory21-22/) - An open-source, interactive, online textbook for college-level music theory courses
 - [Robert Hutchinson. Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+- [Mark Gotham, Kyle Gullings, Chelsey Hamm, Bryn Hughes, Brian Jarvis, Megan Lavengood, John Peterson. Open Music Theory](https://viva.pressbooks.pub/openmusictheory/front-matter/introduction/)
+- [Hrvoje Staneković. Musical harmony, theory with examples from piano repertoire](https://sites.google.com/view/musicalharmonysite/part-ii-harmony-theory-and-analysis/complete-harmony-analyses/bachs-two-part-invention-no-8-in-f-major?authuser=0) – Several harmonic analyses of piano scores of Bach and Chopin with a very thorough introduction
 
 
 
