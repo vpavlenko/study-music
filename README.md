@@ -438,6 +438,7 @@ Sound design
 
 <img width="500" alt="Screenshot 2022-02-15 at 5 30 00 PM" src="https://user-images.githubusercontent.com/1491908/154082341-246eb8f2-732b-4c94-aa5a-0a1edd983c73.png">
 
+- [YouTube lectures on FM synthesis](https://www.reddit.com/r/edmproduction/comments/4mm3hk/learn_fm_synthesis/)
 
 
 
