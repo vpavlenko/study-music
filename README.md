@@ -38,7 +38,7 @@ Music theory
 Rock harmony
 ---
 
-Rock harmony is somewhat simplest of the three (rock, jazz and classical), and there are high chances that you're familiar with this culture (rock/pop). So it makes sense to start here and expand into jazz and classical harmony later on - as they share a lot of concepts.
+Rock harmony is arguably the simplest of the three (rock, jazz and classical), and there are high chances that you're familiar with this culture (rock/pop). So it makes sense to start here and expand into jazz and classical harmony later on - as they share a lot of concepts.
 
 - [HookTheory](https://www.hooktheory.com/) - A database of many rock songs and some jazz songs and game tunes focused at harmonic analysis. Comes with a melody-harmony online editor [HookPad](https://www.hooktheory.com/videos) and [two must-read online books](https://www.hooktheory.com/books) on pop/rock harmony which explain Roman numeral analysis, secondary chords and modes. **You should probably start with those books** unless you already have a college degree in music. You can read them in two weeks if you focus enough.
 <img width="995" alt="Screenshot 2022-01-21 at 12 57 44 AM" src="https://user-images.githubusercontent.com/1491908/150428708-4c3f082d-5cc2-47b5-a088-8558d5c41461.png" style="filter: drop-shadow(30px 10px 4px #4444dd); border: 1px solid pink">
