@@ -77,7 +77,7 @@ YouTube videos with harmonic analyses:
 
 <img width="800" alt="Screenshot 2022-02-15 at 6 27 08 PM" src="https://user-images.githubusercontent.com/1491908/154093478-04daf0d3-0658-4930-bded-d2623d93fa14.png">
 
-- [mDecks Mapping Tonal Harmony Pro YouTube channel](https://www.youtube.com/watch?v=4Ltni6rPHUk&list=PLt-Oh3MSFwB9ECItA5ED-fcS0PnqPPgr-&index=4) - One should check many of their educational videos. Probably not worth buying the software right away.
+- [mDecks Mapping Tonal Harmony Pro YouTube channel](https://www.youtube.com/watch?v=4Ltni6rPHUk&list=PLt-Oh3MSFwB9ECItA5ED-fcS0PnqPPgr-&index=4) - One should check many of their educational videos
 
 <img width="800" alt="Screenshot 2022-01-21 at 12 35 38 PM" src="https://user-images.githubusercontent.com/1491908/150503245-3dcd5745-83b1-4751-850e-28917bb0cde1.png">
 
@@ -100,7 +100,7 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
   
  <img width="700" alt="Screenshot 2022-02-14 at 2 01 14 PM" src="https://user-images.githubusercontent.com/1491908/153851930-f3c8078f-d565-4398-96ba-850eb628b681.png">
 
-- [The Jazz Standards Progressions Book](https://mdecks.com/jazzstandards.phtml) - Hundreds of popular jazz standards manually analyzed by authors of mDecks to highlight jazz-specific harmonic patterns (tritone substitution, ii-V-s, to-minor, chord scales)
+- [The Jazz Standards Progressions Book](https://mdecks.com/jazzstandards.phtml) - Hundreds of popular jazz standards manually analyzed by authors of mDecks to highlight jazz-specific harmonic patterns (tritone substitution, ii-V-s, to-minor, chord scales). Alternatively, you may buy [Mapping Tonal Harmony Pro](https://mdecks.com/mapharmony.phtml) with the paid 1300 Jazz Standards add-on to explore all progressions on a tonal map
 
 <img width="700" alt="Screenshot 2022-01-21 at 2 59 30 AM" src="https://user-images.githubusercontent.com/1491908/150441200-f311d430-29da-47b4-ae72-ddef62fe831f.png">
 
