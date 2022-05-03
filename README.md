@@ -77,7 +77,7 @@ YouTube videos with harmonic analyses:
 
 <img width="800" alt="Screenshot 2022-02-15 at 6 27 08 PM" src="https://user-images.githubusercontent.com/1491908/154093478-04daf0d3-0658-4930-bded-d2623d93fa14.png">
 
-- [mDecks Mapping Tonal Harmony Pro YouTube channel](https://www.youtube.com/watch?v=4Ltni6rPHUk&list=PLt-Oh3MSFwB9ECItA5ED-fcS0PnqPPgr-&index=4) - One should check many of their educational videos
+- [mDecks Mapping Tonal Harmony Pro YouTube channel](https://www.youtube.com/watch?v=4Ltni6rPHUk&list=PLt-Oh3MSFwB9ECItA5ED-fcS0PnqPPgr-&index=4) - Worth  checking many of their educational videos. Especially [the playlist on harmony fundamentals](https://www.youtube.com/watch?v=buIpYXq80_Q&list=PLt-Oh3MSFwB8mfyRvS0YGpLpSW8t4ci_0&index=1)
 
 <img width="800" alt="Screenshot 2022-01-21 at 12 35 38 PM" src="https://user-images.githubusercontent.com/1491908/150503245-3dcd5745-83b1-4751-850e-28917bb0cde1.png">
 
