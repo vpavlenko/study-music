@@ -494,7 +494,7 @@ Notable instruments
 Mixing
 ===
 
-- [David Gibson. The Art of Mixing](https://amzn.to/3qIiY1H) - A visual approach to represent a mix. [The same book as a 3h YouTube movie](https://www.youtube.com/watch?v=TEjOdqZFvhY)
+- [David Gibson. The Art of Mixing](https://amzn.to/3qIiY1H) - A visual approach to represent a mix. [The same book as a great and amusing YouTube educational movie from the 1990s, in stereo](https://www.youtube.com/watch?v=TEjOdqZFvhY). Also, [The Art of Producing](https://www.amazon.com/Art-Producing-David-Gibson/dp/1931140448)
 
 ![image](https://user-images.githubusercontent.com/1491908/150440495-792afe9a-4786-48d9-a798-6a45d2eac3e0.png)
 
