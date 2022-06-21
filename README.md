@@ -351,6 +351,8 @@ Find a gamelan ensemble in your city, come and learn to play it. You can instant
 
 - 🇷🇺 В Москве можно прийти научиться в [Gamelan Dadali](https://www.instagram.com/gamelandadali/)
 
+- [Jo Hilder. Central Javanese Gamelan](https://gamelan.org.nz/wp-content/uploads/2015/02/Jo-Hilder-Central-Javanese-Gamelan.pdf) – A concise reference 
+
 - [Marc Perlman. Unplayed Melodies: Javanese Gamelan and the Genesis of Music Theory](https://amzn.to/3ApON2y)
  
 <img width="600" alt="Screenshot 2022-01-24 at 4 01 22 PM" src="https://user-images.githubusercontent.com/1491908/150787407-fdf9fda7-d425-4409-bb1e-4884553cfac0.png">
