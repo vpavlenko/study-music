@@ -53,7 +53,6 @@ Rock harmony is arguably the simplest of the three (rock, jazz and classical), a
 <img width="631" alt="Screenshot 2022-05-01 at 17 28 22" src="https://user-images.githubusercontent.com/1491908/166143877-00f99fe0-5131-4e29-a769-494b5e6129a0.png">
 
 
-- 🇷🇺 [Гармонический язык Цоя](https://t.me/keetezh/148) - подписывайтесь на мой канал
 
 
 
