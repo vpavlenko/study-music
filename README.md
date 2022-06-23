@@ -334,6 +334,13 @@ World traditions
 
 - [Ocora Records](https://www.youtube.com/results?search_query=ocora)
 
+Online courses
+---
+
+- Lark Camp is hosting free online sessions during COVID times: [August](https://www.larkcamp.org/lark-online-workshops/), [February](https://www.larkcamp.org/virtual-lark/)
+
+- https://labyrinthonline.org/
+
 Arabic music
 ---
 
@@ -342,6 +349,9 @@ Arabic music
 <img width="678" alt="Screenshot 2022-01-21 at 2 41 37 AM" src="https://user-images.githubusercontent.com/1491908/150439587-5f279385-0b7f-4ad4-8ab0-4296375830d4.png">
 
 - [Maqamat chapter in Offtonic](https://offtonic.com/theory/book/7-9.html)
+
+- https://arabicmusicretreat.org/
+
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 http://taqasim.net/ - An oud and darbuka school in the City of London (I learn to play oud there)
 
 Gamelan
