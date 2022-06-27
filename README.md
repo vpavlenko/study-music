@@ -364,6 +364,14 @@ Arabic music
 
 <img width="750" alt="Screenshot 2022-06-27 at 10 58 43" src="https://user-images.githubusercontent.com/1491908/175863254-2a9f7009-4537-46f0-bdc3-b64014e06379.png">
 
+Balkan brass
+---
+
+- [Matthew James Kay. A Return to Brotherhood: Nationalism, Globalization and The Negotiation of Identity in Romani Brass Band Music in Serbia](https://d.lib.msu.edu/etd/47911/datastream/OBJ/view) - The author describes his visits to a Guča festival and to a Romani village to interview musicians
+
+<img width="683" alt="Screenshot 2022-06-27 at 11 50 59" src="https://user-images.githubusercontent.com/1491908/175868701-372d0698-26c0-453f-8886-3e4974b7f105.png">
+
+
 
 Gamelan
 ---
