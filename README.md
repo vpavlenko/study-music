@@ -354,6 +354,11 @@ Arabic music
 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 http://taqasim.net/ - An oud and darbuka school in the City of London (I learn to play oud there)
 
+- [Kareem Joseph Roustom. A Study Of Six Improvisations On The Ud By Riyad al-Sunbati](https://www.dropbox.com/s/30q58sjj2jaujx3/sunbati_taqasim_study.pdf?dl=0) - Contains transcriptions and analysis. [Audio](https://www.youtube.com/watch?v=RzldNCWPkEw&list=OLAK5uy_kux1r3eMTBnNauRmfkoVY-wCYaI84hHfM&index=1)
+
+<img width="750" alt="Screenshot 2022-06-27 at 10 58 43" src="https://user-images.githubusercontent.com/1491908/175863254-2a9f7009-4537-46f0-bdc3-b64014e06379.png">
+
+
 Gamelan
 ---
 
