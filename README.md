@@ -281,6 +281,12 @@ Misc
 
 - http://openmusictheory.com/
 
+- [Christopher J. Hopkins. Chiptune Music: An Exploration of Compositional Techniques as Found in Sunsoft Games for the Nintendo Entertainment System
+And Famicom From 1988-1992](https://www.christopherjhopkins.com/chiptune-dissertation.html)
+
+<img width="800" alt="Screenshot 2022-06-27 at 11 07 48" src="https://user-images.githubusercontent.com/1491908/175864137-4b139ba4-246c-4d67-9ec5-6b1cdbcb94c7.png">
+
+
 
 
 
