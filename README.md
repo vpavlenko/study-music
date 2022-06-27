@@ -328,6 +328,9 @@ Listening guides
 
 <img width="900" alt="Screenshot 2022-02-15 at 5 23 54 PM" src="https://user-images.githubusercontent.com/1491908/154081136-ce9a8111-42c9-493c-a3c5-05b9121d5cf9.png">
 
+- [Listener's Companion series by Rowman & Littlefield](https://rowman.com/Action/SERIES/RL/SCP003)
+
+<img width="574" alt="Screenshot 2022-06-27 at 14 58 13" src="https://user-images.githubusercontent.com/1491908/175901122-85eeea8b-de5e-43e7-9a30-081efa701093.png">
 
 
 
