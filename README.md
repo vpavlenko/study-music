@@ -343,6 +343,8 @@ World traditions
 
 - [Ocora Records](https://www.youtube.com/results?search_query=ocora)
 
+- [All the books by Bruno Nettl](https://en.wikipedia.org/wiki/Bruno_Nettl#Selected_publications)
+
 Online courses
 ---
 
