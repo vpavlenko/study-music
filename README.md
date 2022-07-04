@@ -15,7 +15,10 @@ A survey of books, resources and courses to **study** everything about **music**
 - [Music composition](#music-composition)
 - [Listening guides](#listening-guides)
 - [World traditions](#world-traditions)
+  * [Online courses](#online-courses)
   * [Arabic music](#arabic-music)
+  * [Persian music](#persian-music)
+  * [Balkan brass](#balkan-brass)
   * [Gamelan](#gamelan)
   * [Irish fiddle](#irish-fiddle)
 - [Sheet music](#sheet-music)
@@ -368,6 +371,13 @@ Arabic music
 - [Kareem Joseph Roustom. A Study Of Six Improvisations On The Ud By Riyad al-Sunbati](https://www.dropbox.com/s/30q58sjj2jaujx3/sunbati_taqasim_study.pdf?dl=0) - Contains transcriptions and analysis. [Audio](https://www.youtube.com/watch?v=RzldNCWPkEw&list=OLAK5uy_kux1r3eMTBnNauRmfkoVY-wCYaI84hHfM&index=1). Also, [scrolling videos with analysis by Dimitri Mikelis](https://www.youtube.com/watch?v=745oFdcQUM8&list=PLQREsa4XqknyXYtIJmunPxAHO7ougjA9Y)
 
 <img width="750" alt="Screenshot 2022-06-27 at 10 58 43" src="https://user-images.githubusercontent.com/1491908/175863254-2a9f7009-4537-46f0-bdc3-b64014e06379.png">
+
+Persian music
+---
+
+The central concept here is [radif](https://en.wikipedia.org/wiki/Radif_(music)). There are several complete radif recordings, both instrumental (Radif of Persian Music on Tar by Morteza Neydavoud in 6 volumes) and vocal. I haven't yet found the books with transcriptions mentioned in a Bruno Nettl work.
+
+- [Bruno Nettl. The Radif of Persian Music: Studies of Structure and Cultural Context](https://www.amazon.com/Radif-Persian-Music-Structure-Cultural/dp/9992927690)
 
 Balkan brass
 ---
