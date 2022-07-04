@@ -372,6 +372,8 @@ Arabic music
 
 <img width="750" alt="Screenshot 2022-06-27 at 10 58 43" src="https://user-images.githubusercontent.com/1491908/175863254-2a9f7009-4537-46f0-bdc3-b64014e06379.png">
 
+- [Maintaining a Musical Tradition in Arab-America: An Oral History of Abdel Karim Bader](https://d.lib.msu.edu/etd/1378/datastream/OBJ/View/)
+
 Persian music
 ---
 
