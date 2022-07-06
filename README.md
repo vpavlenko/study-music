@@ -426,6 +426,11 @@ Irish fiddle
 - https://www.youtube.com/watch?v=S7jNIFmvpzg&list=PLqKVRZsoDhsYyhvyf2xVdmsuOUCfENYE7
 - https://www.youtube.com/watch?v=C-Kzr07-f9I&list=PL89aHnZ0FvtUOpqhKjU0qbzIwrVJC88Ql
 
+Misc
+---
+
+- [Kyrgyz tradition](kyrgyz.md)
+
 Sheet music
 ===
 
