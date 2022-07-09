@@ -378,6 +378,8 @@ Arabic music
 
 - [Maintaining a Musical Tradition in Arab-America: An Oral History of Abdel Karim Bader](https://d.lib.msu.edu/etd/1378/datastream/OBJ/View/) - Contains a lot of reflexion on how Arabic music skills are transmitted from a teacher to a student. Sadly, I can't find any audio recordings mentioned the thesis
 
+- [Some videos on YouTube](https://www.youtube.com/results?search_query=maqam+analysis)
+
 Persian music
 ---
 
