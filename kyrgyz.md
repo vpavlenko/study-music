@@ -20,5 +20,6 @@ Some speculations (to be carefully verified using the scores):
 - pieces are primarily melodic, the melody is performed on two strings using many positions
 - sometimes the melody is doubled in thirds, fourths or fifths, other times the third string is used for droning
 - melodies are done in diatonic modes, with no strict emphasis on the Western major/minor or functional harmony
+- melody usually stays within the small range of notes, rhythm is usually simple, meter may change every bar, the pace of performance is pretty fast. the expressive emphasys is thus on the meter and the right-hand technique 
 
 Speculations came from skimming of [В. Виноградов, Киргизская народная музыка, 1958 г.](https://drive.google.com/drive/folders/19Usu0xekX-lNvx--hN2c0ikXUfsxwWd5?usp=sharing) (not avaiable online).
