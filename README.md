@@ -139,6 +139,11 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 <img width="950" alt="Screenshot 2022-02-14 at 2 07 41 PM" src="https://user-images.githubusercontent.com/1491908/153852934-e256e715-3ecf-4399-92ec-9b20288d1705.png">
 
+- [Doug McKenzie's Jazz Piano videos](https://bushgrafts.com/)
+
+<img width="800" alt="Screenshot 2022-07-11 at 21 34 59" src="https://user-images.githubusercontent.com/1491908/178301639-4ce596c7-94ee-4ab7-8247-be0d41c8e0f5.png">
+
+
 ### Jazz piano
 
 - [Mark Levine. The Jazz Piano Book](https://amzn.to/3uQwd2Q) and also [Mark Levine. The Jazz Theory Book](https://amzn.to/3uVHVt1)
