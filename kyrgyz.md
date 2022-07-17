@@ -33,6 +33,7 @@ Kerbezim
 
 [Kerbezim](https://www.youtube.com/results?search_query=%D0%BA%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%B8%D0%BC) is a short piece by Toktogul Satylganov. It uses the first five notes of the A major scale (A-B-C#-D-E). The strings are tuned E3-A3-E3. The unusual sound comes from the droning *fifth* degree (not a tonic) - the upper E3 string. The lower A3 and E3 strings are used for the melody in the second (or the third?) position using the (imaginary) frets 4, 5 and 7. The A is played with the second string open (making a unison), on all other notes one of the two melodic strings is muted.
 
-<img width="700" alt="Screenshot 2022-07-17 at 18 56 18" src="https://user-images.githubusercontent.com/1491908/179399399-1bec27d8-f592-4f2a-a730-e89e3fb51a74.png">
+
+![PHOTO-2022-07-12-13-22-57](https://user-images.githubusercontent.com/1491908/179401149-018129b3-93ba-48ac-a02b-b769a7d39068.jpg)
 
 
