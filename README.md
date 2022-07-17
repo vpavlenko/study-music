@@ -21,6 +21,7 @@ A survey of books, resources and courses to **study** everything about **music**
   * [Balkan brass](#balkan-brass)
   * [Gamelan](#gamelan)
   * [Irish fiddle](#irish-fiddle)
+  * [Misc](#misc-1)
 - [Sheet music](#sheet-music)
 - [Microtonal music](#microtonal-music)
 - [Ear training](#ear-training)
