@@ -28,4 +28,11 @@ Speculations came from skimming of [В. Виноградов, Киргизска
 
 <img width="700" alt="Screenshot 2022-05-01 at 17 28 22" src="https://user-images.githubusercontent.com/1491908/179390142-f91a98bd-d2ee-495f-b8c6-335565153a0f.jpg">
 
+Kerbezim
+---
+
+[Kerbezim](https://www.youtube.com/results?search_query=%D0%BA%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%B8%D0%BC) is a short piece by Toktogul Satylganov. It uses the first five notes of the major scale. The unusual sound comes from the droning *fifth* degree (not a tonic).
+
+<img width="700" alt="Screenshot 2022-07-17 at 18 56 18" src="https://user-images.githubusercontent.com/1491908/179399399-1bec27d8-f592-4f2a-a730-e89e3fb51a74.png">
+
 
