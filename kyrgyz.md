@@ -11,18 +11,20 @@ Virtuoso players are called _komuzchu_ "комузчу" (plural _komuzchular_ "�
 
 There are songs and instrumental pieces. Instrumental pieces are called _küü_ "күү" (plural _küülör_ "күүлөр") and comprise a core of the tradition (standards).
 There's around 200 of popular ones, with the core of around 50 is the most popular. Some of them are traditional, some of them are composed
-by composers of the 20th century. The names of popular standards [are given here](https://drive.google.com/drive/folders/10yVsZBPEoToMBBkdfk8wBOhoR9nSv9Dm?usp=sharing). Their recordings can be found on YouTube.
+by composers of the 20th century. The names of popular standards split by genres [are given here](https://drive.google.com/drive/folders/10yVsZBPEoToMBBkdfk8wBOhoR9nSv9Dm?usp=sharing). Their recordings can be found on YouTube.
 
 The book "Балбай Алагушов. Антология кюу для комуза" (unavailable online, its CDs and DVDs are also unavailable)
 contains scores for many of them. [Here's a first part of photos](https://drive.google.com/drive/folders/1pRBe7Uew42iNw1EMOrnqL0HNyGZU3YNn?usp=sharing) (the second half to be photocopied):
 
 Some speculations (to be carefully verified using the scores):
-- pieces are primarily melodic, the melody is performed on two strings using many positions
+- pieces are primarily melodic, the melody is performed on two strings using several positions (six positions are recognized in total)
 - sometimes the melody is doubled in thirds, fourths or fifths, other times the third string is used for droning
-- melodies are done in diatonic modes, with no strict emphasis on the Western major/minor or functional harmony
-- melody usually stays within the small range of notes, rhythm is usually simple, meter may change every bar, the pace of performance is pretty fast. the expressive emphasys is thus on the meter and the right-hand technique 
+- melodies are in diatonic modes, with no strict emphasis on the Western major/minor or functional harmony
+- melody usually stays within the small range of notes (say, from tonic to fifth), rhythm is usually simple, meter may change every bar, the pace of performance is pretty fast. the expressive emphasis is thus on the meter and the right-hand technique:
 
-Speculations came from skimming of [В. Виноградов, Киргизская народная музыка, 1958 г.](https://drive.google.com/drive/folders/19Usu0xekX-lNvx--hN2c0ikXUfsxwWd5?usp=sharing) (not avaiable online).
+![telegram-cloud-photo-size-2-5346051011896262251-y](https://user-images.githubusercontent.com/1491908/179401261-ae457452-b394-4d77-9489-e7b9ba4a71d6.jpg)
+
+Speculations came from skimming [В. Виноградов, Киргизская народная музыка, 1958 г.](https://drive.google.com/drive/folders/19Usu0xekX-lNvx--hN2c0ikXUfsxwWd5?usp=sharing) (not avaiable online).
 
 - [Mariyam Korpobaeva. Musical analysis of genres of komuz kuus](https://www.dropbox.com/s/nshdp0igcvk6str/Mariyam_Korpobaeva_Komuz_analysis.pdf?dl=0) - A great book that analyzes distinctive features of four main types of kuus. The book is in Kyrgyz, you can read it by copy-pasting the text into Google Translate. It has the notes of many standards starting from the page 53.
 
