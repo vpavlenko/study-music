@@ -18,7 +18,8 @@ contains scores for many of them. [Here's a first part of photos](https://drive.
 
 Some speculations (to be carefully verified using the scores):
 - pieces are primarily melodic, the melody is performed on two strings using several positions (six positions are recognized in total)
-- sometimes the melody is doubled in thirds, fourths or fifths, other times the third string is used for droning
+- the third string is used for droning most of the time
+- sometimes the melody is doubled in fourths or fifths, depending on the tuning
 - melodies are in diatonic modes, with no strict emphasis on the Western major/minor or functional harmony
 - melody usually stays within the small range of notes (say, from tonic to fifth), rhythm is usually simple, meter may change every bar, the pace of performance is pretty fast. the expressive emphasis is thus on the meter and the right-hand technique:
 
