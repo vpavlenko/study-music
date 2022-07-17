@@ -40,6 +40,8 @@ Here comes the list of YouTube videos that closely match the scores from the boo
 
 - [Сынган бугу,  p. 66-71](https://www.youtube.com/watch?v=Fsv_q9bV1KI)
 - [Салтанат шыңгырама, p. 72-73](https://youtu.be/IuScsqKFi6c?t=39)
+- [Чоң кербез (Токтогул), p. 84-85](https://www.youtube.com/watch?v=xU8Eny6mVV4)
+- [Жаш кербез, p. 89-91](https://www.youtube.com/watch?v=tfIdzzBODBo)
 
 Kerbezim
 ---
