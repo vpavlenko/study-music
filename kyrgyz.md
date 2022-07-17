@@ -26,6 +26,8 @@ Some speculations (to be carefully verified using the scores):
 
 Speculations came from skimming [В. Виноградов, Киргизская народная музыка, 1958 г.](https://drive.google.com/drive/folders/19Usu0xekX-lNvx--hN2c0ikXUfsxwWd5?usp=sharing) (not avaiable online).
 
+- [Muratbek Kasey. On Characteristics of Komuz Performing Art](https://7universum.com/pdf/philology/6(40)/Kasey.pdf)
+
 The book of Mariyam Korpobaeva
 ===
 
