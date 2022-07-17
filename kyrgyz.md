@@ -26,9 +26,17 @@ Some speculations (to be carefully verified using the scores):
 
 Speculations came from skimming [В. Виноградов, Киргизская народная музыка, 1958 г.](https://drive.google.com/drive/folders/19Usu0xekX-lNvx--hN2c0ikXUfsxwWd5?usp=sharing) (not avaiable online).
 
+The book of Mariyam Korpobaeva
+===
+
 - [Mariyam Korpobaeva. Musical analysis of genres of komuz kuus](https://www.dropbox.com/s/nshdp0igcvk6str/Mariyam_Korpobaeva_Komuz_analysis.pdf?dl=0) - A great book that analyzes distinctive features of four main types of kuus. The book is in Kyrgyz, you can read it by copy-pasting the text into Google Translate. It has the score for many standards starting from the page 53.
 
 <img width="700" alt="Screenshot 2022-05-01 at 17 28 22" src="https://user-images.githubusercontent.com/1491908/179390142-f91a98bd-d2ee-495f-b8c6-335565153a0f.jpg">
+
+Here comes the list of YouTube videos that closely match the scores from the book:
+
+- [Сынган бугу,  p. 66-71](https://www.youtube.com/watch?v=Fsv_q9bV1KI)
+- [Салтанат шыңгырама, p. 72-73](https://youtu.be/IuScsqKFi6c?t=39)
 
 Kerbezim
 ---
