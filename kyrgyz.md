@@ -1,7 +1,7 @@
 Kyrgyz tradition
 ===
 
-[Sample YouTube query](https://www.youtube.com/results?search_query=%D0%BA%D2%AF%D2%AF+%D0%BA%D0%BE%D0%BC%D1%83%D0%B7), [another YouTube query](https://www.youtube.com/results?search_query=%D0%BA%D0%BE%D0%BC%D1%83%D0%B7+%D0%BA%D2%AF%D2%AF%D0%BB%D3%A9%D1%80%D2%AF)
+[Sample YouTube query](https://www.youtube.com/results?search_query=%D0%BA%D2%AF%D2%AF+%D0%BA%D0%BE%D0%BC%D1%83%D0%B7), [another YouTube query](https://www.youtube.com/results?search_query=%D0%BA%D0%BE%D0%BC%D1%83%D0%B7+%D0%BA%D2%AF%D2%AF%D0%BB%D3%A9%D1%80%D2%AF), [some playlist](https://www.youtube.com/playlist?list=PL65E736C0EC1AFC26)
 
 (Caution: radical oversimplifications below.)
 
