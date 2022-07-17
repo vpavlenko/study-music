@@ -23,3 +23,8 @@ Some speculations (to be carefully verified using the scores):
 - melody usually stays within the small range of notes, rhythm is usually simple, meter may change every bar, the pace of performance is pretty fast. the expressive emphasys is thus on the meter and the right-hand technique 
 
 Speculations came from skimming of [В. Виноградов, Киргизская народная музыка, 1958 г.](https://drive.google.com/drive/folders/19Usu0xekX-lNvx--hN2c0ikXUfsxwWd5?usp=sharing) (not avaiable online).
+
+- [Mariyam Korpobaeva. Musical analysis of genres of komuz kuus](https://www.dropbox.com/s/nshdp0igcvk6str/Mariyam_Korpobaeva_Komuz_analysis.pdf?dl=0) - A great book analyzing distinctive features of four main types of kuus. The book is in Kyrgyz, you can read it by copy-pasting the text into Google Translate.
+
+![IMG_0188](https://user-images.githubusercontent.com/1491908/179390142-f91a98bd-d2ee-495f-b8c6-335565153a0f.jpg)
+
