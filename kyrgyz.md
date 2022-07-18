@@ -29,6 +29,11 @@ Speculations came from skimming [В. Виноградов, Киргизская 
 
 - [Muratbek Kasey. On Characteristics of Komuz Performing Art](https://7universum.com/pdf/philology/6(40)/Kasey.pdf)
 
+The Anthology of Alagushov
+===
+
+- [Жумалак ботой (Карамолдо), p. 162-165](https://www.facebook.com/watch/?v=2388757888031231)
+
 The book of Mariyam Korpobaeva
 ===
 
