@@ -159,6 +159,9 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 - [Charlie Banacos](https://en.wikipedia.org/wiki/Charlie_Banacos)
 
+### Misc
+
+- [Bob Keller's Jazz Page](https://www.cs.hmc.edu/~keller/jazz/)
 
 Bach chorales
 ---
