@@ -148,6 +148,8 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 ![image](https://user-images.githubusercontent.com/1491908/181064580-48e3b242-bad3-43bd-a303-7ec3ab041638.png)
 
+- Seven volumes of Jerry Bergonzi (starting with "Melodic Structures") to gradually build up your solo language from tiniest parts. [Trailers](https://www.youtube.com/c/MyMusicMasterclass/search?query=bergonzi), [website](https://www.jerrybergonzi.net/instructional-content)
+
 
 ### Jazz piano
 
