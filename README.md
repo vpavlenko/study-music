@@ -128,7 +128,7 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 - [Dariusz Terefenko. Jazz Theory: From Basic to Advanced Study](https://amzn.to/3oOlXEC) - Also has [a companion website](https://routledgetextbooks.com/textbooks/9780415537612/recordings.php) with [a workbook](https://routledgetextbooks.com/textbooks/9780415537612/workbook.php).
 
-### Jazz solo
+### Jazz solos
 
 - [🎥 Jazz Piano Practice Session - Major II V I & Turn Around Licks](https://www.youtube.com/watch?v=57r-M-oXpsc) - Introduction into solo building strategies
 - [🎥 Analysing a Jazz Solo - Straight, No Chaser (Davis, Coltrane, Adderley, Garland, Chambers)](https://www.youtube.com/watch?v=qo_A5W-Lzvk) - Analysis of notable solos of the time
@@ -151,6 +151,11 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 - Seven volumes of Jerry Bergonzi (starting with "Melodic Structures") to gradually build up your solo language from tiniest parts exploiting all scales and note permutations. [Trailers](https://www.youtube.com/c/MyMusicMasterclass/search?query=bergonzi), [website](https://www.jerrybergonzi.net/instructional-content)
 
 <img width="800" alt="Screenshot 2022-07-29 at 12 50 34" src="https://user-images.githubusercontent.com/1491908/181700334-6421f89a-5751-498e-8f46-0856ba0cfb4b.png">
+
+- [Joe Riposo. Target and Approach Tones: Shaping Bebop Lines](https://www.amazon.com/Target-Approach-Tones-Shaping-Bebop/dp/1562242636) - A small book focusing on the join notes in between changing chord scales.
+
+<img width="753" alt="Screenshot 2022-07-29 at 13 10 09" src="https://user-images.githubusercontent.com/1491908/181703286-3bb053a1-83e7-417a-a019-2cf4e8dee315.png">
+
 
 
 ### Jazz piano
