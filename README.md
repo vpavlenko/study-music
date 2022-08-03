@@ -373,7 +373,7 @@ World traditions
 Online courses
 ---
 
-- Lark Camp is hosting free online sessions during COVID times: [August](https://www.larkcamp.org/lark-online-workshops/), [February](https://www.larkcamp.org/virtual-lark/)
+- Lark Camp is hosting free online sessions during COVID times: [August](https://www.larkcamp.org/lark-online-workshops/), [February](https://www.larkcamp.org/virtual-lark/), [some past recorded sessions](https://www.youtube.com/c/LarkTraditionalArts/videos)
 
 - https://labyrinthonline.org/
 
