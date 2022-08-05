@@ -5,7 +5,7 @@ A survey of books, resources and courses to **study** everything about **music**
   * [General intro and classical harmony](#general-intro-and-classical-harmony)
   * [Jazz](#jazz)
     + [Jazz harmony](#jazz-harmony)
-    + [Jazz solo](#jazz-solo)
+    + [Jazz solos](#jazz-solos)
     + [Jazz piano](#jazz-piano)
   * [Bach chorales](#bach-chorales)
   * [Neo-Riemannian theory](#neo-riemannian-theory)
@@ -465,6 +465,7 @@ Misc
 ---
 
 - [Kyrgyz tradition](kyrgyz.md)
+- [Hans Baken. Folk Music from Bulgaria, Fake Book](https://hjj.home.xs4all.nl/Bladmuziek/Fakebook_Bulgarian_Music.pdf)
 
 Sheet music
 ===
