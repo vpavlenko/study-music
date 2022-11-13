@@ -446,6 +446,8 @@ Find a gamelan ensemble in your city, come and learn to play it. You can instant
 
 - "The concept of pathet in Central Javanese gamelan music", paper.
 
+- Karawitan: Source Readings in Javanese Gamelan and Vocal Music (three volumes)
+
 - [My humble handout](https://docs.google.com/document/d/1oKbYpSAcunMTvB-casuFUyiaSuHGJkJhGf5rrvfOPgE/edit?usp=sharing)
 
 - [Tutorials on the "Indra production" channel](https://www.youtube.com/watch?v=5lwgd311Dsg)
