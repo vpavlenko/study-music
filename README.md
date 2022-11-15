@@ -35,6 +35,7 @@ A survey of books, resources and courses to **study** everything about **music**
 - [Other lists](#other-lists)
 
 
+Do you know how to enroll in a music theory program having only a computer science BSc (and no formal music degree)? Please, let me know: cxielamiko@gmail.com, t.me/vitalypavlenko (asking for myself)
 
 Music theory
 ===
@@ -451,6 +452,8 @@ Find a gamelan ensemble in your city, come and learn to play it. You can instant
 - [My humble handout](https://docs.google.com/document/d/1oKbYpSAcunMTvB-casuFUyiaSuHGJkJhGf5rrvfOPgE/edit?usp=sharing)
 
 - [Tutorials on the "Indra production" channel](https://www.youtube.com/watch?v=5lwgd311Dsg)
+
+- [Larry Polansky. Beginning Central Javanese Gender](http://www.gamelan.org/library/sukamso_gender.pdf)
 
 Also [google "debussy gamelan"](https://www.google.com/search?q=debussy+gamelan)
 
