@@ -455,6 +455,8 @@ Find a gamelan ensemble in your city, come and learn to play it. You can instant
 
 - [Larry Polansky. Beginning Central Javanese Gender](http://www.gamelan.org/library/sukamso_gender.pdf)
 
+- [Institutional Repository](http://repository.isi-ska.ac.id/view/subjects/AI.html)
+
 Also [google "debussy gamelan"](https://www.google.com/search?q=debussy+gamelan)
 
 Also see chapters in the book of William A. Sethares below
