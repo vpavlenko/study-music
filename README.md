@@ -35,7 +35,7 @@ A survey of books, resources and courses to **study** everything about **music**
 - [Other lists](#other-lists)
 
 
-Do you know how to enroll in a music theory program having only a computer science BSc (and no formal music degree)? Please, let me know: cxielamiko@gmail.com, t.me/vitalypavlenko (asking for myself)
+❓❓❓ Do you know how to enroll in a music theory program after a computer science BSc (without a completed formal music degree)? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself) 🤔🤔🤔
 
 Music theory
 ===
