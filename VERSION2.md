@@ -36,4 +36,8 @@ Jazz solo
 1. Make sure that LEGO and Impro-Visor are clearly stated.
 2. Dig that lick corpus
 
+Music history
+---
+
+Taruskin in 5 volumes
 
