@@ -45,3 +45,8 @@ Form
 ---
 
 1. Emphasize Caplin "Analyzing", also tell about the Caplin, Hepokoski, Webster.
+
+Neo-Riemnnian Theory
+---
+
+Link a criticism from Huron Shanahan interview.
