@@ -50,3 +50,9 @@ Neo-Riemnnian Theory
 ---
 
 Link a criticism from Huron Shanahan interview.
+
+Harmony
+---
+
+Mention pugetsound, open music theory, Aldwell Schachter, Kostka Payne, mention whats obsolete and why
+
