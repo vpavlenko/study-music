@@ -44,7 +44,7 @@ Taruskin in 5 volumes
 Form
 ---
 
-1. Emphasize Caplin "Analyzing", also tell about the Caplin, Hepokoski, Webster.
+1. Emphasize Caplin "Analyzing" (incl a review by Aziz, and an iOS app), also tell about the Caplin, Hepokoski, Webster.
 
 Neo-Riemnnian Theory
 ---
