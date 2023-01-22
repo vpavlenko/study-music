@@ -35,6 +35,7 @@ Jazz solo
 
 1. Make sure that LEGO and Impro-Visor are clearly stated.
 2. Dig that lick corpus
+3. David Baker
 
 Music history
 ---
