@@ -56,3 +56,7 @@ Harmony
 
 Mention pugetsound, open music theory, Poundie Burstein, Benward Saker, Aldwell Schachter, Kostka Payne, mention whats obsolete and why
 
+Video game music
+---
+
+Make a separate chapter. Include a chiptune thesis, also include works by Fritsch and Summers
