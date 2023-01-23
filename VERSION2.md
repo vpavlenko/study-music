@@ -61,3 +61,9 @@ Video game music
 ---
 
 Make a separate chapter. Include a chiptune thesis, also include works by Fritsch and Summers
+
+Sociology of music
+---
+
+(just to popularize the concept)
+Clarke, Cook. Empirical Musicology
