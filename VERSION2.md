@@ -9,7 +9,7 @@ Many of the resources are announced in https://t.me/keetezh
 Schenkerian analysis
 ---
 
-1. Add http://davidtemperley.com/wp-content/uploads/2015/11/temperley-mts11.pdf as a criticism.
+1. Add http://davidtemperley.com/wp-content/uploads/2015/11/temperley-mts11.pdf as a criticism. Also Temperley's "The Question of Purpose"
 2. List several books that are build on Schenkerian principles. (Eg. from the Oxford Studies in Music Theory)
 
 Post-tonal theory
