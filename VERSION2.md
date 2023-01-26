@@ -35,7 +35,8 @@ Jazz solo
 
 1. Make sure that LEGO and Impro-Visor are clearly stated.
 2. Dig that lick corpus
-3. David Baker
+3. David Baker (also Jazz Arrangement)
+4. Patterns for Jazz (similar to Jerry Bergonzi?)
 
 Music history
 ---
@@ -71,3 +72,4 @@ Clarke, Cook. Empirical Musicology
 Misc
 ---
 Samuel Adler, The Study of Orchestration
+Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
