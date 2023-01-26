@@ -10,7 +10,7 @@ Schenkerian analysis
 ---
 
 1. Add http://davidtemperley.com/wp-content/uploads/2015/11/temperley-mts11.pdf as a criticism. Also Temperley's "The Question of Purpose"
-2. List several books that are build on Schenkerian principles. (Eg. from the Oxford Studies in Music Theory)
+2. List several books that are build on Schenkerian principles. (Eg. from the Oxford Studies in Music Theory) - Eg. Schmalfeldt "In The Process of Becoming", Aldwell–Schachter, Kostka–Payne (the Tonal one)
 
 Post-tonal theory
 ---
