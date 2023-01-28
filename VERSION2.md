@@ -75,3 +75,4 @@ Misc
 ---
 Samuel Adler, The Study of Orchestration
 Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
+https://youtube.com/@auralskillsguru 
