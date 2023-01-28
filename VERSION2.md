@@ -73,6 +73,6 @@ Clarke, Cook. Empirical Musicology
 
 Misc
 ---
-Samuel Adler, The Study of Orchestration
-Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
-https://youtube.com/@auralskillsguru 
+1. Samuel Adler, The Study of Orchestration
+2. Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
+3. https://youtube.com/@auralskillsguru 
