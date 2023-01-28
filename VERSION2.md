@@ -76,3 +76,4 @@ Misc
 1. Samuel Adler, The Study of Orchestration
 2. Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
 3. https://youtube.com/@auralskillsguru 
+4. If mentioning Post-Tonal Theory by Forte, surely reference Haimo 1996 as an index of debates around that theory.
