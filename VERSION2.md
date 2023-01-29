@@ -47,7 +47,7 @@ Form
 ---
 
 1. Emphasize Caplin "Analyzing" (incl a review by Aziz, and an iOS app), also tell about the Caplin, Hepokoski, Webster.
-2. When studying Caplin, some harmonic analyses may be checked against https://github.com/MarkGotham/When-in-Rome to understand the range of possible disagreement (V65 for viio, ii6 for IV and such)
+2. When studying Caplin, some harmonic analyses may be checked against https://github.com/MarkGotham/When-in-Rome to understand the range of possible disagreement (V65 for viio, ii6 for IV and such) and also https://github.com/MarkGotham/Taking-Form 
 
 
 Neo-Riemnnian Theory
