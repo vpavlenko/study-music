@@ -11,6 +11,7 @@ Schenkerian analysis
 
 1. Add http://davidtemperley.com/wp-content/uploads/2015/11/temperley-mts11.pdf as a criticism. Also Temperley's "The Question of Purpose"
 2. List several books that are build on Schenkerian principles. (Eg. from the Oxford Studies in Music Theory) - Eg. Schmalfeldt "In The Process of Becoming", Aldwell–Schachter, Kostka–Payne (the Tonal one)
+3. [Emphasize that it's a US thing](https://music.stackexchange.com/questions/105141/why-is-schenker-so-influential-in-us-academia-is-it-the-same-elsewhere)
 
 Post-tonal theory
 ---
@@ -116,6 +117,8 @@ Misc
 14. https://learningmusic.ableton.com/
 15. http://sonology.org/one-year-course-admission/
 16. [Ганкин "Хождение по звукам"](https://t.me/keetezh/655)
+17. У Ген-Ир. История музыки Восточной Азии (Китай, Корея, Япония)
+18. [Music Matters](https://books.google.kg/books?id=IJWIv9QhSSAC) is just a lovely book series for kids
 
 General thoughts on music theory research
 ---
@@ -141,6 +144,8 @@ Lists of books
 Gamelan
 ---
 - [R. Anderson Sutton. Humor, Mischief, and Aesthetics in Javanese Gamelan Music](https://www.jstor.org/stable/763917)
+- https://t.me/keetezh/626
+- Rats of Oran
 
 Visualization of chords presented in a sheet music
 ---
