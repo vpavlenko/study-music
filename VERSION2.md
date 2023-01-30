@@ -41,9 +41,10 @@ Jazz solo
 ---
 
 1. Make sure that LEGO and Impro-Visor are clearly stated.
-2. [Dig that lick corpus](http://dig-that-lick.eecs.qmul.ac.uk/Dig%20That%20Lick_Publications.html)
-3. David Baker (also Jazz Arrangement)
-4. Patterns for Jazz (similar to Jerry Bergonzi?)
+2. LEGO-wise quote recent work on adding colors: [YouTube](https://youtu.be/Inlu-HhA4rQ?t=2518), [paper](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf), [screenshots](https://t.me/keetezh/725)
+3. [Dig that lick corpus](http://dig-that-lick.eecs.qmul.ac.uk/Dig%20That%20Lick_Publications.html)
+4. David Baker (also Jazz Arrangement)
+5. Patterns for Jazz (similar to Jerry Bergonzi?)
 
 Music history
 ---
@@ -81,7 +82,7 @@ Clarke, Cook. Empirical Musicology
 Rock
 ---
 
-[KG Johansson. The Harmonic Language of the Beatles](https://www.musikforskning.se/stmonline/vol_2/KGJO/Johansson.pdf) - sadly, the whole book (in Swedish) isn't available at all
+- [KG Johansson. The Harmonic Language of the Beatles](https://www.musikforskning.se/stmonline/vol_2/KGJO/Johansson.pdf) - sadly, the whole book (in Swedish) isn't available at all. Btw there's [a complete transcription of their songs](https://www.amazon.com/Beatles-Complete-Scores-Transcribed-Score/dp/0793518326)
 
 Misc
 ---
@@ -89,6 +90,9 @@ Misc
 2. Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
 3. https://youtube.com/@auralskillsguru 
 4. Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
+5. [Hyperscore](https://www.youtube.com/watch?v=X4_KE0DMshY&list=PLdyToMyKUg3cQIcWGyCJGwA2ATtbxbKpk) - an old software for kids to compose music. Has interesting concepts
+6. [SeeGroove2](https://t.me/keetezh/739) - groove visualizations
+7. https://visual-musicology.com/
 
 General thoughts on music theory research
 ---
@@ -114,6 +118,13 @@ Gamelan
 ---
 - [R. Anderson Sutton. Humor, Mischief, and Aesthetics in Javanese Gamelan Music](https://www.jstor.org/stable/763917)
 
+Visualization of chords presented in a sheet music
+---
+1. https://sites.google.com/view/musicalharmonysite/part-i-general-music-theory/chords/visualization-of-chords
+2. [Links on visualization start from here](https://t.me/keetezh/723)
+3. https://datasciencebydesign.org/blog/seeing-harmony-hearing-color
+4. related MuseScore plugins
+
 
 По-русски
 ---
@@ -121,4 +132,4 @@ Gamelan
 - [Переводы зарубежных форумов и цитаты из книг про то, как учиться играть на фортепиано в младшем пожилом возрасте](https://soltem.livejournal.com/)
 
 
-Keetezh process retroactively from Jan 30, 2023 back to Jan 8, 2023.
+Keetezh process retroactively from Jan 30, 2023 back to Dec 27, 2022.
