@@ -114,6 +114,7 @@ Misc
 13. [Research in agogic accents](https://emusicology.org/index.php/EMR/article/view/7338/6026)
 14. https://learningmusic.ableton.com/
 15. http://sonology.org/one-year-course-admission/
+16. [Ганкин "Хождение по звукам"](https://t.me/keetezh/655)
 
 General thoughts on music theory research
 ---
