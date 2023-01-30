@@ -17,7 +17,7 @@ Post-tonal theory
 
 1. Add Straus Post-Tonal theory
 2. Add relevant chapters from Artusi and that music theory website on github.
-4. If mentioning Post-Tonal Theory by Forte, surely reference Haimo 1996 as an index of debates around that theory.
+4. If mentioning Post-Tonal Theory by Forte, surely reference Haimo 1996 as an index of debates around that theory. [Straus is also Fortean|https://www.mtosmt.org/issues/mto.00.6.1/mto.00.6.1.perry.html]
 
 Corpus studies
 ---
