@@ -36,6 +36,8 @@ Jazz harmony
 ---
 
 1. [David Berkman. The Jazz Harmony Book](https://www.amazon.com/Jazz-Harmony-Book-David-Berkman/dp/1883217792)
+2. https://github.com/shanahdt/smt_jazz_2019#some-reading
+3. [Роман Столяр. Джаз. Введение в стилистику](https://t.me/keetezh/694)
 
 Jazz solo
 ---
@@ -45,6 +47,7 @@ Jazz solo
 3. [Dig that lick corpus](http://dig-that-lick.eecs.qmul.ac.uk/Dig%20That%20Lick_Publications.html)
 4. David Baker (also Jazz Arrangement)
 5. Patterns for Jazz (similar to Jerry Bergonzi?)
+6. Ю. Маркин. Школа джазовой импровизации
 
 Music history
 ---
@@ -57,6 +60,9 @@ Form
 1. Emphasize Caplin "Analyzing" (incl [a review by Aziz](https://mtosmt.org/issues/mto.14.20.1/mto.14.20.1.aziz.html), [a companion website](http://www.music.mcgill.ca/acf/) an iOS app), also tell about the Caplin, Hepokoski, Webster [screenshots](https://t.me/keetezh/783).
 2. When studying Caplin, some harmonic analyses may be checked against https://github.com/MarkGotham/When-in-Rome to understand the range of possible disagreement (V65 for viio, ii6 for IV and such) and also https://github.com/MarkGotham/Taking-Form 
 3. [Evan Cortens. The Expositions of Ha The Expositions of Haydn's String Quar s String Quartets: A Corpus Analysis tets: A Corpus Analysis](https://remix.berklee.edu/cgi/viewcontent.cgi?article=1022&context=haydn-journal) - nice graphs, where's the corpus?
+4. Is Diergarten/Neuwirth worth chasing? 
+
+
 
 Neo-Riemnnian Theory
 ---
@@ -67,6 +73,11 @@ Harmony
 ---
 
 Mention pugetsound, open music theory, Poundie Burstein, Benward Saker, Aldwell Schachter, Kostka Payne, mention whats obsolete and why
+
+Advanced harmony
+---
+- https://www.amazon.com/What-Cadence-Theoretical-Analytical-Perspectives/dp/946270015X
+- Laitz/Bartlette "Graduate review" is the very some undergrad Laitz but condensed, no need to obtain (no new topics)
 
 Video game music
 ---
@@ -93,6 +104,12 @@ Misc
 5. [Hyperscore](https://www.youtube.com/watch?v=X4_KE0DMshY&list=PLdyToMyKUg3cQIcWGyCJGwA2ATtbxbKpk) - an old software for kids to compose music. Has interesting concepts
 6. [SeeGroove2](https://t.me/keetezh/739) - groove visualizations
 7. https://visual-musicology.com/
+8. [Barbershop Quartet harmony](https://t.me/keetezh/720), [also](https://t.me/keetezh/714)
+9. [🇷🇺 How to teach music notation to 3 yo kids](https://www.youtube.com/watch?v=zJDLG7AqPh0)
+10. [IEEE 1599](https://t.me/keetezh/715)
+11. [Klavarscore](https://www.klavarscore.org/en/klavarscore) - an alternative music notation, which is a vertical piano roll meets standard notation
+12. [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
+13. [Research in agogic accents](https://emusicology.org/index.php/EMR/article/view/7338/6026)
 
 General thoughts on music theory research
 ---
@@ -107,6 +124,7 @@ Jazz improvisation teachers
 Early (pre-Baroque) music theory
 ---
 - [Tonal Structures in Early Music](https://www.amazon.com/Tonal-Structures-Early-Criticism-Analysis/dp/0815336381)
+- Hearing Homophony?
 
 Lists of books
 --- 
@@ -124,6 +142,10 @@ Visualization of chords presented in a sheet music
 2. [Links on visualization start from here](https://t.me/keetezh/723)
 3. https://datasciencebydesign.org/blog/seeing-harmony-hearing-color
 4. related MuseScore plugins
+5. [Harmonic fingerprints](https://arxiv.org/pdf/1908.00003.pdf)
+6. [movable scale analysis](https://t.me/keetezh/712)
+7. [Chord transition matrices](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217242)
+8. [Syntax highlighting of a Chopin Op. 28 no. 6](https://musescore.com/user/39031562/scores/9034154)
 
 
 По-русски
@@ -132,4 +154,4 @@ Visualization of chords presented in a sheet music
 - [Переводы зарубежных форумов и цитаты из книг про то, как учиться играть на фортепиано в младшем пожилом возрасте](https://soltem.livejournal.com/)
 
 
-Keetezh process retroactively from Jan 30, 2023 back to Dec 27, 2022.
+Keetezh process retroactively from Jan 30, 2023 back to Nov 21, 2022.
