@@ -119,6 +119,7 @@ Misc
 16. [Ганкин "Хождение по звукам"](https://t.me/keetezh/655)
 17. У Ген-Ир. История музыки Восточной Азии (Китай, Корея, Япония)
 18. [Music Matters](https://books.google.kg/books?id=IJWIv9QhSSAC) is just a lovely book series for kids
+19. [Татьяна Бершадская: Основные композиционные закономерности многоголосия русской народной песни](https://www.labirint.ru/books/806608/)
 
 General thoughts on music theory research
 ---
