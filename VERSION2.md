@@ -35,13 +35,13 @@ Books on jazz composers
 Jazz harmony
 ---
 
-1. berkman
+1. [David Berkman. The Jazz Harmony Book](https://www.amazon.com/Jazz-Harmony-Book-David-Berkman/dp/1883217792)
 
 Jazz solo
 ---
 
 1. Make sure that LEGO and Impro-Visor are clearly stated.
-2. Dig that lick corpus
+2. [Dig that lick corpus](http://dig-that-lick.eecs.qmul.ac.uk/Dig%20That%20Lick_Publications.html)
 3. David Baker (also Jazz Arrangement)
 4. Patterns for Jazz (similar to Jerry Bergonzi?)
 
@@ -55,7 +55,7 @@ Form
 
 1. Emphasize Caplin "Analyzing" (incl [a review by Aziz](https://mtosmt.org/issues/mto.14.20.1/mto.14.20.1.aziz.html), [a companion website](http://www.music.mcgill.ca/acf/) an iOS app), also tell about the Caplin, Hepokoski, Webster [screenshots](https://t.me/keetezh/783).
 2. When studying Caplin, some harmonic analyses may be checked against https://github.com/MarkGotham/When-in-Rome to understand the range of possible disagreement (V65 for viio, ii6 for IV and such) and also https://github.com/MarkGotham/Taking-Form 
-
+3. [Evan Cortens. The Expositions of Ha The Expositions of Haydn's String Quar s String Quartets: A Corpus Analysis tets: A Corpus Analysis](https://remix.berklee.edu/cgi/viewcontent.cgi?article=1022&context=haydn-journal) - nice graphs, where's the corpus?
 
 Neo-Riemnnian Theory
 ---
@@ -88,6 +88,7 @@ Misc
 1. Samuel Adler, The Study of Orchestration
 2. Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
 3. https://youtube.com/@auralskillsguru 
+4. Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
 
 General thoughts on music theory research
 ---
@@ -108,6 +109,10 @@ Lists of books
 - Oxford Studies
 - Cambridge Studies
 - Hal Leonard Fake Books
+
+Gamelan
+---
+- [R. Anderson Sutton. Humor, Mischief, and Aesthetics in Javanese Gamelan Music](https://www.jstor.org/stable/763917)
 
 
 По-русски
