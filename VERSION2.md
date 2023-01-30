@@ -31,6 +31,7 @@ Books on jazz composers
 - [Andrew Lilley. The Artistry of Bheki Mseleku](https://www.africanminds.co.za/wp-content/uploads/2020/06/Bheki-Mseleku-music-book-22Jun1200-Web-s.pdf)
 - [Henry Martin. Charlie Parker, Composer](https://www.amazon.com/Charlie-Parker-Composer-Henry-Martin/dp/0190923385)
 - [Peter Freeman. The Music of Antonio Carlos Jobim](https://www.amazon.com/Music-Antonio-Carlos-Jobim/dp/1783209372)
+- [Wynton Marsalis Omnibook](https://wyntonmarsalis.org/books/title/wynton-marsalis-omnibook) has an intro article describing his solo language ([screenshot](https://t.me/keetezh/677))
 
 Jazz harmony
 ---
@@ -38,6 +39,7 @@ Jazz harmony
 1. [David Berkman. The Jazz Harmony Book](https://www.amazon.com/Jazz-Harmony-Book-David-Berkman/dp/1883217792)
 2. https://github.com/shanahdt/smt_jazz_2019#some-reading
 3. [Роман Столяр. Джаз. Введение в стилистику](https://t.me/keetezh/694)
+4. Чугунов Ю.Н. Учитесь подбирать на слух. 10 уроков по гармонизации эстрадных и джазовых мелодий
 
 Jazz solo
 ---
@@ -110,6 +112,8 @@ Misc
 11. [Klavarscore](https://www.klavarscore.org/en/klavarscore) - an alternative music notation, which is a vertical piano roll meets standard notation
 12. [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
 13. [Research in agogic accents](https://emusicology.org/index.php/EMR/article/view/7338/6026)
+14. https://learningmusic.ableton.com/
+15. http://sonology.org/one-year-course-admission/
 
 General thoughts on music theory research
 ---
