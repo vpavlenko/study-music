@@ -23,14 +23,14 @@ Corpus studies
 ---
 
 1. oxford handbook corpus studies
-2. The Music in the Data
+2. The Music in the Data, [screenshots](https://t.me/keetezh/759)
 
 Books on jazz composers
 ---
 
-- Bheki Mseleku
+- [Andrew Lilley. The Artistry of Bheki Mseleku](https://www.africanminds.co.za/wp-content/uploads/2020/06/Bheki-Mseleku-music-book-22Jun1200-Web-s.pdf)
 - [Henry Martin. Charlie Parker, Composer](https://www.amazon.com/Charlie-Parker-Composer-Henry-Martin/dp/0190923385)
-- Jobim
+- [Peter Freeman. The Music of Antonio Carlos Jobim](https://www.amazon.com/Music-Antonio-Carlos-Jobim/dp/1783209372)
 
 Jazz harmony
 ---
@@ -53,7 +53,7 @@ Taruskin in 5 volumes
 Form
 ---
 
-1. Emphasize Caplin "Analyzing" (incl a review by Aziz, and an iOS app), also tell about the Caplin, Hepokoski, Webster [screenshots](https://t.me/keetezh/783).
+1. Emphasize Caplin "Analyzing" (incl [a review by Aziz](https://mtosmt.org/issues/mto.14.20.1/mto.14.20.1.aziz.html), [a companion website](http://www.music.mcgill.ca/acf/) an iOS app), also tell about the Caplin, Hepokoski, Webster [screenshots](https://t.me/keetezh/783).
 2. When studying Caplin, some harmonic analyses may be checked against https://github.com/MarkGotham/When-in-Rome to understand the range of possible disagreement (V65 for viio, ii6 for IV and such) and also https://github.com/MarkGotham/Taking-Form 
 
 
@@ -78,11 +78,37 @@ Sociology of music
 (just to popularize the concept)
 Clarke, Cook. Empirical Musicology
 
+Rock
+---
+
+[KG Johansson. The Harmonic Language of the Beatles](https://www.musikforskning.se/stmonline/vol_2/KGJO/Johansson.pdf) - sadly, the whole book (in Swedish) isn't available at all
+
 Misc
 ---
 1. Samuel Adler, The Study of Orchestration
 2. Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
 3. https://youtube.com/@auralskillsguru 
+
+General thoughts on music theory research
+---
+1. Temperley's "The Question of Purpose"
+2. [Empirical Musicology: An Interview with David Huron Part I](https://emusicology.org/index.php/EMR/article/view/7718/5744), [Part II](https://emusicology.org/article/view/8103/6032)
+
+
+Jazz improvisation teachers
+---
+- [John Mehegan](https://www.amazon.com/Books-John-Mehegan/s?rh=n%3A283155%2Cp_27%3AJohn+Mehegan)
+
+Early (pre-Baroque) music theory
+---
+- [Tonal Structures in Early Music](https://www.amazon.com/Tonal-Structures-Early-Criticism-Analysis/dp/0815336381)
+
+Lists of books
+--- 
+- Oxford Studies
+- Cambridge Studies
+- Hal Leonard Fake Books
+
 
 По-русски
 ---
@@ -90,4 +116,4 @@ Misc
 - [Переводы зарубежных форумов и цитаты из книг про то, как учиться играть на фортепиано в младшем пожилом возрасте](https://soltem.livejournal.com/)
 
 
-Keetezh process retroactively from Jan 30, 2023 back to Jan 30, 2023.
+Keetezh process retroactively from Jan 30, 2023 back to Jan 8, 2023.
