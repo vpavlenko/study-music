@@ -44,7 +44,7 @@ Jazz harmony
 Jazz solo
 ---
 
-1. Make sure that LEGO and Impro-Visor are clearly stated.
+1. [Make sure that LEGO and Impro-Visor are clearly stated.](https://t.me/keetezh/644)
 2. LEGO-wise quote recent work on adding colors: [YouTube](https://youtu.be/Inlu-HhA4rQ?t=2518), [paper](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf), [screenshots](https://t.me/keetezh/725)
 3. [Dig that lick corpus](http://dig-that-lick.eecs.qmul.ac.uk/Dig%20That%20Lick_Publications.html)
 4. David Baker (also Jazz Arrangement)
@@ -80,6 +80,7 @@ Advanced harmony
 ---
 - https://www.amazon.com/What-Cadence-Theoretical-Analytical-Perspectives/dp/946270015X
 - Laitz/Bartlette "Graduate review" is the very some undergrad Laitz but condensed, no need to obtain (no new topics)
+- [Olivier Messiaen. The Technique of My Musical Language](https://monoskop.org/images/5/50/Messiaen_Olivier_The_Technique_of_My_Musical_Language.pdf)
 
 Video game music
 ---
@@ -159,4 +160,4 @@ Visualization of chords presented in a sheet music
 - [Переводы зарубежных форумов и цитаты из книг про то, как учиться играть на фортепиано в младшем пожилом возрасте](https://soltem.livejournal.com/)
 
 
-Keetezh process retroactively from Jan 30, 2023 back to Nov 21, 2022.
+Keetezh processed retroactively from Jan 30, 2023 back to Jul 27, 2022.
