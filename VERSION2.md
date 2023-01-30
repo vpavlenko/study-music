@@ -86,7 +86,11 @@ Advanced harmony
 Video game music
 ---
 
-Make a separate chapter. Include a chiptune thesis, also include works by Fritsch and Summers
+- Make a separate chapter. Include a chiptune thesis, also include works by Fritsch and Summers
+- [Beep: Game Sound History](https://www.youtube.com/playlist?list=PLNfU10KQ9m1L10rMwINp4kyfcupi-CU9o)
+- Karen Collins with Chris Greening. The Beep Book: Documenting the History of Game Sound
+- https://web.archive.org/web/20110815082924/http://dutycyclegenerator.com/
+- https://soundcloud.com/retrogameaudio
 
 Sociology of music
 ---
@@ -120,6 +124,7 @@ Misc
 17. У Ген-Ир. История музыки Восточной Азии (Китай, Корея, Япония)
 18. [Music Matters](https://books.google.kg/books?id=IJWIv9QhSSAC) is just a lovely book series for kids
 19. [Татьяна Бершадская: Основные композиционные закономерности многоголосия русской народной песни](https://www.labirint.ru/books/806608/)
+20. [Konnakol playlist](https://www.youtube.com/playlist?list=PLfnCkzbc3EMfAOxD80tM6I4w6CmpH-jV3)
 
 General thoughts on music theory research
 ---
