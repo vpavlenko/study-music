@@ -171,4 +171,4 @@ Visualization of chords presented in a sheet music
 - [Переводы зарубежных форумов и цитаты из книг про то, как учиться играть на фортепиано в младшем пожилом возрасте](https://soltem.livejournal.com/)
 
 
-Keetezh processed retroactively from Jan 30, 2023 back to Jul 27, 2022.
+Keetezh processed retroactively from Jan 30, 2023 back to Jun 8, 2022.
