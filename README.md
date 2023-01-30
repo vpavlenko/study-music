@@ -66,7 +66,7 @@ General intro and classical harmony
 The books below give an intro into music notation and are good for a beginner, although they ultimately go pretty far into things like four-part writing, Neapolitan sixth and sonata form. They will probably take a good year or two to study.
 
 - [Steven G. Laitz. The Complete Musician](https://amzn.to/3nKdSAa) - A standard modern book on classical harmony with introduction into a form and XX century techniques. [Audio examples](https://learninglink.oup.com/access/laitz-4e-student-resources) are freely available
-- [Andre Mount. Fundamentals, Function, and Form](https://milnepublishing.geneseo.edu/fundamentals-function-form/) - An online book with audio examples
+- [Andre Mount. Fundamentals, Function, and Form](https://milnepublishing.geneseo.edu/fundamentals-function-form/) - An online book with audio examples. [Also there's a workbook](https://milnepublishing.geneseo.edu/fffworkbook/)
 - [Mauro Braunstein. Offtonic Theory](https://offtonic.com/theory/index.html) - An online book that is spiced up with Jewish Chasidic examples (in addition to classical and rock ones)  and an intro into Arabic maqamaat music
 - [Sean Butterfield. Integrated Musicianship: Theory](https://intmus.github.io/inttheory21-22/) - An open-source, interactive, online textbook for college-level music theory courses
 - [Robert Hutchinson. Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
