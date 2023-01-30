@@ -56,4 +56,8 @@ Kerbezim
 
 ![PHOTO-2022-07-12-13-22-57](https://user-images.githubusercontent.com/1491908/179401149-018129b3-93ba-48ac-a02b-b769a7d39068.jpg)
 
+Books for middle school students
+---
+
+https://kitep.edu.gov.kg/kg/catalog?search=%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0
 
