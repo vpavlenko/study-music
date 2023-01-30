@@ -674,5 +674,7 @@ Other lists
 
 Real-time feed of new resources: https://t.me/keetezh
 
+[The next version is coming](VERSION2.md)
+
 Contacts: cxielamiko@gmail.com, https://t.me/vitalypavlenko
 
