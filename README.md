@@ -433,6 +433,8 @@ Find a gamelan ensemble in your city, come and learn to play it. You can instant
 
 - [Institutional Repository](http://repository.isi-ska.ac.id/view/subjects/AI.html)
 
+- https://en.wikipedia.org/wiki/Gamelan_outside_Indonesia
+
 Also [google "debussy gamelan"](https://www.google.com/search?q=debussy+gamelan)
 
 Also see chapters in the book of William A. Sethares below
