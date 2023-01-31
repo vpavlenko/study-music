@@ -169,6 +169,11 @@ Visualization of chords presented in a sheet music
 7. [Chord transition matrices](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217242)
 8. [Syntax highlighting of a Chopin Op. 28 no. 6](https://musescore.com/user/39031562/scores/9034154)
 
+Books on individual pieces
+---
+
+- Pauline Fairclough. A Soviet Credo: Shostakovich's Fourth Symphony
+
 
 По-русски
 ---
