@@ -126,6 +126,7 @@ Misc
 18. [Music Matters](https://books.google.kg/books?id=IJWIv9QhSSAC) is just a lovely book series for kids
 19. [Татьяна Бершадская: Основные композиционные закономерности многоголосия русской народной песни](https://www.labirint.ru/books/806608/)
 20. [Konnakol playlist](https://www.youtube.com/playlist?list=PLfnCkzbc3EMfAOxD80tM6I4w6CmpH-jV3)
+21. https://musictheoryexamples.com/
 
 General thoughts on music theory research
 ---
