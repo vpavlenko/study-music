@@ -129,6 +129,7 @@ Misc
 20. [Konnakol playlist](https://www.youtube.com/playlist?list=PLfnCkzbc3EMfAOxD80tM6I4w6CmpH-jV3)
 21. https://musictheoryexamples.com/
 22. Schoenberg on counterpoint
+23. "Japanese Music Harmony" by Kayano Chino
 
 General thoughts on music theory research
 ---
