@@ -83,6 +83,7 @@ Advanced harmony
 - https://www.amazon.com/What-Cadence-Theoretical-Analytical-Perspectives/dp/946270015X
 - Laitz/Bartlette "Graduate review" is the very some undergrad Laitz but condensed, no need to obtain (no new topics)
 - [Olivier Messiaen. The Technique of My Musical Language](https://monoskop.org/images/5/50/Messiaen_Olivier_The_Technique_of_My_Musical_Language.pdf)
+- Schoenberg. "Structural functions of harmony"
 
 Video game music
 ---
