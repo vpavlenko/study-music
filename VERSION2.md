@@ -180,6 +180,7 @@ Books on individual pieces
 ---
 
 - Pauline Fairclough. A Soviet Credo: Shostakovich's Fourth Symphony
+- James Webster. Haydn's "Farewell"
 
 
 По-русски
