@@ -153,6 +153,8 @@ Early (pre-Baroque) music theory
 - Hearing Homophony?
 - https://josquin.stanford.edu/
 - Albrecht, Huron. 2014
+- https://diginole.lib.fsu.edu/islandora/object/fsu:507731
+- Samuel Howes, 2021
 
 Lists of books
 --- 
