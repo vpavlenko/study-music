@@ -152,6 +152,7 @@ Early (pre-Baroque) music theory
 - [Tonal Structures in Early Music](https://www.amazon.com/Tonal-Structures-Early-Criticism-Analysis/dp/0815336381)
 - Hearing Homophony?
 - https://josquin.stanford.edu/
+- Albrecht, Huron. 2014
 
 Lists of books
 --- 
