@@ -53,6 +53,11 @@ Jazz solo
 5. Patterns for Jazz (similar to Jerry Bergonzi?)
 6. Ю. Маркин. Школа джазовой импровизации
 
+Jazz misc
+---
+
+1. Barry Harris videos https://youtube.com/@BarryHarrisVideos
+
 Music history
 ---
 
