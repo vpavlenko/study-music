@@ -39,24 +39,32 @@ To do that, we first need [to annotate a corpus of scores](https://transactions.
 
 ### Form
 
-A complete piece has a hierarchical structure: 
-- individual bars and motives build into structures like: _antecedent, consequent, presentation, continuation, extended cadential phrase_
-- these are the building blocks for: _period, sentence, hybrid theme_
-- which in turn glue together to form: _small ternary form, small binary form, subordinate theme, retransition, coda_
-- which in turn shape: _exposition, development, capitulation, menuet_
-- which, at the highest level of a movement are: _rondo, sonata-allegro, menuet and trio, theme with variations, concerto_
+A complete piece has a hierarchical structure with several levels, with each level using the structures one level below: 
+- level 1 (usually 4 bars long): _antecedent, consequent, presentation, continuation, extended cadential phrase_
+- level 2 (usually 8 bars long): _period, sentence, hybrid theme_
+- level 3: _small ternary form, small binary form, subordinate theme, retransition, coda_
+- level 4: _exposition, development, capitulation, menuet_
+- level 5, highest level of a movement: _rondo, sonata-allegro, menuet and trio, theme with variations, concerto_
 
-I'm using a language of Caplin who published [an outstanding study book](http://www.music.mcgill.ca/acf/). The way
+This [can be drawn](https://books.google.ge/books/about/Musical_Form_Forms_Formenlehre.html) separate from the score as a tree:
 
-One way to visualize a higher-level structure eg. of a sonata form is [to overlay it above a music score](https://transactions.ismir.net/articles/10.5334/tismir.27/):
+<img width="1437" alt="formenlehre" src="https://user-images.githubusercontent.com/1491908/216260232-4044d6c9-1822-4223-9de4-65ec84256070.png">
+
+I'm using a language of Caplin who published [an outstanding study book](http://www.music.mcgill.ca/acf/), where he draws the some levels of that structure over countless examples from Haydn, Mozart and Beethoven. (The fewer composers you take into your theory, the better your theory works to describe them.)
+
+<img width="1088" alt="99" src="https://user-images.githubusercontent.com/1491908/216260615-20ecbc5c-b58b-4de3-aad3-ad9685f384a4.png">
+
+There are other theories for the same material, three of them [debate in a single book](https://books.google.ge/books/about/Musical_Form_Forms_Formenlehre.html)
+
+We can also [overlay that structure above a music score](https://transactions.ismir.net/articles/10.5334/tismir.27/):
 
 <img width="634" alt="Screenshot 2023-02-02 at 10 59 28" src="https://user-images.githubusercontent.com/1491908/216254093-d8da9061-5bbf-496c-8912-1ae85a2c4964.png">
 
-We can compare relative lengths of those structures across a set of pieces:
+We can [compare relative lengths](https://transactions.ismir.net/articles/10.5334/tismir.27/) of those structures across a set of pieces:
 
 <img width="1167" alt="Screenshot 2023-02-02 at 11 03 29" src="https://user-images.githubusercontent.com/1491908/216254799-48ae3212-68d7-4a91-9508-5632f7db3389.png">
 
-We can organize those 
+
 
 
 The borders of sentences and periods are defined by means of cadences. 
