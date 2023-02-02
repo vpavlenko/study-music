@@ -16,7 +16,7 @@ In which sense are Roman numerals "real", do we hear them? Are they the actual s
 
 On a picture above, every red-circled note doesn't belong to any of the chord pitches. That is, all other notes belong to a local chord. That is, out of all 12 pitch classes, for every beat or several beats a composer selects exactly 3 or 4 and tries to locally shape all melodic and textural lines using that pre-selected pitch classes. This helps a composer to tell a story both in motives/texture (using rhythm, melodic direction, rests etc.) and simultaneous story about the progression of chords.
 
-All red-circled notes are not random. They are all classified, and we can annotated them in different colours.
+All red-circled notes are not random. They are all classified, and we can [annotated them in different colours](https://kaitlinbove.com/nonharmonic-tones):
 
 ![image](https://user-images.githubusercontent.com/1491908/216248115-cea16e59-9f29-46a5-9cb6-af617aabeac1.png)
 
