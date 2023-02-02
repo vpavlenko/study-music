@@ -2,9 +2,7 @@
 
 I.e. the era of the tonal system from 1650 to 1900. 
 
-## Individual piece
-
-### Harmony
+## Chords
 
 At the level of individual bars and beats, we can assign [an annotation of Roman numerals](https://sites.google.com/view/musicalharmonysite/part-ii-harmony-theory-and-analysis/complete-harmony-analyses/chopins-prelude-no-9-in-e-major):
 
@@ -33,7 +31,7 @@ Chords in turn [can be colored](https://www.hooktheory.com/theorytab/view/ludwig
 
 <img width="1216" alt="Screenshot 2023-02-02 at 10 42 54" src="https://user-images.githubusercontent.com/1491908/216251163-8cf6e7e4-ba38-4826-845e-c689911434a2.png">
 
-#### Chord transition probabilities
+## Chord transition probabilities
 
 At the lowest level, we can then ask, which chords are followed by which ones? Are there any patterns?
 
@@ -41,7 +39,11 @@ To do that, we first need [to annotate a corpus of scores](https://transactions.
 
 <img width="1671" alt="Screenshot 2023-02-02 at 10 52 03" src="https://user-images.githubusercontent.com/1491908/216252762-e22c47ea-a732-48ff-ac91-1d8c28f653b3.png">
 
-The same idea can be expressed in a graph. Though, theoretical, there may be several origins of that graph. Ideally, you'd get a graph from a statistical computations on an annotated corpus. In the mean time, you can build [a graph](https://www.miltonline.com/2018/10/24/tonal-harmony-flowcharts-major-minor/) from your memories as a classically trained musician or by summarizing several theory books:
+We can [compare these matrices](https://digitalresearch.bsu.edu/mathexchange/wp-content/uploads/2021/02/Markov-Chains-of-Chord-Progressions_kiefer.peter_.pdf) between different composers to find differences in their languages:
+
+<img width="909" alt="Screenshot 2023-02-02 at 12 02 46" src="https://user-images.githubusercontent.com/1491908/216266000-6ad90af1-28bd-4d54-9a38-c23f6c8c521f.png">
+
+The same idea can be expressed in a graph. Though, theoretical, there may be several origins of that graph. Ideally, you'd get a graph from a statistical computations on an annotated corpus. If no encompassing corpus is available yet, you can build [a graph](https://www.miltonline.com/2018/10/24/tonal-harmony-flowcharts-major-minor/) from your memories as a classically trained musician or by summarizing several theory books:
 
 ![image](https://user-images.githubusercontent.com/1491908/216262585-c7cc8082-3eb6-4f79-8bf2-09c1e557aa10.png)
 
@@ -54,7 +56,7 @@ Then, we can go beyond two-chord pairs and speak of [popular progressions of sev
 <img width="606" alt="Screenshot 2023-02-02 at 11 51 37" src="https://user-images.githubusercontent.com/1491908/216263723-e8427e84-c547-4ef1-ba12-dcbb437795d9.png">
 
 
-### Form
+## Form
 
 A complete piece has a hierarchical structure with several levels, with each level using the structures one level below: 
 - level 1 (usually 4 bars long): _antecedent, consequent, presentation, continuation, extended cadential phrase_
@@ -81,31 +83,24 @@ We can [compare relative lengths](https://transactions.ismir.net/articles/10.533
 
 <img width="1167" alt="Screenshot 2023-02-02 at 11 03 29" src="https://user-images.githubusercontent.com/1491908/216254799-48ae3212-68d7-4a91-9508-5632f7db3389.png">
 
+We can also want to write a program that computationally does some parsing, and so we may [design a formal theory of tonal syntax](https://tu-dresden.de/gsw/phil/ikm/muwi/ressourcen/dateien/lehrveranstaltungen/ws_2015-16-ss2020/ws_2015_2016/s_musik_mathematik_kognition/gsm-rohrmeier-2011.pdf). Though it may lack some creative reading of an intentional composer's ambiguity by a theorist.
+
+<img width="1039" alt="Screenshot 2023-02-02 at 11 56 37" src="https://user-images.githubusercontent.com/1491908/216264771-156b01a3-8ed3-45bd-9d96-37dad6fe98e7.png">
+
+If we are dissatisfied with an ambiguity and fuzziness when defining high level structures, [we may get to a level of cadences](https://transactions.ismir.net/articles/10.5334/tismir.63/). At least they do exist for sure, and we can study their statistical probabilities:
+
+<img width="1416" alt="Screenshot 2023-02-02 at 12 16 33" src="https://user-images.githubusercontent.com/1491908/216268873-f1590c73-cb6f-4339-b0bc-9350d2a6b50c.png">
 
 
+## Modulation
 
-The borders of sentences and periods are defined by means of cadences. 
+A common practice piece usually progress through a set of keys. For every piece of that period we have a music sheet. It gives us some information: through key signature we can understand the mid-level division into keys. 
 
-
-### Modulations
-
-For every piece of that period we have a music sheet. It gives us some information: through key signature we can understand the mid-level division into keys. 
-
-Local modulations aren't usually notated. We can apply a rough statistical technique to get some (not very accurate) [approximation of local tonalities](https://ccrma.stanford.edu/~craig/keyscape/) throughout the piece:
+Local modulations aren't usually notated - we may see more sharps and flats inside the score, but not as a key signature change. We can apply a rough statistical technique to get some (not very accurate) [approximation of local tonalities](https://ccrma.stanford.edu/~craig/keyscape/) throughout the piece:
 
 <img width="899" alt="Screenshot 2023-02-02 at 10 07 34" src="https://user-images.githubusercontent.com/1491908/216245190-89170eb6-408e-4e5a-839a-4b85f77cdfee.png">
-
-
-
 
 Also, at the very local level there's [a "tonicization vs. modulation" dichotomy](https://transactions.ismir.net/articles/10.5334/tismir.63/):
 
 ![image](https://user-images.githubusercontent.com/1491908/216252124-e25212bc-9461-4a16-93ad-c2b9a60332dd.png)
 
-
-## Language of a composer / style / epoch
-
-
-
-
-### Major vs minor mode
