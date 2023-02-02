@@ -20,11 +20,24 @@ All red-circled notes are not random. They are all classified, and we can [annot
 
 ![image](https://user-images.githubusercontent.com/1491908/216248115-cea16e59-9f29-46a5-9cb6-af617aabeac1.png)
 
+Alternatively, for every given chord [we can assign](https://musescore.com/user/39031562/scores/9034154) twelve colors to all pitch classes relative to it (eg. in a rainbow order). We hope to see more of [0, 4, 7] colors for major chords (red, bright green, blue) and [0, 3, 7] colors (red, yellow, blue) for minor chords:
 
-#### Visualition of a chord
+<img width="789" alt="Screenshot 2023-02-02 at 10 37 15" src="https://user-images.githubusercontent.com/1491908/216250123-3cbf4d84-8237-4951-a621-d20684415067.png">
 
+Chords in turn [can be colored](https://www.hooktheory.com/theorytab/view/ludwig-van-beethoven/piano-sonata-no-14-moonlight-1st-movement) in a rainbow order. Also, the score can be represented as a piano roll rather than a music sheet:
+
+<img width="1216" alt="Screenshot 2023-02-02 at 10 42 54" src="https://user-images.githubusercontent.com/1491908/216251163-8cf6e7e4-ba38-4826-845e-c689911434a2.png">
 
 #### Chord transition probabilities
+
+At the lowest level, we can then ask, which chords are followed by which ones? Are there any patterns?
+
+To do that, we first need [to annotate a corpus of scores](https://transactions.ismir.net/articles/10.5334/tismir.63/) - say, all piano sonatas by Mozart. Then we can build a chord transition matrix:
+
+<img width="1671" alt="Screenshot 2023-02-02 at 10 52 03" src="https://user-images.githubusercontent.com/1491908/216252762-e22c47ea-a732-48ff-ac91-1d8c28f653b3.png">
+
+
+### Form
 
 
 
@@ -39,6 +52,12 @@ Local modulations aren't usually notated. We can apply a rough statistical techn
 
 
 
-Also, at the very local level there's an "applied chord vs. modulation" dichotomy:
+Also, at the very local level there's [a "tonicization vs. modulation" dichotomy](https://transactions.ismir.net/articles/10.5334/tismir.63/):
+
+![image](https://user-images.githubusercontent.com/1491908/216252124-e25212bc-9461-4a16-93ad-c2b9a60332dd.png)
 
 
+## Language of a composer / style / epoch
+
+
+### Major vs minor mode
