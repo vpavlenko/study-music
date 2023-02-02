@@ -1,4 +1,4 @@
-# The language of common practice
+# How do we visualize the language of common practice?
 
 I.e. the era of the tonal system from 1650 to 1900. 
 
@@ -6,7 +6,7 @@ I.e. the era of the tonal system from 1650 to 1900.
 
 ### Harmony
 
-At the level of individual bars and beats, we can assign an annotation of Roman numerals:
+At the level of individual bars and beats, we can assign [an annotation of Roman numerals](https://sites.google.com/view/musicalharmonysite/part-ii-harmony-theory-and-analysis/complete-harmony-analyses/chopins-prelude-no-9-in-e-major):
 
 <img width="1191" alt="Screenshot 2023-02-02 at 10 13 01" src="https://user-images.githubusercontent.com/1491908/216246068-6b58bfee-47bb-4b0e-b223-8e4084af26b7.png">
 
@@ -14,6 +14,17 @@ The Roman numerals are below, the guitar-like chord symbols are above. We use Ro
 
 In which sense are Roman numerals "real", do we hear them? Are they the actual structure of the piece or are they some esoteric concepts helping us to make sense of a complete noise and chaos?
 
+On a picture above, every red-circled note doesn't belong to any of the chord pitches. That is, all other notes belong to a local chord. That is, out of all 12 pitch classes, for every beat or several beats a composer selects exactly 3 or 4 and tries to locally shape all melodic and textural lines using that pre-selected pitch classes. This helps a composer to tell a story both in motives/texture (using rhythm, melodic direction, rests etc.) and simultaneous story about the progression of chords.
+
+All red-circled notes are not random. They are all classified, and we can annotated them in different colours.
+
+![image](https://user-images.githubusercontent.com/1491908/216248115-cea16e59-9f29-46a5-9cb6-af617aabeac1.png)
+
+
+#### Visualition of a chord
+
+
+#### Chord transition probabilities
 
 
 
