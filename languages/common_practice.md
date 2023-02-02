@@ -45,6 +45,14 @@ The same idea can be expressed in a graph. Though, theoretical, there may be sev
 
 ![image](https://user-images.githubusercontent.com/1491908/216262585-c7cc8082-3eb6-4f79-8bf2-09c1e557aa10.png)
 
+We can [group several edges](http://dmitri.mycpanel.princeton.edu/tonaltheories.pdf) by an interval between the roots of its chords:
+
+<img width="491" alt="Screenshot 2023-02-02 at 11 48 53" src="https://user-images.githubusercontent.com/1491908/216263220-d1843eae-4331-47f6-914a-372346e69e7b.png">
+
+Then, we can go beyond two-chord pairs and speak of [popular progressions of several chords](http://dmitri.mycpanel.princeton.edu/tonaltheories.pdf):
+
+<img width="606" alt="Screenshot 2023-02-02 at 11 51 37" src="https://user-images.githubusercontent.com/1491908/216263723-e8427e84-c547-4ef1-ba12-dcbb437795d9.png">
+
 
 ### Form
 
