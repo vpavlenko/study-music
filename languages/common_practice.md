@@ -39,6 +39,27 @@ To do that, we first need [to annotate a corpus of scores](https://transactions.
 
 ### Form
 
+A complete piece has a hierarchical structure: 
+- individual bars and motives build into structures like: _antecedent, consequent, presentation, continuation, extended cadential phrase_
+- these are the building blocks for: _period, sentence, hybrid theme_
+- which in turn glue together to form: _small ternary form, small binary form, subordinate theme, retransition, coda_
+- which in turn shape: _exposition, development, capitulation, menuet_
+- which, at the highest level of a movement are: _rondo, sonata-allegro, menuet and trio, theme with variations, concerto_
+
+I'm using a language of Caplin who published [an outstanding study book](http://www.music.mcgill.ca/acf/). The way
+
+One way to visualize a higher-level structure eg. of a sonata form is [to overlay it above a music score](https://transactions.ismir.net/articles/10.5334/tismir.27/):
+
+<img width="634" alt="Screenshot 2023-02-02 at 10 59 28" src="https://user-images.githubusercontent.com/1491908/216254093-d8da9061-5bbf-496c-8912-1ae85a2c4964.png">
+
+We can compare relative lengths of those structures across a set of pieces:
+
+<img width="1167" alt="Screenshot 2023-02-02 at 11 03 29" src="https://user-images.githubusercontent.com/1491908/216254799-48ae3212-68d7-4a91-9508-5632f7db3389.png">
+
+We can organize those 
+
+
+The borders of sentences and periods are defined by means of cadences. 
 
 
 ### Modulations
@@ -58,6 +79,8 @@ Also, at the very local level there's [a "tonicization vs. modulation" dichotomy
 
 
 ## Language of a composer / style / epoch
+
+
 
 
 ### Major vs minor mode
