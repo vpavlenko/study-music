@@ -16,6 +16,11 @@ In which sense are Roman numerals "real", do we hear them? Are they the actual s
 
 On a picture above, every red-circled note doesn't belong to any of the chord pitches. That is, all other notes belong to a local chord. That is, out of all 12 pitch classes, for every beat or several beats a composer selects exactly 3 or 4 and tries to locally shape all melodic and textural lines using that pre-selected pitch classes. This helps a composer to tell a story both in motives/texture (using rhythm, melodic direction, rests etc.) and simultaneous story about the progression of chords.
 
+As chords build in thirds, we can reorder seven pitch classes as 1-3-5-7-2-4-6 and have [a better visualization of a chord line](https://sites.google.com/view/musicalharmonysite/part-i-general-music-theory/chords/visualization-of-chords):
+
+![image](https://user-images.githubusercontent.com/1491908/216261732-a36bcd83-70d6-462b-93b0-85a5b1f80799.png)
+
+
 All red-circled notes are not random. They are all classified, and we can [annotated them in different colours](https://kaitlinbove.com/nonharmonic-tones):
 
 ![image](https://user-images.githubusercontent.com/1491908/216248115-cea16e59-9f29-46a5-9cb6-af617aabeac1.png)
@@ -35,6 +40,10 @@ At the lowest level, we can then ask, which chords are followed by which ones? A
 To do that, we first need [to annotate a corpus of scores](https://transactions.ismir.net/articles/10.5334/tismir.63/) - say, all piano sonatas by Mozart. Then we can build a chord transition matrix:
 
 <img width="1671" alt="Screenshot 2023-02-02 at 10 52 03" src="https://user-images.githubusercontent.com/1491908/216252762-e22c47ea-a732-48ff-ac91-1d8c28f653b3.png">
+
+The same idea can be expressed in a graph. Though, theoretical, there may be several origins of that graph. Ideally, you'd get a graph from a statistical computations on an annotated corpus. In the mean time, you can build [a graph](https://www.miltonline.com/2018/10/24/tonal-harmony-flowcharts-major-minor/) from your memories as a classically trained musician or by summarizing several theory books:
+
+![image](https://user-images.githubusercontent.com/1491908/216262585-c7cc8082-3eb6-4f79-8bf2-09c1e557aa10.png)
 
 
 ### Form
