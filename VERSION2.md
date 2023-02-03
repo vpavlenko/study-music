@@ -14,6 +14,7 @@ Schenkerian analysis (critique only)
 3. [Emphasize that it's a US thing](https://music.stackexchange.com/questions/105141/why-is-schenker-so-influential-in-us-academia-is-it-the-same-elsewhere)
 4. Diergarten/Neuwirth, when publishing a modern study book on form (2019), [explicitly say](https://storage.gmth.de/zgmth/pdf/1034) that, while they base their book on Marx/Ratz/Schoenberg, Darcy/Hepokoski and Caplin, "Strategies  geared  towards  Heinrich  Schenker  are  not  central  to  the  book  (regardless  of  this,  superordinate  frameworks  are  occasionally  included  for  illustration  purposes)"
 5. https://sites.google.com/site/euromac2014/programme/4a/mathews
+6. Huron 2021 "On the future of music research" on Poetic Scholarship
 
 Post-tonal theory
 ---
