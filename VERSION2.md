@@ -156,6 +156,7 @@ Early (pre-Baroque) music theory
 - Albrecht, Huron. 2014
 - https://diginole.lib.fsu.edu/islandora/object/fsu:507731
 - Samuel Howes, 2021
+- https://bascornelissen.nl/static/da5733ba9911944aac18f425be5068da/dlfm2020.pdf
 
 Lists of books
 --- 
