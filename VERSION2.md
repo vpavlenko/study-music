@@ -191,6 +191,6 @@ Books on individual pieces
 ---
 
 - [Переводы зарубежных форумов и цитаты из книг про то, как учиться играть на фортепиано в младшем пожилом возрасте](https://soltem.livejournal.com/)
-
+- Евдокимова, Дубравская, Протопопов. История полифонии в 6 кн.
 
 Keetezh processed retroactively from Jan 30, 2023 back to Jun 8, 2022.
