@@ -68,7 +68,7 @@ Taruskin in 5 volumes
 Form
 ---
 
-1. Emphasize Caplin "Analyzing" (incl [a review by Aziz](https://mtosmt.org/issues/mto.14.20.1/mto.14.20.1.aziz.html), [a companion website](http://www.music.mcgill.ca/acf/) an iOS app), also tell about the Caplin, Hepokoski, Webster [screenshots](https://t.me/keetezh/783).
+1. Emphasize Caplin "Analyzing" (incl [a review by Aziz](https://mtosmt.org/issues/mto.14.20.1/mto.14.20.1.aziz.html), [a companion website](http://www.music.mcgill.ca/acf/) an iOS app), also tell about the Caplin, Hepokoski, Webster [screenshots](https://t.me/keetezh/783). Also [a podcast with Caplin](https://www.youtube.com/watch?v=TB5BN328O-Q)
 2. When studying Caplin, some harmonic analyses may be checked against https://github.com/MarkGotham/When-in-Rome to understand the range of possible disagreement (V65 for viio, ii6 for IV and such) and also https://github.com/MarkGotham/Taking-Form 
 3. [Evan Cortens. The Expositions of Ha The Expositions of Haydn's String Quar s String Quartets: A Corpus Analysis tets: A Corpus Analysis](https://remix.berklee.edu/cgi/viewcontent.cgi?article=1022&context=haydn-journal) - nice graphs, where's the corpus?
 4. Is Diergarten/Neuwirth worth chasing? 
