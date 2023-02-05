@@ -187,6 +187,13 @@ Books on individual pieces
 - Pauline Fairclough. A Soviet Credo: Shostakovich's Fourth Symphony
 - James Webster. Haydn's "Farewell"
 
+Web instruments
+---
+
+- [Music Mouse](https://teropa.info/musicmouse/)
+- https://pastelloops.ashishdubey.xyz/
+- http://smc.afim-asso.org/smc-icmc-2014/images/proceedings/PS2-B02-Griddy.pdf
+
 
 По-русски
 ---
