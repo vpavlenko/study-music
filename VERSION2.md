@@ -84,7 +84,7 @@ Link a criticism from Huron Shanahan interview.
 Harmony
 ---
 
-Mention pugetsound, open music theory, Poundie Burstein, Benward Saker, Aldwell Schachter, Kostka Payne, mention whats obsolete and why
+Mention pugetsound, open music theory, Poundie Burstein, Kevin Holm-Hudson, Benward Saker, Aldwell Schachter, Kostka Payne, mention whats obsolete and why
 
 Advanced harmony
 ---
