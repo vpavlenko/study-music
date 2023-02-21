@@ -108,6 +108,14 @@ Jazz knowledge roughly splits into three parts: rhythm, [**harmony**](parts/jazz
 
 - [Charlie Banacos](https://en.wikipedia.org/wiki/Charlie_Banacos)
 
+### Jazz composers
+
+- [Andrew Lilley. The Artistry of Bheki Mseleku](https://www.africanminds.co.za/wp-content/uploads/2020/06/Bheki-Mseleku-music-book-22Jun1200-Web-s.pdf)
+- [Henry Martin. Charlie Parker, Composer](https://www.amazon.com/Charlie-Parker-Composer-Henry-Martin/dp/0190923385)
+- [Peter Freeman. The Music of Antonio Carlos Jobim](https://www.amazon.com/Music-Antonio-Carlos-Jobim/dp/1783209372)
+- [Wynton Marsalis Omnibook](https://wyntonmarsalis.org/books/title/wynton-marsalis-omnibook) has an intro article describing his solo language ([screenshot](https://t.me/keetezh/677))
+
+
 ### Misc
 
 - [Bob Keller's Jazz Page](https://www.cs.hmc.edu/~keller/jazz/)
