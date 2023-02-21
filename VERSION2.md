@@ -21,32 +21,7 @@ Corpus studies
 1. oxford handbook corpus studies
 2. The Music in the Data, [screenshots](https://t.me/keetezh/759)
 
-Books on jazz composers
----
 
-- [Andrew Lilley. The Artistry of Bheki Mseleku](https://www.africanminds.co.za/wp-content/uploads/2020/06/Bheki-Mseleku-music-book-22Jun1200-Web-s.pdf)
-- [Henry Martin. Charlie Parker, Composer](https://www.amazon.com/Charlie-Parker-Composer-Henry-Martin/dp/0190923385)
-- [Peter Freeman. The Music of Antonio Carlos Jobim](https://www.amazon.com/Music-Antonio-Carlos-Jobim/dp/1783209372)
-- [Wynton Marsalis Omnibook](https://wyntonmarsalis.org/books/title/wynton-marsalis-omnibook) has an intro article describing his solo language ([screenshot](https://t.me/keetezh/677))
-
-Jazz harmony
----
-
-1. [David Berkman. The Jazz Harmony Book](https://www.amazon.com/Jazz-Harmony-Book-David-Berkman/dp/1883217792)
-2. https://github.com/shanahdt/smt_jazz_2019#some-reading
-3. [Роман Столяр. Джаз. Введение в стилистику](https://t.me/keetezh/694)
-4. Чугунов Ю.Н. Учитесь подбирать на слух. 10 уроков по гармонизации эстрадных и джазовых мелодий
-
-Jazz solo
----
-
-1. [Make sure that LEGO and Impro-Visor are clearly stated.](https://t.me/keetezh/644)
-2. LEGO-wise quote recent work on adding colors: [YouTube](https://youtu.be/Inlu-HhA4rQ?t=2518), [paper](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf), [screenshots](https://t.me/keetezh/725)
-3. [LEGO chord blocks in jazz](http://www.ralphpatt.com/Tonal.html)
-4. [Dig that lick corpus](http://dig-that-lick.eecs.qmul.ac.uk/Dig%20That%20Lick_Publications.html)
-5. David Baker (also Jazz Arrangement)
-6. Patterns for Jazz (similar to Jerry Bergonzi?)
-7. Ю. Маркин. Школа джазовой импровизации
 
 Jazz misc
 ---
