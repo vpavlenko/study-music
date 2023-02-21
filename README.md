@@ -158,6 +158,7 @@ Jazz knowledge roughly splits into three parts: rhythm, harmony and solo.
 
 <img width="753" alt="Screenshot 2022-07-29 at 13 10 09" src="https://user-images.githubusercontent.com/1491908/181703286-3bb053a1-83e7-417a-a019-2cf4e8dee315.png">
 
+- [MIDI solos by Doug McKenzie](https://bushgrafts.com/midi/)
 
 
 ### Jazz piano
