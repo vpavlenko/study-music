@@ -7,7 +7,6 @@ A survey of books, resources and courses to **study** everything about **music**
     + [Jazz harmony](#jazz-harmony)
     + [Jazz solos](#jazz-solos)
     + [Jazz piano](#jazz-piano)
-  * [Bach chorales](#bach-chorales)
   * [Neo-Riemannian theory](#neo-riemannian-theory)
   * [Advanced classical harmony and form](#advanced-classical-harmony-and-form)
   * [High-level music theory](#high-level-music-theory)
