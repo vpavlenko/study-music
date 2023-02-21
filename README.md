@@ -101,9 +101,7 @@ Advanced classical harmony and form
 
 - [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) - And the Wikipedia articles on [Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata). Also [Daniel Heartz. Music in European Capitals](https://amzn.to/34U1qXY). Also [L. Poundie Burstein. Journeys Through Galant Expositions](https://amzn.to/3gNdYmJ)
 
-- [James Hepokoski. Sonata Theory Handbook](https://amzn.to/3GRLHGa) - And the Wikipedia article on [Sonata theory](https://en.wikipedia.org/wiki/Sonata_theory)
-
-<img width="800" alt="Screenshot 2022-02-14 at 11 41 51 AM" src="https://user-images.githubusercontent.com/1491908/153829331-c9554a4e-c2d9-435d-bd2c-31f773d57125.png">
+- [**Classical form**](parts/classical_form.md)
 
 - Research by Dmitri Tymoczko: 
   - [Books and articles](https://dmitri.mycpanel.princeton.edu/publications.html)
