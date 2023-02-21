@@ -16,7 +16,7 @@ Schenkerian analysis (critique only)
 5. https://sites.google.com/site/euromac2014/programme/4a/mathews
 6. Huron 2021 "On the future of music research" on Poetic Scholarship
 7. https://academic.udayton.edu/PhillipMagnuson/soundpatterns/ is Schenkerian
-8. [Narmour "Beyond Schenkerism"](https://archive.org/details/beyondschenkeris0000narm_c5d8/) - author promotes his "implication-realization model" instead
+8. [Narmour "Beyond Schenkerism"](https://archive.org/details/beyondschenkeris0000narm_c5d8/) - author promotes his "implication-realization model" instead, which isn't popular
 
 Post-tonal theory
 ---
