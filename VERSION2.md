@@ -141,6 +141,8 @@ Misc
 21. https://musictheoryexamples.com/
 22. Schoenberg on counterpoint
 23. "Japanese Music Harmony" by Kayano Chino
+24. Seventh Sam - VGM analysis https://musescore.com/user/29606925 
+
 
 General thoughts on music theory research
 ---
@@ -197,6 +199,7 @@ Web instruments
 - [Music Mouse](https://teropa.info/musicmouse/)
 - https://pastelloops.ashishdubey.xyz/
 - http://smc.afim-asso.org/smc-icmc-2014/images/proceedings/PS2-B02-Griddy.pdf
+- https://mynoise.net/NoiseMachines/blackLyraSoundscapeGenerator.php
 
 
 По-русски
@@ -206,4 +209,4 @@ Web instruments
 - Евдокимова, Дубравская, Протопопов. История полифонии в 6 кн.
 - Музыка XX века, От авангарда к постмодерну, Высоцкая М.С., Григорьева Г.В.
 
-Keetezh processed retroactively from Jan 30, 2023 back to Jun 8, 2022.
+Keetezh processed retroactively from Jan 30, 2023 back to Apr 3, 2022.
