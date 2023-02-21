@@ -2,25 +2,23 @@ A survey of books, resources and courses to **study** everything about **music**
 
 - [Music theory](#music-theory)
   * [Rock harmony](#rock-harmony)
-  * [General intro and classical harmony](#general-intro-and-classical-harmony)
   * [Jazz](#jazz)
-    + [Jazz harmony](#jazz-harmony)
     + [Jazz piano](#jazz-piano)
+    + [Jazz composers](#jazz-composers)
+    + [Misc](#misc)
   * [Neo-Riemannian theory](#neo-riemannian-theory)
   * [Advanced classical harmony and form](#advanced-classical-harmony-and-form)
   * [High-level music theory](#high-level-music-theory)
-  * [Misc](#misc)
-- [Music composition](#music-composition)
-- [Listening guides](#listening-guides)
+  * [Misc](#misc-1)
+- [Topics](#topics)
 - [World traditions](#world-traditions)
   * [Online courses](#online-courses)
   * [Persian music](#persian-music)
   * [Balkan brass](#balkan-brass)
   * [Irish fiddle](#irish-fiddle)
-  * [Misc](#misc-1)
+  * [Misc](#misc-2)
 - [Sheet music](#sheet-music)
 - [Microtonal music](#microtonal-music)
-- [Ear training](#ear-training)
 - [Sound design](#sound-design)
 - [Electronic music](#electronic-music)
 - [Notable instruments](#notable-instruments)
@@ -29,6 +27,7 @@ A survey of books, resources and courses to **study** everything about **music**
 - [Maps of music](#maps-of-music)
 - [Resources](#resources)
 - [Other lists](#other-lists)
+
 
 
 ❓❓❓ Do you know how to enroll in a music theory program after a computer science BSc (without a completed formal music degree)? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself) 🤔🤔🤔
@@ -183,48 +182,13 @@ And Famicom From 1988-1992](https://www.christopherjhopkins.com/chiptune-dissert
 
 
 
-
-Music composition
+Topics
 ===
 
-- [Scott Jarrett, Holly Day. Music Composition For Dummies](https://amzn.to/3rJ7oCC) - A light overview on motives/phrases, the role of harmony and orchestration, ideal to understand something without graduating from college first. Although the book of Belkin (see below) is also approachable ([the book of Schoenberg](https://amzn.to/3FWr4YN) analyzing Beethoven's sonatas is less so). The companion prerequisite [book on music theory for dummies](https://amzn.to/3rJ6OFd) also exists.
+- [**Composition**](parts/composition.md)
+- [**Listening guides**](parts/listening_guides.md)
+- [**Ear training**](parts/ear_training.md)
 
-<img width="600" alt="Screenshot 2022-01-22 at 3 41 19 PM" src="https://user-images.githubusercontent.com/1491908/150638907-66dee5a3-d487-40f8-98a3-8f52802e408c.png">
-
-- [Alan Belkin. Musical Composition: Craft and Art](https://amzn.to/3KxbiY0) - A modern book on composition covering topics like motive/phrase, writing for singers and players, forms. Also [his YouTube channel](https://www.youtube.com/channel/UCUQ0TcIbY_VEk_KC406pRpg/playlists) with videos on applied harmony, counterpoint and orchestration.
-
-<img width="600" alt="Screenshot 2022-01-22 at 12 31 14 PM" src="https://user-images.githubusercontent.com/1491908/150633138-448e8f11-22d2-4731-a2b3-a99c36c213d9.png">
-
-- [William Russo. Composing music: a new approach (1983)](https://amzn.to/3rDkQrR) - Gives a progressive set of exercises for paper-and-pencil composers familiar with music notation to overcome the fear of the blank page.
-
-<img width="600" alt="Screenshot 2022-01-21 at 3 17 42 PM" src="https://user-images.githubusercontent.com/1491908/150525823-bb0c6058-536d-403e-868e-fc15d4f82ca4.png">
-
-- [Peter Edwards. Write Like Mozart: An Introduction to Classical Music Composition](https://www.coursera.org/learn/classical-composition) - A six-week Coursera course that starts with four-part writing rules and goes into textures, chord substitutions, 2:1 counterpoint with examples from Mozart and Beethoven.
-
-- [Building Blocks](https://www.audiblegenius.com/buildingblocks) - A music theory and composition course in an online DAW from the creators of Syntorial (see below)
-
-- [Art of Composing](https://www.artofcomposing.com/) - An email course
-
-
-
-Listening guides
-===
-
-- [The Visual Listening Guide](https://www.symphonygraphique.com/) - An approach to visualize the structure of a symphony using small piano rolls and pictograms of instruments.
-
-<img width="1028" alt="Screenshot 2022-01-21 at 2 58 17 PM" src="https://user-images.githubusercontent.com/1491908/150523442-d2cffc16-024e-45ac-88b3-f6cff91ee0fc.png">
-
-- [Kristine Forney, Andrew Dell'Antonio. Enjoyment of Music: Essential Listening](https://amzn.to/3gNe2D1) - also has other (longer) editions
-
-<img width="900" alt="Screenshot 2022-02-15 at 5 21 24 PM" src="https://user-images.githubusercontent.com/1491908/154080677-9d8d1626-0b98-4e58-80ed-87544e17697b.png">
-
-- [Jeremy Yudkin. Understanding Music](https://amzn.to/3rQ51PL)
-
-<img width="900" alt="Screenshot 2022-02-15 at 5 23 54 PM" src="https://user-images.githubusercontent.com/1491908/154081136-ce9a8111-42c9-493c-a3c5-05b9121d5cf9.png">
-
-- [Listener's Companion series by Rowman & Littlefield](https://rowman.com/Action/SERIES/RL/SCP003)
-
-<img width="574" alt="Screenshot 2022-06-27 at 14 58 13" src="https://user-images.githubusercontent.com/1491908/175901122-85eeea8b-de5e-43e7-9a30-081efa701093.png">
 
 
 
@@ -303,27 +267,6 @@ Microtonal music
 <img width="624" alt="Screenshot 2022-03-29 at 16 09 03" src="https://user-images.githubusercontent.com/1491908/160588361-ad7e83ca-2aab-41ac-8647-c95a309be9e7.png">
 
 
-Ear training
-===
-
-- [Artusi](https://www.artusimusic.com/assignments/demo/) - A huge set of free online courses on ear training (melodic, harmonic, rhythmic dictation), four part-writing and counterpoint where you type notes directly in the browser. (Does it make [Counterpointer](https://www.ars-nova.com/counterpointer3.html) obsolete?)
-
-<img width="800" alt="Screenshot 2022-02-15 at 6 21 24 PM" src="https://user-images.githubusercontent.com/1491908/154092362-ab020974-c8eb-48af-ae27-019562d151a6.png">
-
-
-- [Miranda Wilson. Integrated Musicianship: Aural Skills](https://intmus.github.io/intas19-20/) - An open-source, interactive, online textbook for college-level music courses
-
-- [SoundGym](https://www.soundgym.co/dashboard/gym) - Ear training for mixing engineers: EQ, compression, stereo image, gain, reverb
-
-- [ToneGym](https://www.tonegym.co/dashboard/gym) - Intervals, chords, rhythms (with some gamification)
-
-- [Perfect Pitch](https://xn--80ahdkilbo1bvw1el.xn--p1ai/en/home/) - Intervals, chords, scales, inversions
-
-- 🇷🇺 [Сольфа](http://solfa.ru/) - Музыкальные диктанты. Советую также попробовать [MacGAMUT Dictation на Artusi](https://www.artusimusic.com/assignments/19791/artusi_main_any_ps014/)
-
-- [https://www.teoria.com/en/exercises/](https://www.teoria.com/en/exercises/)
-
-- [Auralia](https://www.risingsoftware.com/auralia/topics)
 
 
 Sound design
