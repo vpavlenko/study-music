@@ -39,57 +39,9 @@ Music theory
 Rock harmony
 ---
 
-Rock harmony is arguably the simplest of the three (rock, jazz and classical), and there are high chances that you're more familiar with this culture (rock/pop) as a listener. So it makes sense to start here and expand into jazz and classical harmony later on - as they share a lot of concepts.
-
-- [HookTheory](https://www.hooktheory.com/) - A database of many rock songs and some jazz songs and game tunes focused at harmonic analysis. Comes with a melody-harmony online editor [HookPad](https://www.hooktheory.com/videos) and [two must-read online books](https://www.hooktheory.com/books) on pop/rock harmony which explain Roman numeral analysis, secondary chords and modes. **You should probably start with those books** unless you already have a college degree in music. You can read them in two weeks if you focus enough.
-<img width="995" alt="Screenshot 2022-01-21 at 12 57 44 AM" src="https://user-images.githubusercontent.com/1491908/150428708-4c3f082d-5cc2-47b5-a088-8558d5c41461.png" style="filter: drop-shadow(30px 10px 4px #4444dd); border: 1px solid pink">
-
-- [David Temperley. The Musical Language of Rock](https://amzn.to/3nK9eSO) - A book that summarizes [a corpus study](http://rockcorpus.midside.com/) of aspects like harmony, melody, rhythm, timbre and form on 200 rock songs. [Also his papers](http://davidtemperley.com/papers/). Also his other books: [The Cognition of Basic Musical Structures](https://amzn.to/3IvaS2I), [Music and Probability](https://amzn.to/3FXBWWu)
-
-- [David Tagg. Everyday Tonality II](http://tagg.org/mmmsp/EverydayTonalityInfo.htm) - The author proves that applying classical harmony framework to all of modern popular Western music gives poor results, and that one must accept the wide existence of music in different modes, scales and non-tertian chord structures on our TV and radio.
-<img width="600" alt="Screenshot 2022-01-21 at 12 57 44 AM" src="https://user-images.githubusercontent.com/1491908/150502146-c43924b3-8468-442e-a8f6-25cba5aaf1e0.png">
-
-- [Christopher Doll. Hearing Harmony: Toward a Tonal Theory for the Rock Era](https://www.press.umich.edu/3079295/hearing_harmony) - The author focuses entirely on chords and progressions, examining different effects and combinations analyzing and referencing over 600 songs.
-
-<img width="631" alt="Screenshot 2022-05-01 at 17 28 22" src="https://user-images.githubusercontent.com/1491908/166143877-00f99fe0-5131-4e29-a769-494b5e6129a0.png">
+Rock harmony is arguably the simplest of the three ([**rock**](parts/rock_harmony.md), jazz and [**classical**](parts/classical_harmony.md)), and there are high chances that you're more familiar with this culture (rock/pop) as a listener. So it makes sense to start here and expand into jazz and classical harmony later on - as they share a lot of concepts.
 
 
-
-
-
-General intro and classical harmony
----
-
-The books below give an intro into music notation and are good for a beginner, although they ultimately go pretty far into things like four-part writing, Neapolitan sixth and sonata form. They will probably take a good year or two to study.
-
-- [Steven G. Laitz. The Complete Musician](https://amzn.to/3nKdSAa) - A standard modern book on classical harmony with introduction into a form and XX century techniques. [Audio examples](https://learninglink.oup.com/access/laitz-4e-student-resources) are freely available
-- [Andre Mount. Fundamentals, Function, and Form](https://milnepublishing.geneseo.edu/fundamentals-function-form/) - An online book with audio examples. [Also there's a workbook](https://milnepublishing.geneseo.edu/fffworkbook/)
-- [Mauro Braunstein. Offtonic Theory](https://offtonic.com/theory/index.html) - An online book that is spiced up with Jewish Chasidic examples (in addition to classical and rock ones)  and an intro into Arabic maqamaat music
-- [Sean Butterfield. Integrated Musicianship: Theory](https://intmus.github.io/inttheory21-22/) - An open-source, interactive, online textbook for college-level music theory courses
-- [Robert Hutchinson. Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
-- [Mark Gotham, Kyle Gullings, Chelsey Hamm, Bryn Hughes, Brian Jarvis, Megan Lavengood, John Peterson. Open Music Theory](https://viva.pressbooks.pub/openmusictheory/front-matter/introduction/)
-- [Hrvoje Staneković. Musical harmony, theory with examples from piano repertoire](https://sites.google.com/view/musicalharmonysite/part-ii-harmony-theory-and-analysis/complete-harmony-analyses/bachs-two-part-invention-no-8-in-f-major?authuser=0) – Several harmonic analyses of piano scores of Bach and Chopin with a very thorough introduction
-
-
-
-YouTube videos with harmonic analyses:
-- [David Bennett Thomas](https://www.youtube.com/playlist?list=PL613D1A6B3C4BBDF2) - A very thorough analysis of carefully picked pieces from different styles.
-
-<img width="800" alt="Screenshot 2022-02-15 at 6 27 08 PM" src="https://user-images.githubusercontent.com/1491908/154093478-04daf0d3-0658-4930-bded-d2623d93fa14.png">
-
-- [mDecks Mapping Tonal Harmony Pro YouTube channel](https://www.youtube.com/watch?v=4Ltni6rPHUk&list=PLt-Oh3MSFwB9ECItA5ED-fcS0PnqPPgr-&index=4) - Worth  checking many of their educational videos. Especially [the playlist on harmony fundamentals](https://www.youtube.com/watch?v=buIpYXq80_Q&list=PLt-Oh3MSFwB8mfyRvS0YGpLpSW8t4ci_0&index=1)
-
-<img width="800" alt="Screenshot 2022-01-21 at 12 35 38 PM" src="https://user-images.githubusercontent.com/1491908/150503245-3dcd5745-83b1-4751-850e-28917bb0cde1.png">
-
-- [Frans Absil. Musical Analysis: Visiting the Great Composers](https://www.fransabsil.nl/htm/musanbk.htm) - A lot of classical pieces from Bach to Shostakovich are analysed bar-by-bar
-
-<img width="600" alt="Screenshot 2022-02-14 at 1 53 37 PM" src="https://user-images.githubusercontent.com/1491908/153850704-fbab5352-3427-47cc-b1d3-a96d1f3de88f.png">
-
-- [Artusi: Interactive Music Theory and Online Skills](https://www.artusimusic.com/) - a free online auto-graded course that teaches you four-part writing right in the web score editor. It shows all errors in the voice-leading (parallel fifths, tritone leaps, jumps on augmented intervals, forgotten preparations, voice crossing)
-
-<img width="700" alt="Screenshot 2022-05-31 at 12 01 59" src="https://user-images.githubusercontent.com/1491908/171103394-69047f94-827e-4c80-834f-e8c2a80bc8d3.png">
-
-- Also see [my overview of visualization techniques](languages/common_practice.md).
 
 
 Jazz
