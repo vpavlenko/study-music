@@ -28,4 +28,17 @@
 
 - [MIDI solos by Doug McKenzie](https://bushgrafts.com/midi/)
 
+TODO for version 2
+---
+
+Jazz solo
+---
+
+1. [Make sure that LEGO and Impro-Visor are clearly stated.](https://t.me/keetezh/644)
+2. LEGO-wise quote recent work on adding colors: [YouTube](https://youtu.be/Inlu-HhA4rQ?t=2518), [paper](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf), [screenshots](https://t.me/keetezh/725)
+3. [LEGO chord blocks in jazz](http://www.ralphpatt.com/Tonal.html)
+4. [Dig that lick corpus](http://dig-that-lick.eecs.qmul.ac.uk/Dig%20That%20Lick_Publications.html)
+5. David Baker (also Jazz Arrangement)
+6. Patterns for Jazz (similar to Jerry Bergonzi?)
+7. Ю. Маркин. Школа джазовой импровизации
 
