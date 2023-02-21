@@ -118,7 +118,7 @@ Some of these books feel pretty esoteric even if they are a serious research.
 Misc
 ---
 
-- [**Early music**](parts/early_music.md)
+
 
 - [A website of Milton Mermikides](https://www.miltonline.com/) - A lot of YouTube lectures and blog posts from a British composer.
 
@@ -142,10 +142,6 @@ Misc
 
 - http://openmusictheory.com/
 
-- [Christopher J. Hopkins. Chiptune Music: An Exploration of Compositional Techniques as Found in Sunsoft Games for the Nintendo Entertainment System
-And Famicom From 1988-1992](https://www.christopherjhopkins.com/chiptune-dissertation.html)
-
-<img width="800" alt="Screenshot 2022-06-27 at 11 07 48" src="https://user-images.githubusercontent.com/1491908/175864137-4b139ba4-246c-4d67-9ec5-6b1cdbcb94c7.png">
 
 - [**Bach chorales**](parts/bach_chorales.md)
 
@@ -159,7 +155,8 @@ Topics
 - [**Ear training**](parts/ear_training.md)
 - [**Orchestration**](parts/orchestration.md)
 - [**Maps of genres**](parts/maps_of_genres.md)
-
+- [**Video game music**](parts/vgm.md)
+- [**Early music**](parts/early_music.md)
 
 
 
