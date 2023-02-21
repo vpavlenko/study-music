@@ -5,7 +5,6 @@ A survey of books, resources and courses to **study** everything about **music**
   * [General intro and classical harmony](#general-intro-and-classical-harmony)
   * [Jazz](#jazz)
     + [Jazz harmony](#jazz-harmony)
-    + [Jazz solos](#jazz-solos)
     + [Jazz piano](#jazz-piano)
   * [Neo-Riemannian theory](#neo-riemannian-theory)
   * [Advanced classical harmony and form](#advanced-classical-harmony-and-form)
@@ -17,7 +16,6 @@ A survey of books, resources and courses to **study** everything about **music**
   * [Online courses](#online-courses)
   * [Persian music](#persian-music)
   * [Balkan brass](#balkan-brass)
-  * [Gamelan](#gamelan)
   * [Irish fiddle](#irish-fiddle)
   * [Misc](#misc-1)
 - [Sheet music](#sheet-music)
@@ -97,7 +95,7 @@ YouTube videos with harmonic analyses:
 Jazz
 ---
 
-Jazz knowledge roughly splits into three parts: rhythm, harmony and [solo](parts/jazz_solo.md). 
+Jazz knowledge roughly splits into three parts: rhythm, harmony and [**solo**](parts/jazz_solo.md). 
 
 ### Jazz harmony 
 
@@ -248,7 +246,7 @@ And Famicom From 1988-1992](https://www.christopherjhopkins.com/chiptune-dissert
 
 <img width="800" alt="Screenshot 2022-06-27 at 11 07 48" src="https://user-images.githubusercontent.com/1491908/175864137-4b139ba4-246c-4d67-9ec5-6b1cdbcb94c7.png">
 
-- [Bach chorales](parts/bach_chorales.md)
+- [**Bach chorales**](parts/bach_chorales.md)
 
 
 
@@ -300,7 +298,9 @@ Listening guides
 World traditions
 ===
 
-- [Arabic music](parts/arabic.md)
+- [**Arabic music**](parts/arabic.md)
+
+- [**Gamelan**](parts/gamelan.md)
 
 - [Terry E. Miller, Andrew Shahriari. World Music: A Global Journey](https://amzn.to/3KuLTOx) - A survey of ethnic music traditions from all over the world. [Audio CD examples are on YouTube](https://www.youtube.com/results?search_query=world+music+global+journey)
 
@@ -337,47 +337,6 @@ Balkan brass
 <img width="683" alt="Screenshot 2022-06-27 at 11 50 59" src="https://user-images.githubusercontent.com/1491908/175868701-372d0698-26c0-453f-8886-3e4974b7f105.png">
 
 
-
-Gamelan
----
-
-Find a gamelan ensemble in your city, come and learn to play it. You can instantly start playing saron and then gradually expand your skills. 
-
-- 🇷🇺 В Москве можно прийти научиться в [Gamelan Dadali](https://www.instagram.com/gamelandadali/)
-
-- [Jo Hilder. Central Javanese Gamelan](https://gamelan.org.nz/wp-content/uploads/2015/02/Jo-Hilder-Central-Javanese-Gamelan.pdf) – A concise reference 
-
-- [Marc Perlman. Unplayed Melodies: Javanese Gamelan and the Genesis of Music Theory](https://amzn.to/3ApON2y)
- 
-<img width="600" alt="Screenshot 2022-01-24 at 4 01 22 PM" src="https://user-images.githubusercontent.com/1491908/150787407-fdf9fda7-d425-4409-bb1e-4884553cfac0.png">
-
-- [Dewa Alit](https://www.dewaalitsalukat.com/sound/) - A modern Balinese composer born in 1973. [A lecture on his piece](https://www.youtube.com/watch?v=kCn3bV436Lg)
-
-- [Leslie A. Tilley. Making It Up Together: The Art of Collective Improvisation in Balinese Music and Beyond](https://amzn.to/3FTWwqL)
-
-<img width="1000" alt="Screenshot 2022-01-24 at 3 59 28 PM" src="https://user-images.githubusercontent.com/1491908/150787122-617bd6e6-a77a-421c-a824-44754d321457.png">
-
-- [gamelan.org](http://www.gamelan.org/), [Balungan](http://www.gamelan.org/balungan/back_issues/)
-
-- "The concept of pathet in Central Javanese gamelan music", paper.
-
-- Karawitan: Source Readings in Javanese Gamelan and Vocal Music (three volumes)
-
-- [My humble handout](https://docs.google.com/document/d/1oKbYpSAcunMTvB-casuFUyiaSuHGJkJhGf5rrvfOPgE/edit?usp=sharing)
-
-- [Tutorials on the "Indra production" channel](https://www.youtube.com/watch?v=5lwgd311Dsg)
-
-- [Larry Polansky. Beginning Central Javanese Gender](http://www.gamelan.org/library/sukamso_gender.pdf)
-
-- [Institutional Repository](http://repository.isi-ska.ac.id/view/subjects/AI.html)
-
-- https://en.wikipedia.org/wiki/Gamelan_outside_Indonesia
-
-- [Review links from here](https://music.arts.uci.edu/abauer/148_2018/)
-
-Also [google "debussy gamelan"](https://www.google.com/search?q=debussy+gamelan)
-
-Also see chapters in the book of William A. Sethares below
 
 Irish fiddle
 ---
