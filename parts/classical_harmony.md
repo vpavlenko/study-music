@@ -32,3 +32,8 @@ YouTube videos with harmonic analyses:
 
 - Also see [my overview of visualization techniques](languages/common_practice.md).
 
+
+TODO
+---
+
+Mention pugetsound, open music theory, Poundie Burstein, Kevin Holm-Hudson, Benward Saker, Aldwell Schachter, Kostka Payne, mention whats obsolete and why
