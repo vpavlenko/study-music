@@ -103,7 +103,7 @@ Video game music
 - Karen Collins with Chris Greening. The Beep Book: Documenting the History of Game Sound
 - https://web.archive.org/web/20110815082924/http://dutycyclegenerator.com/
 - https://soundcloud.com/retrogameaudio
-- books by William Gibbons
+- books by William Gibbons: musicological (high-level) overview
 
 Sociology of music
 ---
