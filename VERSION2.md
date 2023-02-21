@@ -56,6 +56,7 @@ Video game music
 - https://web.archive.org/web/20110815082924/http://dutycyclegenerator.com/
 - https://soundcloud.com/retrogameaudio
 - books by William Gibbons: musicological (high-level) overview
+- Seventh Sam - VGM analysis https://musescore.com/user/29606925 
 
 Sociology of music
 ---
@@ -70,7 +71,6 @@ Misc
 2. Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
 3. https://youtube.com/@auralskillsguru 
 4. Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
-5. [Hyperscore](https://www.youtube.com/watch?v=X4_KE0DMshY&list=PLdyToMyKUg3cQIcWGyCJGwA2ATtbxbKpk) - an old software for kids to compose music. Has interesting concepts
 6. [SeeGroove2](https://t.me/keetezh/739) - groove visualizations
 7. https://visual-musicology.com/
 8. [Barbershop Quartet harmony](https://t.me/keetezh/720), [also](https://t.me/keetezh/714)
@@ -89,7 +89,7 @@ Misc
 21. https://musictheoryexamples.com/
 22. Schoenberg on counterpoint
 23. "Japanese Music Harmony" by Kayano Chino
-24. Seventh Sam - VGM analysis https://musescore.com/user/29606925 
+
 
 
 General thoughts on music theory research
@@ -133,13 +133,6 @@ Books on individual pieces
 - Pauline Fairclough. A Soviet Credo: Shostakovich's Fourth Symphony
 - James Webster. Haydn's "Farewell"
 
-Web instruments
----
-
-- [Music Mouse](https://teropa.info/musicmouse/)
-- https://pastelloops.ashishdubey.xyz/
-- http://smc.afim-asso.org/smc-icmc-2014/images/proceedings/PS2-B02-Griddy.pdf
-- https://mynoise.net/NoiseMachines/blackLyraSoundscapeGenerator.php
 
 
 По-русски
