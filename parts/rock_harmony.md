@@ -14,4 +14,4 @@ Rock harmony
 <img width="631" alt="Screenshot 2022-05-01 at 17 28 22" src="https://user-images.githubusercontent.com/1491908/166143877-00f99fe0-5131-4e29-a769-494b5e6129a0.png">
 
 
-
+- [KG Johansson. The Harmonic Language of the Beatles](https://www.musikforskning.se/stmonline/vol_2/KGJO/Johansson.pdf) - sadly, the whole book (in Swedish) isn't available at all. Btw there's [a complete transcription of their songs](https://www.amazon.com/Beatles-Complete-Scores-Transcribed-Score/dp/0793518326)
