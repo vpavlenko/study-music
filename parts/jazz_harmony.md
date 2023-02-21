@@ -28,3 +28,12 @@
 
 - [Dariusz Terefenko. Jazz Theory: From Basic to Advanced Study](https://amzn.to/3oOlXEC) - Also has [a companion website](https://routledgetextbooks.com/textbooks/9780415537612/recordings.php) with [a workbook](https://routledgetextbooks.com/textbooks/9780415537612/workbook.php).
 
+
+
+TODO for version 2
+---
+
+1. [David Berkman. The Jazz Harmony Book](https://www.amazon.com/Jazz-Harmony-Book-David-Berkman/dp/1883217792)
+2. https://github.com/shanahdt/smt_jazz_2019#some-reading
+3. [Роман Столяр. Джаз. Введение в стилистику](https://t.me/keetezh/694)
+4. Чугунов Ю.Н. Учитесь подбирать на слух. 10 уроков по гармонизации эстрадных и джазовых мелодий
