@@ -193,6 +193,8 @@ Bach's chorale harmonizations are a reference for everyone studying classical ha
 
 <img width="900" alt="Screenshot 2022-03-09 at 15 03 11" src="https://user-images.githubusercontent.com/1491908/157468500-4795f949-576d-4fa3-be77-9a9f6806a6d2.png">
 
+Introduction on types of chords in a figured-bass chord types and treatment (pre-Rameau era thinking): https://t.me/keetezh/482
+
 
 - [370 chorales transposable to C major (press "Typeset" button)](https://chorales.sapp.org/)
 
