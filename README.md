@@ -116,7 +116,7 @@ Advanced classical harmony and form
 
 <img width="757" alt="Screenshot 2022-02-15 at 4 34 48 PM" src="https://user-images.githubusercontent.com/1491908/154072499-7c93331a-a90b-432b-982e-7f6f871e150c.png">
 
-- 🇷🇺 Г. Банщиков. Законы функциональной инструментовки
+
 
 
 
@@ -186,6 +186,7 @@ Topics
 - [**Composition**](parts/composition.md)
 - [**Listening guides**](parts/listening_guides.md)
 - [**Ear training**](parts/ear_training.md)
+- [**Orchestration**](parts/orchestration.md)
 
 
 
