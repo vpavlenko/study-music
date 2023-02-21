@@ -569,6 +569,8 @@ Electronic music
 
 - [Books by Curtis Roads](https://www.amazon.co.uk/Curtis-Roads/e/B000AQ4N20)
 
+- [Jukeblocks - a skeleton generator](https://jukeblocks.io/)
+
 Notable instruments
 ===
 
