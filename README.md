@@ -49,7 +49,6 @@ The families are (roughly speaking):
 
 
 
-
 Topics
 ===
 
@@ -60,7 +59,6 @@ Topics
 - [**Maps of genres**](parts/maps_of_genres.md)
 - [**Video game music**](parts/vgm.md)
 - [**Early music**](parts/early_music.md)
-- [**Microtonal experiments**](parts/microtonal.md)
 - [**Alternative notations**](parts/alternative_notations.md)
 - [**YouTube channels and podcasts**](parts/youtube_and_podcasts.md)
 
@@ -74,22 +72,9 @@ Topics on electronic music
 - [**Digital composition**](parts/digital_composition.md)
 - [**Online instruments**](parts/online_instruments.md)
 - [**Mixing**](parts/mixing.md)
+- [**Microtonal experiments**](parts/microtonal.md)
+- [**Notable instruments**](parts/instruments.md)
 
-Notable instruments
-===
-
-- [LYRA-8](https://somasynths.com/lyra-organismic-synthesizer/) - An unusual hardware noise-drone-dark-ambient synthesizer with an ability to instantly create horror film soundtrack. It's not MIDI so you play with knobs, not with the keyboard. Upside: no harmony skills required. Downside: harmony skills don't help much. [Watch and listen](https://www.youtube.com/watch?v=h1upe9_y4KY)
-
-- [OP-1](https://teenage.engineering/products/op-1) - A physical device replacing all aspects of the DAW. Best design instantly forces you to chip in - resist! Borrow from a friend, play for three days, then watch it sitting on the shelf for two months, return and buy me a coffee for saving you $1k. [Red Means Recording - Aquamarine](https://www.youtube.com/watch?v=-8sMk5KeWvg) and [its arrangement for the symphony orchestra](https://www.youtube.com/watch?v=ZrjuyXfLD6s).
-
-
-
-Other lists
-===
-
-- [Awesome Music](https://github.com/ciconia/awesome-music)
-- [http://www.findingmusicresources.com/](http://www.findingmusicresources.com/)
-- Courses at American universities, eg. [CCRMA](https://ccrma.stanford.edu/)
 
 
 Real-time feed of new resources: https://t.me/keetezh
