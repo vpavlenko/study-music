@@ -85,4 +85,4 @@ Contacts
 
 [Real-time feed of new resources](https://t.me/keetezh)
 
-❓ Do you know how to enroll in a music theory program after a computer science BSc (without a completed formal music degree)? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself)
+Do you know how to enroll in a music theory program after a computer science BSc (without a completed formal music degree)? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself)
