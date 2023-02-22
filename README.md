@@ -31,7 +31,8 @@ The languages are (roughly speaking):
 - [**Classical**](parts/classical.md) - the biggest chapter here, as it's the main focus of all research and teaching (despite its unpopularity according to [streaming stats](https://headphonesaddict.com/music-streaming-statistics/))
 - [**Jazz**](parts/jazz.md)
 - [**Barbershop**](parts/barbershop.md)
-- [**Movies/games**](parts/movies_games.md)
+- [**Movies**](parts/movies_games.md)
+- [**Video games**](parts/vgm.md)
 - Western regional traditions (eg. Latin American)
 
 
