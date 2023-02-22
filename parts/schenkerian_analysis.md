@@ -10,3 +10,10 @@ Schenkerian analysis (critique only)
 6. Huron 2021 "On the future of music research" on Poetic Scholarship
 7. https://academic.udayton.edu/PhillipMagnuson/soundpatterns/ is Schenkerian
 8. [Narmour "Beyond Schenkerism"](https://archive.org/details/beyondschenkeris0000narm_c5d8/) - author promotes his "implication-realization model" instead, which isn't popular
+
+Misc
+---
+
+- [Jason Yust. Organized Time: Rhythm, Tonality, and Form](https://amzn.to/3BlTlaU) - not necessarily Schenkerian, but illustrations have that flavour of reductionism
+
+<img width="600" alt="Screenshot 2022-02-14 at 11 28 17 AM" src="https://user-images.githubusercontent.com/1491908/153827329-b364704d-5a5c-4c47-8b2b-a8f8f3200f25.png">
