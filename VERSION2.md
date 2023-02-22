@@ -6,59 +6,11 @@ the learning track for music theory. They should be somehow merged in, but while
 
 Many of the resources are announced in https://t.me/keetezh
 
-
-Post-tonal theory
----
-
-1. Add Straus Post-Tonal theory
-2. Add relevant chapters from Artusi and that music theory website on github.
-4. If mentioning Post-Tonal Theory by Forte, surely reference Haimo 1996 as an index of debates around that theory. [Straus is also Fortean](https://www.mtosmt.org/issues/mto.00.6.1/mto.00.6.1.perry.html)
-5. Critique from Michael Buchler
-
-Corpus studies
----
-
-1. oxford handbook corpus studies
-2. The Music in the Data, [screenshots](https://t.me/keetezh/759)
-
-
-
-Jazz misc
----
-
-1. Barry Harris videos https://youtube.com/@BarryHarrisVideos
-
-Music history
----
-
-Taruskin in 5 volumes
-
-
-Neo-Riemnnian Theory
----
-
-Link a criticism from Huron Shanahan interview.
-
-
-Advanced harmony
----
-- https://www.amazon.com/What-Cadence-Theoretical-Analytical-Perspectives/dp/946270015X
-- Laitz/Bartlette "Graduate review" is the very some undergrad Laitz but condensed, no need to obtain (no new topics)
-- [Olivier Messiaen. The Technique of My Musical Language](https://monoskop.org/images/5/50/Messiaen_Olivier_The_Technique_of_My_Musical_Language.pdf)
-- Schoenberg. "Structural functions of harmony"
-
-
-Sociology of music
----
-
-(just to popularize the concept)
-Clarke, Cook. Empirical Musicology
-
+This doc contains all things from Keetezh till Jan 30, 2023.
 
 Misc
 ---
 
-2. Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
 3. https://youtube.com/@auralskillsguru 
 4. Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
 6. [SeeGroove2](https://t.me/keetezh/739) - groove visualizations
@@ -85,10 +37,6 @@ General thoughts on music theory research
 2. [Empirical Musicology: An Interview with David Huron Part I](https://emusicology.org/index.php/EMR/article/view/7718/5744), [Part II](https://emusicology.org/article/view/8103/6032)
 
 
-Jazz improvisation teachers
----
-- [John Mehegan](https://www.amazon.com/Books-John-Mehegan/s?rh=n%3A283155%2Cp_27%3AJohn+Mehegan)
-
 
 
 Lists of books
@@ -97,11 +45,6 @@ Lists of books
 - Cambridge Studies
 - Hal Leonard Fake Books
 
-Gamelan
----
-- [R. Anderson Sutton. Humor, Mischief, and Aesthetics in Javanese Gamelan Music](https://www.jstor.org/stable/763917)
-- https://t.me/keetezh/626
-- Rats of Oran
 
 Visualization of chords presented in a sheet music
 ---
@@ -114,12 +57,6 @@ Visualization of chords presented in a sheet music
 7. [Chord transition matrices](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217242)
 8. [Syntax highlighting of a Chopin Op. 28 no. 6](https://musescore.com/user/39031562/scores/9034154)
 
-Books on individual pieces
----
-
-- Pauline Fairclough. A Soviet Credo: Shostakovich's Fourth Symphony
-- James Webster. Haydn's "Farewell"
-
 
 
 По-русски
@@ -129,7 +66,6 @@ Books on individual pieces
 - Евдокимова, Дубравская, Протопопов. История полифонии в 6 кн.
 - Музыка XX века, От авангарда к постмодерну, Высоцкая М.С., Григорьева Г.В.
 
-This doc contains all things from Keetezh till Jan 30, 2023.
 
 Sheet music
 ===
