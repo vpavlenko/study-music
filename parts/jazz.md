@@ -4,7 +4,9 @@ Jazz
 Jazz knowledge roughly splits into three parts:
 - rhythm (eg. [swing](https://en.wikipedia.org/wiki/Swing_(jazz_performance_style)))
 - [**harmony**](parts/jazz_harmony.md) 
-- [**solo**](parts/jazz_solo.md). 
+- [**solo**](parts/jazz_solo.md)
+
+Jazz has several stages of evolution: New Orlean, swing, bebop, cool jazz, post-bop, free jazz, regional varieties and fusions.
 
 
 ### Jazz piano
