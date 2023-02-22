@@ -31,3 +31,12 @@ Advanced classical harmony and form
 <img width="757" alt="Screenshot 2022-02-15 at 4 34 48 PM" src="https://user-images.githubusercontent.com/1491908/154072499-7c93331a-a90b-432b-982e-7f6f871e150c.png">
 
 
+21. https://musictheoryexamples.com/ and "Bending the Rules of Music Theory"
+4. Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
+12. [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
+22. Schoenberg on counterpoint
+
+General thoughts on music theory research
+---
+1. Temperley's "The Question of Purpose"
+2. [Empirical Musicology: An Interview with David Huron Part I](https://emusicology.org/index.php/EMR/article/view/7718/5744), [Part II](https://emusicology.org/article/view/8103/6032)

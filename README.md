@@ -62,6 +62,7 @@ Topics
 - [**Maps of genres**](parts/maps_of_genres.md)
 - [**Video game music**](parts/vgm.md)
 - [**Early music**](parts/early_music.md)
+- [**Visualizations**](parts/visualizations.md)
 - [**Alternative notations**](parts/alternative_notations.md)
 - [**YouTube channels and podcasts**](parts/youtube_and_podcasts.md)
 - [**Sociology of music**](parts/sociology.md)

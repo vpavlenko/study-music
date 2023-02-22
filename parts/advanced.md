@@ -74,3 +74,7 @@ Advanced harmony
 - [Olivier Messiaen. The Technique of My Musical Language](https://monoskop.org/images/5/50/Messiaen_Olivier_The_Technique_of_My_Musical_Language.pdf)
 - Schoenberg. "Structural functions of harmony"
 
+Misc
+---
+
+9. [🇷🇺 How to teach music notation to 3 yo kids](https://www.youtube.com/watch?v=zJDLG7AqPh0)
