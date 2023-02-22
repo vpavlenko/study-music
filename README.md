@@ -54,14 +54,9 @@ Topics
 - [**Video game music**](parts/vgm.md)
 - [**Early music**](parts/early_music.md)
 - [**Microtonal experiments**](parts/microtonal.md)
+- [**Alternative notations**](parts/alternative_notations.md)
 
 
-Sheet music
-===
-
-- [Carol Barratt. All the Tunes You've Ever Wanted to Play: All-time Piano Classics. Easy-to-play Arrangements](https://www.amazon.com/Tunes-Youve-Wanted-Easy-play/dp/0711976627)
-
-- 🇷🇺 [Мария Шарова. Несложные этюды для «заржавевших» пианистов](http://chtoigrat.com/etudi-dlya-zarzhavevshix-pianistov/)
 
 
 Topics on electronic music
