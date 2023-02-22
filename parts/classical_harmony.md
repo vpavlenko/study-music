@@ -9,6 +9,11 @@ The books below give an intro into music notation and are good for a beginner, a
 - [Robert Hutchinson. Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 - [Mark Gotham, Kyle Gullings, Chelsey Hamm, Bryn Hughes, Brian Jarvis, Megan Lavengood, John Peterson. Open Music Theory](https://viva.pressbooks.pub/openmusictheory/front-matter/introduction/)
 - [Hrvoje Staneković. Musical harmony, theory with examples from piano repertoire](https://sites.google.com/view/musicalharmonysite/part-ii-harmony-theory-and-analysis/complete-harmony-analyses/bachs-two-part-invention-no-8-in-f-major?authuser=0) – Several harmonic analyses of piano scores of Bach and Chopin with a very thorough introduction
+- Kevin Holm-Hudson. Music Theory Remixed - offers a mixed repertoire of classical, popular and non-Western music
+- [Open Music Theory, Version 2](https://viva.pressbooks.pub/openmusictheory/front-matter/introduction/)
+- Benward/Saker. Music in Theory and Practice
+- L. Poundie Burstein, Joseph N. Straus. Concise Introduction to Tonal Harmony
+- Older books: Aldwell/Schachter (more [Schenkerian](schenkerian_analysis.md)), Kostka/Payne
 
 YouTube videos with harmonic analyses:
 
@@ -33,7 +38,3 @@ YouTube videos with harmonic analyses:
 - Also see [**my overview of visualization techniques**](/languages/common_practice.md).
 
 See also [**advanced classical harmony and form**](advanced_classical_harmony.md)
-
-## TODO
-
-Mention pugetsound, open music theory, Poundie Burstein, Kevin Holm-Hudson, Benward Saker, Aldwell Schachter, Kostka Payne, mention whats obsolete and why
