@@ -104,3 +104,12 @@ Also, at the very local level there's [a "tonicization vs. modulation" dichotomy
 
 ![image](https://user-images.githubusercontent.com/1491908/216252124-e25212bc-9461-4a16-93ad-c2b9a60332dd.png)
 
+
+## Backup
+
+2. [Links on visualization start from here](https://t.me/keetezh/723)
+3. https://datasciencebydesign.org/blog/seeing-harmony-hearing-color
+4. related MuseScore plugins
+5. [Harmonic fingerprints](https://arxiv.org/pdf/1908.00003.pdf)
+6. [movable scale analysis](https://t.me/keetezh/712)
+7. 
