@@ -15,3 +15,16 @@ Online courses
 - Lark Camp is hosting free online sessions during COVID times: [August](https://www.larkcamp.org/lark-online-workshops/), [February](https://www.larkcamp.org/virtual-lark/), [some past recorded sessions](https://www.youtube.com/c/LarkTraditionalArts/videos)
 
 - https://labyrinthonline.org/
+
+Misc
+===
+
+- [Kyrgyz tradition](parts/kyrgyz.md)
+- [Georgian polyphony](parts/georgian.md)
+
+Irish fiddle:
+- http://www.oldmusicproject.com/oneils1.html
+- https://www.youtube.com/watch?v=S7jNIFmvpzg&list=PLqKVRZsoDhsYyhvyf2xVdmsuOUCfENYE7
+- https://www.youtube.com/watch?v=C-Kzr07-f9I&list=PL89aHnZ0FvtUOpqhKjU0qbzIwrVJC88Ql
+
+
