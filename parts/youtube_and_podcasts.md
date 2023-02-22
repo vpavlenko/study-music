@@ -25,3 +25,10 @@ Resources
 - A modern composer Fazıl Say describes the structure of his Istanbul Symphony: [part 1](https://www.youtube.com/watch?v=Om9ONn5190k), [part 2](https://www.youtube.com/watch?v=Y_cF9Ts9XEU), [home video](https://www.youtube.com/watch?v=i5Etc3g-D5c)
 
 
+
+Other lists
+===
+
+- [Awesome Music](https://github.com/ciconia/awesome-music)
+- [http://www.findingmusicresources.com/](http://www.findingmusicresources.com/)
+- Courses at American universities, eg. [CCRMA](https://ccrma.stanford.edu/)
