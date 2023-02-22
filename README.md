@@ -7,9 +7,6 @@ This is version 2.
 
 [Version 1](https://github.com/vpavlenko/study-music/tree/ba716e653befb6db995346732a351471d2081efc) was a single-page with all screenshots that may load slowly
 
-❓ Do you know how to enroll in a music theory program after a computer science BSc (without a completed formal music degree)? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself)
-
-
 Where to start
 ===
 
@@ -82,11 +79,9 @@ Topics on electronic music
 - [**Notable instruments**](parts/instruments.md)
 - [Institute of Sonology: One-Year Course](http://sonology.org/one-year-course-admission/)
 
+Contacts
+===
 
+[Real-time feed of new resources](https://t.me/keetezh)
 
-Real-time feed of new resources: https://t.me/keetezh
-
-[Version 2 long-list](VERSION2.md)
-
-Contacts: cxielamiko@gmail.com, https://t.me/vitalypavlenko
-
+❓ Do you know how to enroll in a music theory program after a computer science BSc (without a completed formal music degree)? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself)
