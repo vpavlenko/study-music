@@ -19,7 +19,6 @@ Misc
 10. [IEEE 1599](https://t.me/keetezh/715)
 12. [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
 13. [Research in agogic accents](https://emusicology.org/index.php/EMR/article/view/7338/6026), also https://tuttitempi.com/
-15. http://sonology.org/one-year-course-admission/
 16. [Ганкин "Хождение по звукам"](https://t.me/keetezh/655)
 17. У Ген-Ир. История музыки Восточной Азии (Китай, Корея, Япония)
 18. [Music Matters](https://books.google.kg/books?id=IJWIv9QhSSAC) is just a lovely book series for kids
