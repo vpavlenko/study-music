@@ -96,7 +96,7 @@ If we are dissatisfied with an ambiguity and fuzziness when defining high level 
 
 A common practice piece usually progress through a set of keys. For every piece of that period we have a music sheet. It gives us some information: through key signature we can understand the mid-level division into keys. 
 
-Local modulations aren't usually notated - we may see more sharps and flats inside the score, but not as a key signature change. We can apply a rough statistical technique to get some (not very accurate) [approximation of local tonalities](https://ccrma.stanford.edu/~craig/keyscape/) throughout the piece:
+Local modulations aren't usually notated - we may see more sharps and flats inside the score, but not as a key signature change. We can apply a rough statistical technique to get some (not very accurate) [approximation of local tonalities](https://ccrma.stanford.edu/~craig/keyscape/) throughout the piece ([paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.542.226&rep=rep1&type=pdf)):
 
 <img width="899" alt="Screenshot 2023-02-02 at 10 07 34" src="https://user-images.githubusercontent.com/1491908/216245190-89170eb6-408e-4e5a-839a-4b85f77cdfee.png">
 
