@@ -78,10 +78,6 @@ Advanced classical harmony and form
   - [Local Harmonic Grammar in Western Classical Music](https://dmitri.mycpanel.princeton.edu/mozart.pdf) - the harmonic syntax of Western classical music can be captured by a simple maplike grammar without recursive generative rules
   - [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
 
-- [Craig Stuart Sapp. Harmonic Visualizations of Tonal Music](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.542.226&rep=rep1&type=pdf) - also [the website](https://ccrma.stanford.edu/~craig/keyscape/) with many keyscapes
-
-<img width="700" alt="Screenshot 2022-02-14 at 2 28 22 PM" src="https://user-images.githubusercontent.com/1491908/153856071-cfa30582-c2ea-4ad6-9ec1-07e117c1db96.png">
-
 - 🇷🇺 [Ю. Тюлин. Учение о музыкальной фактуре и мелодической фигурации (два тома теории, ещё задачник и ещё решебник)](https://archive.org/details/tiulin_muz_factura_1). [Глава 2 с привязанными примерами](https://kuregyan.vercel.app/books/tyulin/)
 
 <img width="757" alt="Screenshot 2022-02-15 at 4 34 48 PM" src="https://user-images.githubusercontent.com/1491908/154072499-7c93331a-a90b-432b-982e-7f6f871e150c.png">
