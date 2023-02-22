@@ -78,6 +78,7 @@ Topics on electronic music
 - [**Mixing**](parts/mixing.md)
 - [**Microtonal experiments**](parts/microtonal.md)
 - [**Notable instruments**](parts/instruments.md)
+- [Institute of Sonology: One-Year Course](http://sonology.org/one-year-course-admission/)
 
 
 
