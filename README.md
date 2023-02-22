@@ -1,10 +1,14 @@
-A directory of books, resources and courses to **study** everything about **music** and sound in the broadest sense
+
+<img src="https://user-images.githubusercontent.com/1491908/220568166-377d3637-b5f6-45a9-906c-a8e4a21c3778.jpg" width="300" align="right">
+
+A directory of books, resources and courses to study everything about music and sound in the broadest sense
 
 This is version 2.
 
 [Version 1](https://github.com/vpavlenko/study-music/tree/ba716e653befb6db995346732a351471d2081efc) was a single-page with all screenshots that may load slowly
 
 ❓ Do you know how to enroll in a music theory program after a computer science BSc (without a completed formal music degree)? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself)
+
 
 Where to start
 ===
