@@ -22,6 +22,8 @@ YouTube videos with harmonic analyses:
 
 <img width="800" alt="Screenshot 2022-01-21 at 12 35 38 PM" src="https://user-images.githubusercontent.com/1491908/150503245-3dcd5745-83b1-4751-850e-28917bb0cde1.png">
 
+- https://www.youtube.com/@auralskillsguru
+
 - [Frans Absil. Musical Analysis: Visiting the Great Composers](https://www.fransabsil.nl/htm/musanbk.htm) - A lot of classical pieces from Bach to Shostakovich are analysed bar-by-bar
 
 <img width="600" alt="Screenshot 2022-02-14 at 1 53 37 PM" src="https://user-images.githubusercontent.com/1491908/153850704-fbab5352-3427-47cc-b1d3-a96d1f3de88f.png">
@@ -29,6 +31,7 @@ YouTube videos with harmonic analyses:
 - [Artusi: Interactive Music Theory and Online Skills](https://www.artusimusic.com/) - a free online auto-graded course that teaches you four-part writing right in the web score editor. It shows all errors in the voice-leading (parallel fifths, tritone leaps, jumps on augmented intervals, forgotten preparations, voice crossing)
 
 <img width="700" alt="Screenshot 2022-05-31 at 12 01 59" src="https://user-images.githubusercontent.com/1491908/171103394-69047f94-827e-4c80-834f-e8c2a80bc8d3.png">
+
 
 - Also see [**my overview of visualization techniques**](languages/common_practice.md).
 

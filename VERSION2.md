@@ -11,11 +11,9 @@ This doc contains all things from Keetezh till Jan 30, 2023.
 Misc
 ---
 
-3. https://youtube.com/@auralskillsguru 
 4. Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
 6. [SeeGroove2](https://t.me/keetezh/739) - groove visualizations
 7. https://visual-musicology.com/
-9. [🇷🇺 How to teach music notation to 3 yo kids](https://www.youtube.com/watch?v=zJDLG7AqPh0)
 10. [IEEE 1599](https://t.me/keetezh/715)
 12. [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
 13. [Research in agogic accents](https://emusicology.org/index.php/EMR/article/view/7338/6026), also https://tuttitempi.com/
