@@ -16,3 +16,12 @@ Listening guides
 - [Listener's Companion series by Rowman & Littlefield](https://rowman.com/Action/SERIES/RL/SCP003)
 
 <img width="574" alt="Screenshot 2022-06-27 at 14 58 13" src="https://user-images.githubusercontent.com/1491908/175901122-85eeea8b-de5e-43e7-9a30-081efa701093.png">
+
+- Taruskin in 5 volumes
+
+
+Books on individual pieces
+---
+
+- Pauline Fairclough. A Soviet Credo: Shostakovich's Fourth Symphony
+- James Webster. Haydn's "Farewell"
