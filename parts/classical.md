@@ -1,4 +1,5 @@
-## General intro and classical harmony
+General intro and classical harmony
+===
 
 The books below give an intro into music notation and are good for a beginner, although they ultimately go pretty far into things like four-part writing, Neapolitan sixth and sonata form. They will probably take a good year or two to study.
 
