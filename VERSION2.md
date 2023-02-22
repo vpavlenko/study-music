@@ -130,3 +130,11 @@ Books on individual pieces
 - Музыка XX века, От авангарда к постмодерну, Высоцкая М.С., Григорьева Г.В.
 
 This doc contains all things from Keetezh till Jan 30, 2023.
+
+Sheet music
+===
+
+- [Carol Barratt. All the Tunes You've Ever Wanted to Play: All-time Piano Classics. Easy-to-play Arrangements](https://www.amazon.com/Tunes-Youve-Wanted-Easy-play/dp/0711976627)
+
+- 🇷🇺 [Мария Шарова. Несложные этюды для «заржавевших» пианистов](http://chtoigrat.com/etudi-dlya-zarzhavevshix-pianistov/)
+
