@@ -1,4 +1,4 @@
-A survey of books, resources and courses to **study** everything about **music** and sound in the broadest sense.
+A survey of books, resources and courses to **study** everything about **music** and sound in the broadest sense
 
 
 ❓❓ Do you know how to enroll in a music theory program after a computer science BSc (without a completed formal music degree)? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself) ❓❓
@@ -6,11 +6,22 @@ A survey of books, resources and courses to **study** everything about **music**
 Music theory
 ===
 
-Rock harmony
+Western music languages
 ---
 
-Rock harmony is arguably the simplest of the three ([**rock**](parts/rock_harmony.md), jazz and [**classical**](parts/classical_harmony.md)), and there are high chances that you're more familiar with this culture (rock/pop) as a listener. So it makes sense to start here and expand into jazz and classical harmony later on - as they share a lot of concepts.
+Music languages can be divided into a number of families. Historically, the most dominant and influencial one is Western family of languages. Its languages share some common traits:
+- 12-tone temperament
+- major/minor keys
+- homophony
+- chords in thirds
 
+The languages are (roughly speaking):
+- [**Rock**](parts/rock_harmony.md) - probably worst exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts.
+- [**Classical**](parts/classical_harmony.md)
+- [**Jazz**](parts/jazz.md)
+- [**Barbershop**](parts/barbershop.md)
+- [**Movies/games**](parts/movies_games.md)
+- Western regional traditions (eg. Latin American)
 
 
 
