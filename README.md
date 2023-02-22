@@ -25,6 +25,7 @@ Music languages can be divided into a number of families. Historically, the most
 - major/minor keys
 - homophony
 - chords in thirds
+- any of the 12 notes can be a tonic
 
 The languages are (roughly speaking):
 - [**Rock**](parts/rock_harmony.md) - probably worst exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts.
