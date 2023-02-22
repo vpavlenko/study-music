@@ -53,3 +53,24 @@ Misc
 - [**Bach chorales**](parts/bach_chorales.md)
 
 
+Post-tonal theory
+---
+
+1. Add Straus Post-Tonal theory
+2. Add relevant chapters from Artusi and that music theory website on github.
+4. If mentioning Post-Tonal Theory by Forte, surely reference Haimo 1996 as an index of debates around that theory. [Straus is also Fortean](https://www.mtosmt.org/issues/mto.00.6.1/mto.00.6.1.perry.html)
+5. Critique from Michael Buchler
+
+Corpus studies
+---
+
+1. oxford handbook corpus studies
+2. The Music in the Data, [screenshots](https://t.me/keetezh/759)
+
+Advanced harmony
+---
+- https://www.amazon.com/What-Cadence-Theoretical-Analytical-Perspectives/dp/946270015X
+- Laitz/Bartlette "Graduate review" is the very some undergrad Laitz but condensed, no need to obtain (no new topics)
+- [Olivier Messiaen. The Technique of My Musical Language](https://monoskop.org/images/5/50/Messiaen_Olivier_The_Technique_of_My_Musical_Language.pdf)
+- Schoenberg. "Structural functions of harmony"
+
