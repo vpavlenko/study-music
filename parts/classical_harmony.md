@@ -30,10 +30,10 @@ YouTube videos with harmonic analyses:
 
 <img width="700" alt="Screenshot 2022-05-31 at 12 01 59" src="https://user-images.githubusercontent.com/1491908/171103394-69047f94-827e-4c80-834f-e8c2a80bc8d3.png">
 
-- Also see [**my overview of visualization techniques**](languages/common_practice.md).
+- Also see [**my overview of visualization techniques**](/languages/common_practice.md).
 
 
-See also [**advanced classical harmony and form**](parts/advanced_classical_harmony.md)
+See also [**advanced classical harmony and form**](advanced_classical_harmony.md)
 
 TODO
 ---
