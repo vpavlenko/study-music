@@ -63,7 +63,6 @@ Misc
 4. Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
 6. [SeeGroove2](https://t.me/keetezh/739) - groove visualizations
 7. https://visual-musicology.com/
-8. [Barbershop Quartet harmony](https://t.me/keetezh/720), [also](https://t.me/keetezh/714)
 9. [🇷🇺 How to teach music notation to 3 yo kids](https://www.youtube.com/watch?v=zJDLG7AqPh0)
 10. [IEEE 1599](https://t.me/keetezh/715)
 11. [Klavarscore](https://www.klavarscore.org/en/klavarscore) - an alternative music notation, which is a vertical piano roll meets standard notation
