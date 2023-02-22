@@ -38,7 +38,7 @@ The languages are (roughly speaking):
 - Western regional traditions (eg. Latin)
 
 There's also pre-Classical Western languages (monophonic Gregorian chants -> polyphony of various rules and centuries -> homophony):
-- - [**Early music**](parts/early_music.md)
+- [**Early music**](parts/early_music.md)
 
 Non-Western music languages
 ---
