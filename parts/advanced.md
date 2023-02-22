@@ -1,30 +1,11 @@
 High-level music theory
 ---
 
-Some of these books feel pretty esoteric even if they are a serious research.
-
-- [David Huron. Sweet Anticipation: Music and the Psychology of Expectation](https://amzn.to/3FNCjmo) - (Published in 2006) Describes decades of research on how people expect the continuation of a certain musical phrase, and how music is balancing on being a mashup of expected and unexpected. The author also developed a set of Unix utilities called [Humdrum](https://www.humdrum.org/) to ground all his future statistical music research work - as far as in late 80s. Feels like the audio examples were promised but never delivered.
-
-<img width="774" alt="Screenshot 2022-01-21 at 12 10 47 PM" src="https://user-images.githubusercontent.com/1491908/150499414-7dbb1772-6ceb-44b8-8018-d4869a345fa3.png">
-
-- 🇷🇺 [Кудряшов А.Ю. Теория музыкального содержания](https://www.ozon.ru/product/teoriya-muzykalnogo-soderzhaniya-2632207/) - Я пока не понял, в чём смысл. Но читается сложно, как типичный русский консерваторский учебник.
-
-<img width="600" alt="Screenshot 2022-01-21 at 3 22 56 PM" src="https://user-images.githubusercontent.com/1491908/150526425-0f5618af-acb1-4377-80ea-31e06715cf15.png">
-
-- [A Generative Theory of Tonal Music](https://en.wikipedia.org/wiki/Generative_theory_of_tonal_music) - An attempt to build a linguistic grammar for common-practice (pre-20-century) music. This work is also continued in [the essay](https://en.wikipedia.org/wiki/Cognitive_Constraints_on_Compositional_Systems), [the second book](https://amzn.to/3FRzPn1) where the switch from generative grammar to preference rules occurs, and the path is reflected in [the third one](https://amzn.to/3fJCm8p).
-
-<img width="736" alt="Screenshot 2022-01-22 at 3 31 26 PM" src="https://user-images.githubusercontent.com/1491908/150638638-9a578b1b-092b-4c6f-a623-7351cdb131c8.png">
-
-- [Jason Yust. Organized Time: Rhythm, Tonality, and Form](https://amzn.to/3BlTlaU) 
-
-<img width="600" alt="Screenshot 2022-02-14 at 11 28 17 AM" src="https://user-images.githubusercontent.com/1491908/153827329-b364704d-5a5c-4c47-8b2b-a8f8f3200f25.png">
-
 - [Wallace Berry](https://en.wikipedia.org/wiki/Wallace_Berry)
 
 
 Misc
 ---
-
 
 
 - [A website of Milton Mermikides](https://www.miltonline.com/) - A lot of YouTube lectures and blog posts from a British composer.
@@ -61,11 +42,6 @@ Post-tonal theory
 4. If mentioning Post-Tonal Theory by Forte, surely reference Haimo 1996 as an index of debates around that theory. [Straus is also Fortean](https://www.mtosmt.org/issues/mto.00.6.1/mto.00.6.1.perry.html)
 5. Critique from Michael Buchler
 
-Corpus studies
----
-
-1. oxford handbook corpus studies
-2. The Music in the Data, [screenshots](https://t.me/keetezh/759)
 
 Advanced harmony
 ---
@@ -73,8 +49,3 @@ Advanced harmony
 - Laitz/Bartlette "Graduate review" is the very some undergrad Laitz but condensed, no need to obtain (no new topics)
 - [Olivier Messiaen. The Technique of My Musical Language](https://monoskop.org/images/5/50/Messiaen_Olivier_The_Technique_of_My_Musical_Language.pdf)
 - Schoenberg. "Structural functions of harmony"
-
-Misc
----
-
-9. [🇷🇺 How to teach music notation to 3 yo kids](https://www.youtube.com/watch?v=zJDLG7AqPh0)
