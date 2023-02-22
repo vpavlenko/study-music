@@ -1,4 +1,4 @@
-A survey of books, resources and courses to **study** everything about **music** and sound in the broadest sense
+A directory of books, resources and courses to **study** everything about **music** and sound in the broadest sense
 
 
 ❓ Do you know how to enroll in a music theory program after a computer science BSc (without a completed formal music degree)? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself)
