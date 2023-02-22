@@ -24,7 +24,6 @@ Misc
 17. У Ген-Ир. История музыки Восточной Азии (Китай, Корея, Япония)
 18. [Music Matters](https://books.google.kg/books?id=IJWIv9QhSSAC) is just a lovely book series for kids
 19. [Татьяна Бершадская: Основные композиционные закономерности многоголосия русской народной песни](https://www.labirint.ru/books/806608/)
-20. [Konnakol playlist](https://www.youtube.com/playlist?list=PLfnCkzbc3EMfAOxD80tM6I4w6CmpH-jV3)
 21. https://musictheoryexamples.com/
 22. Schoenberg on counterpoint
 23. "Japanese Music Harmony" by Kayano Chino
@@ -36,26 +35,6 @@ General thoughts on music theory research
 1. Temperley's "The Question of Purpose"
 2. [Empirical Musicology: An Interview with David Huron Part I](https://emusicology.org/index.php/EMR/article/view/7718/5744), [Part II](https://emusicology.org/article/view/8103/6032)
 
-
-
-
-Lists of books
---- 
-- Oxford Studies
-- Cambridge Studies
-- Hal Leonard Fake Books
-
-
-Visualization of chords presented in a sheet music
----
-1. https://sites.google.com/view/musicalharmonysite/part-i-general-music-theory/chords/visualization-of-chords
-2. [Links on visualization start from here](https://t.me/keetezh/723)
-3. https://datasciencebydesign.org/blog/seeing-harmony-hearing-color
-4. related MuseScore plugins
-5. [Harmonic fingerprints](https://arxiv.org/pdf/1908.00003.pdf)
-6. [movable scale analysis](https://t.me/keetezh/712)
-7. [Chord transition matrices](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217242)
-8. [Syntax highlighting of a Chopin Op. 28 no. 6](https://musescore.com/user/39031562/scores/9034154)
 
 
 
