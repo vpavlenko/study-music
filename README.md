@@ -37,6 +37,9 @@ The languages are (roughly speaking):
 - Other genres like R&B, country, dance electronic, gospel
 - Western regional traditions (eg. Latin)
 
+There's also pre-Classical Western languages (monophonic Gregorian chants -> polyphony of various rules and centuries -> homophony):
+- - [**Early music**](parts/early_music.md)
+
 Non-Western music languages
 ---
 
@@ -61,13 +64,11 @@ Topics
 - [**Ear training**](parts/ear_training.md)
 - [**Orchestration**](parts/orchestration.md)
 - [**Maps of genres**](parts/maps_of_genres.md)
-- [**Video game music**](parts/vgm.md)
-- [**Early music**](parts/early_music.md)
 - [**Visualizations**](parts/visualizations.md)
-- [**Alternative notations**](parts/alternative_notations.md)
+- [**Research**](parts/research.md)
 - [**YouTube channels and podcasts**](parts/youtube_and_podcasts.md)
 - [**Sociology of music**](parts/sociology.md)
-- [**Research**](parts/research.md)
+- [**Alternative notations**](parts/alternative_notations.md)
 
 Topics on electronic music
 ===
