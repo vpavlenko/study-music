@@ -28,7 +28,7 @@ Music languages can be divided into a number of families. Historically, the most
 - any of the 12 notes can be a tonic
 
 The languages are (roughly speaking):
-- [**Rock**](parts/rock_harmony.md) - probably worst exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts.
+- [**Rock**](parts/rock_harmony.md) - probably worth exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts.
 - [**Classical**](parts/classical.md) - the biggest chapter here, as it's the main focus of all research and teaching (despite its unpopularity according to [streaming stats](https://headphonesaddict.com/music-genre-statistics/))
 - [**Jazz**](parts/jazz.md)
 - [**Barbershop**](parts/barbershop.md)
