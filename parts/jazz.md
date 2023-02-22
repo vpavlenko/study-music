@@ -25,7 +25,12 @@ Jazz knowledge roughly splits into three parts:
 - [Wynton Marsalis Omnibook](https://wyntonmarsalis.org/books/title/wynton-marsalis-omnibook) has an intro article describing his solo language ([screenshot](https://t.me/keetezh/677))
 
 
+Jazz improvisation teachers
+---
+- [John Mehegan](https://www.amazon.com/Books-John-Mehegan/s?rh=n%3A283155%2Cp_27%3AJohn+Mehegan)
+
 ### Misc
 
 - [Bob Keller's Jazz Page](https://www.cs.hmc.edu/~keller/jazz/)
+
 
