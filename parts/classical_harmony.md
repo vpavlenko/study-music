@@ -33,6 +33,8 @@ YouTube videos with harmonic analyses:
 - Also see [my overview of visualization techniques](languages/common_practice.md).
 
 
+See also [**advanced classical harmony and form**](parts/advanced_classical_harmony.md)
+
 TODO
 ---
 
