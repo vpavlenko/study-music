@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/1491908/220568166-377d3637-b5f6-45a9-906c-a8e4a21c3778.jpg" width="300" align="right">
 
-A directory of books, resources and courses to study everything about music and sound in the broadest sense
+A directory of books, resources and courses to study everything about music and sound
 
 This is version 2.
 
