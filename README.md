@@ -64,6 +64,7 @@ Topics
 - [**Early music**](parts/early_music.md)
 - [**Alternative notations**](parts/alternative_notations.md)
 - [**YouTube channels and podcasts**](parts/youtube_and_podcasts.md)
+- [**Sociology of music**](parts/sociology.md)
 
 
 
