@@ -8,3 +8,10 @@ Non-Western languages
 - [Ocora Records](https://www.youtube.com/results?search_query=ocora)
 
 - [All the books by Bruno Nettl](https://en.wikipedia.org/wiki/Bruno_Nettl#Selected_publications)
+
+Online courses
+---
+
+- Lark Camp is hosting free online sessions during COVID times: [August](https://www.larkcamp.org/lark-online-workshops/), [February](https://www.larkcamp.org/virtual-lark/), [some past recorded sessions](https://www.youtube.com/c/LarkTraditionalArts/videos)
+
+- https://labyrinthonline.org/
