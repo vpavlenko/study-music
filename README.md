@@ -67,6 +67,7 @@ Sheet music
 Topics on electronic music
 ===
 
+- [Ableton Guide: Learning Music](https://learningmusic.ableton.com/)
 - [**Sound design**](parts/sound_design.md)
 - [**Digital composition**](parts/digital_composition.md)
 - [**Online instruments**](parts/online_instruments.md)
