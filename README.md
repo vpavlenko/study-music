@@ -31,7 +31,7 @@ Music languages can be divided into a number of families. Historically, the most
 
 The languages are (roughly speaking):
 - [**Rock**](parts/rock_harmony.md) - probably worst exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts.
-- [**Classical**](parts/classical_harmony.md)
+- [**Classical**](parts/classical.md)
 - [**Jazz**](parts/jazz.md)
 - [**Barbershop**](parts/barbershop.md)
 - [**Movies/games**](parts/movies_games.md)
