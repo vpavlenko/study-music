@@ -1,7 +1,7 @@
 A survey of books, resources and courses to **study** everything about **music** and sound in the broadest sense
 
 
-❓❓ Do you know how to enroll in a music theory program after a computer science BSc (without a completed formal music degree)? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself) ❓❓
+❓ Do you know how to enroll in a music theory program after a computer science BSc (without a completed formal music degree)? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself)
 
 Music theory
 ===
@@ -34,7 +34,7 @@ Non-Western music languages are different families. As they were developed all o
 The families are (roughly speaking):
 - [**maqam languages**](parts/maqam_languages.md)
 - [**Southeast Asian percussive languages**](parts/se_asian_percussive.md)
-- Balkan languages
+- [**Balkan languages**](parts/balkan.md)
 - many other traditions
 
 [**Broad overview on non-Western languages**](parts/non_western_languages.md)
@@ -55,62 +55,6 @@ Topics
 - [**Early music**](parts/early_music.md)
 
 
-
-World traditions
-===
-
-- [**Arabic music**](parts/arabic.md)
-
-- [**Gamelan**](parts/gamelan.md)
-
-- [Terry E. Miller, Andrew Shahriari. World Music: A Global Journey](https://amzn.to/3KuLTOx) - A survey of ethnic music traditions from all over the world. [Audio CD examples are on YouTube](https://www.youtube.com/results?search_query=world+music+global+journey)
-
-<img width="694" alt="Screenshot 2022-01-21 at 2 39 45 AM" src="https://user-images.githubusercontent.com/1491908/150439427-5aa4205a-8958-46d8-b381-da5f57ca3814.png">
-
-- [Ocora Records](https://www.youtube.com/results?search_query=ocora)
-
-- [All the books by Bruno Nettl](https://en.wikipedia.org/wiki/Bruno_Nettl#Selected_publications)
-
-Online courses
----
-
-- Lark Camp is hosting free online sessions during COVID times: [August](https://www.larkcamp.org/lark-online-workshops/), [February](https://www.larkcamp.org/virtual-lark/), [some past recorded sessions](https://www.youtube.com/c/LarkTraditionalArts/videos)
-
-- https://labyrinthonline.org/
-
-Persian music
----
-
-The central concept here is [radif](https://en.wikipedia.org/wiki/Radif_(music)). There are several complete radif recordings, both instrumental (Radif of Persian Music on Tar by Morteza Neydavoud in 6 volumes) and vocal. I haven't yet found the books with transcriptions mentioned in a Bruno Nettl work.
-
-- [Bruno Nettl. The Radif of Persian Music: Studies of Structure and Cultural Context](https://www.amazon.com/Radif-Persian-Music-Structure-Cultural/dp/9992927690)
-
-- [Hormoz Farhat. The Dastgah Concept in Persian Music](https://www.amazon.com/Dastgah-Concept-Persian-Cambridge-Ethnomusicology/dp/0521542065)
-
-<img width="740" alt="Screenshot 2022-07-26 at 22 53 24" src="https://user-images.githubusercontent.com/1491908/181065110-47796017-4800-4b37-a951-3921ede1ea09.png">
-
-
-Balkan brass
----
-
-- [Matthew James Kay. A Return to Brotherhood: Nationalism, Globalization and The Negotiation of Identity in Romani Brass Band Music in Serbia](https://d.lib.msu.edu/etd/47911/datastream/OBJ/view) - The author describes his visits to a Guča festival and to a Romani village to interview musicians
-
-<img width="683" alt="Screenshot 2022-06-27 at 11 50 59" src="https://user-images.githubusercontent.com/1491908/175868701-372d0698-26c0-453f-8886-3e4974b7f105.png">
-
-
-
-Irish fiddle
----
-
-- http://www.oldmusicproject.com/oneils1.html
-- https://www.youtube.com/watch?v=S7jNIFmvpzg&list=PLqKVRZsoDhsYyhvyf2xVdmsuOUCfENYE7
-- https://www.youtube.com/watch?v=C-Kzr07-f9I&list=PL89aHnZ0FvtUOpqhKjU0qbzIwrVJC88Ql
-
-Misc
----
-
-- [Kyrgyz tradition](kyrgyz.md)
-- [Hans Baken. Folk Music from Bulgaria, Fake Book](https://hjj.home.xs4all.nl/Bladmuziek/Fakebook_Bulgarian_Music.pdf)
 
 Sheet music
 ===
