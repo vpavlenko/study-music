@@ -32,6 +32,7 @@ Non-Western music languages are different families. As they were developed all o
 The families are (roughly speaking):
 - [**maqam languages**](parts/maqam_languages.md)
 - [**Southeast Asian percussive languages**](parts/se_asian_percussive.md)
+- Balkan languages
 - many other traditions
 
 [**Broad overview on non-Western languages**](parts/non_western_languages.md)
