@@ -19,5 +19,6 @@ Music composition
 
 - [Art of Composing](https://www.artofcomposing.com/) - An email course
 
+- Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
 
 Also mention [GCSE and A-level books](https://t.me/keetezh/822)
