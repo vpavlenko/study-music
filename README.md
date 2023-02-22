@@ -42,7 +42,7 @@ Non-Western music languages
 Non-Western music languages are different families. As they were developed all over the globe, they don't share many common features.
 
 The families are (roughly speaking):
-- [**maqam languages**](parts/maqam_languages.md)
+- [**Maqam languages**](parts/maqam_languages.md)
 - [**Southeast Asian percussive languages**](parts/se_asian_percussive.md)
 - [**Balkan languages**](parts/balkan.md)
 - many other traditions
@@ -79,6 +79,7 @@ Topics on electronic music
 - [**Mixing**](parts/mixing.md)
 - [**Microtonal experiments**](parts/microtonal.md)
 - [**Notable instruments**](parts/instruments.md)
+- [Institute of Sonology: One-Year Course](http://sonology.org/one-year-course-admission/)
 
 
 
