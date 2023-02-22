@@ -9,8 +9,6 @@ Advanced classical harmony and form
 
 - [The Future of Music: Towards a Computational Musical Theory of Everything](https://books.google.ru/books?id=YTzYDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
 
-- [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do)
-
 - [Jonathan Biss. Exploring Beethoven’s Piano Sonatas (six-part course on Coursera)](https://www.coursera.org/search?query=beethoven%20sonatas%20biss)
 
 - [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) - And the Wikipedia articles on [Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata). Also [Daniel Heartz. Music in European Capitals](https://amzn.to/34U1qXY). Also [L. Poundie Burstein. Journeys Through Galant Expositions](https://amzn.to/3gNdYmJ)
