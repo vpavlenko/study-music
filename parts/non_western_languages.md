@@ -16,11 +16,14 @@ Online courses
 
 - https://labyrinthonline.org/
 
+
+
 Misc
 ===
 
 - [Kyrgyz tradition](kyrgyz.md)
 - [Georgian polyphony](georgian.md)
+- [Konnakol playlist](https://www.youtube.com/playlist?list=PLfnCkzbc3EMfAOxD80tM6I4w6CmpH-jV3)
 
 Irish fiddle:
 - http://www.oldmusicproject.com/oneils1.html
