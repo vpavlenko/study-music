@@ -31,14 +31,12 @@ Music languages can be divided into a number of families. Historically, the most
 
 The languages are (roughly speaking):
 - [**Rock**](parts/rock_harmony.md) - probably worst exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts.
-- [**Classical**](parts/classical.md)
+- [**Classical**](parts/classical.md) - the biggest chapter here, as it's the main focus of all research and teaching (despite its unpopularity according to [streaming stats](https://headphonesaddict.com/music-streaming-statistics/))
 - [**Jazz**](parts/jazz.md)
 - [**Barbershop**](parts/barbershop.md)
 - [**Movies/games**](parts/movies_games.md)
 - Western regional traditions (eg. Latin American)
 
-
-[**Advanced topics**](parts/advanced.md) - TODO merge with "advanced classical harmony"
 
 Non-Western music languages
 ---
