@@ -32,3 +32,10 @@ Other lists
 - [Awesome Music](https://github.com/ciconia/awesome-music)
 - [http://www.findingmusicresources.com/](http://www.findingmusicresources.com/)
 - Courses at American universities, eg. [CCRMA](https://ccrma.stanford.edu/)
+
+
+Lists of books
+===
+- Oxford Studies
+- Cambridge Studies
+- Hal Leonard Fake Books
