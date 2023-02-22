@@ -19,8 +19,8 @@ Online courses
 Misc
 ===
 
-- [Kyrgyz tradition](parts/kyrgyz.md)
-- [Georgian polyphony](parts/georgian.md)
+- [Kyrgyz tradition](kyrgyz.md)
+- [Georgian polyphony](georgian.md)
 
 Irish fiddle:
 - http://www.oldmusicproject.com/oneils1.html
