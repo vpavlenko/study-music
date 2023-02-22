@@ -24,6 +24,18 @@ The languages are (roughly speaking):
 - Western regional traditions (eg. Latin American)
 
 
+Non-Western music languages
+---
+
+Non-Western music languages are different families. As they were developed all over the globe, they don't share many common features.
+
+The families are (roughly speaking):
+- [**maqam languages**](parts/maqam_languages.md)
+- [**Southeast Asian percussive languages**](parts/se_asian_percussive.md)
+- many other traditions
+
+[**Broad overview on non-Western languages**](parts/non_western_languages.md)
+
 
 
 High-level music theory
