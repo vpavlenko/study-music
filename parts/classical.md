@@ -46,24 +46,13 @@ Printed books
 Harmonic analysis
 ---
 
-Harmonic analysis is a creative reductionist technique that doesn't claim there's a single truth. Different scholars perform harmonic analyses differently, and disagreements arise everywhere:
-- V7 or viio, ii6 or IV, IV6 or vi
-- I64 or Cad64 or V64
-- cadential I(247 - I35) - triple suspension
-- how to mark passing harmonies?
-- should we mark common-tone chords?
-- what's a root of a non-applied diminished seventh?
-- what if a third/a fifth is missing, can root be missing/implied?
+[**A case of the openness of harmonic analysis**](harmonic_analysis_rant.md)
 
-See "On the relative openness of syntax" in [Mark Gotham's paper](https://emusicology.org/index.php/EMR/article/view/7644/6253)
-
-As a single example, below are three different analyses of the beginning of [Beethoven's op. 2 no. 1 mov. 1](https://github.com/MarkGotham/When-in-Rome/tree/master/Corpus/Piano_Sonatas/Beethoven%2C_Ludwig_van/Op002_No1/1):
-
-<img width="933" alt="Screenshot 2023-02-23 at 18 12 46" src="https://user-images.githubusercontent.com/1491908/220932285-faea6065-6feb-45e6-8d32-cd3c09ef1943.png">
 
 - [David Bennett Thomas](https://www.youtube.com/playlist?list=PL613D1A6B3C4BBDF2) - A very thorough analysis of carefully picked pieces from different styles.
 
 <img width="800" alt="Screenshot 2022-02-15 at 6 27 08 PM" src="https://user-images.githubusercontent.com/1491908/154093478-04daf0d3-0658-4930-bded-d2623d93fa14.png">
+
 
 - [mDecks Mapping Tonal Harmony Pro YouTube channel](https://www.youtube.com/watch?v=4Ltni6rPHUk&list=PLt-Oh3MSFwB9ECItA5ED-fcS0PnqPPgr-&index=4) - Worth checking many of their educational videos. Especially [the playlist on harmony fundamentals](https://www.youtube.com/watch?v=buIpYXq80_Q&list=PLt-Oh3MSFwB8mfyRvS0YGpLpSW8t4ci_0&index=1)
 
@@ -83,15 +72,10 @@ As a single example, below are three different analyses of the beginning of [Bee
 Form
 ===
 
-Books specifically on form:
-
 
 - [William E. Caplin. Analyzing Classical Form](http://www.music.mcgill.ca/acf/) - Focuses solely on works of Haydn, Mozart and Beethoven, this book teaches a theory of formal functions to analyze the structure of their pieces. [A review](https://mtosmt.org/issues/mto.14.20.1/mto.14.20.1.aziz.html), [a podcast with the author](https://www.youtube.com/watch?v=TB5BN328O-Q)
 - A form isn't a fixed theory, rather, different theorists have different approaches on form, which is excellently represented in [William E. Caplin, James Hepokoski, James Webster. Musical Form, Forms, and Formenlehre: Three Methodological Reflections](https://www.amazon.com/Musical-Form-Forms-Formenlehre-Methodological/dp/9058678229)
 - [James Hepokoski. Sonata Theory Handbook](https://amzn.to/3GRLHGa) - Focuses on broader set of composers (going deep into 19th century) comparing to Caplin's book, the author narrows the scope to a sonata form. [A Wikipedia article on Sonata Theory](https://en.wikipedia.org/wiki/Sonata_theory)
-
-3. When studying Caplin, some harmonic analyses may be checked against https://github.com/MarkGotham/When-in-Rome to understand the range of possible disagreement (V65 for viio, ii6 for IV and such) and also https://github.com/MarkGotham/Taking-Form 
-
 
 
 <img width="800" alt="Screenshot 2022-02-14 at 11 41 51 AM" src="https://user-images.githubusercontent.com/1491908/153829331-c9554a4e-c2d9-435d-bd2c-31f773d57125.png">
