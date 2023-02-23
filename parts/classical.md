@@ -79,11 +79,11 @@ Form
 
 
 <img width="800" alt="Screenshot 2022-02-14 at 11 41 51 AM" src="https://user-images.githubusercontent.com/1491908/153829331-c9554a4e-c2d9-435d-bd2c-31f773d57125.png">
-4. [Evan Cortens. The Expositions of Ha The Expositions of Haydn's String Quar s String Quartets: A Corpus Analysis tets: A Corpus Analysis](https://remix.berklee.edu/cgi/viewcontent.cgi?article=1022&context=haydn-journal) - nice graphs, where's the corpus?
-5. Is Diergarten/Neuwirth worth chasing? 
-6. [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (?)
- 
 
+- [Evan Cortens. The Expositions of Haydn's String Quartets: A Corpus Analysis](https://remix.berklee.edu/cgi/viewcontent.cgi?article=1022&context=haydn-journal) - nice graphs, where's the corpus?
+
+- [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (is this actually about form?)
+ 
 
 Advanced classical harmony and form
 ---
