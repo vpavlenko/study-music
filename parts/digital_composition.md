@@ -1,10 +1,7 @@
 Digital composition
 ===
 
-- 🇷🇺 [Антон Маскелиаде. Твой первый трек](https://maskeliade.school/book) - Очень вдохновляющий учебник по созданию электронной музыки в Аблетоне для начинающих 
- с посылом "у вас сразу всё начнёт получаться" и "не дайте внешней критике загубить ваш талант". Разбирает строение треков (элементы гармонии, форму, сведение), много примеров из Radiohead, есть разделы про психологию начинающего музыканта и сетап домашней студии. Также есть большое дружелюбное комьюнити, [интенсивные курсы](https://maskeliade.school/), [ежемесячная рассылка](https://maskeliade.school/links), [справочник по эффектам Аблетона](https://maskeliade.school/fx)
-
-<img width="982" alt="Screenshot 2022-01-21 at 2 07 44 PM" src="https://user-images.githubusercontent.com/1491908/150516896-ce75b545-7864-4d3b-b235-453608ec10ca.png">
+- [Ableton Guide: Learning Music](https://learningmusic.ableton.com/)
 
 - [Tidal Cycles](https://tidalcycles.org/) - A live coding environment with a painful setup that allows you to compose loops using code. Useful for very tricky rhythmic patterns. [Watch](https://www.youtube.com/watch?v=pS24J_cQM-o) [people](https://www.youtube.com/watch?v=XyfPEwdrHAQ) [doing](https://www.youtube.com/watch?v=1YADa-DSQT8) [it](https://www.youtube.com/watch?v=TB0AQ9RRqO0&list=PLKgxw7RG3hcQ84G6jiSA46mk3mPjX97Xo). Also look at [Hydra](https://hydra.ojack.xyz/) to code visuals for your algorave. Also [a book](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992) edited by its creator describing the algorithmic landscape.
 
@@ -20,6 +17,11 @@ Digital composition
 - [V.J. Manzo, Will Kuhn. Interactive Composition: Strategies Using Ableton Live and Max for Live](https://amzn.to/3gOvIy0)
 
 <img width="532" alt="Screenshot 2022-02-15 at 5 32 25 PM" src="https://user-images.githubusercontent.com/1491908/154082815-08213e00-0959-49f7-a75c-938c734e749a.png">
+
+- 🇷🇺 [Антон Маскелиаде. Твой первый трек](https://maskeliade.school/book) - Очень вдохновляющий учебник по созданию электронной музыки в Аблетоне для начинающих 
+ с посылом "у вас сразу всё начнёт получаться" и "не дайте внешней критике загубить ваш талант". Разбирает строение треков (элементы гармонии, форму, сведение), много примеров из Radiohead, есть разделы про психологию начинающего музыканта и сетап домашней студии. Также есть большое дружелюбное комьюнити, [интенсивные курсы](https://maskeliade.school/), [ежемесячная рассылка](https://maskeliade.school/links), [справочник по эффектам Аблетона](https://maskeliade.school/fx)
+
+<img width="982" alt="Screenshot 2022-01-21 at 2 07 44 PM" src="https://user-images.githubusercontent.com/1491908/150516896-ce75b545-7864-4d3b-b235-453608ec10ca.png">
 
 - [Books about Max/MSP](https://cycling74.com/books-about-max)
 
