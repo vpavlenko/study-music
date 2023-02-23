@@ -1,5 +1,7 @@
 Southeast Asian percussive languages
 ===
 
+Is there enough common traits between gamelan and piphat to bucket them into a family? What else is in that family?
+
 - [**Gamelan**](gamelan.md)
-- [**Piphat**](piphat.md) - is there enough common traits with gamelan to bind them into a family?
+- [**Piphat**](piphat.md)
