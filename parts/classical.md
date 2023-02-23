@@ -132,9 +132,7 @@ Misc
 - [Meinard Müller. Fundamentals of Music Processing. Audio, Analysis, Algorithms, Applications](https://amzn.to/3HRrgKJ)
 
 <img width="600" alt="Screenshot 2022-02-15 at 4 14 14 PM" src="https://user-images.githubusercontent.com/1491908/154069157-6a3bdc98-f5d5-4fa2-b0c8-aa325b4fc11c.png">
-
-
-- [**Bach chorales**](parts/bach_chorales.md)
+`
 
 
 Post-tonal theory
