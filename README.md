@@ -52,6 +52,8 @@ The families are (roughly speaking):
 
 [**Broad overview on non-Western languages**](parts/non_western_languages.md)
 
+<img src="https://user-images.githubusercontent.com/1491908/220949769-3a8467df-3e6c-4664-a973-21c81cfe8fa0.png" align="right" width="350">
+
 
 Topics
 ===
