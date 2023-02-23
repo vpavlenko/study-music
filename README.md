@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/1491908/220568166-377d3637-b5f6-45a9-906c-a8e4a21c3778.jpg" width="300" align="right">
+<img src="https://user-images.githubusercontent.com/1491908/220568166-377d3637-b5f6-45a9-906c-a8e4a21c3778.jpg" width="300">
 
 A directory of books, resources and courses to study everything about music and sound
 
@@ -25,7 +25,7 @@ Music languages can be divided into a number of families. Historically, the most
 - chords in thirds
 - any of the 12 notes can be a tonic
 
-<img src="https://user-images.githubusercontent.com/1491908/220957973-a76da180-0bf9-4ad4-b03d-8f6ff2d3a2a7.png" align="right" width="350">
+<img src="https://user-images.githubusercontent.com/1491908/220957973-a76da180-0bf9-4ad4-b03d-8f6ff2d3a2a7.png" align="left" width="350">
 
 The languages are (roughly speaking):
 - [**Rock**](parts/rock_harmony.md) - probably worth exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts.
@@ -51,11 +51,13 @@ The families are (roughly speaking):
 
 [**Broad overview on non-Western languages**](parts/non_western_languages.md)
 
-<img src="https://user-images.githubusercontent.com/1491908/220949769-3a8467df-3e6c-4664-a973-21c81cfe8fa0.png" align="right" width="350">
 
+<img src="https://user-images.githubusercontent.com/1491908/220949769-3a8467df-3e6c-4664-a973-21c81cfe8fa0.png" align="left" width="350">
 
 Topics
 ===
+
+
 
 - [**Composition**](parts/composition.md)
 - [**Listening guides**](parts/listening_guides.md)
@@ -68,12 +70,12 @@ Topics
 - [**Sociology of music**](parts/sociology.md)
 - [**Alternative notations**](parts/alternative_notations.md)
 
-
+<img src="https://user-images.githubusercontent.com/1491908/220955095-75f3a0d3-e090-43e7-a9ae-98c5f8eb1999.png" align="right" width="350">
 
 Topics on electronic music
 ===
 
-<img src="https://user-images.githubusercontent.com/1491908/220955095-75f3a0d3-e090-43e7-a9ae-98c5f8eb1999.png" align="right" width="350">
+
 
 - [**Sound design**](parts/sound_design.md)
 - [**Digital composition**](parts/digital_composition.md)
