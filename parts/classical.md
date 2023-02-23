@@ -70,7 +70,7 @@ Harmonic analysis
 
 
 Form
-===
+---
 
 
 - [William E. Caplin. Analyzing Classical Form](http://www.music.mcgill.ca/acf/) - Focuses solely on works of Haydn, Mozart and Beethoven, this book teaches a theory of formal functions to analyze the structure of their pieces. [A review](https://mtosmt.org/issues/mto.14.20.1/mto.14.20.1.aziz.html), [a podcast with the author](https://www.youtube.com/watch?v=TB5BN328O-Q)
