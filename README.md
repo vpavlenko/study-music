@@ -32,6 +32,7 @@ The languages are (roughly speaking):
 - [**Barbershop**](parts/barbershop.md)
 - [**Movies**](parts/movies_games.md)
 - [**Video games**](parts/vgm.md)
+- [**Bach chorales**](parts/bach_chorales.md)
 - Other genres like R&B, country, dance electronic, gospel
 - Western regional traditions (eg. Latin)
 
