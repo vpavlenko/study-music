@@ -40,6 +40,8 @@ Harmonic analyses
 
 Harmonic analyses are a creative reductionist technique that doesn't claim there's a single truth. Different scholars perform harmonic analyses differently, and disagreements arise everywhere. As a single example, below are three different analyses of the beginning of [Beethoven's op. 2 no. 1 mov. 1](https://github.com/MarkGotham/When-in-Rome/tree/master/Corpus/Piano_Sonatas/Beethoven%2C_Ludwig_van/Op002_No1/1):
 
+<img width="933" alt="Screenshot 2023-02-23 at 18 12 46" src="https://user-images.githubusercontent.com/1491908/220932285-faea6065-6feb-45e6-8d32-cd3c09ef1943.png">
+
 
 
 - [David Bennett Thomas](https://www.youtube.com/playlist?list=PL613D1A6B3C4BBDF2) - A very thorough analysis of carefully picked pieces from different styles.
