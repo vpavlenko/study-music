@@ -30,7 +30,7 @@ The languages are (roughly speaking):
 - [**Classical**](parts/classical.md) - the biggest chapter here, as it's the main focus of all research and teaching (despite its unpopularity according to [streaming stats](https://headphonesaddict.com/music-genre-statistics/))
 - [**Jazz**](parts/jazz.md)
 - [**Barbershop**](parts/barbershop.md)
-- [**Movies**](parts/movies_games.md)
+- [**Movies**](parts/movies.md)
 - [**Video games**](parts/vgm.md)
 - [**Bach chorales**](parts/bach_chorales.md)
 - Other genres like R&B, country, dance electronic, gospel
