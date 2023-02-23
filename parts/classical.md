@@ -100,38 +100,22 @@ Advanced classical harmony and form
 
 - [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) - And the Wikipedia articles on [Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata). Also [Daniel Heartz. Music in European Capitals](https://amzn.to/34U1qXY). Also [L. Poundie Burstein. Journeys Through Galant Expositions](https://amzn.to/3gNdYmJ)
 
-- [**Classical form**](parts/classical_form.md)
-
-- Research by Dmitri Tymoczko: 
-  - [Books and articles](https://dmitri.mycpanel.princeton.edu/publications.html)
-  - [Local Harmonic Grammar in Western Classical Music](https://dmitri.mycpanel.princeton.edu/mozart.pdf) - the harmonic syntax of Western classical music can be captured by a simple maplike grammar without recursive generative rules
-  - [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
 
 - 🇷🇺 [Ю. Тюлин. Учение о музыкальной фактуре и мелодической фигурации (два тома теории, ещё задачник и ещё решебник)](https://archive.org/details/tiulin_muz_factura_1). [Глава 2 с привязанными примерами](https://kuregyan.vercel.app/books/tyulin/)
 
 <img width="757" alt="Screenshot 2022-02-15 at 4 34 48 PM" src="https://user-images.githubusercontent.com/1491908/154072499-7c93331a-a90b-432b-982e-7f6f871e150c.png">
 
 
-21. https://musictheoryexamples.com/ and "Bending the Rules of Music Theory"
-4. Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
-12. [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
-22. Schoenberg on counterpoint
+- https://musictheoryexamples.com/ and "Bending the Rules of Music Theory"
 
-General thoughts on music theory research
----
-1. Temperley's "The Question of Purpose"
-2. [Empirical Musicology: An Interview with David Huron Part I](https://emusicology.org/index.php/EMR/article/view/7718/5744), [Part II](https://emusicology.org/article/view/8103/6032)
-
-
-High-level music theory
----
-
-- [Wallace Berry](https://en.wikipedia.org/wiki/Wallace_Berry)
-
+- Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
+- [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
+- Schoenberg on counterpoint
 
 Misc
 ---
 
+- [Wallace Berry](https://en.wikipedia.org/wiki/Wallace_Berry)
 
 - [A website of Milton Mermikides](https://www.miltonline.com/) - A lot of YouTube lectures and blog posts from a British composer.
 
@@ -148,12 +132,6 @@ Misc
 - [Meinard Müller. Fundamentals of Music Processing. Audio, Analysis, Algorithms, Applications](https://amzn.to/3HRrgKJ)
 
 <img width="600" alt="Screenshot 2022-02-15 at 4 14 14 PM" src="https://user-images.githubusercontent.com/1491908/154069157-6a3bdc98-f5d5-4fa2-b0c8-aa325b4fc11c.png">
-
-- [Ed Friedland. Building Walking Bass Lines](https://amzn.to/35175vz) and [Ed Friedland. Expanding Walking Bass Lines](https://amzn.to/3LDK8z6) and [many other books](https://www.halleonard.com/search/author/77845/ed-friedland) - the book should contain the code to access audio examples at the publisher's website
-
-<img width="800" alt="Screenshot 2022-02-15 at 4 44 34 PM" src="https://user-images.githubusercontent.com/1491908/154074173-859e4172-ac20-46ed-870d-4227b1967532.png">
-
-- http://openmusictheory.com/
 
 
 - [**Bach chorales**](parts/bach_chorales.md)
