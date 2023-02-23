@@ -69,6 +69,7 @@ Topics
 - [**YouTube channels and podcasts**](parts/youtube_and_podcasts.md)
 - [**Sociology of music**](parts/sociology.md)
 - [**Alternative notations**](parts/alternative_notations.md)
+- [**Piano**](parts/piano.md)
 
 <img src="https://user-images.githubusercontent.com/1491908/220955095-75f3a0d3-e090-43e7-a9ae-98c5f8eb1999.png" align="right" width="350">
 
