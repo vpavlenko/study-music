@@ -1,5 +1,5 @@
 Early (pre-Baroque) music theory
----
+===
 
 Rough evolution: monophonic Gregorian chants -> polyphony of various rules and centuries -> homophony
 
