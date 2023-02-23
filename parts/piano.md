@@ -6,8 +6,10 @@ How to learn sight-reading
 
 - Sight-read for 20 minutes every day
 - Sight-read a lot of really easy stuff. Search for "easy piano classics" and other "easy piano" stuff
+- Have a lot of short piano pieces ready for reading every day. Search for "solo piano", "songbook", "piano anthology", "vocal selections", "piano pieces"
 - Start by sight-reading in white keys only. Skip pieces that have key signature
 - Start by sight-reading melodic pieces with right-hand only. Only sight-read with both hands if you are already fast enough with the right hand
+
 
 Fingers
 ---
