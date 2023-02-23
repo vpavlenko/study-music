@@ -3,9 +3,7 @@
 
 A directory of books, resources and courses to study everything about music and sound
 
-This is version 2.
-
-[Version 1](https://github.com/vpavlenko/study-music/tree/ba716e653befb6db995346732a351471d2081efc) was a single-page with all screenshots that may load slowly
+This is version 2. [Version 1](https://github.com/vpavlenko/study-music/tree/ba716e653befb6db995346732a351471d2081efc) was a single-page with all screenshots that may load slowly
 
 Where to start
 ===
@@ -52,8 +50,6 @@ The families are (roughly speaking):
 - many other traditions
 
 [**Broad overview on non-Western languages**](parts/non_western_languages.md)
-
-
 
 
 Topics
