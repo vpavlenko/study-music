@@ -75,7 +75,6 @@ Topics on electronic music
 - [Ableton Guide: Learning Music](https://learningmusic.ableton.com/)
 - [**Sound design**](parts/sound_design.md)
 - [**Digital composition**](parts/digital_composition.md)
-- [**Online instruments**](parts/online_instruments.md)
 - [**Mixing**](parts/mixing.md)
 - [**Microtonal experiments**](parts/microtonal.md)
 - [**Notable instruments**](parts/instruments.md)
