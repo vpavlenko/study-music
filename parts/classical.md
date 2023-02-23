@@ -20,7 +20,7 @@ Free online books with audio examples
 - [Mark Gotham, Kyle Gullings, Chelsey Hamm, Bryn Hughes, Brian Jarvis, Megan Lavengood, John Peterson. Open Music Theory, Version 2](https://viva.pressbooks.pub/openmusictheory/front-matter/introduction/)
 - [Robert Hutchinson. Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 - [Mauro Braunstein. Offtonic Theory](https://offtonic.com/theory/index.html) - An online book that is spiced up with Jewish Chasidic examples (in addition to classical and rock ones) and an intro into Arabic maqamaat music
-- [Sean Butterfield. Integrated Musicianship: Theory](https://intmus.github.io/inttheory21-22/) - An open-source, interactive, online textbook for college-level music theory courses
+- [Sean Butterfield. Integrated Musicianship: Theory](https://intmus.github.io/inttheory21-22/)
 - [Artusi: Interactive Music Theory and Online Skills](https://www.artusimusic.com/) - a free online auto-graded course that teaches you four-part writing right in the web score editor. It shows all errors in the voice-leading (parallel fifths, tritone leaps, jumps on augmented intervals, forgotten preparations, voice crossing)
 
 <img width="700" alt="Screenshot 2022-05-31 at 12 01 59" src="https://user-images.githubusercontent.com/1491908/171103394-69047f94-827e-4c80-834f-e8c2a80bc8d3.png">
@@ -29,20 +29,37 @@ Free online books with audio examples
 Printed books
 ---
 
+<img width="600" alt="Screenshot 2023-02-23 at 18 16 36" align="right" src="https://user-images.githubusercontent.com/1491908/220932994-71b04da6-9f65-4082-93e2-87ed703e7728.png">
+
+
 - [Steven G. Laitz. The Complete Musician](https://amzn.to/3nKdSAa) - A standard modern book on classical harmony with introduction into a form and XX century techniques. [Audio examples](https://learninglink.oup.com/access/laitz-4e-student-resources) are freely available
-- Kevin Holm-Hudson. Music Theory Remixed - offers a mixed repertoire of classical, popular and non-Western music
+- Kevin Holm-Hudson. Music Theory Remixed - offers a mixed repertoire of classical, popular and non-Western music. [A review](https://hcommons.org/deposits/objects/hc:23398/datastreams/CONTENT/content)
+- Elizabeth Marvin, Jane Piper Clendinning. The Musician's Guide to Theory and Analysis
 - Benward/Saker. Music in Theory and Practice
 - L. Poundie Burstein, Joseph N. Straus. Concise Introduction to Tonal Harmony
 - Older books: Aldwell/Schachter (more [Schenkerian](schenkerian_analysis.md)), Kostka/Payne
 
-Harmonic analyses
+(Comparison of books is taken from [a review by Brad Osborn](https://hcommons.org/deposits/objects/hc:23398/datastreams/CONTENT/content))
+
+
+
+Harmonic analysis
 ---
 
-Harmonic analyses are a creative reductionist technique that doesn't claim there's a single truth. Different scholars perform harmonic analyses differently, and disagreements arise everywhere. As a single example, below are three different analyses of the beginning of [Beethoven's op. 2 no. 1 mov. 1](https://github.com/MarkGotham/When-in-Rome/tree/master/Corpus/Piano_Sonatas/Beethoven%2C_Ludwig_van/Op002_No1/1):
+Harmonic analysis is a creative reductionist technique that doesn't claim there's a single truth. Different scholars perform harmonic analyses differently, and disagreements arise everywhere:
+- V7 or viio, ii6 or IV, IV6 or vi
+- I64 or Cad64 or V64
+- cadential I(247 - I35) - triple suspension
+- how to mark passing harmonies?
+- should we mark common-tone chords?
+- what's a root of a non-applied diminished seventh?
+- what if a third/a fifth is missing, can root be missing/implied?
+
+See "On the relative openness of syntax" in [Mark Gotham's paper](https://emusicology.org/index.php/EMR/article/view/7644/6253)
+
+As a single example, below are three different analyses of the beginning of [Beethoven's op. 2 no. 1 mov. 1](https://github.com/MarkGotham/When-in-Rome/tree/master/Corpus/Piano_Sonatas/Beethoven%2C_Ludwig_van/Op002_No1/1):
 
 <img width="933" alt="Screenshot 2023-02-23 at 18 12 46" src="https://user-images.githubusercontent.com/1491908/220932285-faea6065-6feb-45e6-8d32-cd3c09ef1943.png">
-
-
 
 - [David Bennett Thomas](https://www.youtube.com/playlist?list=PL613D1A6B3C4BBDF2) - A very thorough analysis of carefully picked pieces from different styles.
 
