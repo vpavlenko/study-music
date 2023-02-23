@@ -1,10 +1,13 @@
-Harmonic analysis is a creative reductionist technique that doesn't claim there's a single truth. Different scholars perform harmonic analyses differently, and disagreements arise everywhere:
+Openness of harmonic analysis
+===
+
+Harmonic analysis is a creative reductionism and not a mechanical operation. There's no single valid harmonic analysis. Different scholars perform harmonic analyses differently, and disagreements arise everywhere:
 - V7 or viio, ii6 or IV, IV6 or vi
 - I64 or Cad64 or V64
-- cadential I(247 - I35) - triple suspension
-- how to mark passing harmonies?
-- should we mark common-tone chords?
-- what's a root of a non-applied diminished seventh?
+- cadential I(247 - 35) - triple suspension
+- should we mark passing harmonies?
+- should we mark [common-tone](https://viva.pressbooks.pub/openmusictheory/chapter/common-tone-chords/) [chords](https://sites.google.com/view/musicalharmonysite/part-ii-harmony-theory-and-analysis/altered-chords/common-tone-diminished-seventh-chords)?
+- what's a root of a non-applied diminished seventh chords, eg. io7 or #ivo7?
 - what if a third/a fifth is missing, can root be missing/implied?
 
 See "On the relative openness of syntax" in [Mark Gotham's paper](https://emusicology.org/index.php/EMR/article/view/7644/6253)
@@ -23,6 +26,9 @@ And how it's annotated in William E. Caplin's book:
 
 <img width="876" alt="Screenshot 2023-02-23 at 19 01 03" src="https://user-images.githubusercontent.com/1491908/220944485-e8b01765-a964-4dff-acd0-71ed8e0a3c53.png">
 
+Literature
+---
 
+- [DCML's annotation tutorial](https://dcmlab.github.io/standards/build/html/tutorial/index.html)
 
-
+- [Papers from the "When in Rome" corpus](https://github.com/MarkGotham/When-in-Rome#citeable-papers)
