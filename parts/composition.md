@@ -21,4 +21,6 @@ Music composition
 
 - Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
 
+- Jorge Variego. Composing with Constraints: 100 Practical Exercises in Music Composition
+
 Also mention [GCSE and A-level books](https://t.me/keetezh/822)
