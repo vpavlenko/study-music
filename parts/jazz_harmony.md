@@ -37,3 +37,4 @@ TODO for version 2
 2. https://github.com/shanahdt/smt_jazz_2019#some-reading
 3. [Роман Столяр. Джаз. Введение в стилистику](https://t.me/keetezh/694)
 4. Чугунов Ю.Н. Учитесь подбирать на слух. 10 уроков по гармонизации эстрадных и джазовых мелодий
+5. Wayne J. Naus. Beyond Functional Harmony
