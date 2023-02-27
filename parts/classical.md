@@ -2,7 +2,7 @@ Common practice
 ===
 
 Classical music has three very broad periods:
-- [**pre-1650, early music**](early_music.md)
+- [**pre-1650, early music**](early_music.md), [**counterpoint**](counterpoint.md) was also most prominent in that time
 - 1650..1900, so called "common practice period", which is the focus of most traditional manuals on classical music
 - 20th and 21st century, which has a huge variety of new techniques and approaches, so that sometimes pieces are idiosyncratic and don't share many language traits with some larger class of pieces
 
