@@ -23,4 +23,6 @@ Music composition
 
 - Jorge Variego. Composing with Constraints: 100 Practical Exercises in Music Composition
 
+- https://www.amazon.com/1001-Music-Composition-Prompts-Creativity-ebook/dp/B0BQJNG86C/
+
 Also mention [GCSE and A-level books](https://t.me/keetezh/822)
