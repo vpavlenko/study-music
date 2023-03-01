@@ -8,7 +8,7 @@ Common features:
 
 Languages:
 - [**Arabic maqamat**](arabic.md)
-- [Turkish makam](https://www.amazon.com/Turkish-Music-Makam-Guide-CDs/dp/9944396842)
+- [**Turkish makam**](turkish.md)
 - [**Persian dastgah**](dastgah.md)
 - [Azerbaijani mugham](https://en.wikipedia.org/wiki/Mugham)
 - [Shashmaqam](https://en.wikipedia.org/wiki/Shashmaqam)
