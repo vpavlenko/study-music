@@ -25,4 +25,6 @@ Music composition
 
 - https://www.amazon.com/1001-Music-Composition-Prompts-Creativity-ebook/dp/B0BQJNG86C/
 
+- https://www.staffpad.net/
+
 Also mention [GCSE and A-level books](https://t.me/keetezh/822)
