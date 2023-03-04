@@ -19,6 +19,8 @@ Sound design
 
 <img width="600" alt="Screenshot 2022-01-23 at 9 31 49 AM" src="https://user-images.githubusercontent.com/1491908/150667458-853c8c11-bfce-4ed4-bf78-acbb8eb0eabb.png">
 
+Also, historically there was a number of environments to do sound synthesis with code - starting from CSound, [going through an abundance](https://en.wikipedia.org/wiki/Comparison_of_audio_synthesis_environments). My understanding is that [SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider), Max/MSP and PureData are the most alive now.
+
 - [Andrea Pejrolo, Scott B. Metcalfe. Creating Sounds from Scratch: A Practical Guide to Music Synthesis for Producers and Composers](https://amzn.to/3oPzJXD)
 
 - 🇷🇺 [Амосов, Наджаров, Хруст. Лекции по электроакустической музыке](https://drive.google.com/file/d/1G5xKssoR5vWTiR3YCtwywgFg2Kay0uK4/view)
