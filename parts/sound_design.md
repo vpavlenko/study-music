@@ -15,7 +15,7 @@ Sound design
 
 ![telegram-cloud-photo-size-2-5420532436367948384-y](https://user-images.githubusercontent.com/1491908/150430889-57ecf3fa-3c39-4152-a7c6-e88231770b86.jpg)
 
-- [Andy Farnell. Designing Sound](https://amzn.to/33Uv3rH) - Starts with a very thorough introduction into physics of sound and progresses into Pure Data concepts and creation of sounds of fire, rain, jet engine, insects. Browse wav examples at [practical](http://aspress.co.uk/sd/practical12.html) [series](http://aspress.co.uk/sd/practical15.html) [pages](http://aspress.co.uk/sd/practical24.html), which are also replicated in [SuperCollider](https://en.wikibooks.org/wiki/Designing_Sound_in_SuperCollider)
+- [Andy Farnell. Designing Sound](https://amzn.to/33Uv3rH) - Starts with a very thorough introduction into physics of sound and progresses into Pure Data concepts and creation of sounds of fire, rain, jet engine, insects. Browse wav examples at [practical](http://aspress.co.uk/sd/practical12.html) [series](http://aspress.co.uk/sd/practical15.html) [pages](http://aspress.co.uk/sd/practical24.html), which are also replicated in [SuperCollider](https://en.wikibooks.org/wiki/Designing_Sound_in_SuperCollider). Reviews: [one](https://www.reddit.com/r/sounddesign/comments/hhvk0i/comment/fwclu2b/), [two](https://www.reddit.com/r/synthrecipes/comments/cbu8bn/design_sound_by_andy_pharell_worth_it_book/)
 
 <img width="600" alt="Screenshot 2022-01-23 at 9 31 49 AM" src="https://user-images.githubusercontent.com/1491908/150667458-853c8c11-bfce-4ed4-bf78-acbb8eb0eabb.png">
 
