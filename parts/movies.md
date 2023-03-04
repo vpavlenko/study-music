@@ -15,7 +15,10 @@ with [audio resources](https://global.oup.com/us/companion.websites/978019060640
 <img width="841" alt="Screenshot 2023-02-22 at 11 34 35" src="https://user-images.githubusercontent.com/1491908/220553202-d859e19d-6428-4659-bda1-b1825ef06208.png">
 
 
-Long list
+Backup long list
 ---
 
 - https://www.amazon.com/Audio-Vision-Sound-Screen-Michel-Chion/dp/0231185898
+- https://www.amazon.co.uk/Film-Sound-Theory-Practice-Weis/dp/0231056370/
+- https://www.amazon.co.uk/Practical-Art-Motion-Picture-Sound/dp/0240808657/
+- https://www.amazon.com/Sound-Systems-Optimization-Techniques-Alignment/dp/0240521560/
