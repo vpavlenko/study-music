@@ -33,20 +33,5 @@ Also, historically there was a number of environments to do sound synthesis with
 
 - [YouTube lectures on FM synthesis](https://www.reddit.com/r/edmproduction/comments/4mm3hk/learn_fm_synthesis/)
 
-Programming languages
-===
 
-Roughly, there are three types of tools to produce music (listed in descending popularity): 
-- DAWs (Ableton is on the rise; Cubase, Logic, FLStudio also fall here)
-- visual programming languages (Max/MSP and PureData)
-- text-based programming languages
-
-Inside the “text-based programming languages” group, SuperCollider seems to be the most popular _among low-level_. That is, there are high-level languages sitting on top of SuperCollider like TidalCycles or Sonic Pi which may be more popular and more modern and more useful for livecoding. There’s probably [one for your favorite programming language](https://github.com/toplap/awesome-livecoding#languages).
-
-Reddit sizes:
-- Ableton 333k members
-- Max/MSP 11k
-- PureData 5.9k
-- SuperCollider 2.5k
-- TidalCycles 815  
 
