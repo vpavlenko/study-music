@@ -7,7 +7,7 @@ Classical music has three very broad periods:
 - 20th and 21st century, which has a huge variety of new techniques and approaches, so that sometimes pieces are idiosyncratic and don't share many language traits with some larger class of pieces
 
 Common practice music has several periods (having different language traits):
-- Baroque (a mixture of polyphony and homophony), including Galant (schemata)
+- [**Baroque**](baroque.md) (a mixture of polyphony and homophony), including Galant (schemata)
 - Classical (decline of polyphony)
 - Romantic (more chromaticism, prevalence of minor mode)
 
