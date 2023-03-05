@@ -19,3 +19,10 @@ Ear training
 - [https://www.teoria.com/en/exercises/](https://www.teoria.com/en/exercises/)
 
 - [Auralia](https://www.risingsoftware.com/auralia/topics)
+
+Sight Singing
+---
+
+(TODO: make a separate page maybe)
+
+- [SFCM Sight Singing Book](https://drive.google.com/drive/u/0/folders/1-98WZ3mF3thoL2iBnvWW-QPiNKFO_UHl), [mirror](https://drive.google.com/file/d/1MCeiPgYB66zt402BA8gY9GMYsX2uQYJz/view?usp=share_link)
