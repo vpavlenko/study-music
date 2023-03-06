@@ -3,6 +3,7 @@ Corpus studies
 
 1. oxford handbook corpus studies
 2. The Music in the Data, [screenshots](https://t.me/keetezh/759)
+3. https://www.umass.edu/music/event/research-music-series-talk-nathan-martin as a reading list in the last paragraph
 
 General thoughts on music theory research
 ---
