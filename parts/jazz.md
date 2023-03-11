@@ -45,4 +45,4 @@ Jazz improvisation teachers
 - [Bob Keller's Jazz Page](https://www.cs.hmc.edu/~keller/jazz/)
 - Barry Harris videos https://youtube.com/@BarryHarrisVideos
 - [**Visualizations of jazz harmony**](jazz_visualizations.md)
-
+- https://www.jeffcoffin.com/ctd
