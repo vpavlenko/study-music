@@ -23,3 +23,5 @@ MAESTRO
 
 
 <img width="1728" alt="Screenshot 2023-03-22 at 19 28 05" src="https://user-images.githubusercontent.com/1491908/226954657-7ea7fd6f-eda4-4809-a4cf-5d13dfa2323c.png">
+
+<img width="1704" alt="Screenshot 2023-03-22 at 20 24 45" src="https://user-images.githubusercontent.com/1491908/226971711-6a16e148-e79a-4c83-8bbf-55528441515c.png">
