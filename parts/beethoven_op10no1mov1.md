@@ -11,6 +11,9 @@ Interpretations:
 - editions, fingerings
 - tutti tempi
 
+Editions
+---
+- http://smtd-www2.miserver.it.umich.edu/treasures/guide/Beethovens_Pianoforte_Sonatas_best.pdf
 
 MAESTRO
 ---
