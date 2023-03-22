@@ -24,6 +24,8 @@ Yes, pianists really [write down all fingers](https://www.youtube.com/watch?v=ir
 Misc
 ---
 
+- [**On interpretations**](beethoven_op10no1mov1.md)
+
 - [Thomas Mark. What Every Pianist Needs to Know About the Body](https://amzn.to/36ev1fx) - how to gain fluidity without injuries
 
 - [Carol Barratt. All the Tunes You've Ever Wanted to Play: All-time Piano Classics. Easy-to-play Arrangements](https://www.amazon.com/Tunes-Youve-Wanted-Easy-play/dp/0711976627)
