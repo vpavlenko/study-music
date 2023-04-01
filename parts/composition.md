@@ -27,4 +27,6 @@ Music composition
 
 - https://www.staffpad.net/
 
+- https://www.reddit.com/r/musictheory/wiki/compchallenge/
+
 Also mention [GCSE and A-level books](https://t.me/keetezh/822)
