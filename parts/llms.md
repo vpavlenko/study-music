@@ -8,3 +8,4 @@ Articles that excite me:
 - https://arxiv.org/abs/2205.03983
 - https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/62c5c622244ce03b8e3c4f21/original/do-large-language-models-know-chemistry.pdf
 - https://evanthebouncy.github.io/program-synthesis-minimal/generation-with-llm/
+- https://github.com/zharry29/drums-with-llm
