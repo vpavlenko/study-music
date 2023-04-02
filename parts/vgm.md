@@ -34,6 +34,7 @@ And Famicom From 1988-1992](https://www.christopherjhopkins.com/chiptune-dissert
 
 - https://web.archive.org/web/20110815082924/http://dutycyclegenerator.com/
 - https://deflemask.com/
+- https://github.com/chrisdonahue/nesmdb
 
 
 <img width="849" alt="Screenshot 2023-03-26 at 11 06 16" src="https://user-images.githubusercontent.com/1491908/227760822-d2caf346-e820-4bb1-a6c4-33ecc1396c40.png">
