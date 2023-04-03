@@ -9,7 +9,7 @@ Where to start
 ===
 
 1. Go through [Ableton's guide](https://learningmusic.ableton.com/)
-2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab)
+2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab). Honestly [both of their books](https://www.hooktheory.com/books) are top-1 reading and well worth the money
 3. Return here and explore futher
 
 Music theory
