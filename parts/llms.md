@@ -12,3 +12,4 @@ Articles that excite me:
 - https://arxiv.org/search/cs?searchtype=author&query=Donahue%2C+C
 - https://www.semanticscholar.org/paper/LakhNES%3A-Improving-Multi-instrumental-Music-with-Donahue-Mao/24a70db0bbb5f486126477e32a6a44ab917a4b11#citing-papers
 - MidiBERT, MusicBERT, Museformer
+- https://github.com/tripathiarpan20/midiformers
