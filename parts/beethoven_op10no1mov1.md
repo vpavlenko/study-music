@@ -6,7 +6,6 @@ Score and analyses
 - [When in Rome, harmonic analysis](https://github.com/MarkGotham/When-in-Rome/tree/master/Corpus/Piano_Sonatas/Beethoven%2C_Ludwig_van/Op010_No1/1), [DCML's on-score analysis uploaded to MuseScore](https://musescore.com/user/39031562/scores/10406041)
 - [Taking form, formal analysis](https://github.com/MarkGotham/Taking-Form/blob/master/corpus/Beethoven_Sonatas/sonata5op10no1movt1.csv) 
 - [TuttiTempi](https://tuttitempi.com/#scoreId=U00000585501) navigates through performances and has scrolling music sheet
-- [Beethoven-Haus Bonn](https://www.beethoven.de/en/work/view/6161994000367616/Three+Sonatas+for+piano+%28C+minor%2C+F%2C+D+major%29+op.+10?fromArchive=6299845270700032) has early editions and lists a referencing literature which is nowhere to be found :)
 
 Keyscape
 ---
@@ -20,11 +19,10 @@ Keyscape
 
 
 
-
 MAESTRO
 ---
 
-[Has two recordings](https://www.dropbox.com/sh/gl6g1uy4a3wq7zc/AADJXebCDD0qw1W-C_fC-egCa?dl=0)
+[The dataset](https://magenta.tensorflow.org/datasets/maestro) [has two recordings](https://www.dropbox.com/sh/gl6g1uy4a3wq7zc/AADJXebCDD0qw1W-C_fC-egCa?dl=0)
 with [CC64 and CC67 markings](https://hub.yamaha.com/pianos/p-acoustic/the-disklavier-piano-pedals/). Renders below screenshoted from Cubase, is there a better way to render MIDI, esp. in web? Also I'd love to adjoin the tempo track (a-la TuttiTempi?)
 
 
@@ -43,8 +41,7 @@ Harding
 <img width="887" alt="Screenshot 2023-04-04 at 17 09 46" src="https://user-images.githubusercontent.com/1491908/229801868-f56bfa64-e0cc-49fa-9289-fb4c4e5655a6.png">
 
 
-
-Caplin
+Caplin 2013
 ---
 
 [Ex. 11.4](http://www.music.mcgill.ca/acf/example11-4.php), also [answers](http://www.music.mcgill.ca/acf/lp11-4.php) for questions below
@@ -67,6 +64,60 @@ Caplin
 
 
 Also mentioned in two exercises for which there are no answers found.
+
+Caplin 1998
+---
+
+
+**Ch. 8. Subordinate theme**
+
+note 13:
+
+
+
+<img width="449" alt="Screenshot 2023-04-05 at 00 39 39" src="https://user-images.githubusercontent.com/1491908/229915154-dc570e15-5623-4084-8809-661f3339d89d.png">
+
+<img width="439" alt="Screenshot 2023-04-05 at 00 39 51" src="https://user-images.githubusercontent.com/1491908/229915194-612c26ea-f8e9-4ab6-84f5-c4d54bf19c82.png">
+
+<img width="465" alt="Screenshot 2023-04-05 at 00 33 24" src="https://user-images.githubusercontent.com/1491908/229913902-8de9a845-19f3-4089-b3b9-8dac2f10c4b4.png">
+
+note 17: 
+
+
+
+<img width="438" alt="Screenshot 2023-04-05 at 00 42 31" src="https://user-images.githubusercontent.com/1491908/229915808-fd03cbe0-75b3-4667-b7fa-e1f08e0abf5e.png">
+
+<img width="446" alt="Screenshot 2023-04-05 at 00 42 41" src="https://user-images.githubusercontent.com/1491908/229915857-5752c0c1-b4bd-4fcc-aa1d-656e20f69c36.png">
+
+<img width="469" alt="Screenshot 2023-04-05 at 00 33 42" src="https://user-images.githubusercontent.com/1491908/229914004-d84c7bf2-af4f-40ea-ac41-d3a7baa7df42.png">
+
+
+note 38:
+
+<img width="541" alt="Screenshot 2023-04-05 at 00 43 11" src="https://user-images.githubusercontent.com/1491908/229915966-e87fe45d-5316-4950-b41f-2d814ee33c46.png">
+
+<img width="460" alt="Screenshot 2023-04-05 at 00 35 02" src="https://user-images.githubusercontent.com/1491908/229914239-ea413a43-6f2e-427d-ad9e-a53039d5d874.png">
+
+**Ch. 9. Transition**
+
+note 27:
+
+<img width="519" alt="Screenshot 2023-04-05 at 00 45 50" src="https://user-images.githubusercontent.com/1491908/229916539-b4913377-d6e5-4fd3-8d89-9d67d8cd6b0b.png">
+
+<img width="520" alt="Screenshot 2023-04-05 at 00 46 09" src="https://user-images.githubusercontent.com/1491908/229916607-29daba2e-a31a-4a06-b704-24d009bd904e.png">
+
+<img width="455" alt="Screenshot 2023-04-05 at 00 35 33" src="https://user-images.githubusercontent.com/1491908/229914331-890dce7b-f7a9-41e3-a577-f20928a67469.png">
+
+
+**Ch. 11. Recapitulation**
+
+note 39:
+
+
+<img width="509" alt="Screenshot 2023-04-05 at 00 47 33" src="https://user-images.githubusercontent.com/1491908/229916873-1faa1505-fd7d-4bcf-a97b-c9b87565073c.png">
+
+<img width="459" alt="Screenshot 2023-04-05 at 00 36 03" src="https://user-images.githubusercontent.com/1491908/229914446-30d8eff9-5c10-44a6-9db1-342b47f10279.png">
+
 
 Hepokoski, Darcy 2006
 ---
@@ -111,6 +162,8 @@ What's in there (probably):
 Barry Cooper is skipped for leaning on musicological (i.e. historical) side.
 
 Paul M. Ellison "The Key to Beethoven" - he tries to assign the meaning to key choices. (skipped, esoterics?)
+
+[Beethoven-Haus Bonn](https://www.beethoven.de/en/work/view/6161994000367616/Three+Sonatas+for+piano+%28C+minor%2C+F%2C+D+major%29+op.+10?fromArchive=6299845270700032) has early editions and lists a referencing literature which is nowhere to be found :)
 
 Articles
 ---
