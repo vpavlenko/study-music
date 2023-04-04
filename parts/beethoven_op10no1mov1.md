@@ -1,15 +1,12 @@
 Outline
 ---
 
-Harmony, keys:
-- when in Rome
-
-Form
-
-Interpretations:
-- Maestro
-- editions, fingerings
-- tutti tempi
+- [MuseScore](https://musescore.com/user/19710/scores/69303)
+- [IMSLP](https://imslp.org/wiki/Piano_Sonata_No.5%2C_Op.10_No.1_(Beethoven%2C_Ludwig_van))
+- [When in Rome, harmonic analysis](https://github.com/MarkGotham/When-in-Rome/tree/master/Corpus/Piano_Sonatas/Beethoven%2C_Ludwig_van/Op010_No1/1)
+- [Taking form, formal analysis](https://github.com/MarkGotham/Taking-Form/blob/master/corpus/Beethoven_Sonatas/sonata5op10no1movt1.csv) 
+- [TuttiTempi](https://tuttitempi.com/#scoreId=U00000585501)
+- [Lakh MIDI dataset](https://colinraffel.com/projects/lmd/) likely has something
 
 Editions
 ---
