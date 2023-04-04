@@ -86,3 +86,10 @@ Paul M. Ellison "The Key to Beethoven" - he tries to assign the meaning to key c
 - [Liang Lu, Qing Yang, Li Zhou, Kewen Ji. First movement version of Beethoven's piano sonata No. 5 (OP10 NO.1) velocity image processing and analysis](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12328/123281Q/First-movement-version-of-Beethovens-piano-sonata--No-5/10.1117/12.2644366.full?SSO=1)
 
 - [Jack F. Boss. “Schenkerian-Schoenbergian Analysis” and Hidden Repetition in the Opening Movement of Beethoven’s Piano Sonata Op. 10, No. 1](https://www.mtosmt.org/issues/mto.99.5.1/mto.99.5.1.boss.html) - [**warning**](schenkerian_analysis.md)
+
+Lectures
+---
+
+- [Analysis told by TrebleWoofer](https://www.youtube.com/watch?v=tCsuafeAT0Q), [his previous analysis](https://www.youtube.com/watch?v=tttTccYd_Zk)
+- [Analysis drawn by Andrew Schartmann, no talk](https://www.youtube.com/watch?v=eBQC1XBq6yM)
+- [András Schiff](https://www.youtube.com/watch?v=YjUPCVC_rcI)
