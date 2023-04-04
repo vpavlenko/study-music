@@ -6,6 +6,7 @@ Score and analyses
 - [When in Rome, harmonic analysis](https://github.com/MarkGotham/When-in-Rome/tree/master/Corpus/Piano_Sonatas/Beethoven%2C_Ludwig_van/Op010_No1/1)
 - [Taking form, formal analysis](https://github.com/MarkGotham/Taking-Form/blob/master/corpus/Beethoven_Sonatas/sonata5op10no1movt1.csv) 
 - [TuttiTempi](https://tuttitempi.com/#scoreId=U00000585501)
+- [KernScores](https://kern.humdrum.org/cgi-bin/ksdata?file=sonata05-1.krn&l=users/craig/classical/beethoven/piano/sonata&format=info), [piano roll](https://kern.humdrum.org/cgi-bin/ksanalysis-proll?options=H&url=https%3A%2F%2Fkern.humdrum.org%2Fcgi-bin%2Fksdata%3Fl%3Dusers%2Fcraig%2Fclassical%2Fbeethoven%2Fpiano%2Fsonata%26file%3Dsonata05-1.krn%26f%3Dkern&format=png)
 - [Lakh MIDI dataset](https://colinraffel.com/projects/lmd/) likely has something. is it easily navigable?
 
 
