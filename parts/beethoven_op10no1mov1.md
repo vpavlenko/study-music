@@ -50,9 +50,10 @@ Also mentioned in two exercises for which there are no answers found.
 Harding
 ---
 
-- [H. A. Harding. Analysis of Form: Beethoven's 32 Piano Sonatas](https://www.dropbox.com/s/dee6yyu83ixc5br/harding_analysis.pdf?dl=0) - year 1900
+- [H. A. Harding. Analysis of Form: Beethoven's 32 Piano Sonatas](https://www.dropbox.com/s/dee6yyu83ixc5br/harding_analysis.pdf?dl=0) - year 1900. For some reason, neither Caplin 1998 nor Hepokoski (2006, 2020) don't reference this book
 
-<img width="883" alt="Screenshot 2023-04-04 at 17 09 23" src="https://user-images.githubusercontent.com/1491908/229801774-25f6cb0d-bc71-4f8d-a32e-ffb98a0b1d17.png">
+<img width="896" alt="Screenshot 2023-04-04 at 17 17 19" src="https://user-images.githubusercontent.com/1491908/229804033-86f3d23d-7d72-4dac-b853-50d7b4d18725.png">
+
 
 <img width="887" alt="Screenshot 2023-04-04 at 17 09 46" src="https://user-images.githubusercontent.com/1491908/229801868-f56bfa64-e0cc-49fa-9289-fb4c4e5655a6.png">
 
