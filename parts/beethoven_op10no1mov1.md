@@ -6,7 +6,7 @@ Outline
 - [When in Rome, harmonic analysis](https://github.com/MarkGotham/When-in-Rome/tree/master/Corpus/Piano_Sonatas/Beethoven%2C_Ludwig_van/Op010_No1/1)
 - [Taking form, formal analysis](https://github.com/MarkGotham/Taking-Form/blob/master/corpus/Beethoven_Sonatas/sonata5op10no1movt1.csv) 
 - [TuttiTempi](https://tuttitempi.com/#scoreId=U00000585501)
-- [Lakh MIDI dataset](https://colinraffel.com/projects/lmd/) likely has something
+- [Lakh MIDI dataset](https://colinraffel.com/projects/lmd/) likely has something. is it easily navigable?
 
 Editions
 ---
@@ -56,6 +56,16 @@ Harding
 
 
 <img width="887" alt="Screenshot 2023-04-04 at 17 09 46" src="https://user-images.githubusercontent.com/1491908/229801868-f56bfa64-e0cc-49fa-9289-fb4c4e5655a6.png">
+
+Keyscape
+---
+
+[Craig Sapp, Beethoven Piano Sonata Keyscapes](http://extras.humdrum.org/man/mkeyscape/beet-sonata/)
+
+![default-colormap](https://user-images.githubusercontent.com/1491908/229807327-f012e975-42ae-4178-bcc8-079adbdc32ae.png)
+
+
+![sonata05-1-large](https://user-images.githubusercontent.com/1491908/229807255-46ebbbc6-0825-4736-9970-c52532688a08.png)
 
 
 Books
