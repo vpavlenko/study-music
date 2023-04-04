@@ -159,11 +159,20 @@ What's in there (probably):
 - Edwin Fischer
 - Eric Blom pianoforte 
 
+
+- Eileen Stainkamph "Form and analysis of the complete Beethoven's pianoforte sonatas" - not available anywhere. [Sample](https://www.carousell.sg/p/classical-romantic-pianists-music-theory-beethoven-and-mozart-s-piano-sonatas-form-analysis-1143093765/)
+
+- Mark C. Richards. Analyzing Tension and Drama in Beethoven’s First-Movement Sonata Forms
+
 Barry Cooper is skipped for leaning on musicological (i.e. historical) side.
 
 Paul M. Ellison "The Key to Beethoven" - he tries to assign the meaning to key choices. (skipped, esoterics?)
 
 [Beethoven-Haus Bonn](https://www.beethoven.de/en/work/view/6161994000367616/Three+Sonatas+for+piano+%28C+minor%2C+F%2C+D+major%29+op.+10?fromArchive=6299845270700032) has early editions and lists a referencing literature which is nowhere to be found :)
+
+- [Shiow-Lih Lillian Shieh. a pianist's reference guide to beethoven's piano sonatas](http://libres.uncg.edu/ir/uncg/f/Shieh_uncg_9302647.PDF)
+
+We have no idea if Chinese scholars have something valuable to bring to the table. vmus.net doesn't seem to be useful and seems to be superceded by TuttiTempi, [see here](https://iopscience.iop.org/article/10.1088/1742-6596/2024/1/012028/pdf)
 
 Articles
 ---
@@ -174,6 +183,7 @@ Articles
 - [Lester Allyson Knibbs](https://www.lesterknibbs.com/modules/835_beethoven-op10no1.html)
 - [Melanie Spanswick](https://melaniespanswick.com/2013/10/30/rhythmic-precision-in-the-first-movement-of-beethovens-sonata-in-c-minor-op-10-no-1/)
 - [Cem Erçelik](http://carsafblog.blogspot.com/2012/07/beethoven-sonata-in-c-minor-op-10-no-1.html)
+- [Tonic Chord](https://tonic-chord.com/beethoven-piano-sonata-no-5-in-c-minor-analysis/)
 
 Lectures
 ---
