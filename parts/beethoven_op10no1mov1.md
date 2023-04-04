@@ -36,3 +36,5 @@ What's in there (probably):
 - Eric Blom pianoforte 
 
 Barry Cooper is skipped for leaning on musicological (i.e. historical) side.
+
+Paul M. Ellison "The Key to Beethoven" - he tries to assign the meaning to key choices. (skipped, esoterics?)
