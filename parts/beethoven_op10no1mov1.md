@@ -57,7 +57,7 @@ Harding
 Keyscape
 ---
 
-[Craig Sapp, Beethoven Piano Sonata Keyscapes](http://extras.humdrum.org/man/mkeyscape/beet-sonata/)
+[Craig Sapp, Beethoven Piano Sonata Keyscapes](http://extras.humdrum.org/man/mkeyscape/beet-sonata/index-rel.html)
 
 ![default-colormap](https://user-images.githubusercontent.com/1491908/229807327-f012e975-42ae-4178-bcc8-079adbdc32ae.png)
 
