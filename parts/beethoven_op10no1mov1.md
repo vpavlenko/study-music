@@ -44,6 +44,35 @@ Caplin
 
 Also mentioned in two exercises for which there are no answers found.
 
+Hepokoski, Darcy 2006
+---
+
+Their sonata-allegro theory in a nutshell:
+
+<img width="823" alt="Screenshot 2023-04-04 at 18 03 17" src="https://user-images.githubusercontent.com/1491908/229817745-51c27d6c-931b-468a-8457-978ce9f39191.png">
+
+p. 140-141:
+
+<img width="371" alt="Screenshot 2023-04-04 at 18 01 29" src="https://user-images.githubusercontent.com/1491908/229817238-b7a22951-9c01-4561-ae0b-61e85a49ffe0.png">
+
+<img width="377" alt="Screenshot 2023-04-04 at 18 01 44" src="https://user-images.githubusercontent.com/1491908/229817309-efd9b874-f19a-4ef5-9782-4c22c6688014.png">
+
+
+p. 238: 
+
+<img width="376" alt="Screenshot 2023-04-04 at 17 57 08" src="https://user-images.githubusercontent.com/1491908/229816035-3e9f9eb2-9022-4e7b-a495-985a10f3d534.png">
+
+p. 314:
+
+<img width="393" alt="Screenshot 2023-04-04 at 17 59 48" src="https://user-images.githubusercontent.com/1491908/229816799-2ef96748-fd28-4c90-8cf6-ed9a62154236.png">
+
+<img width="370" alt="Screenshot 2023-04-04 at 18 00 14" src="https://user-images.githubusercontent.com/1491908/229816912-6e866795-644e-408d-9670-8293396fe568.png">
+
+
+Not mentioned in Hepokoski 2020. 
+
+
+
 Harding
 ---
 
@@ -85,15 +114,10 @@ Articles
 ---
 
 - [Bogdan Cvetkovic](https://www.tremr.com/bogdan-cvetkovic/beethoven-analysis-piano-sonata-in-cm-op)
-
 - [Liang Lu, Qing Yang, Li Zhou, Kewen Ji. First movement version of Beethoven's piano sonata No. 5 (OP10 NO.1) velocity image processing and analysis](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12328/123281Q/First-movement-version-of-Beethovens-piano-sonata--No-5/10.1117/12.2644366.full?SSO=1)
-
 - [Jack F. Boss. “Schenkerian-Schoenbergian Analysis” and Hidden Repetition in the Opening Movement of Beethoven’s Piano Sonata Op. 10, No. 1](https://www.mtosmt.org/issues/mto.99.5.1/mto.99.5.1.boss.html) - [**warning**](schenkerian_analysis.md)
-
 - [Lester Allyson Knibbs](https://www.lesterknibbs.com/modules/835_beethoven-op10no1.html)
-
 - [Melanie Spanswick](https://melaniespanswick.com/2013/10/30/rhythmic-precision-in-the-first-movement-of-beethovens-sonata-in-c-minor-op-10-no-1/)
-
 - [Cem Erçelik](http://carsafblog.blogspot.com/2012/07/beethoven-sonata-in-c-minor-op-10-no-1.html)
 
 Lectures
