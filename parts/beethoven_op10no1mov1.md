@@ -1,4 +1,4 @@
-Outline
+Score and analyses
 ---
 
 - [MuseScore](https://musescore.com/user/19710/scores/69303)
