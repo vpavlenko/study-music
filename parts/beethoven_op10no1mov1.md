@@ -65,4 +65,6 @@ Barry Cooper is skipped for leaning on musicological (i.e. historical) side.
 
 Paul M. Ellison "The Key to Beethoven" - he tries to assign the meaning to key choices. (skipped, esoterics?)
 
+- [H. A. Harding. Analysis of Form: Beethoven's 32 Piano Sonatas](https://www.amazon.com/Analysis-Form-Beethovens-Piano-Sonatas/dp/1505289874) - year 1900
+
 - [Liang Lu, Qing Yang, Li Zhou, Kewen Ji. First movement version of Beethoven's piano sonata No. 5 (OP10 NO.1) velocity image processing and analysis](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12328/123281Q/First-movement-version-of-Beethovens-piano-sonata--No-5/10.1117/12.2644366.full?SSO=1)
