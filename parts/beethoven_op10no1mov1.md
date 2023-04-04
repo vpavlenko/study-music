@@ -1,14 +1,12 @@
 Score and analyses
 ---
 
-- [MuseScore](https://musescore.com/user/19710/scores/69303), [wrong note finder by Néstor Nápoles López](https://napulen.github.io/beethoven_piano_sonatas_comparison/)
+- [MuseScore](https://musescore.com/user/19710/scores/69303), [KernScores](https://kern.humdrum.org/cgi-bin/ksdata?file=sonata05-1.krn&l=users/craig/classical/beethoven/piano/sonata&format=info), [piano roll](https://kern.humdrum.org/cgi-bin/ksanalysis-proll?options=H&url=https%3A%2F%2Fkern.humdrum.org%2Fcgi-bin%2Fksdata%3Fl%3Dusers%2Fcraig%2Fclassical%2Fbeethoven%2Fpiano%2Fsonata%26file%3Dsonata05-1.krn%26f%3Dkern&format=png), [wrong note finder by Néstor Nápoles López](https://napulen.github.io/beethoven_piano_sonatas_comparison/)
 - [IMSLP](https://imslp.org/wiki/Piano_Sonata_No.5%2C_Op.10_No.1_(Beethoven%2C_Ludwig_van)), see [Olga Kleiankina's article on editions](http://smtd-www2.miserver.it.umich.edu/treasures/guide/Beethovens_Pianoforte_Sonatas_best.pdf)
 - [When in Rome, harmonic analysis](https://github.com/MarkGotham/When-in-Rome/tree/master/Corpus/Piano_Sonatas/Beethoven%2C_Ludwig_van/Op010_No1/1), [DCML's on-score analysis uploaded to MuseScore](https://musescore.com/user/39031562/scores/10406041)
 - [Taking form, formal analysis](https://github.com/MarkGotham/Taking-Form/blob/master/corpus/Beethoven_Sonatas/sonata5op10no1movt1.csv) 
-- [TuttiTempi](https://tuttitempi.com/#scoreId=U00000585501)
-- [KernScores](https://kern.humdrum.org/cgi-bin/ksdata?file=sonata05-1.krn&l=users/craig/classical/beethoven/piano/sonata&format=info), [piano roll](https://kern.humdrum.org/cgi-bin/ksanalysis-proll?options=H&url=https%3A%2F%2Fkern.humdrum.org%2Fcgi-bin%2Fksdata%3Fl%3Dusers%2Fcraig%2Fclassical%2Fbeethoven%2Fpiano%2Fsonata%26file%3Dsonata05-1.krn%26f%3Dkern&format=png)
-- [Lakh MIDI dataset](https://colinraffel.com/projects/lmd/) likely has something. is it easily navigable?
-- [Beethoven-Haus Bonn](https://www.beethoven.de/en/work/view/6161994000367616/Three+Sonatas+for+piano+%28C+minor%2C+F%2C+D+major%29+op.+10?fromArchive=6299845270700032)
+- [TuttiTempi](https://tuttitempi.com/#scoreId=U00000585501) navigates through performances and has scrolling music sheet
+- [Beethoven-Haus Bonn](https://www.beethoven.de/en/work/view/6161994000367616/Three+Sonatas+for+piano+%28C+minor%2C+F%2C+D+major%29+op.+10?fromArchive=6299845270700032) has early editions and lists a referencing literature which is nowhere to be found :)
 
 Keyscape
 ---
