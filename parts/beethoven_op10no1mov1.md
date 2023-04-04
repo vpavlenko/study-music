@@ -81,11 +81,20 @@ Barry Cooper is skipped for leaning on musicological (i.e. historical) side.
 
 Paul M. Ellison "The Key to Beethoven" - he tries to assign the meaning to key choices. (skipped, esoterics?)
 
+Articles
+---
+
 - [Bogdan Cvetkovic](https://www.tremr.com/bogdan-cvetkovic/beethoven-analysis-piano-sonata-in-cm-op)
 
 - [Liang Lu, Qing Yang, Li Zhou, Kewen Ji. First movement version of Beethoven's piano sonata No. 5 (OP10 NO.1) velocity image processing and analysis](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12328/123281Q/First-movement-version-of-Beethovens-piano-sonata--No-5/10.1117/12.2644366.full?SSO=1)
 
 - [Jack F. Boss. “Schenkerian-Schoenbergian Analysis” and Hidden Repetition in the Opening Movement of Beethoven’s Piano Sonata Op. 10, No. 1](https://www.mtosmt.org/issues/mto.99.5.1/mto.99.5.1.boss.html) - [**warning**](schenkerian_analysis.md)
+
+- [Lester Allyson Knibbs](https://www.lesterknibbs.com/modules/835_beethoven-op10no1.html)
+
+- [Melanie Spanswick](https://melaniespanswick.com/2013/10/30/rhythmic-precision-in-the-first-movement-of-beethovens-sonata-in-c-minor-op-10-no-1/)
+
+- [Cem Erçelik](http://carsafblog.blogspot.com/2012/07/beethoven-sonata-in-c-minor-op-10-no-1.html)
 
 Lectures
 ---
@@ -93,3 +102,4 @@ Lectures
 - [Analysis told by TrebleWoofer](https://www.youtube.com/watch?v=tCsuafeAT0Q), [his previous analysis](https://www.youtube.com/watch?v=tttTccYd_Zk)
 - [Analysis drawn by Andrew Schartmann, no talk](https://www.youtube.com/watch?v=eBQC1XBq6yM)
 - [András Schiff](https://www.youtube.com/watch?v=YjUPCVC_rcI)
+- [Jonathan Biss on Coursera](https://www.coursera.org/lecture/exploring-beethoven-piano-sonatas-3/opus-10-number-1-the-c-minor-mood-7BYYj)
