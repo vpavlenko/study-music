@@ -47,6 +47,14 @@ Caplin
 
 Also mentioned in two exercises for which there are no answers found.
 
+Harding
+---
+
+- [H. A. Harding. Analysis of Form: Beethoven's 32 Piano Sonatas](https://www.dropbox.com/s/dee6yyu83ixc5br/harding_analysis.pdf?dl=0) - year 1900
+
+<img width="883" alt="Screenshot 2023-04-04 at 17 09 23" src="https://user-images.githubusercontent.com/1491908/229801774-25f6cb0d-bc71-4f8d-a32e-ffb98a0b1d17.png">
+
+<img width="887" alt="Screenshot 2023-04-04 at 17 09 46" src="https://user-images.githubusercontent.com/1491908/229801868-f56bfa64-e0cc-49fa-9289-fb4c4e5655a6.png">
 
 
 Books
@@ -65,6 +73,6 @@ Barry Cooper is skipped for leaning on musicological (i.e. historical) side.
 
 Paul M. Ellison "The Key to Beethoven" - he tries to assign the meaning to key choices. (skipped, esoterics?)
 
-- [H. A. Harding. Analysis of Form: Beethoven's 32 Piano Sonatas](https://www.amazon.com/Analysis-Form-Beethovens-Piano-Sonatas/dp/1505289874) - year 1900
+
 
 - [Liang Lu, Qing Yang, Li Zhou, Kewen Ji. First movement version of Beethoven's piano sonata No. 5 (OP10 NO.1) velocity image processing and analysis](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12328/123281Q/First-movement-version-of-Beethovens-piano-sonata--No-5/10.1117/12.2644366.full?SSO=1)
