@@ -9,6 +9,18 @@ Score and analyses
 - [KernScores](https://kern.humdrum.org/cgi-bin/ksdata?file=sonata05-1.krn&l=users/craig/classical/beethoven/piano/sonata&format=info), [piano roll](https://kern.humdrum.org/cgi-bin/ksanalysis-proll?options=H&url=https%3A%2F%2Fkern.humdrum.org%2Fcgi-bin%2Fksdata%3Fl%3Dusers%2Fcraig%2Fclassical%2Fbeethoven%2Fpiano%2Fsonata%26file%3Dsonata05-1.krn%26f%3Dkern&format=png)
 - [Lakh MIDI dataset](https://colinraffel.com/projects/lmd/) likely has something. is it easily navigable?
 
+Keyscape
+---
+
+[Craig Sapp, Beethoven Piano Sonata Keyscapes](http://extras.humdrum.org/man/mkeyscape/beet-sonata/index-rel.html)
+
+![default-colormap](https://user-images.githubusercontent.com/1491908/229807327-f012e975-42ae-4178-bcc8-079adbdc32ae.png)
+
+
+![sonata05-1-large](https://user-images.githubusercontent.com/1491908/229807255-46ebbbc6-0825-4736-9970-c52532688a08.png)
+
+
+
 
 MAESTRO
 ---
@@ -20,6 +32,18 @@ with [CC64 and CC67 markings](https://hub.yamaha.com/pianos/p-acoustic/the-diskl
 <img width="1728" alt="Screenshot 2023-03-22 at 19 28 05" src="https://user-images.githubusercontent.com/1491908/226954657-7ea7fd6f-eda4-4809-a4cf-5d13dfa2323c.png">
 
 <img width="1704" alt="Screenshot 2023-03-22 at 20 24 45" src="https://user-images.githubusercontent.com/1491908/226971711-6a16e148-e79a-4c83-8bbf-55528441515c.png">
+
+Harding
+---
+
+- [H. A. Harding. Analysis of Form: Beethoven's 32 Piano Sonatas](https://www.dropbox.com/s/dee6yyu83ixc5br/harding_analysis.pdf?dl=0) - year 1900. For some reason, neither Caplin 1998 nor Hepokoski (2006, 2020) don't reference this book
+
+<img width="896" alt="Screenshot 2023-04-04 at 17 17 19" src="https://user-images.githubusercontent.com/1491908/229804033-86f3d23d-7d72-4dac-b853-50d7b4d18725.png">
+
+
+<img width="887" alt="Screenshot 2023-04-04 at 17 09 46" src="https://user-images.githubusercontent.com/1491908/229801868-f56bfa64-e0cc-49fa-9289-fb4c4e5655a6.png">
+
+
 
 Caplin
 ---
@@ -71,28 +95,6 @@ p. 314:
 
 
 Not mentioned in Hepokoski 2020. 
-
-
-
-Harding
----
-
-- [H. A. Harding. Analysis of Form: Beethoven's 32 Piano Sonatas](https://www.dropbox.com/s/dee6yyu83ixc5br/harding_analysis.pdf?dl=0) - year 1900. For some reason, neither Caplin 1998 nor Hepokoski (2006, 2020) don't reference this book
-
-<img width="896" alt="Screenshot 2023-04-04 at 17 17 19" src="https://user-images.githubusercontent.com/1491908/229804033-86f3d23d-7d72-4dac-b853-50d7b4d18725.png">
-
-
-<img width="887" alt="Screenshot 2023-04-04 at 17 09 46" src="https://user-images.githubusercontent.com/1491908/229801868-f56bfa64-e0cc-49fa-9289-fb4c4e5655a6.png">
-
-Keyscape
----
-
-[Craig Sapp, Beethoven Piano Sonata Keyscapes](http://extras.humdrum.org/man/mkeyscape/beet-sonata/index-rel.html)
-
-![default-colormap](https://user-images.githubusercontent.com/1491908/229807327-f012e975-42ae-4178-bcc8-079adbdc32ae.png)
-
-
-![sonata05-1-large](https://user-images.githubusercontent.com/1491908/229807255-46ebbbc6-0825-4736-9970-c52532688a08.png)
 
 
 Books
