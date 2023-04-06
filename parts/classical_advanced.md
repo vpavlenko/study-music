@@ -35,6 +35,8 @@ Advanced classical harmony and form
 
 - Schoenberg on counterpoint
 
+- [Steven Vande Moortele. Two-Dimensional Sonata Form: Form and Cycle in Single-Movement Instrumental Works by Liszt, Strauss, Schoenberg, and Zemlinsky](https://www.amazon.com/Two-Dimensional-Sonata-Form-Single-Movement-Instrumental/dp/9058677516)
+
 Misc
 ---
 
