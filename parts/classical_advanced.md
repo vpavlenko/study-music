@@ -1,25 +1,19 @@
 Advanced/unsorted materials mostly on classical music
 ===
 
-- [Evan Cortens. The Expositions of Haydn's String Quartets: A Corpus Analysis](https://remix.berklee.edu/cgi/viewcontent.cgi?article=1022&context=haydn-journal) - nice graphs, where's the corpus?
+- [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
 
-- [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (is this actually about form?)
- 
+- [Evan Cortens. The Expositions of Haydn's String Quartets: A Corpus Analysis](https://remix.berklee.edu/cgi/viewcontent.cgi?article=1022&context=haydn-journal) - nice graphs, where's the corpus?
 
 - [The Future of Music: Towards a Computational Musical Theory of Everything](https://books.google.ru/books?id=YTzYDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
 
 - [Jonathan Biss. Exploring Beethoven’s Piano Sonatas (six-part course on Coursera)](https://www.coursera.org/search?query=beethoven%20sonatas%20biss)
-
-- [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) - And the Wikipedia articles on [Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata). Also [Daniel Heartz. Music in European Capitals](https://amzn.to/34U1qXY). Also [L. Poundie Burstein. Journeys Through Galant Expositions](https://amzn.to/3gNdYmJ)
-
 
 - 🇷🇺 [Ю. Тюлин. Учение о музыкальной фактуре и мелодической фигурации (два тома теории, ещё задачник и ещё решебник)](https://archive.org/details/tiulin_muz_factura_1). [Глава 2 с привязанными примерами](https://kuregyan.vercel.app/books/tyulin/)
 
 <img width="757" alt="Screenshot 2022-02-15 at 4 34 48 PM" src="https://user-images.githubusercontent.com/1491908/154072499-7c93331a-a90b-432b-982e-7f6f871e150c.png">
 
 - Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
-
-- [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
 
 - Schoenberg on counterpoint
 
@@ -71,3 +65,6 @@ Advanced form
 
 - [Steven Vande Moortele](https://scholar.google.be/citations?user=Nu2Ajf4AAAAJ) - references Caplin and Hepokoski, a good sign
 - [**Schenkerian analysis**](parts/schenkerian_analysis.md)
+- [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (is this actually about form, or is it vaguely musicological?)
+
+<img width="755" alt="Screenshot 2023-04-07 at 12 51 58" src="https://user-images.githubusercontent.com/1491908/230577232-46601926-c3c2-4d30-95cb-493fc6561558.png">
