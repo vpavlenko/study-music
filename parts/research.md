@@ -29,3 +29,9 @@ Misc
   - [Books and articles](https://dmitri.mycpanel.princeton.edu/publications.html)
   - [Local Harmonic Grammar in Western Classical Music](https://dmitri.mycpanel.princeton.edu/mozart.pdf) - the harmonic syntax of Western classical music can be captured by a simple maplike grammar without recursive generative rules
   - [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
+
+Conferences
+---
+
+- [MEI](https://music-encoding.org/conference/proceedings.html)
+- ISMIR
