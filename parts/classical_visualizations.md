@@ -112,4 +112,4 @@ Also, at the very local level there's [a "tonicization vs. modulation" dichotomy
 4. related MuseScore plugins
 5. [Harmonic fingerprints](https://arxiv.org/pdf/1908.00003.pdf)
 6. [movable scale analysis](https://t.me/keetezh/712)
-7. 
+7. [Wavescapes](https://journals.sagepub.com/doi/full/10.1177/10298649211034906)
