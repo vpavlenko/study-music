@@ -29,7 +29,7 @@ Free online books with audio examples
 Printed books
 ---
 
-<img width="600" alt="Screenshot 2023-02-23 at 18 16 36" align="right" src="https://user-images.githubusercontent.com/1491908/220932994-71b04da6-9f65-4082-93e2-87ed703e7728.png">
+<img width="600" alt="Screenshot 2023-02-23 at 18 16 36" src="https://user-images.githubusercontent.com/1491908/220932994-71b04da6-9f65-4082-93e2-87ed703e7728.png">
 
 
 - [Steven G. Laitz. The Complete Musician](https://amzn.to/3nKdSAa) - A standard modern book on classical harmony with introduction into a form and XX century techniques. [Audio examples](https://learninglink.oup.com/access/laitz-4e-student-resources) are freely available
