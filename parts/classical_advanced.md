@@ -6,15 +6,6 @@ Advanced/unsorted materials mostly on classical music
 - [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (is this actually about form?)
  
 
-Advanced classical harmony and form
----
-
-- [Vincent Persichetti. Twentieth-Century Harmony](https://amzn.to/3AgQgbk) - A book from 1960. [Audio examples on YouTube](https://www.youtube.com/playlist?list=PLwRgeNTZ2i6_BA9H4as1srtNKBAzPPjns)
-
-<img width="685" alt="Screenshot 2022-02-15 at 4 37 05 PM" src="https://user-images.githubusercontent.com/1491908/154072861-dd63242e-7510-45c9-9216-5d14452de71e.png">
-
-- [**Schenkerian analysis**](parts/schenkerian_analysis.md)
-
 - [The Future of Music: Towards a Computational Musical Theory of Everything](https://books.google.ru/books?id=YTzYDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
 
 - [Jonathan Biss. Exploring Beethoven’s Piano Sonatas (six-part course on Coursera)](https://www.coursera.org/search?query=beethoven%20sonatas%20biss)
@@ -26,9 +17,6 @@ Advanced classical harmony and form
 
 <img width="757" alt="Screenshot 2022-02-15 at 4 34 48 PM" src="https://user-images.githubusercontent.com/1491908/154072499-7c93331a-a90b-432b-982e-7f6f871e150c.png">
 
-
-- https://musictheoryexamples.com/ and "Bending the Rules of Music Theory"
-
 - Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
 
 - [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
@@ -36,9 +24,6 @@ Advanced classical harmony and form
 - Schoenberg on counterpoint
 
 - [Steven Vande Moortele. Two-Dimensional Sonata Form: Form and Cycle in Single-Movement Instrumental Works by Liszt, Strauss, Schoenberg, and Zemlinsky](https://www.amazon.com/Two-Dimensional-Sonata-Form-Single-Movement-Instrumental/dp/9058677516)
-
-Misc
----
 
 - [Wallace Berry](https://en.wikipedia.org/wiki/Wallace_Berry)
 
@@ -52,9 +37,11 @@ Misc
 
 - [Dorottya Fabian, Renee Timmers, and Emery Schubert. Expressiveness in music performance: Empirical approaches across styles and cultures](https://amzn.to/34XbpMk)
 
-- [Meinard Müller. Fundamentals of Music Processing. Audio, Analysis, Algorithms, Applications](https://amzn.to/3HRrgKJ)
+- [Meinard Müller. Fundamentals of Music Processing. Audio, Analysis, Algorithms, Applications](https://amzn.to/3HRrgKJ) - (should probably make a separate category for MIR and ISMIR)
 
 <img width="600" alt="Screenshot 2022-02-15 at 4 14 14 PM" src="https://user-images.githubusercontent.com/1491908/154069157-6a3bdc98-f5d5-4fa2-b0c8-aa325b4fc11c.png">
+
+
 
 
 
@@ -69,9 +56,18 @@ Post-tonal theory
 
 Advanced harmony
 ---
-- https://www.amazon.com/What-Cadence-Theoretical-Analytical-Perspectives/dp/946270015X
+- https://www.amazon.com/What-Cadence-Theoretical-Analytical-Perspectives/dp/946270015X (is it harmony or form?)
 - Laitz/Bartlette "Graduate review" is the very some undergrad Laitz but condensed, no need to obtain (no new topics)
 - [Olivier Messiaen. The Technique of My Musical Language](https://monoskop.org/images/5/50/Messiaen_Olivier_The_Technique_of_My_Musical_Language.pdf)
 - Schoenberg. "Structural functions of harmony"
+- https://musictheoryexamples.com/ and "Bending the Rules of Music Theory"
+- [Vincent Persichetti. Twentieth-Century Harmony](https://amzn.to/3AgQgbk) - A book from 1960. [Audio examples on YouTube](https://www.youtube.com/playlist?list=PLwRgeNTZ2i6_BA9H4as1srtNKBAzPPjns)
+
+<img width="685" alt="Screenshot 2022-02-15 at 4 37 05 PM" src="https://user-images.githubusercontent.com/1491908/154072861-dd63242e-7510-45c9-9216-5d14452de71e.png">
 
 
+Advanced form
+---
+
+- [Steven Vande Moortele](https://scholar.google.be/citations?user=Nu2Ajf4AAAAJ) - references Caplin and Hepokoski, a good sign
+- [**Schenkerian analysis**](parts/schenkerian_analysis.md)
