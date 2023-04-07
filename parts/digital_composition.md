@@ -50,3 +50,4 @@ Digital composition
 
 - [Jukeblocks - a skeleton generator](https://jukeblocks.io/)
 
+- [Flucoma](https://www.flucoma.org/)
