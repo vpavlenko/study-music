@@ -28,4 +28,5 @@ Books on individual pieces
 - Pauline Fairclough. A Soviet Credo: Shostakovich's Fourth Symphony
 - James Webster. Haydn's "Farewell"
 - Robert S. Hatten for Beethoven
-- The music of Paul Hindemith by Neumeyer, David
+- The music of Paul Hindemith by David Neumeyer
+- A modern composer Fazıl Say describes the structure of his Istanbul Symphony: [part 1](https://www.youtube.com/watch?v=Om9ONn5190k), [part 2](https://www.youtube.com/watch?v=Y_cF9Ts9XEU), [home video](https://www.youtube.com/watch?v=i5Etc3g-D5c)
