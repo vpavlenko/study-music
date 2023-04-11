@@ -20,10 +20,9 @@ Resources
 ===
 
 - [Art + Music + Technology podcast](https://artmusictech.libsyn.com/)
-
 - 🇷🇺 [Гильдия Разработчиков Интерактивного Аудио](https://griaudio.ru/)
-
 - https://chromatone.center/
+- https://muted.io/
 
 
 
