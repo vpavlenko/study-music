@@ -25,7 +25,7 @@ Music languages can be divided into a number of families. Historically, the most
 - chords in thirds
 - any of the 12 notes can be a tonic
 
-<img src="https://user-images.githubusercontent.com/1491908/220957973-a76da180-0bf9-4ad4-b03d-8f6ff2d3a2a7.png" align="left" width="350">
+<img src="https://user-images.githubusercontent.com/1491908/220957973-a76da180-0bf9-4ad4-b03d-8f6ff2d3a2a7.png" width="350">
 
 The languages are (roughly speaking):
 - [**Rock**](parts/rock_harmony.md) - probably worth exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts. By the way, pop music (structure-wise) it a super-genre combining bits of rock, jazz and other stuff
