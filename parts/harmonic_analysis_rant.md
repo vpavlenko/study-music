@@ -32,3 +32,5 @@ Literature
 - [DCML's annotation tutorial](https://dcmlab.github.io/standards/build/html/tutorial/index.html)
 
 - [Papers from the "When in Rome" corpus](https://github.com/MarkGotham/When-in-Rome#citeable-papers)
+
+- Christopher White, "The Music in The Data", chapter 3 on harmony
