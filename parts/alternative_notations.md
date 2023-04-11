@@ -1,6 +1,8 @@
 Alternative music notations
 ===
 
+- [Review on Chromatone](https://chromatone.center/theory/notes/alternative/)
+
 - [Klavarscore](https://www.klavarscore.org/en/klavarscore) - an alternative music notation, which is a vertical piano roll meets standard notation
 
 - [Dodeka alternative music notation](https://www.dodekamusic.com/learn/alternative-music-notation/)
