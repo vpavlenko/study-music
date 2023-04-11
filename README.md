@@ -65,7 +65,7 @@ Topics
 - [**Maps of genres**](parts/maps_of_genres.md)
 - [**Visualizations**](parts/visualizations.md)
 - [**Research**](parts/research.md)
-- [**YouTube channels and podcasts**](parts/youtube_and_podcasts.md)
+- [**YouTube, podcasts and lists of resources**](parts/youtube_and_podcasts.md)
 - [**Sociology of music**](parts/sociology.md)
 - [**Alternative notations**](parts/alternative_notations.md)
 - [**Piano**](parts/piano.md)
@@ -75,8 +75,6 @@ Topics
 
 Topics on electronic music
 ===
-
-
 
 - [**Sound design**](parts/sound_design.md)
 - [**Digital composition**](parts/digital_composition.md)
