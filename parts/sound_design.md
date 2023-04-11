@@ -33,5 +33,6 @@ Also, historically there was a number of environments to do sound synthesis with
 
 - [YouTube lectures on FM synthesis](https://www.reddit.com/r/edmproduction/comments/4mm3hk/learn_fm_synthesis/)
 
+- [Bartosz Ciechanowski. Sound](https://ciechanow.ski/sound/) - low-level visualizations of what a sound is
 
 
