@@ -50,6 +50,8 @@ Misc
 
 - Chapter 10 on gamelan in [TTSS](https://sethares.engr.wisc.edu/ttss.html)
 
+- https://zenodo.org/record/7088369#.ZDZ92hCEbi0
+
 Modern pieces for gamelan
 ---
 
