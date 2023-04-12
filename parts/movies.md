@@ -10,6 +10,8 @@ with [audio resources](https://global.oup.com/us/companion.websites/978019060640
 
 - [Neo-Riemannian examples in music: YouTube videos](https://alpof.wordpress.com/2021/10/09/neo-riemannian-examples-in-music/)
 
+- https://youtu.be/6Q3HJNiD5bA
+
 - [A discussion in "Empirical Musicology: An Interview with David Huron Part II by Daniel Shanahan](https://emusicology.org/article/view/8103/6032)
 
 <img width="841" alt="Screenshot 2023-02-22 at 11 34 35" src="https://user-images.githubusercontent.com/1491908/220553202-d859e19d-6428-4659-bda1-b1825ef06208.png">
