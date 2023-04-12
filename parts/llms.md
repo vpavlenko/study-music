@@ -19,3 +19,4 @@ other nn approaches for related things
 - https://github.com/gudgud96/magenta-in-pytorch and his ISMIR reviews in his blog on DDSP
 - PianoTree VAE
 - https://epub.jku.at/obvulihs/download/pdf/8503579?originalFilename=true
+- https://liuhaumin.github.io/LeadsheetArrangement/
