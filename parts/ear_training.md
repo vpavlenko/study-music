@@ -20,6 +20,8 @@ Ear training
 
 - [Auralia](https://www.risingsoftware.com/auralia/topics)
 
+- https://www.freemusicdictations.net/
+
 Sight Singing
 ---
 
