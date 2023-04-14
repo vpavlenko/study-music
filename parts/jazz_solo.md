@@ -18,6 +18,8 @@
 
 ![image](https://user-images.githubusercontent.com/1491908/181064580-48e3b242-bad3-43bd-a303-7ec3ab041638.png)
 
+- A modern context for Impro-visor and generated solos: [Brian A. Miller, 2020](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.miller.html)
+
 - Seven volumes of Jerry Bergonzi (starting with "Melodic Structures") to gradually build up your solo language from tiniest parts exploiting all scales and note permutations. [Trailers](https://www.youtube.com/c/MyMusicMasterclass/search?query=bergonzi), [website](https://www.jerrybergonzi.net/instructional-content)
 
 <img width="800" alt="Screenshot 2022-07-29 at 12 50 34" src="https://user-images.githubusercontent.com/1491908/181700334-6421f89a-5751-498e-8f46-0856ba0cfb4b.png">
