@@ -35,3 +35,18 @@ Conferences
 
 - [MEI](https://music-encoding.org/conference/proceedings.html)
 - ISMIR
+
+MIDI datasets
+---
+
+- [MAESTRO](https://magenta.tensorflow.org/datasets/maestro)
+- [Yale–Classical Archives Corpus](https://ycac.yale.edu/)
+- [Lakh](https://colinraffel.com/projects/lmd/)
+- [Kaggle search](https://www.kaggle.com/search?q=midi+in%3Adatasets):
+  - [4x22 pianists](https://www.kaggle.com/datasets/ashkhagan/the-vienna-4x22-piano-corpus)
+  - [boogie woogie hand separation](https://www.kaggle.com/datasets/burekpapi/sepiwoogie)
+  - [step sequenced with dynamics](http://www.piano-midi.de/)
+  - [NES MDB](https://www.kaggle.com/datasets/imsparsh/nes-mdb-dataset), used in LakhNES
+  - [Anthems](https://www.kaggle.com/datasets/awesomepgm/national-anthems-of-every-country)
+  - [Baroque 17th century](https://www.kaggle.com/datasets/celiarubiomadrigal/baroque-midi-music-17th-century)
+  - [Old phone ringtones](https://www.kaggle.com/datasets/narektorosyan/old-phone-ringtones-as-midi)
