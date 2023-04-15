@@ -50,3 +50,4 @@ MIDI datasets
   - [Anthems](https://www.kaggle.com/datasets/awesomepgm/national-anthems-of-every-country)
   - [Baroque 17th century](https://www.kaggle.com/datasets/celiarubiomadrigal/baroque-midi-music-17th-century)
   - [Old phone ringtones](https://www.kaggle.com/datasets/narektorosyan/old-phone-ringtones-as-midi)
+- [List of MIDI links](http://www.virtualphilharmonic.co.uk/MIDIlinks.htm)
