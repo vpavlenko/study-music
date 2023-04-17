@@ -11,6 +11,7 @@ Where to start
 1. Go through [Ableton's guide](https://learningmusic.ableton.com/)
 2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab), search for your favorite songs and anime openings. Honestly [both of their books](https://www.hooktheory.com/books) are top-1 reading and well worth the money
 3. Scroll through Bartosz Ciechanowski's [visualizations](https://ciechanow.ski/sound/) on the essence of sound
+4. Skim through [Toby W. Rush's overview](https://tobyrush.com/theorypages/pdf/en-us/the-whole-enchilada-set.pdf) to intensify a fear for classical music theory
 4. Return here and explore futher
 
 Music theory
