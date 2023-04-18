@@ -12,6 +12,7 @@ Where to start
 2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab), search for your favorite songs and anime openings. Honestly [both of their books](https://www.hooktheory.com/books) are top-1 reading and well worth the money
 3. Scroll through Bartosz Ciechanowski's [visualizations](https://ciechanow.ski/sound/) on the essence of sound
 4. Skim through [Toby W. Rush's overview](https://tobyrush.com/theorypages/pdf/en-us/the-whole-enchilada-set.pdf) to intensify a fear for classical music theory
+5. Listen to [Beethoven's sonata #5 movement #1](https://rawl.vercel.app/edit?a=beethoven_op10no1mov1)
 4. Return here and explore futher
 
 Music theory
