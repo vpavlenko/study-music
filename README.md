@@ -1,15 +1,15 @@
 
 <img src="https://user-images.githubusercontent.com/1491908/220568166-377d3637-b5f6-45a9-906c-a8e4a21c3778.jpg" width="300">
 
-A directory of books, resources and courses to study everything about music and sound
+A directory of books, resources and courses for studying everything about music and sound
 
-This is version 2. [Version 1](https://github.com/vpavlenko/study-music/tree/ba716e653befb6db995346732a351471d2081efc) was a single-page with all screenshots that may load slowly
+This is version 2. [Version 1](https://github.com/vpavlenko/study-music/tree/ba716e653befb6db995346732a351471d2081efc) was a single page with all screenshots, which may have loaded slowly
 
 Where to start
 ===
 
 1. Go through [Ableton's guide](https://learningmusic.ableton.com/)
-2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab), search for your favorite songs and anime openings. Honestly [both of their books](https://www.hooktheory.com/books) are top-1 reading and well worth the money
+2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab): search for your favorite songs and anime openings. Honestly [both of their books](https://www.hooktheory.com/books) are top-notch and well worth the money
 3. Scroll through Bartosz Ciechanowski's [visualizations](https://ciechanow.ski/sound/) on the essence of sound
 4. Skim through [Toby W. Rush's overview](https://tobyrush.com/theorypages/pdf/en-us/the-whole-enchilada-set.pdf) to intensify a fear for classical music theory
 5. Listen to [Beethoven's sonata #5 movement #1](https://rawl.vercel.app/edit?a=beethoven_op10no1mov1)
