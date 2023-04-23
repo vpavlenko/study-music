@@ -6,6 +6,7 @@ Corpus studies
 3. https://www.umass.edu/music/event/research-music-series-talk-nathan-martin as a reading list in the last paragraph
 4. https://mtosmt.org/issues/mto.16.22.1/mto.16.22.1.richards.php
 5. https://marcos.sampaio.me/en/talk/2020-computational-musicology-algorithms-datasets/
+6. http://www.algomus.fr/data/
 
 General thoughts on music theory research
 ---
