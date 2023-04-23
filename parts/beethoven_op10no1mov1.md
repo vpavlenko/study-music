@@ -192,3 +192,7 @@ Lectures
 - [Analysis drawn by Andrew Schartmann, no talk](https://www.youtube.com/watch?v=eBQC1XBq6yM)
 - [András Schiff](https://www.youtube.com/watch?v=YjUPCVC_rcI)
 - [Jonathan Biss on Coursera](https://www.coursera.org/lecture/exploring-beethoven-piano-sonatas-3/opus-10-number-1-the-c-minor-mood-7BYYj)
+
+Resources for other composers
+---
+- [Mozart interthematic cadences in expositions](https://rawcdn.githack.com/corpusTAU/The-Mozart-Expositional-Punctuation-Corpus/e346a2d7dc19a5db56239a5e1ec59fa5a58d8517/visualization.html)
