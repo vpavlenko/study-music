@@ -21,6 +21,7 @@ Free online books with audio examples
 - [Robert Hutchinson. Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 - [Mauro Braunstein. Offtonic Theory](https://offtonic.com/theory/index.html) - An online book that is spiced up with Jewish Chasidic examples (in addition to classical and rock ones) and an intro into Arabic maqamaat music
 - [Sean Butterfield. Integrated Musicianship: Theory](https://intmus.github.io/inttheory21-22/)
+- https://evanwill.github.io/open-music2/contents.html
 - [Artusi: Interactive Music Theory and Online Skills](https://www.artusimusic.com/) - a free online auto-graded course that teaches you four-part writing right in the web score editor. It shows all errors in the voice-leading (parallel fifths, tritone leaps, jumps on augmented intervals, forgotten preparations, voice crossing)
 
 <img width="700" alt="Screenshot 2022-05-31 at 12 01 59" src="https://user-images.githubusercontent.com/1491908/171103394-69047f94-827e-4c80-834f-e8c2a80bc8d3.png">
