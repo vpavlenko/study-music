@@ -5,6 +5,7 @@ Corpus studies
 2. The Music in the Data, [screenshots](https://t.me/keetezh/759)
 3. https://www.umass.edu/music/event/research-music-series-talk-nathan-martin as a reading list in the last paragraph
 4. https://mtosmt.org/issues/mto.16.22.1/mto.16.22.1.richards.php
+5. https://marcos.sampaio.me/en/talk/2020-computational-musicology-algorithms-datasets/
 
 General thoughts on music theory research
 ---
@@ -51,3 +52,4 @@ MIDI datasets
   - [Baroque 17th century](https://www.kaggle.com/datasets/celiarubiomadrigal/baroque-midi-music-17th-century)
   - [Old phone ringtones](https://www.kaggle.com/datasets/narektorosyan/old-phone-ringtones-as-midi)
 - [List of MIDI links](http://www.virtualphilharmonic.co.uk/MIDIlinks.htm)
+
