@@ -55,10 +55,12 @@ The families are (roughly speaking):
 [**Broad overview on non-Western languages**](parts/non_western_languages.md)
 
 
-<img src="https://user-images.githubusercontent.com/1491908/220949769-3a8467df-3e6c-4664-a973-21c81cfe8fa0.png" align="right" width="350">
+
 
 Topics
 ===
+
+<img src="https://user-images.githubusercontent.com/1491908/220949769-3a8467df-3e6c-4664-a973-21c81cfe8fa0.png" width="200" align="right">
 
 - [**Composition**](parts/composition.md)
 - [**Listening guides**](parts/listening_guides.md)
@@ -73,10 +75,12 @@ Topics
 - [**Piano**](parts/piano.md)
 - [**LLMs for music theory**](parts/llms.md)
 
-<img src="https://user-images.githubusercontent.com/1491908/220955095-75f3a0d3-e090-43e7-a9ae-98c5f8eb1999.png" align="right" width="350">
+
 
 Topics on electronic music
 ===
+
+<img src="https://user-images.githubusercontent.com/1491908/220955095-75f3a0d3-e090-43e7-a9ae-98c5f8eb1999.png" align="right" width="200">
 
 - [**Sound design**](parts/sound_design.md)
 - [**Digital composition**](parts/digital_composition.md)
