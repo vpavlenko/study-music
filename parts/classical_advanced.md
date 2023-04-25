@@ -59,6 +59,8 @@ Advanced harmony
 
 <img width="685" alt="Screenshot 2022-02-15 at 4 37 05 PM" src="https://user-images.githubusercontent.com/1491908/154072861-dd63242e-7510-45c9-9216-5d14452de71e.png">
 
+- Wilfrid Dunwell. The evolution of twentieth-century harmony
+
 
 Advanced form
 ---
