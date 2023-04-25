@@ -29,4 +29,6 @@ Music composition
 
 - https://www.reddit.com/r/musictheory/wiki/compchallenge/
 
+- https://archive.org/details/texts?query=beethoven+sketchbooks
+
 Also mention [GCSE and A-level books](https://t.me/keetezh/822)
