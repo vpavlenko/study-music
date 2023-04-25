@@ -35,4 +35,6 @@ Also, historically there was a number of environments to do sound synthesis with
 
 - [Bartosz Ciechanowski. Sound](https://ciechanow.ski/sound/) - low-level visualizations of what a sound is
 
+- the oxford handbook of timbre
+
 - Алексей Насретдинов. Физика и анатомия звука
