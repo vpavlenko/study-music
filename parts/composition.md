@@ -29,6 +29,21 @@ Music composition
 
 - https://www.reddit.com/r/musictheory/wiki/compchallenge/
 
+Also mention [GCSE and A-level books](https://t.me/keetezh/822)
+
+Insights into composers' minds
+---
+
+There are autobiographies:
+- Sergey Prokofiev Diaries
+- Nikolay Rimsky-Korsakov. My Musical Life
+
+Then there are composers' reflections. Some are targetting laymen, eg:
+- Aaron Copland. What to Listen for in Music
+
+Some are targetting musicians and can be either coursebooks (Rimsky-Korsakov, Schoenberg) or descriptions of one's compositional approach (Messiaen)
+
+And then there are sketchbooks:
 - https://archive.org/details/texts?query=beethoven+sketchbooks
 
-Also mention [GCSE and A-level books](https://t.me/keetezh/822)
+
