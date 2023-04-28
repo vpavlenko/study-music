@@ -1,18 +1,20 @@
 Corpus studies
 ---
 
+1. [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
 1. [The Oxford Handbook of Music and Corpus Studies](https://academic.oup.com/edited-volume/41992)
 2. [Christopher White. The Music in the Data: Corpus Analysis, Music Analysis, and Tonal Traditions](https://www.routledge.com/The-Music-in-the-Data-Corpus-Analysis-Music-Analysis-and-Tonal-Traditions/White/p/book/9781032259222)
-3. https://www.umass.edu/music/event/research-music-series-talk-nathan-martin as a reading list in the last paragraph
-4. https://mtosmt.org/issues/mto.16.22.1/mto.16.22.1.richards.php
-5. https://marcos.sampaio.me/en/talk/2020-computational-musicology-algorithms-datasets/
-6. http://www.algomus.fr/data/
-7. [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
+3. [A Corpus Study of Rock Music](http://rockcorpus.midside.com/)
+6. [Mark Richards. Film Music Themes: Analysis and Corpus Study](https://mtosmt.org/issues/mto.16.22.1/mto.16.22.1.richards.php)
+7. [See "Datasets" section](https://marcos.sampaio.me/en/talk/2020-computational-musicology-algorithms-datasets/)
+8. [Datasets released by the Algomus team](http://www.algomus.fr/data/)
+9. https://www.umass.edu/music/event/research-music-series-talk-nathan-martin as a reading list in the last paragraph
+
 
 General thoughts on music theory research
 ---
 
-2. [Empirical Musicology: An Interview with David Huron Part I](https://emusicology.org/index.php/EMR/article/view/7718/5744), [Part II](https://emusicology.org/article/view/8103/6032)
+1. [Empirical Musicology: An Interview with David Huron Part I](https://emusicology.org/index.php/EMR/article/view/7718/5744), [Part II](https://emusicology.org/article/view/8103/6032)
 3. [David Huron. On the future of music research](https://kb.osu.edu/bitstream/handle/1811/93138/1/FDMC_2021_Huron_005.pdf)
 1. [David Temperley. "The Question of Purpose in Music Theory: Description, Suggestion and Explanation"](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-cm99.pdf)
 
