@@ -28,9 +28,9 @@
 
 - [Dariusz Terefenko. Jazz Theory: From Basic to Advanced Study](https://amzn.to/3oOlXEC) - Also has [a companion website](https://routledgetextbooks.com/textbooks/9780415537612/recordings.php) with [a workbook](https://routledgetextbooks.com/textbooks/9780415537612/workbook.php).
 
+- [**Lego**](lego.md) - the method of making sense of chunks of several jazz chords going together
 
-
-TODO for version 2
+Misc
 ---
 
 1. [David Berkman. The Jazz Harmony Book](https://www.amazon.com/Jazz-Harmony-Book-David-Berkman/dp/1883217792)
@@ -40,4 +40,4 @@ TODO for version 2
 5. Wayne J. Naus. Beyond Functional Harmony
 
 
-[**Lego**](lego.md)
+
