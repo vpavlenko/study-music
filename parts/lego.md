@@ -17,7 +17,16 @@ Here's a list of resources as mentioned on Bob Keller's [website](https://www.cs
 
 <img width="700" alt="Screenshot 2023-04-28 at 12 20 43" src="https://user-images.githubusercontent.com/1491908/235094764-1f60720f-a6c6-4b6d-b2eb-15cd56879d71.png">
 
- 
 John Elliott [recorded](https://dropback.co.uk/downloads/free-audio/) some patterns that I've [reordered](https://www.dropbox.com/s/hvslv8cgue2njpg/55_iij_bricks_sorted.mp3?dl=0) by similarity
 
 Also see [**jazz harmony visualizations**](jazz_harmony_visualizations.md)
+
+Misc
+---
+
+1. [A list of songs that have similar chord progressions and tonal shifts](http://www.ralphpatt.com/Tonal.html)
+11. David Baker "How to Learn Tunes"
+12. [Marc Sabatella](https://outsideshore.com/product-category/books/)
+13. Recent work on adding colors: [YouTube](https://youtu.be/Inlu-HhA4rQ?t=2518), [paper](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf)
+
+<img width="634" alt="Screenshot 2023-04-28 at 23 05 07" src="https://user-images.githubusercontent.com/1491908/235232084-ff29e154-021f-4482-88e2-aaf5bb086838.png">
