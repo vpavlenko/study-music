@@ -38,7 +38,7 @@ Printed books
 - Elizabeth Marvin, Jane Piper Clendinning. The Musician's Guide to Theory and Analysis
 - Benward/Saker. Music in Theory and Practice
 - L. Poundie Burstein, Joseph N. Straus. Concise Introduction to Tonal Harmony
-- Older books: Aldwell/Schachter (more [Schenkerian](schenkerian_analysis.md)), Kostka/Payne
+- Older books: Aldwell/Schachter (more [**Schenkerian**](schenkerian_analysis.md)), Kostka/Payne
 
 (Comparison of books is taken from [a review by Brad Osborn](https://hcommons.org/deposits/objects/hc:23398/datastreams/CONTENT/content))
 
