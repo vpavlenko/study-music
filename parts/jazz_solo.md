@@ -30,15 +30,12 @@
 
 - [MIDI solos by Doug McKenzie](https://bushgrafts.com/midi/)
 
-TODO for version 2
----
+- [**Jazz solo visualizations**](jazz_solo_visualizations.md)
 
-Jazz solo
+Misc
 ---
 
 1. [Make sure that LEGO and Impro-Visor are clearly stated.](https://t.me/keetezh/644)
-2. LEGO-wise quote recent work on adding colors: [YouTube](https://youtu.be/Inlu-HhA4rQ?t=2518), [paper](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf), [screenshots](https://t.me/keetezh/725)
-3. [LEGO chord blocks in jazz](http://www.ralphpatt.com/Tonal.html)
 4. [Dig that lick corpus](http://dig-that-lick.eecs.qmul.ac.uk/Dig%20That%20Lick_Publications.html)
 5. David Baker (also Jazz Arrangement)
 6. Patterns for Jazz (similar to Jerry Bergonzi?)
@@ -46,6 +43,6 @@ Jazz solo
 8. В. Романенко. Учись импровизировать
 9. Jamey Aebersold (130 volumes?)
 10. Jerry Coker
-11. David Baker "How to Learn Tunes"
-12. [Marc Sabatella](https://outsideshore.com/product-category/books/), including https://school.masteringmusescore.com/p/jazz-improvisation-primer
-13. [**Jazz solo visualizations**](jazz_solo_visualizations.md)
+14. [John Mehegan](https://www.amazon.com/Books-John-Mehegan/s?rh=n%3A283155%2Cp_27%3AJohn+Mehegan)
+15. https://www.jeffcoffin.com/ctd
+
