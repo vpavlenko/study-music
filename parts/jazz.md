@@ -4,7 +4,7 @@ Jazz
 Jazz has several stages of evolution: New Orlean, swing, bebop, cool jazz, post-bop, free jazz, regional varieties and fusions.
 
 Main topics on jazz are:
-- [**harmony**](jazz_harmony.md) 
+- [**harmony**](jazz_harmony.md), including [**lego**](lego.md)
 - [**solo**](jazz_solo.md)
 - rhythm (eg. [swing](https://en.wikipedia.org/wiki/Swing_(jazz_performance_style)))
 
