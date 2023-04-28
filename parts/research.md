@@ -61,5 +61,7 @@ MIDI datasets
 Expressive performance
 ---
 
-- [A lab headed by Gerhard Widmer](https://www.jku.at/en/research/research-documentation/research-unit/308/), eg. [Interactive Visualization of Expressive Piano Performance](http://www.cp.jku.at/research/papers/Gasser_diplomarbeit.pdf)
-- [Research in agogic accents](https://emusicology.org/index.php/EMR/article/view/7338/6026), also https://tuttitempi.com/, also [Con espressione](https://vimeo.com/516752581)
+- [A lab headed by Gerhard Widmer](https://www.jku.at/en/research/research-documentation/research-unit/308/), eg. [Interactive Visualization of Expressive Piano Performance](http://www.cp.jku.at/research/papers/Gasser_diplomarbeit.pdf) and [Con espressione](https://vimeo.com/516752581)
+- [Michael Rector. Historical Trends in Expressive Timing Strategies: Chopin's Etude, Op. 25 no. 1](https://emusicology.org/index.php/EMR/article/view/7338/6026)
+- https://tuttitempi.com/
+- [Janis Sokolovskis, Dorien Herremans, Elaine Chew. A Novel Interface for the Graphical Analysis of Music Practice Behaviors](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02292/full)
