@@ -14,7 +14,6 @@ Where to start
 4. Skim through [Toby W. Rush's overview](https://tobyrush.com/theorypages/pdf/en-us/the-whole-enchilada-set.pdf) to intensify a fear for classical music theory
 5. Listen to [Beethoven's sonata #5 movement #1](https://rawl.vercel.app/edit?a=beethoven_op10no1mov1), also see what we as a society [**know about it**](parts/beethoven_op10no1mov1.md)
 6. Stare at [**classical visualizations**](parts/classical_visualizations.md) and [**jazz visualization**](parts/jazz_harmony_visualizations.md) as if you're at Tate
-4. Return here and explore futher
 
 Music theory
 ===
