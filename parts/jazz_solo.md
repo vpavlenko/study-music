@@ -4,7 +4,7 @@
 
 - [🎥 Analysing a Jazz Solo - Straight, No Chaser (Davis, Coltrane, Adderley, Garland, Chambers)](https://www.youtube.com/watch?v=qo_A5W-Lzvk) - Analysis of notable solos of the time
 
-- [The Jazzomat Research Project](https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html) - A corpus of transcribed solos. The book: [Inside the Jazzomat](https://schott-campus.com/wp-content/uploads/2017/11/inside_the_jazzomat_final_rev_oa4.pdf)
+- [The Jazzomat Research Project](https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html) - A corpus of transcribed solos. The book: [Inside the Jazzomat](https://schott-campus.com/wp-content/uploads/2017/11/inside_the_jazzomat_final_rev_oa4.pdf). [Dig That Lick](http://dig-that-lick.eecs.qmul.ac.uk/Dig%20That%20Lick_Deliverables.html)
 
 <img width="600" alt="Screenshot 2022-02-14 at 10 56 47 AM" src="https://user-images.githubusercontent.com/1491908/153853441-9998abb4-cb6c-4c99-bc10-48ae349b3c94.jpg">
 
@@ -39,8 +39,6 @@
 Misc
 ---
 
-1. [Make sure that LEGO and Impro-Visor are clearly stated.](https://t.me/keetezh/644)
-4. [Dig that lick corpus](http://dig-that-lick.eecs.qmul.ac.uk/Dig%20That%20Lick_Publications.html)
 5. David Baker (also Jazz Arrangement)
 6. Patterns for Jazz (similar to Jerry Bergonzi?)
 7. Ю. Маркин. Школа джазовой импровизации
