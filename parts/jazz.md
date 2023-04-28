@@ -13,8 +13,6 @@ Main topics on jazz are:
 
 - [Mark Levine. The Jazz Piano Book](https://amzn.to/3uQwd2Q) and also [Mark Levine. The Jazz Theory Book](https://amzn.to/3uVHVt1)
 
-<img width="800" alt="Screenshot 2022-02-15 at 5 01 47 PM" src="https://user-images.githubusercontent.com/1491908/154077255-4805e545-fe2e-4d55-81e4-925ca661698f.png">
-
 - [Oscar Peterson. Jazz Exercises, Minuets, Etudes & Pieces for Piano](https://amzn.to/3GQFDOe)
 
 - [Charlie Banacos](https://en.wikipedia.org/wiki/Charlie_Banacos)
