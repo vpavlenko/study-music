@@ -44,3 +44,6 @@ Jazz solo
 6. Patterns for Jazz (similar to Jerry Bergonzi?)
 7. Ю. Маркин. Школа джазовой импровизации
 8. В. Романенко. Учись импровизировать
+9. Jamey Aebersold
+10. Jerry Coker
+11. Marc Sabatella
