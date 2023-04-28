@@ -35,4 +35,4 @@ Misc
 
 - 🇷🇺 [Переводы зарубежных форумов и цитаты из книг про то, как учиться играть на фортепиано в младшем пожилом возрасте](https://soltem.livejournal.com/)
 
-
+- [Scott McBride Smith. Expressive piano technic: basics of healthy movement, technic and interpretation](https://dergipark.org.tr/en/download/article-file/1922155)
