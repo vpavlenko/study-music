@@ -7,6 +7,7 @@ Corpus studies
 4. https://mtosmt.org/issues/mto.16.22.1/mto.16.22.1.richards.php
 5. https://marcos.sampaio.me/en/talk/2020-computational-musicology-algorithms-datasets/
 6. http://www.algomus.fr/data/
+7. [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
 
 General thoughts on music theory research
 ---
@@ -25,7 +26,7 @@ Misc
 - Research by Dmitri Tymoczko: 
   - [Books and articles](https://dmitri.mycpanel.princeton.edu/publications.html)
   - [Local Harmonic Grammar in Western Classical Music](https://dmitri.mycpanel.princeton.edu/mozart.pdf) - the harmonic syntax of Western classical music can be captured by a simple maplike grammar without recursive generative rules
-  - [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
+
 
 - https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fbibliografia.bib.txt
 - http://www.dezrann.net/
