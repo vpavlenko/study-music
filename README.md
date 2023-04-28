@@ -76,6 +76,7 @@ Topics
 - [**Alternative notations**](parts/alternative_notations.md)
 - [**Piano**](parts/piano.md)
 - [**LLMs for music theory**](parts/llms.md)
+- [**Pseudoscience**](parts/pseudoscience.md)
 
 
 
