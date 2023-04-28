@@ -44,6 +44,7 @@ Jazz solo
 6. Patterns for Jazz (similar to Jerry Bergonzi?)
 7. Ю. Маркин. Школа джазовой импровизации
 8. В. Романенко. Учись импровизировать
-9. Jamey Aebersold
+9. Jamey Aebersold (130 volumes?)
 10. Jerry Coker
-11. Marc Sabatella
+11. David Baker "How to Learn Tunes"
+12. [Marc Sabatella](https://outsideshore.com/product-category/books/), including https://school.masteringmusescore.com/p/jazz-improvisation-primer
