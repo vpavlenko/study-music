@@ -65,3 +65,4 @@ Expressive performance
 - [Michael Rector. Historical Trends in Expressive Timing Strategies: Chopin's Etude, Op. 25 no. 1](https://emusicology.org/index.php/EMR/article/view/7338/6026)
 - https://tuttitempi.com/
 - [Janis Sokolovskis, Dorien Herremans, Elaine Chew. A Novel Interface for the Graphical Analysis of Music Practice Behaviors](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02292/full)
+- [CosmoNote](https://cosmonote.isd.kcl.ac.uk/)
