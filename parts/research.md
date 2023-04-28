@@ -1,8 +1,8 @@
 Corpus studies
 ---
 
-1. oxford handbook corpus studies
-2. The Music in the Data, [screenshots](https://t.me/keetezh/759)
+1. [The Oxford Handbook of Music and Corpus Studies](https://academic.oup.com/edited-volume/41992)
+2. [Christopher White. The Music in the Data: Corpus Analysis, Music Analysis, and Tonal Traditions](https://www.routledge.com/The-Music-in-the-Data-Corpus-Analysis-Music-Analysis-and-Tonal-Traditions/White/p/book/9781032259222)
 3. https://www.umass.edu/music/event/research-music-series-talk-nathan-martin as a reading list in the last paragraph
 4. https://mtosmt.org/issues/mto.16.22.1/mto.16.22.1.richards.php
 5. https://marcos.sampaio.me/en/talk/2020-computational-musicology-algorithms-datasets/
@@ -11,9 +11,10 @@ Corpus studies
 
 General thoughts on music theory research
 ---
-1. Temperley's "The Question of Purpose"
-2. [Empirical Musicology: An Interview with David Huron Part I](https://emusicology.org/index.php/EMR/article/view/7718/5744), [Part II](https://emusicology.org/article/view/8103/6032)
 
+2. [Empirical Musicology: An Interview with David Huron Part I](https://emusicology.org/index.php/EMR/article/view/7718/5744), [Part II](https://emusicology.org/article/view/8103/6032)
+3. [David Huron. On the future of music research](https://kb.osu.edu/bitstream/handle/1811/93138/1/FDMC_2021_Huron_005.pdf)
+1. [David Temperley. "The Question of Purpose in Music Theory: Description, Suggestion and Explanation"](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-cm99.pdf)
 
 Misc
 ---
