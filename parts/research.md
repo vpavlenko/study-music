@@ -33,6 +33,7 @@ Misc
   - [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
 
 - https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fbibliografia.bib.txt
+- http://www.dezrann.net/
 
 Conferences
 ---
@@ -55,6 +56,7 @@ MIDI datasets
   - [Baroque 17th century](https://www.kaggle.com/datasets/celiarubiomadrigal/baroque-midi-music-17th-century)
   - [Old phone ringtones](https://www.kaggle.com/datasets/narektorosyan/old-phone-ringtones-as-midi)
 - [List of MIDI links](http://www.virtualphilharmonic.co.uk/MIDIlinks.htm)
+
 
 
 Expressive performance
