@@ -19,3 +19,5 @@ Here's a list of resources as mentioned on Bob Keller's [website](https://www.cs
 
  
 John Elliott [recorded](https://dropback.co.uk/downloads/free-audio/) some patterns that I've [reordered](https://www.dropbox.com/s/hvslv8cgue2njpg/55_iij_bricks_sorted.mp3?dl=0) by similarity
+
+Also see [**jazz harmony visualizations**](jazz_harmony_visualizations.md)
