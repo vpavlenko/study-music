@@ -9,6 +9,7 @@ Corpus studies
 7. [See "Datasets" section](https://marcos.sampaio.me/en/talk/2020-computational-musicology-algorithms-datasets/)
 8. [Datasets released by the Algomus team](http://www.algomus.fr/data/)
 9. https://www.umass.edu/music/event/research-music-series-talk-nathan-martin as a reading list in the last paragraph
+10. Dig That Lick and Jazzomat
 
 
 General thoughts on music theory research
