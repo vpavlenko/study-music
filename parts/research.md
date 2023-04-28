@@ -56,3 +56,9 @@ MIDI datasets
   - [Old phone ringtones](https://www.kaggle.com/datasets/narektorosyan/old-phone-ringtones-as-midi)
 - [List of MIDI links](http://www.virtualphilharmonic.co.uk/MIDIlinks.htm)
 
+
+Expressive performance
+---
+
+- [A lab headed by Gerhard Widmer](https://www.jku.at/en/research/research-documentation/research-unit/308/), eg. [Interactive Visualization of Expressive Piano Performance](http://www.cp.jku.at/research/papers/Gasser_diplomarbeit.pdf)
+- [Research in agogic accents](https://emusicology.org/index.php/EMR/article/view/7338/6026), also https://tuttitempi.com/, also [Con espressione](https://vimeo.com/516752581)
