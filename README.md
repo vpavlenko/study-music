@@ -15,6 +15,7 @@ Where to start
 5. Listen to [Beethoven's sonata #5 movement #1](https://rawl.vercel.app/edit?a=beethoven_op10no1mov1), also see what we as a society [**know about it**](parts/beethoven_op10no1mov1.md)
 6. Stare at [**classical visualizations**](parts/classical_visualizations.md) and [**jazz visualization**](parts/jazz_harmony_visualizations.md)
 7. Watch [a gamelan multitrack](https://www.youtube.com/watch?v=ccHTOepjK_s) and try to [make sense of it](https://docs.google.com/document/d/1oKbYpSAcunMTvB-casuFUyiaSuHGJkJhGf5rrvfOPgE/edit)
+8. [Listen to random stuff](https://everynoise.com/), press "scan" there
 
 Music theory
 ===
