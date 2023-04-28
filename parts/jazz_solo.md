@@ -1,7 +1,9 @@
 ### Jazz solo
 
 - [🎥 Jazz Piano Practice Session - Major II V I & Turn Around Licks](https://www.youtube.com/watch?v=57r-M-oXpsc) - Introduction into solo building strategies
+
 - [🎥 Analysing a Jazz Solo - Straight, No Chaser (Davis, Coltrane, Adderley, Garland, Chambers)](https://www.youtube.com/watch?v=qo_A5W-Lzvk) - Analysis of notable solos of the time
+
 - [The Jazzomat Research Project](https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html) - A corpus of transcribed solos. The book: [Inside the Jazzomat](https://schott-campus.com/wp-content/uploads/2017/11/inside_the_jazzomat_final_rev_oa4.pdf)
 
 <img width="600" alt="Screenshot 2022-02-14 at 10 56 47 AM" src="https://user-images.githubusercontent.com/1491908/153853441-9998abb4-cb6c-4c99-bc10-48ae349b3c94.jpg">
@@ -31,6 +33,8 @@
 - [MIDI solos by Doug McKenzie](https://bushgrafts.com/midi/)
 
 - [**Jazz solo visualizations**](jazz_solo_visualizations.md)
+
+- [Mark Sabatella. A Jazz Improvisation Primer](https://school.masteringmusescore.com/p/jazz-improvisation-primer) - An online course from a developer of MuseScore
 
 Misc
 ---
