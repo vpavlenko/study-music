@@ -17,7 +17,6 @@ Advanced/unsorted materials mostly on classical music
 
 - Schoenberg on counterpoint
 
-- [Steven Vande Moortele. Two-Dimensional Sonata Form: Form and Cycle in Single-Movement Instrumental Works by Liszt, Strauss, Schoenberg, and Zemlinsky](https://www.amazon.com/Two-Dimensional-Sonata-Form-Single-Movement-Instrumental/dp/9058677516)
 
 - [Wallace Berry](https://en.wikipedia.org/wiki/Wallace_Berry)
 
@@ -66,6 +65,8 @@ Advanced form
 ---
 
 - [Steven Vande Moortele](https://scholar.google.be/citations?user=Nu2Ajf4AAAAJ) - references Caplin and Hepokoski, a good sign
+- [Steven Vande Moortele. Two-Dimensional Sonata Form: Form and Cycle in Single-Movement Instrumental Works by Liszt, Strauss, Schoenberg, and Zemlinsky](https://www.amazon.com/Two-Dimensional-Sonata-Form-Single-Movement-Instrumental/dp/9058677516)
+- [Andrew Davis. Sonata Fragments. Romantic Narratives in Chopin, Schumann, and Brahms](https://www.amazon.com/Sonata-Fragments-Romantic-Narratives-Interpretation/dp/0253028930)
 - [**Schenkerian analysis**](parts/schenkerian_analysis.md)
 - [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (is this actually about form, or is it vaguely musicological?)
 
