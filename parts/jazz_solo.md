@@ -48,3 +48,4 @@ Jazz solo
 10. Jerry Coker
 11. David Baker "How to Learn Tunes"
 12. [Marc Sabatella](https://outsideshore.com/product-category/books/), including https://school.masteringmusescore.com/p/jazz-improvisation-primer
+13. [**Jazz solo visualizations**](jazz_solo_visualizations.md)
