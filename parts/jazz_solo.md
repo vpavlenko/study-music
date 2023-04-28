@@ -39,7 +39,7 @@
 Misc
 ---
 
-5. David Baker (also Jazz Arrangement)
+1. David Baker (also Jazz Arrangement)
 6. Patterns for Jazz (similar to Jerry Bergonzi?)
 7. Ю. Маркин. Школа джазовой импровизации
 8. В. Романенко. Учись импровизировать
