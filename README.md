@@ -64,17 +64,17 @@ Topics
 
 <img src="https://user-images.githubusercontent.com/1491908/220949769-3a8467df-3e6c-4664-a973-21c81cfe8fa0.png" width="200" align="right">
 
+- [**Research**](parts/research.md)
 - [**Composition**](parts/composition.md)
+- [**Visualizations**](parts/visualizations.md)
+- [**Maps of genres**](parts/maps_of_genres.md)
 - [**Listening guides**](parts/listening_guides.md)
 - [**Ear training**](parts/ear_training.md)
-- [**Maps of genres**](parts/maps_of_genres.md)
-- [**Visualizations**](parts/visualizations.md)
-- [**Research**](parts/research.md)
-- [**YouTube, podcasts and lists of resources**](parts/youtube_and_podcasts.md)
-- [**Sociology of music**](parts/sociology.md)
 - [**Piano**](parts/piano.md)
 - [**Neural networks**](parts/llms.md)
 - [**Pseudoscience**](parts/pseudoscience.md)
+- [**Sociology of music**](parts/sociology.md)
+- [**YouTube, podcasts and lists of resources**](parts/youtube_and_podcasts.md)
 
 
 
