@@ -73,7 +73,7 @@ Topics
 - [**YouTube, podcasts and lists of resources**](parts/youtube_and_podcasts.md)
 - [**Sociology of music**](parts/sociology.md)
 - [**Piano**](parts/piano.md)
-- [**LLMs for music theory**](parts/llms.md)
+- [**Neural networks**](parts/llms.md)
 - [**Pseudoscience**](parts/pseudoscience.md)
 
 
