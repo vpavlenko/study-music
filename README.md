@@ -1,4 +1,4 @@
-Awesome Music Theory
+Awesome Music Theory [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
 
 <img src="https://user-images.githubusercontent.com/1491908/220568166-377d3637-b5f6-45a9-906c-a8e4a21c3778.jpg" width="200" align="right">
