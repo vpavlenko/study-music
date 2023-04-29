@@ -72,7 +72,6 @@ Topics
 - [**Research**](parts/research.md)
 - [**YouTube, podcasts and lists of resources**](parts/youtube_and_podcasts.md)
 - [**Sociology of music**](parts/sociology.md)
-- [**Alternative notations**](parts/alternative_notations.md)
 - [**Piano**](parts/piano.md)
 - [**LLMs for music theory**](parts/llms.md)
 - [**Pseudoscience**](parts/pseudoscience.md)
