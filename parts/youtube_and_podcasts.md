@@ -23,7 +23,7 @@ Resources
 - 🇷🇺 [Гильдия Разработчиков Интерактивного Аудио](https://griaudio.ru/)
 - https://chromatone.center/
 - https://muted.io/
-
+- https://tambien.github.io/InteractiveMusic/syllabus
 
 
 Other lists
