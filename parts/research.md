@@ -58,7 +58,7 @@ MIDI datasets
 ---
 
 Meta lists:
-- [Tegridy](https://github.com/asigalov61/Tegridy-MIDI-Dataset), also listing others
+- [Tegridy](https://github.com/asigalov61/Tegridy-MIDI-Dataset)
 - [awesome](https://github.com/albertmeronyo/awesome-midi-sources)
 - [virtualphilharmonic](http://www.virtualphilharmonic.co.uk/MIDIlinks.htm)
 
