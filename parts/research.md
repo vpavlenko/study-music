@@ -80,3 +80,12 @@ Expressive performance
 - https://tuttitempi.com/
 - [Janis Sokolovskis, Dorien Herremans, Elaine Chew. A Novel Interface for the Graphical Analysis of Music Practice Behaviors](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02292/full)
 - [CosmoNote](https://cosmonote.isd.kcl.ac.uk/), [one of their articles](https://hal.science/hal-03856199/file/22020.pdf)
+
+Interactive harmonic analysis
+---
+
+- https://archives.ismir.net/ismir2019/paper/000106.pdf
+- https://github.com/manoskary/Harmonic_Analysis_and_Trajectory
+- https://musescore.org/en/project/harmony-analysis-tool-keys-chords-and-harmonies - doesn’t give any significant workflow 
+- https://hal.science/hal-01161435/file/index.pdf 
+- https://fourscoreandmore.org/working-in-harmony/
