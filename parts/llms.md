@@ -14,6 +14,7 @@ Articles that excite me:
 - MidiBERT, MusicBERT, Museformer
 - https://github.com/tripathiarpan20/midiformers
 - https://github.com/slSeanWU/jazz_transformer
+- https://github.com/asigalov61/Los-Angeles-Music-Composer
 
 other nn approaches for related things
 ---
