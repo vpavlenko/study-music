@@ -67,6 +67,8 @@ Harmonic analysis
 
 <img width="600" alt="Screenshot 2022-02-14 at 1 53 37 PM" src="https://user-images.githubusercontent.com/1491908/153850704-fbab5352-3427-47cc-b1d3-a96d1f3de88f.png">
 
+- [Mark Gotham. Harmony Anthology](https://viva.pressbooks.pub/openmusictheory/chapter/anthology-harmony/)
+
 - Also see [**my overview of visualization techniques**](classical_visualizations.md).
 
 
