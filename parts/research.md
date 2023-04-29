@@ -90,3 +90,4 @@ Interactive harmonic analysis
 - https://hal.science/hal-01161435/file/index.pdf 
 - https://fourscoreandmore.org/working-in-harmony/
 - https://ediss.sub.uni-hamburg.de/bitstream/ediss/3249/2/dissertation.pdf
+- https://github.com/manoskary/Harmonic_Analysis_and_Trajectory
