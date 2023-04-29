@@ -36,3 +36,4 @@ Post-tonal theory
 
 - [Michael Buchler. Are There Any Bad (or Good) Transformational Analyses?](https://www.esm.rochester.edu/integral/wp-content/uploads/2019/06/INTEGRAL_30_buchler.pdf) - A case against transformational analyses and methods without preference rules.
 
+- [Ethan Haimo. Atonality, Analysis, and the Intentional Fallacy](https://academic.oup.com/mts/article-abstract/18/2/167/1090522), [review](https://mtosmt.org/classic/mto.97.3.2/mto.97.3.2.latham.html)
