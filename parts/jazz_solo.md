@@ -1,4 +1,5 @@
-### Jazz solo
+Jazz solo
+===
 
 - [🎥 Jazz Piano Practice Session - Major II V I & Turn Around Licks](https://www.youtube.com/watch?v=57r-M-oXpsc) - Introduction into solo building strategies
 
@@ -36,7 +37,7 @@
 
 - [Mark Sabatella. A Jazz Improvisation Primer](https://school.masteringmusescore.com/p/jazz-improvisation-primer) - An online course from a developer of MuseScore
 
-Misc
+More
 ---
 
 1. David Baker (also Jazz Arrangement)
