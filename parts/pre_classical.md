@@ -24,7 +24,6 @@ Baroque music
 ---
 
 - [**Bach's Chorales**](bach_chorales.md)
-- [**Counterpoint**](counterpoint.md) can be of 16th century (which is Renaissance) or 18th century (which is Baroque)
 - https://partimenti.org/partimenti/about_parti/index.html
 - https://www.amazon.com/Continuo-Playing-According-Handel-Exercises/dp/0193184338
 - Job Ijzerman. Harmony, Counterpoint, Partimento
@@ -35,8 +34,10 @@ Baroque music
 Counterpoint
 ---
 
+Counterpoint can be of 16th century (which is Renaissance) or 18th century (which is Baroque). Of course, there's modern counterpoint as well.
+
 - Beth Denisch. Contemporary Counterpoint: Theory & Application
 - Евдокимова Ю. К., Дубравская Т. Н., Протопопов В. В. История полифонии. В 6 вып. М., 1983-1996
 - John J. Mortensen. The Pianist's Guide to Historic Improvisation
 - John J. Mortensen. Improvising Fugue
-- There are books on 16th century and 18th century counterpoints. These are two different things
+
