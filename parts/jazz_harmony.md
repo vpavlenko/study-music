@@ -1,4 +1,5 @@
-### Jazz harmony 
+Jazz harmony 
+===
 
 - [Joe Mulholland, Tom Hojnacki. The Berklee Book of Jazz Harmony Kindle Edition](https://amzn.to/3qKoDUT) - A book that describes all traditional concepts of a jazz harmony language
   (secondary dominants, tritone substitution, modal interchange, modulation, modal harmony). Each chapter analyzes a special piece written to 
@@ -27,7 +28,7 @@
 
 - [**Lego**](lego.md) - the method of making sense of chunks of several jazz chords going together
 
-Misc
+More
 ---
 
 1. [David Berkman. The Jazz Harmony Book](https://www.amazon.com/Jazz-Harmony-Book-David-Berkman/dp/1883217792)
