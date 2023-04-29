@@ -36,6 +36,6 @@ Other lists
 
 Lists of books
 ===
-- Oxford Studies
-- Cambridge Studies
+- [Oxford Studies in Music Theory](https://global.oup.com/academic/content/series/o/oxford-studies-in-music-theory-oxsmt/)
+- Cambridge Studies in Music Theory and Analysis
 - Hal Leonard Fake Books
