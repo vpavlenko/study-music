@@ -41,7 +41,7 @@ Online platforms for music visualization
 - https://vimu.app/
 - http://roman.algomus.fr/
 - https://verovio.humdrum.org/
-- https://visual-musicology.com/
+- https://visual-musicology.com/, [a paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14540)
 - https://rawl.vercel.app/
 - [iAnalyse](https://www.youtube.com/@pierrecouprie/playlists)
 - https://vmus.net/
