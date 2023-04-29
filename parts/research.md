@@ -57,8 +57,13 @@ Conferences
 MIDI datasets
 ---
 
-- [Yale–Classical Archives Corpus](https://ycac.yale.edu/)
+Meta lists:
 - [Tegridy](https://github.com/asigalov61/Tegridy-MIDI-Dataset), also listing others
+- [awesome](https://github.com/albertmeronyo/awesome-midi-sources)
+- [virtualphilharmonic](http://www.virtualphilharmonic.co.uk/MIDIlinks.htm)
+
+Individual datasets:
+- [Yale–Classical Archives Corpus](https://ycac.yale.edu/)
 - [Bernd Krueger. Classics step sequenced with dynamics](http://www.piano-midi.de/). Where do I find more CC0 piano music with dynamics?
 - [Kaggle search](https://www.kaggle.com/search?q=midi+in%3Adatasets):
   - [4x22 pianists](https://www.kaggle.com/datasets/ashkhagan/the-vienna-4x22-piano-corpus)
@@ -67,7 +72,7 @@ MIDI datasets
   - [Anthems](https://www.kaggle.com/datasets/awesomepgm/national-anthems-of-every-country)
   - [Baroque 17th century](https://www.kaggle.com/datasets/celiarubiomadrigal/baroque-midi-music-17th-century)
   - [Old phone ringtones](https://www.kaggle.com/datasets/narektorosyan/old-phone-ringtones-as-midi)
-- [List of MIDI links](http://www.virtualphilharmonic.co.uk/MIDIlinks.htm)
+
 
 
 
