@@ -89,3 +89,4 @@ Interactive harmonic analysis
 - https://musescore.org/en/project/harmony-analysis-tool-keys-chords-and-harmonies - doesn’t give any significant workflow 
 - https://hal.science/hal-01161435/file/index.pdf 
 - https://fourscoreandmore.org/working-in-harmony/
+- https://www.researchgate.net/publication/220723241_The_JRing_System_for_Computer-Assisted_Musicological_Analysis
