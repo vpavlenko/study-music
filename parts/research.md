@@ -39,6 +39,7 @@ Online platforms for music visualization
 
 - http://www.dezrann.net/
 - https://vimu.app/
+- http://roman.algomus.fr/
 - https://rawl.vercel.app/
 - [iAnalyse](https://www.youtube.com/@pierrecouprie/playlists)
 - https://vmus.net/
