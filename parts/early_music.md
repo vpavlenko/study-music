@@ -12,5 +12,6 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - [Bas Cornelissen, Willem Zuidema, John Ashley Burgoyne. Studying Large Plainchant Corpora Using chant21](https://bascornelissen.nl/static/da5733ba9911944aac18f425be5068da/dlfm2020.pdf)
 - Dahlhaus Carl, Gjerdingen Robert O. Studies on the Origin of Harmonic Tonality
 - https://books.google.ge/books/about/Fourteenth_century_French_Secular_Polyph.html?id=2QffwAEACAAJ&redir_esc=y and other works of Jennifer Bain (eg. on Machaut)
+- Graham Strahle. Fantasy and Music in Sixteenth and Seventeenth-Century England
 
 Also mention books on polyphony
