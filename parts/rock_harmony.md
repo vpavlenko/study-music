@@ -22,5 +22,5 @@ Rock harmony
 
 - [Kayano Chino. Japanese Music Harmony: The Fundamental Theory of Key Fluctuation](https://www.amazon.com/Japanese-Music-Harmony-Fundamental-Fluctuation-ebook/dp/B08513234C)
 
-
+- [🎥 Four harmonic analyses by Augusto (Björk and Billie Eilish)](https://www.youtube.com/@augusto7681/search?query=harmonic)
 
