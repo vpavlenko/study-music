@@ -10,7 +10,7 @@ Visualizations
 Misc
 ---
 
-- https://visual-musicology.com/
+- [**Online platforms**](research.md#online-platforms-for-music-visualization)
 - [IEEE 1599](https://t.me/keetezh/715)
 - [SeeGroove2](https://t.me/keetezh/739) - groove visualizations
 - [Alternative music notations: Review on Chromatone](https://chromatone.center/theory/notes/alternative/)
