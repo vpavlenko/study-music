@@ -33,7 +33,16 @@ Misc
 
 
 - https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fbibliografia.bib.txt
+
+Online platforms for music visualization
+---
+
 - http://www.dezrann.net/
+- https://vimu.app/
+- https://rawl.vercel.app/
+- [iAnalyse](https://www.youtube.com/@pierrecouprie/playlists)
+- https://vmus.net/
+
 
 Conferences
 ---
