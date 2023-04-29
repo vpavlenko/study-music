@@ -10,6 +10,7 @@ Corpus studies
 8. [Datasets released by the Algomus team](http://www.algomus.fr/data/)
 9. https://www.umass.edu/music/event/research-music-series-talk-nathan-martin as a reading list in the last paragraph
 10. Dig That Lick and Jazzomat
+11. [Evan Cortens. The Expositions of Haydn's String Quartets: A Corpus Analysis](https://remix.berklee.edu/cgi/viewcontent.cgi?article=1022&context=haydn-journal) - nice graphs, where's the corpus?
 
 
 General thoughts on music theory research
@@ -84,6 +85,8 @@ Expressive performance
 - https://tuttitempi.com/
 - [Janis Sokolovskis, Dorien Herremans, Elaine Chew. A Novel Interface for the Graphical Analysis of Music Practice Behaviors](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02292/full)
 - [CosmoNote](https://cosmonote.isd.kcl.ac.uk/), [one of their articles](https://hal.science/hal-03856199/file/22020.pdf)
+- [Dorottya Fabian, Renee Timmers, and Emery Schubert. Expressiveness in music performance: Empirical approaches across styles and cultures](https://amzn.to/34XbpMk)
+
 
 Interactive harmonic analysis
 ---
@@ -96,3 +99,12 @@ Interactive harmonic analysis
 - https://ediss.sub.uni-hamburg.de/bitstream/ediss/3249/2/dissertation.pdf
 - https://github.com/manoskary/Harmonic_Analysis_and_Trajectory
 - Néstor Nápoles López. Automatic Roman Numeral Analysis in Symbolic Music Representations: [paper](https://escholarship.mcgill.ca/downloads/2j62s995f), [talk](https://www.youtube.com/watch?v=Obf10v9AN-w)
+
+
+Music Information Retrieval
+---
+
+- [Meinard Müller. Fundamentals of Music Processing. Audio, Analysis, Algorithms, Applications](https://amzn.to/3HRrgKJ) - (should probably make a separate category for MIR and ISMIR)
+
+<img width="600" alt="Screenshot 2022-02-15 at 4 14 14 PM" src="https://user-images.githubusercontent.com/1491908/154069157-6a3bdc98-f5d5-4fa2-b0c8-aa325b4fc11c.png">
+
