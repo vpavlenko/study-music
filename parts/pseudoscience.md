@@ -22,10 +22,15 @@ The author explicitly mentions that his research is falsifiable.
 
 - [David Huron. What is a Musical Feature? Forte’s Analysis of Brahms’s Opus 51, No. 1, Revisited](https://www.mtosmt.org/issues/mto.01.7.4/mto.01.7.4.huron.html) - An example of a statistical disproof of someone's theoretical claim
 
-- [Michael Buchler. Are There Any Bad (or Good) Transformational Analyses?](https://www.esm.rochester.edu/integral/wp-content/uploads/2019/06/INTEGRAL_30_buchler.pdf) - A case against transformational analyses and methods without preference rules.
 
 - Explanations of why we build chords the way we build them. Eg. [undertone series](https://en.wikipedia.org/wiki/Undertone_series)
 
 <img width="663" alt="Screenshot 2023-04-29 at 06 09 56" src="https://user-images.githubusercontent.com/1491908/235278851-0dc1b647-a1b6-4f6a-bbe4-3d0778a3f103.png">
 
 - Affect theory
+
+Post-tonal theory
+---
+
+- [Michael Buchler. Are There Any Bad (or Good) Transformational Analyses?](https://www.esm.rochester.edu/integral/wp-content/uploads/2019/06/INTEGRAL_30_buchler.pdf) - A case against transformational analyses and methods without preference rules.
+
