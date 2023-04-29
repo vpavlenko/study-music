@@ -1,19 +1,16 @@
 Jazz solo
 ===
 
+- [**Jazz solo visualizations**](jazz_solo_visualizations.md)
+
+Craft
+---
+
 - [🎥 Jazz Piano Practice Session - Major II V I & Turn Around Licks](https://www.youtube.com/watch?v=57r-M-oXpsc) - Introduction into solo building strategies
-
-- [🎥 Analysing a Jazz Solo - Straight, No Chaser (Davis, Coltrane, Adderley, Garland, Chambers)](https://www.youtube.com/watch?v=qo_A5W-Lzvk) - Analysis of notable solos of the time
-
-- [The Jazzomat Research Project](https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html) - A corpus of transcribed solos. The book: [Inside the Jazzomat](https://schott-campus.com/wp-content/uploads/2017/11/inside_the_jazzomat_final_rev_oa4.pdf). [Dig That Lick](http://dig-that-lick.eecs.qmul.ac.uk/Dig%20That%20Lick_Deliverables.html)
-
-<img width="600" alt="Screenshot 2022-02-14 at 10 56 47 AM" src="https://user-images.githubusercontent.com/1491908/153853441-9998abb4-cb6c-4c99-bc10-48ae349b3c94.jpg">
 
 - [Charlie Parker Omnibook (wiki)](https://en.wikipedia.org/wiki/Charlie_Parker_Omnibook) - [pattern explorer by Jazzomat](https://jazzomat.hfm-weimar.de/pattern_explorer/), [progressions analyzed by mDecks](https://mdecks.com/bebopstandards.phtml)
 
-<img width="950" alt="Screenshot 2022-02-14 at 2 07 41 PM" src="https://user-images.githubusercontent.com/1491908/153852934-e256e715-3ecf-4399-92ec-9b20288d1705.png">
-
-- [Doug McKenzie's Jazz Piano videos](https://bushgrafts.com/)
+- [Doug McKenzie's Jazz Piano videos](https://bushgrafts.com/) and [MIDI solos](https://bushgrafts.com/midi/)
 
 <img width="800" alt="Screenshot 2022-07-11 at 21 34 59" src="https://user-images.githubusercontent.com/1491908/178301639-4ce596c7-94ee-4ab7-8247-be0d41c8e0f5.png">
 
@@ -31,11 +28,23 @@ Jazz solo
 
 <img width="753" alt="Screenshot 2022-07-29 at 13 10 09" src="https://user-images.githubusercontent.com/1491908/181703286-3bb053a1-83e7-417a-a019-2cf4e8dee315.png">
 
-- [MIDI solos by Doug McKenzie](https://bushgrafts.com/midi/)
-
-- [**Jazz solo visualizations**](jazz_solo_visualizations.md)
 
 - [Mark Sabatella. A Jazz Improvisation Primer](https://school.masteringmusescore.com/p/jazz-improvisation-primer) - An online course from a developer of MuseScore
+
+- [🎥 Gary Burton. Jazz Improvisation](https://www.coursera.org/learn/jazz-improvisation)
+
+Research
+---
+
+- [The Jazzomat Research Project](https://jazzomat.hfm-weimar.de/dbformat/dbcontent.html) - A corpus of transcribed solos. The book: [Inside the Jazzomat](https://schott-campus.com/wp-content/uploads/2017/11/inside_the_jazzomat_final_rev_oa4.pdf). [Dig That Lick](http://dig-that-lick.eecs.qmul.ac.uk/Dig%20That%20Lick_Deliverables.html)
+
+<img width="600" alt="Screenshot 2022-02-14 at 10 56 47 AM" src="https://user-images.githubusercontent.com/1491908/153853441-9998abb4-cb6c-4c99-bc10-48ae349b3c94.jpg">
+
+- [Martin Norgaard. Descriptions of Improvisational Thinking by Artist-level Jazz Musicians](https://repositories.lib.utexas.edu/bitstream/handle/2152/17893/norgaardm.pdf) - Seven jazz artists recorded an improvised solo. After completing their improvisations, participants described the thinking processes that led to the realization of their performances
+
+<img width="647" alt="Screenshot 2022-02-14 at 10 56 47 AM" src="https://user-images.githubusercontent.com/1491908/153823001-1bca2004-799c-42b7-9c2f-009f4d2bb23c.png">
+
+
 
 More
 ---
