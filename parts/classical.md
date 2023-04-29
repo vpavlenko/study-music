@@ -2,12 +2,12 @@ Common practice
 ===
 
 Classical music has three very broad periods:
-- [**pre-1650, early music**](early_music.md), [**counterpoint**](counterpoint.md) was also most prominent in that time
+- [**pre-1650, early music**](pre_classical.md), a counterpoint was the most prominent then
 - 1650..1900, so called "common practice period", which is the focus of most traditional manuals on classical music
 - 20th and 21st century, which has a huge variety of new techniques and approaches, so that sometimes pieces are idiosyncratic and don't share many language traits with some larger class of pieces
 
 Common practice music has several periods (having different language traits):
-- [**Baroque**](baroque.md) (a mixture of polyphony and homophony), including Galant (schemata)
+- [**Baroque**](pre_classical.md#baroque-music) (a mixture of polyphony and homophony), including Galant (schemata)
 - Classical (decline of polyphony)
 - Romantic (more chromaticism, prevalence of minor mode)
 
