@@ -38,4 +38,7 @@ Post-tonal theory
 
 - [Ethan Haimo. Atonality, Analysis, and the Intentional Fallacy](https://academic.oup.com/mts/article-abstract/18/2/167/1090522), [review](https://mtosmt.org/classic/mto.97.3.2/mto.97.3.2.latham.html)
 
+![image](https://user-images.githubusercontent.com/1491908/235322982-b628aed2-fb5f-4304-9abc-041c8f67bf8e.png)
+
+
 - [Joseph Nathan Straus is also Fortean](https://www.mtosmt.org/issues/mto.00.6.1/mto.00.6.1.perry.html)
