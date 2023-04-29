@@ -12,3 +12,5 @@ Microtonal music
 - [Xenharmonic Wiki](https://en.xen.wiki/)
 
 - https://learningmusic.ableton.com/advanced-topics/19-tone.html
+
+- [Andrew M. Blake. COMPUTATIONAL ANALYSIS OF QUARTER-TONE COMPOSITIONS BY CHARLES IVES AND IVAN WYSCHNEGRADSKY]
