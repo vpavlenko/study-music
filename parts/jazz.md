@@ -39,4 +39,5 @@ Misc
 - Barry Harris videos https://youtube.com/@BarryHarrisVideos
 - [**Visualizations of jazz solo**](jazz_solo_visualizations.md)
 - [**Visualizations of jazz harmony**](jazz_harmony_visualizations.md)
+- [Douglas R. Abrams. Rhythmic Complexity in Jazz: An Information Theory Approach](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=3876&context=dissertations_2)
 
