@@ -91,3 +91,4 @@ Interactive harmonic analysis
 - https://fourscoreandmore.org/working-in-harmony/
 - https://ediss.sub.uni-hamburg.de/bitstream/ediss/3249/2/dissertation.pdf
 - https://github.com/manoskary/Harmonic_Analysis_and_Trajectory
+- [Néstor Nápoles López. Automatic Roman Numeral Analysis in Symbolic Music Representations](https://www.youtube.com/watch?v=Obf10v9AN-w)
