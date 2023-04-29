@@ -67,7 +67,6 @@ Topics
 - [**Composition**](parts/composition.md)
 - [**Listening guides**](parts/listening_guides.md)
 - [**Ear training**](parts/ear_training.md)
-- [**Orchestration**](parts/orchestration.md)
 - [**Maps of genres**](parts/maps_of_genres.md)
 - [**Visualizations**](parts/visualizations.md)
 - [**Research**](parts/research.md)
