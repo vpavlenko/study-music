@@ -44,7 +44,9 @@ Then there are composers' reflections. Some are targetting laymen, eg:
 Some are targetting musicians and can be either coursebooks (Rimsky-Korsakov, Schoenberg) or descriptions of one's compositional approach (Messiaen)
 
 And then there are sketchbooks:
-- https://archive.org/details/texts?query=beethoven+sketchbooks
+
+<img width="600" alt="Screenshot 2023-04-29 at 11 30 17" src="https://user-images.githubusercontent.com/1491908/235289906-57b44be8-4b1c-4dcd-9037-8e96fc50ae30.png">
+
 
 
 Orchestration
