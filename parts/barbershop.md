@@ -17,3 +17,4 @@ Materials
 - The standards are called Polecat Songs, there are two volumes
 - There are [two plugins for Musescore 3.x](https://musescore.org/en/plugins) on barbershop
 - [8-bit Music Theory. When Bioshock Infinite Covered The Beach Boys](https://www.youtube.com/watch?v=9p-GFTfGdLE)
+- [Scores in Verovio Humdrum Viewer](https://verovio.humdrum.org/?file=osu/barbershop/)
