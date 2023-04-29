@@ -17,6 +17,7 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - https://books.google.ge/books/about/Fourteenth_century_French_Secular_Polyph.html?id=2QffwAEACAAJ&redir_esc=y and other works of Jennifer Bain (eg. on Machaut)
 - Graham Strahle. Fantasy and Music in Sixteenth and Seventeenth-Century England
 - [Richard Parncutt, Daniel Reisinger, Andreas Fuchs, Fabio Kaiser. Consonance and prevalence of sonorities in Western polyphony: Roughness, harmonicity, familiarity, evenness, diatonicity](https://www.tandfonline.com/doi/full/10.1080/09298215.2018.1477804)
+- Alexander Morgan. [Automated Detection of Renaissance Cadential Voice Functions and Cadences](https://crimwp.richardfreedman.sites.haverford.edu/?page_id=720), [Renaissance Ternary Suspensions in Theory and Practice](https://www.esm.rochester.edu/integral/33-2019/morgan/)
 
 Baroque music
 ---
