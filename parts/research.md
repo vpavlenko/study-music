@@ -57,11 +57,9 @@ Conferences
 MIDI datasets
 ---
 
-- [MAESTRO](https://magenta.tensorflow.org/datasets/maestro)
 - [Yale–Classical Archives Corpus](https://ycac.yale.edu/)
-- [Lakh](https://colinraffel.com/projects/lmd/)
-- [MetaMIDI](https://github.com/jeffreyjohnens/MetaMIDIDataset)
-- [Bernd Krueger. Classics step sequenced with dynamics](http://www.piano-midi.de/)
+- [Tegridy](https://github.com/asigalov61/Tegridy-MIDI-Dataset), also listing others
+- [Bernd Krueger. Classics step sequenced with dynamics](http://www.piano-midi.de/). Where do I find more CC0 piano music with dynamics?
 - [Kaggle search](https://www.kaggle.com/search?q=midi+in%3Adatasets):
   - [4x22 pianists](https://www.kaggle.com/datasets/ashkhagan/the-vienna-4x22-piano-corpus)
   - [boogie woogie hand separation](https://www.kaggle.com/datasets/burekpapi/sepiwoogie)
