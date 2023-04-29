@@ -1,3 +1,5 @@
+Awesome Music Theory
+===
 
 <img src="https://user-images.githubusercontent.com/1491908/220568166-377d3637-b5f6-45a9-906c-a8e4a21c3778.jpg" width="200" align="right">
 
