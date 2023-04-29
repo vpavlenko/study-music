@@ -42,6 +42,10 @@ Printed books
 
 (Comparison of books is taken from [a review by Brad Osborn](https://hcommons.org/deposits/objects/hc:23398/datastreams/CONTENT/content))
 
+Video courses
+---
+
+- [Christopher Brellochs. Two semesters of Music Theory](https://www.youtube.com/playlist?list=PLw9t0oA3fHkxx1PgYpiXrMUPXaOiwh6KU) - told, drawn on a whiteboard and played on a piano
 
 
 Harmonic analysis
