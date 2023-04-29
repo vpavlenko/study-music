@@ -1,4 +1,4 @@
-Advanced materials mostly on classical music
+Advanced materials on classical music
 ===
 
 - [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
