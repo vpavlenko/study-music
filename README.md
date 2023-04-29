@@ -34,8 +34,8 @@ Music languages can be divided into a number of families. Historically, the most
 
 The languages are (roughly speaking):
 - [**Rock**](parts/rock_harmony.md) - probably worth exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts. By the way, pop music (structure-wise) it a super-genre combining bits of rock, jazz and other stuff
-- [**Classical**](parts/classical.md) - the biggest chapter here, as it's the main focus of all research and teaching (despite its unpopularity according to [streaming stats](https://headphonesaddict.com/music-genre-statistics/))
-- [**Jazz**](parts/jazz.md)
+- [**Classical**](parts/classical.md) - the biggest chapter here, as it's the main focus of all research and teaching (despite its unpopularity according to [streaming stats](https://headphonesaddict.com/music-genre-statistics/)). Subtopics: [**pre-classical**](parts/pre_classical.md), [**advanced**](parts/classical_advanced.md), [**Beethoven piano sonata #5**](parts/beethoven_op10no1mov1.md)
+- [**Jazz**](parts/jazz.md). Subtopics: [**harmony**](parts/jazz_harmony.md), [**lego**](parts/lego.md), [**solo**](parts/jazz_solo.md)
 - [**Barbershop**](parts/barbershop.md)
 - [**Movies**](parts/movies.md)
 - [**Video games**](parts/vgm.md)
