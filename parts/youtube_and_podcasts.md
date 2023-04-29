@@ -24,6 +24,8 @@ Resources
 - https://chromatone.center/
 - https://muted.io/
 - https://tambien.github.io/InteractiveMusic/syllabus
+- [A website of Milton Mermikides](https://www.miltonline.com/) - A lot of YouTube lectures and blog posts from a British composer.
+
 
 
 Other lists
