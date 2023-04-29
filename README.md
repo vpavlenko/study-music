@@ -8,7 +8,7 @@ A directory of books, resources and courses for studying everything about music 
 This is version 2. [Version 1](https://github.com/vpavlenko/study-music/tree/ba716e653befb6db995346732a351471d2081efc) was a single page with all screenshots, which may have loaded slowly
 
 Where to start
-===
+---
 
 1. Go through [Ableton's guide](https://learningmusic.ableton.com/)
 2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab): search for your favorite songs and anime openings. Honestly [both of their books](https://www.hooktheory.com/books) are top-notch and well worth the money
@@ -19,8 +19,6 @@ Where to start
 7. Watch [a gamelan multitrack](https://www.youtube.com/watch?v=ccHTOepjK_s) and try to [make sense of it](https://docs.google.com/document/d/1oKbYpSAcunMTvB-casuFUyiaSuHGJkJhGf5rrvfOPgE/edit)
 8. [Press "scan"](https://everynoise.com/)
 
-Music theory
-===
 
 Western music languages
 ---
@@ -60,9 +58,8 @@ The families are (roughly speaking):
 
 
 
-
 Topics
-===
+---
 
 <img src="https://user-images.githubusercontent.com/1491908/220949769-3a8467df-3e6c-4664-a973-21c81cfe8fa0.png" width="200" align="right">
 
@@ -81,7 +78,7 @@ Topics
 
 
 Topics on electronic music
-===
+---
 
 <img src="https://user-images.githubusercontent.com/1491908/220955095-75f3a0d3-e090-43e7-a9ae-98c5f8eb1999.png" align="right" width="200">
 
@@ -93,8 +90,8 @@ Topics on electronic music
 - [Institute of Sonology: One-Year Course](http://sonology.org/one-year-course-admission/)
 
 Contacts
-===
+---
 
-[Real-time feed of new resources](https://t.me/keetezh)
+[A real-time feed of new resources in Telegram](https://t.me/keetezh)
 
 Do you know how to enroll in a music theory program after a computer science BSc (without a completed formal music degree)? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself)
