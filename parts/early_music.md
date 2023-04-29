@@ -13,5 +13,5 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - Dahlhaus Carl, Gjerdingen Robert O. Studies on the Origin of Harmonic Tonality
 - https://books.google.ge/books/about/Fourteenth_century_French_Secular_Polyph.html?id=2QffwAEACAAJ&redir_esc=y and other works of Jennifer Bain (eg. on Machaut)
 - Graham Strahle. Fantasy and Music in Sixteenth and Seventeenth-Century England
+- [Richard Parncutt, Daniel Reisinger, Andreas Fuchs, Fabio Kaiser. Consonance and prevalence of sonorities in Western polyphony: Roughness, harmonicity, familiarity, evenness, diatonicity](https://www.tandfonline.com/doi/full/10.1080/09298215.2018.1477804)
 
-Also mention books on polyphony
