@@ -40,4 +40,6 @@ Counterpoint can be of 16th century (which is Renaissance) or 18th century (whic
 - Евдокимова Ю. К., Дубравская Т. Н., Протопопов В. В. История полифонии. В 6 вып. М., 1983-1996
 - John J. Mortensen. The Pianist's Guide to Historic Improvisation
 - John J. Mortensen. Improvising Fugue
+- Schoenberg on counterpoint
+- Hindemith on counterpoint
 
