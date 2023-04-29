@@ -29,6 +29,8 @@ The author explicitly mentions that his research is falsifiable.
 
 - Affect theory
 
+- [Adam Neely. A = 432Hz](https://www.youtube.com/watch?v=EKTZ151yLnk)
+
 Post-tonal theory
 ---
 
