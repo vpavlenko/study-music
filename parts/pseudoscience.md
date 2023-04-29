@@ -4,7 +4,7 @@ Pseudoscience
 Or maybe not. You decide. 
 
 Pseudoscience in music theory is a description of a structure where there's no inherent structure. An attempt to catch patterns in a noise, patterns which are one-off and
-don't help in composition. Patterns which don't exist in minds of listeners until they deeply immerse in your theory.
+don't help in composition. Patterns which don't exist in minds of listeners until they become deeply immersed in your theory.
 
 - [**Schenkerian analysis**](schenkerian_analysis.md)
 
