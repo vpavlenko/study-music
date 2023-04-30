@@ -10,7 +10,7 @@ This is version 2. [Version 1](https://github.com/vpavlenko/study-music/tree/ba7
 Where to start
 ---
 
-1. Go through [Ableton's guide](https://learningmusic.ableton.com/)
+1. Go through [the Ableton's guide on music](https://learningmusic.ableton.com/) and [the Ableton's guide on synths](https://learningsynths.ableton.com/)
 2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab): search for your favorite songs and anime openings. Honestly [both of their books](https://www.hooktheory.com/books) are top-notch and well worth the money
 3. Play around with Bartosz Ciechanowski's [visualizations](https://ciechanow.ski/sound/) on the essence of sound
 4. Skim through [Toby W. Rush's overview](https://tobyrush.com/theorypages/pdf/en-us/the-whole-enchilada-set.pdf) to see how many moving parts does a classical theory have
