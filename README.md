@@ -22,6 +22,7 @@ Where to start
 5. Get back to the 1990 with [The Art of Mixing](https://youtu.be/TEjOdqZFvhY?t=25)
 7. Watch [a gamelan multitrack](https://www.youtube.com/watch?v=ccHTOepjK_s) and try to [make sense of it](https://docs.google.com/document/d/1oKbYpSAcunMTvB-casuFUyiaSuHGJkJhGf5rrvfOPgE/edit)
 8. Press "scan" at [Every Noise](https://everynoise.com/)
+3. Find your favourite tempo of [Chopin's Funeral March](https://tuttitempi.com/#scoreId=U00000578581&from=0.5622&to=0.8122&youtube=1&spotify=0&muziekweb=0)
 6. Stare at visualizations: [**classical**](parts/classical_visualizations.md), [**jazz harmony**](parts/jazz_harmony_visualizations.md) and [**jazz solos**](parts/jazz_solo_visualizations.md)
 
 
