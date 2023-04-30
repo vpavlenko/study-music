@@ -16,6 +16,7 @@ Where to start
 4. Skim through [Toby W. Rush's overview](https://tobyrush.com/theorypages/pdf/en-us/the-whole-enchilada-set.pdf) to see how many moving parts does a classical theory have
 5. Listen to [Beethoven's sonata #5 movement #1](https://rawl.vercel.app/edit?a=beethoven_op10no1mov1), also see what we as a society [**know about it**](parts/beethoven_op10no1mov1.md)
 6. Stare at visualizations: [**classical**](parts/classical_visualizations.md), [**jazz harmony**](parts/jazz_harmony_visualizations.md) and [**jazz solos**](parts/jazz_solo_visualizations.md)
+7. Listen to two-chord patterns typical for movie soundtracks: [LP](https://www.youtube.com/watch?v=I33UqUhKE10), [H](https://www.youtube.com/watch?v=_LCDlv33y4M), [T6](https://www.youtube.com/watch?v=0V1Mfmdt8lA), [S](https://www.youtube.com/watch?v=rfYU1F0pJik), [F and N](https://www.youtube.com/watch?v=tHs3gdouz68)
 7. Watch [a gamelan multitrack](https://www.youtube.com/watch?v=ccHTOepjK_s) and try to [make sense of it](https://docs.google.com/document/d/1oKbYpSAcunMTvB-casuFUyiaSuHGJkJhGf5rrvfOPgE/edit)
 8. [Press "scan"](https://everynoise.com/)
 
