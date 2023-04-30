@@ -16,12 +16,27 @@ Corpus studies
 11. [Evan Cortens. The Expositions of Haydn's String Quartets: A Corpus Analysis](https://remix.berklee.edu/cgi/viewcontent.cgi?article=1022&context=haydn-journal) - nice graphs, where's the corpus?
 
 
-General thoughts on music theory research
+General thoughts
 ---
 
 1. [Empirical Musicology: An Interview with David Huron Part I](https://emusicology.org/index.php/EMR/article/view/7718/5744), [Part II](https://emusicology.org/article/view/8103/6032)
 3. [David Huron. On the future of music research](https://kb.osu.edu/bitstream/handle/1811/93138/1/FDMC_2021_Huron_005.pdf)
 1. [David Temperley. "The Question of Purpose in Music Theory: Description, Suggestion and Explanation"](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-cm99.pdf)
+
+Journals
+---
+
+- [Music Theory Online](https://www.mtosmt.org/)
+- [Empirical Musicology Review](https://emusicology.org/)
+- [Intégral](https://www.esm.rochester.edu/integral/)
+
+Conferences
+---
+
+- [MEI](https://music-encoding.org/conference/proceedings.html)
+- ISMIR
+
+
 
 Misc
 ---
@@ -38,6 +53,7 @@ Misc
 
 - https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fbibliografia.bib.txt
 
+
 Online platforms for music visualization
 ---
 
@@ -52,11 +68,6 @@ Online platforms for music visualization
 
 
 
-Conferences
----
-
-- [MEI](https://music-encoding.org/conference/proceedings.html)
-- ISMIR
 
 MIDI datasets
 ---
