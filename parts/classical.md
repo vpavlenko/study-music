@@ -46,6 +46,7 @@ Video courses
 ---
 
 - [Christopher Brellochs. Two semesters of Music Theory](https://www.youtube.com/playlist?list=PLw9t0oA3fHkxx1PgYpiXrMUPXaOiwh6KU) - told, drawn on a whiteboard and played on a piano
+- [Seth Monahan. Basics of Classical Harmony & Counterpoint](https://www.youtube.com/@SethMonahan/videos)
 
 
 Harmonic analysis
