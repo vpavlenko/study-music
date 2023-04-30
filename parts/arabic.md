@@ -1,7 +1,7 @@
 Arabic music
 ---
 
-- [Johnny Farraj, Sami Abu Shumays. Inside Arabic Music](https://amzn.to/3AiJBxj) - A modern book on all aspects of Arabic maqam music (instruments, forms, rhythms, modulations), with an emphasis on a new researcher look on the actual structure of maqam modulations. Two authors previously created two websites on the topic: http://maqamlessons.com/ and https://www.maqamworld.com/. Also [a YouTube channel](https://www.youtube.com/channel/UCvQd4jztGgzPu4XRZZdPjSw)
+- [Johnny Farraj, Sami Abu Shumays. Inside Arabic Music](https://amzn.to/3AiJBxj) - A modern book on all aspects of Arabic maqam music (instruments, forms, rhythms, modulations), with an emphasis on a new researcher look on the actual structure of maqam modulations. Two authors previously created two websites on the topic: http://maqamlessons.com/ ([a CSS fix for inline players](https://gist.github.com/vpavlenko/cb9fde4c442c722314fc0a4f39c30121)) and https://www.maqamworld.com/. Also [a YouTube channel](https://www.youtube.com/channel/UCvQd4jztGgzPu4XRZZdPjSw)
 
 <img width="678" alt="Screenshot 2022-01-21 at 2 41 37 AM" src="https://user-images.githubusercontent.com/1491908/150439587-5f279385-0b7f-4ad4-8ab0-4296375830d4.png">
 
