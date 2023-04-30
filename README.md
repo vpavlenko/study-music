@@ -1,7 +1,6 @@
 Awesome Music Theory [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
 
-<img src="https://user-images.githubusercontent.com/1491908/220568166-377d3637-b5f6-45a9-906c-a8e4a21c3778.jpg" width="200" align="right">
 
 A directory of books, resources and courses for studying everything about music and sound
 
@@ -9,6 +8,9 @@ This is version 2. [Version 1](https://github.com/vpavlenko/study-music/tree/ba7
 
 Where to start
 ---
+
+<img src="https://user-images.githubusercontent.com/1491908/220568166-377d3637-b5f6-45a9-906c-a8e4a21c3778.jpg" width="200" align="right">
+
 
 1. Go through [Ableton's guide on music](https://learningmusic.ableton.com/) and [Ableton's guide on synths](https://learningsynths.ableton.com/)
 2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab): search for your favorite songs and anime openings. Honestly [both of their books](https://www.hooktheory.com/books) are top-notch and well worth the money
@@ -31,6 +33,7 @@ Western music languages
 ---
 
 <img src="https://user-images.githubusercontent.com/1491908/220957973-a76da180-0bf9-4ad4-b03d-8f6ff2d3a2a7.png" width="200" align="right">
+
 
 Music languages can be divided into a number of families. Historically, the most dominant and influencial one is Western family of languages. Its languages share some common traits:
 - 12-tone temperament
