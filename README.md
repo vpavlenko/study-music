@@ -4,8 +4,6 @@ Awesome Music Theory [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d73
 
 A directory of books, resources and courses for studying everything about music and sound
 
-This is version 2. [Version 1](https://github.com/vpavlenko/study-music/tree/ba716e653befb6db995346732a351471d2081efc) was a single page with all screenshots, which may have loaded slowly
-
 Where to start
 ---
 
