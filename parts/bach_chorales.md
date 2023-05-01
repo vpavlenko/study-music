@@ -36,4 +36,4 @@ There are many ways to paint chorale scores to reveal their harmony:
 
 - https://authentic-chorales.com/
 
-
+- [Coconet](https://magenta.tensorflow.org/coconet) - the ML model that harmonizes melodies in a style of Bach chorales
