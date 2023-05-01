@@ -24,6 +24,7 @@ Post-tonal theory
 1. Joseph N. Straus. Introduction to Post-Tonal Theory
 2. [Artusi](https://www.artusimusic.com/curriculum/) has post-tonal exercises
 3. [Integrated Music Theory](https://intmus.github.io/inttheory22-23/23-intro-to-post-tonal/a1-ex-pcintnotation.html) 
+4. Dariusz Terefenko. Jazz Theory. Chapter 27 "Post-Tonal Jazz"
 5. [**Pseudoscience**](pseudoscience.md#post-tonal-theory)
 
 
