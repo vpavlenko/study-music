@@ -25,7 +25,7 @@ Where to start
 9. Try to sing phrases in [an Arabic microtonal scale](https://www.youtube.com/watch?v=xN7E1pc8Y2Y&list=PLcfDkfaWrWRRcgUawWPz4bdL0Co17rphx)
 10. Watch [a gamelan multitrack](https://www.youtube.com/watch?v=ccHTOepjK_s) and try to [make sense of it](https://docs.google.com/document/d/1oKbYpSAcunMTvB-casuFUyiaSuHGJkJhGf5rrvfOPgE/edit), maybe with a help of [a larger multitrack for another piece](https://www.youtube.com/watch?v=jE93bF0dooU)
 11. Find your favourite tempo of [Chopin's Funeral March](https://tuttitempi.com/#scoreId=U00000578581&from=0.5622&to=0.8122&youtube=1&spotify=0&muziekweb=0)
-12. Rate AI demos: [Magenta](https://magenta.tensorflow.org/demos/), [MusicLM](https://google-research.github.io/seanet/musiclm/examples/), [LakhNES](https://chrisdonahue.com/LakhNES/)
+12. Rate AI demos: [Magenta](https://magenta.tensorflow.org/demos/), [MusicLM](https://google-research.github.io/seanet/musiclm/examples/), [LakhNES](https://chrisdonahue.com/LakhNES/), [Muzic](https://ai-muzic.github.io/), [Jazz Transformer](https://drive.google.com/drive/folders/1-EeV02jvRftdvwWXa0KpoMvyRQaXUJ0W)
 12. Stare at visualizations: [**classical**](parts/classical_visualizations.md), [**jazz harmony**](parts/jazz_harmony_visualizations.md) and [**jazz solos**](parts/jazz_solo_visualizations.md)
 
 
