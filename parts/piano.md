@@ -20,6 +20,10 @@ Yes, pianists really [write down all fingers](https://www.youtube.com/watch?v=ir
 
 - [Jeffrey Swinkin. Keyboard Fingering and Interpretation: Comparison of Historical and Modern Approaches.](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1210&context=ppr) The article tells about two styles of fingerings. First is Beethoven/Chopin/Schenker where fingerings are a method of preserving phrasing/dynamics. The other starts with Czerny and optimizes the ease of velocity.
 
+Tuning
+---
+
+- http://piano-tuner.org/
 
 Misc
 ---
