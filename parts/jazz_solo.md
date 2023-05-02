@@ -33,6 +33,9 @@ Craft
 
 - [🎥 Gary Burton. Jazz Improvisation](https://www.coursera.org/learn/jazz-improvisation)
 
+- Dariusz Terefenko. Jazz Theory - Has three chapters of solo analyses: "Confirmation", "Moose the Mooche", "Line up"
+
+
 Research
 ---
 
