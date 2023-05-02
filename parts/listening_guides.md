@@ -17,9 +17,7 @@ Listening guides
 
 <img width="574" alt="Screenshot 2022-06-27 at 14 58 13" src="https://user-images.githubusercontent.com/1491908/175901122-85eeea8b-de5e-43e7-9a30-081efa701093.png">
 
-- Taruskin in 5 volumes, also history.md
-
-- [Music Matters](https://books.google.kg/books?id=IJWIv9QhSSAC) is just a lovely book series for kids
+- [Music Matters](https://books.google.kg/books?id=IJWIv9QhSSAC) is a lovely and deep book series for kids
 
 - [Neil Boumpani, Justin Carteret. Music and the Human Experience](https://alg.manifoldapp.org/read/music-and-the-human-experience/)
 
