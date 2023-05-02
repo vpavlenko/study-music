@@ -21,12 +21,6 @@ Listening guides
 
 - [Music Matters](https://books.google.kg/books?id=IJWIv9QhSSAC) is just a lovely book series for kids
 
+- [Neil Boumpani, Justin Carteret. Music and the Human Experience](https://alg.manifoldapp.org/read/music-and-the-human-experience/)
 
-Books on individual pieces
----
-
-- Pauline Fairclough. A Soviet Credo: Shostakovich's Fourth Symphony
-- James Webster. Haydn's "Farewell"
-- Robert S. Hatten for Beethoven
-- The music of Paul Hindemith by David Neumeyer
-- A modern composer Fazıl Say describes the structure of his Istanbul Symphony: [part 1](https://www.youtube.com/watch?v=Om9ONn5190k), [part 2](https://www.youtube.com/watch?v=Y_cF9Ts9XEU), [home video](https://www.youtube.com/watch?v=i5Etc3g-D5c)
+- Aaron Copland. What to Listen for in Music - a guide from one of the most famous US composers of the 20th century
