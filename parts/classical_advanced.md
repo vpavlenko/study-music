@@ -5,7 +5,7 @@ Advanced materials on classical music
 
 - [The Future of Music: Towards a Computational Musical Theory of Everything](https://books.google.ru/books?id=YTzYDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
 
-- 🇷🇺 [Ю. Тюлин. Учение о музыкальной фактуре и мелодической фигурации (два тома теории, ещё задачник и ещё решебник)](https://archive.org/details/tiulin_muz_factura_1). [Глава 2 с привязанными примерами](https://kuregyan.vercel.app/books/tyulin/)
+- [Ю. Тюлин. Учение о музыкальной фактуре и мелодической фигурации (два тома теории, ещё задачник и ещё решебник)](https://archive.org/details/tiulin_muz_factura_1). [Глава 2 с привязанными примерами](https://kuregyan.vercel.app/books/tyulin/)
 
 <img width="757" alt="Screenshot 2022-02-15 at 4 34 48 PM" src="https://user-images.githubusercontent.com/1491908/154072499-7c93331a-a90b-432b-982e-7f6f871e150c.png">
 

@@ -7,7 +7,7 @@ Sound design
  ![image](https://user-images.githubusercontent.com/1491908/150519718-6a443cd7-2f04-42a3-89fc-29baca5a6f93.png)
 
 
-- 🇷🇺 [XSSR Academy](https://xssracademy.com/ru/) - Курсы по саунд-дизайну и созданию музыки к играм от аудио-инженеров Wargaming
+- [XSSR Academy](https://xssracademy.com/ru/) - Курсы по саунд-дизайну и созданию музыки к играм от аудио-инженеров Wargaming
 
 - [Learning Synths from Ableton](https://learningsynths.ableton.com/) - A very basic online one-hour intro into synths
 
@@ -23,7 +23,7 @@ Also, historically there was a number of environments to do sound synthesis with
 
 - [Andrea Pejrolo, Scott B. Metcalfe. Creating Sounds from Scratch: A Practical Guide to Music Synthesis for Producers and Composers](https://amzn.to/3oPzJXD)
 
-- 🇷🇺 [Амосов, Наджаров, Хруст. Лекции по электроакустической музыке](https://drive.google.com/file/d/1G5xKssoR5vWTiR3YCtwywgFg2Kay0uK4/view)
+- [Амосов, Наджаров, Хруст. Лекции по электроакустической музыке](https://drive.google.com/file/d/1G5xKssoR5vWTiR3YCtwywgFg2Kay0uK4/view)
 
 <img width="1100" alt="Screenshot 2022-02-15 at 4 30 26 PM" src="https://user-images.githubusercontent.com/1491908/154071804-d42cc08b-2301-48ed-8538-3b1ab007a77d.png">
 

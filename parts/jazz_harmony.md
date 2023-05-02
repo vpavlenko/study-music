@@ -17,7 +17,7 @@ Jazz harmony
 
 
 
-- 🇷🇺 [Ю. Н. Чугунов. Эволюция гармонического языка джаза. Джазовые мелодии для гармонизации](https://www.chitai-gorod.ru/catalog/book/809141/)
+- [Ю. Н. Чугунов. Эволюция гармонического языка джаза. Джазовые мелодии для гармонизации](https://www.chitai-gorod.ru/catalog/book/809141/)
 
 <img width="600" alt="Screenshot 2022-01-22 at 3 56 22 PM" src="https://user-images.githubusercontent.com/1491908/150639416-193135f2-991f-4b2b-9a37-8ef7b72dc777.png">
 

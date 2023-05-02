@@ -14,7 +14,7 @@ Ear training
 
 - [Perfect Pitch](https://xn--80ahdkilbo1bvw1el.xn--p1ai/en/home/) - Intervals, chords, scales, inversions
 
-- 🇷🇺 [Сольфа](http://solfa.ru/) - Музыкальные диктанты. Советую также попробовать [MacGAMUT Dictation на Artusi](https://www.artusimusic.com/assignments/19791/artusi_main_any_ps014/)
+- [Сольфа](http://solfa.ru/) - Музыкальные диктанты. Советую также попробовать [MacGAMUT Dictation на Artusi](https://www.artusimusic.com/assignments/19791/artusi_main_any_ps014/)
 
 - [https://www.teoria.com/en/exercises/](https://www.teoria.com/en/exercises/)
 
