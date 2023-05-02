@@ -51,3 +51,6 @@ Digital composition
 - [Jukeblocks - a skeleton generator](https://jukeblocks.io/)
 
 - [Flucoma](https://www.flucoma.org/)
+
+- Dennis DeSantis. Making Music. 74 Creative Strategies for Electronic Music Producers
+
