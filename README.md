@@ -110,4 +110,4 @@ Do you know how to enroll in a music theory program after a computer science BSc
 
 Also, I'm happy to chat on topics of visualisation-aided music education and research popularisation
 
-Also, I'm always looking for a cheap room in the UK :)
+Also, I'm always looking to rent a cheap room in the UK :)
