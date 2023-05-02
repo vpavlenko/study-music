@@ -77,7 +77,7 @@ Topics
 - [**Composition**](parts/composition.md)
 - [**Visualizations**](parts/visualizations.md)
 - [**Maps of genres**](parts/maps_of_genres.md)
-- [**Listening guides**](parts/listening_guides.md)
+- [**Listening guides**](parts/listening_guides.md) - how to enjoy classical music without a deep commitment to learn theory
 - [**Ear training**](parts/ear_training.md)
 - [**Piano**](parts/piano.md)
 - [**Neural networks**](parts/llms.md)
