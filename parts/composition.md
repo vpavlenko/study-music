@@ -29,6 +29,8 @@ Music composition
 
 - https://www.reddit.com/r/musictheory/wiki/compchallenge/
 
+- [🎥 Frans Absil. Music Composition Techniques](https://www.youtube.com/watch?v=sEuCEQ56dNc&list=PLRqx5UIhvD3ynJSmxBWQFJvuaPPjNqqRA)
+
 Also mention [GCSE and A-level books](https://t.me/keetezh/822)
 
 Insights into composers' minds
