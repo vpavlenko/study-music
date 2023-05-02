@@ -22,7 +22,9 @@ Jazz composers
 - [Andrew Lilley. The Artistry of Bheki Mseleku](https://www.africanminds.co.za/wp-content/uploads/2020/06/Bheki-Mseleku-music-book-22Jun1200-Web-s.pdf)
 - [Henry Martin. Charlie Parker, Composer](https://www.amazon.com/Charlie-Parker-Composer-Henry-Martin/dp/0190923385)
 - [Peter Freeman. The Music of Antonio Carlos Jobim](https://www.amazon.com/Music-Antonio-Carlos-Jobim/dp/1783209372)
-- [Wynton Marsalis Omnibook](https://wyntonmarsalis.org/books/title/wynton-marsalis-omnibook) has an intro article describing his solo language ([screenshot](https://t.me/keetezh/677))
+- [Wynton Marsalis Omnibook](https://wyntonmarsalis.org/books/title/wynton-marsalis-omnibook) has an intro article describing his solo language, maybe other omnibooks also do that
+![image](https://user-images.githubusercontent.com/1491908/235591439-38e5949d-70c6-4a58-a524-6ab5ac84148f.png)
+- [Kasper Sloots. Frank Zappa's musical language](https://www.zappa-analysis.com/)
 
 Bass lines
 ---
