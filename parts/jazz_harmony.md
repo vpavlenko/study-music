@@ -24,7 +24,7 @@ Jazz harmony
 - [Paul F. Berliner. Thinking in Jazz: The Infinite Art of Improvisation](https://amzn.to/3oLsTlS)
 
 
-- [Dariusz Terefenko. Jazz Theory: From Basic to Advanced Study](https://amzn.to/3oOlXEC) - Also has [a companion website](https://routledgetextbooks.com/textbooks/9780415537612/recordings.php) with [a 1st edition workbook](https://routledgetextbooks.com/textbooks/9780415537612/workbook.php). See [a review](https://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.salley.html)
+- [Dariusz Terefenko. Jazz Theory: From Basic to Advanced Study](https://amzn.to/3oOlXEC) - Also has [a companion website](https://routledgetextbooks.com/textbooks/9780415537612/recordings.php) with [a 1st edition workbook](https://routledgetextbooks.com/textbooks/9780415537612/workbook.php). See [review 1](https://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.salley.html), [review 2](https://www.jstor.org/stable/26477737)
 
 - [**Lego**](lego.md) - the method of making sense of chunks of several jazz chords going together
 
