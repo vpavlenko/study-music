@@ -35,6 +35,9 @@ Craft
 
 - Dariusz Terefenko. Jazz Theory - Has three chapters of solo analyses: "Confirmation", "Moose the Mooche", "Line up"
 
+- Ю. Маркин. Школа джазовой импровизации
+
+- В. Романенко. "Учись импровизировать", "Импровизация в популярной песне" и другие
 
 Research
 ---
@@ -54,8 +57,6 @@ More
 
 1. David Baker (also Jazz Arrangement)
 6. Patterns for Jazz (similar to Jerry Bergonzi?)
-7. Ю. Маркин. Школа джазовой импровизации
-8. В. Романенко. "Учись импровизировать", "Импровизация в популярной песне" и другие
 9. Jamey Aebersold (130 volumes?)
 10. Jerry Coker
 14. [John Mehegan](https://www.amazon.com/Books-John-Mehegan/s?rh=n%3A283155%2Cp_27%3AJohn+Mehegan)
