@@ -24,3 +24,7 @@ Rock harmony
 
 - [🎥 Four harmonic analyses by Augusto (Björk and Billie Eilish)](https://www.youtube.com/@augusto7681/search?query=harmonic)
 
+More
+---
+
+- [Brett Clement. Rock Tonality Amplified](https://www.routledge.com/Rock-Tonality-Amplified-A-Theory-of-Modality-Harmonic-Function-and-Tonal/Clement/p/book/9781032291444)
