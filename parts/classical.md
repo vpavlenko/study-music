@@ -88,6 +88,7 @@ Form
 
 <img width="800" alt="Screenshot 2022-02-14 at 11 41 51 AM" src="https://user-images.githubusercontent.com/1491908/153829331-c9554a4e-c2d9-435d-bd2c-31f773d57125.png">
 
+History: Richard Taruskin
 
 Also, there are [**advanced materials**](classical_advanced.md)
 
