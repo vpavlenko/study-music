@@ -29,3 +29,5 @@ More
 
 - [Drew Nobile. Form as Harmony in Rock Music](https://global.oup.com/academic/product/form-as-harmony-in-rock-music-9780190948351?cc=us&lang=en&)
 - [Brett Clement. Rock Tonality Amplified](https://www.routledge.com/Rock-Tonality-Amplified-A-Theory-of-Modality-Harmonic-Function-and-Tonal/Clement/p/book/9781032291444), [also see this](https://www.zappa-analysis.com/brett-clement.htm)
+- [Kasper Sloots. Frank Zappa's musical language](https://www.zappa-analysis.com/)
+
