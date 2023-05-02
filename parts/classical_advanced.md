@@ -52,3 +52,13 @@ Advanced form
 - [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (is this actually about form, or is it vaguely musicological?)
 
 <img width="755" alt="Screenshot 2023-04-07 at 12 51 58" src="https://user-images.githubusercontent.com/1491908/230577232-46601926-c3c2-4d30-95cb-493fc6561558.png">
+
+Books on individual pieces
+---
+
+- Pauline Fairclough. A Soviet Credo: Shostakovich's Fourth Symphony
+- James Webster. Haydn's "Farewell"
+- Robert S. Hatten for Beethoven
+- The music of Paul Hindemith by David Neumeyer
+- A modern composer Fazıl Say describes the structure of his Istanbul Symphony: [part 1](https://www.youtube.com/watch?v=Om9ONn5190k), [part 2](https://www.youtube.com/watch?v=Y_cF9Ts9XEU), [home video](https://www.youtube.com/watch?v=i5Etc3g-D5c)
+
