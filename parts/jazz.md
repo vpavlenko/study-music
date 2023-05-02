@@ -33,6 +33,7 @@ Bass lines
 
 <img width="600" alt="Screenshot 2022-02-15 at 4 44 34 PM" src="https://user-images.githubusercontent.com/1491908/154074173-859e4172-ac20-46ed-870d-4227b1967532.png">
 
+- [Joshua Wayne Skinner. A Comparative Analysis of Three Jazz Bassists’ Walking Bass Lines](https://digscholarship.unco.edu/dissertations/329/)
 
 Misc
 ---
