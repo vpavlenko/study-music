@@ -25,7 +25,8 @@ Post-tonal theory
 2. [Artusi](https://www.artusimusic.com/curriculum/) has post-tonal exercises
 3. [Integrated Music Theory](https://intmus.github.io/inttheory22-23/23-intro-to-post-tonal/a1-ex-pcintnotation.html) 
 4. Dariusz Terefenko. Jazz Theory. Chapter 27 "Post-Tonal Jazz"
-5. [**Pseudoscience**](pseudoscience.md#post-tonal-theory)
+5. [Miguel A. Roig-Francolí. Understanding Post-Tonal Music](https://www.taylorfrancis.com/books/mono/10.4324/9780429340123/understanding-post-tonal-music-miguel-roig-francol%C3%AD)
+6. [**Pseudoscience**](pseudoscience.md#post-tonal-theory)
 
 
 Advanced harmony
