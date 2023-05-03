@@ -34,3 +34,5 @@ More
 - ["Introduction to Harmonic Schemas in Pop Music". In Open Music Theory](https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-pop-schemas/)
 - [A cluster analysis of harmony in the McGill Billboard dataset](https://emusicology.org/index.php/EMR/article/view/5576/5604)
 - [Walter Everett. Making Sense of Rock’s Tonal Systems](https://mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html)
+<img width="822" alt="Screenshot 2023-05-03 at 11 05 45" src="https://user-images.githubusercontent.com/1491908/235851363-79461516-a3ec-49eb-811a-3503184b6808.png">
+
