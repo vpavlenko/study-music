@@ -25,6 +25,10 @@ Resources
 - https://tambien.github.io/InteractiveMusic/syllabus
 - [A website of Milton Mermikides](https://www.miltonline.com/) - A lot of YouTube lectures and blog posts from a British composer.
 
+Reddits
+---
+- [r/musictheory](https://www.reddit.com/r/musictheory/)
+- [r/listentothis/](https://www.reddit.com/r/listentothis/)
 
 
 Other lists
