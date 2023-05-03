@@ -10,3 +10,5 @@ Psychology of music
 - [EMR Vol. 10 No. 1-2 (2015): Special Issue: Music and Empathy](https://emusicology.org/index.php/EMR/issue/view/140) 
 
 - https://en.wikipedia.org/wiki/Gordon_music_learning_theory
+
+- https://en.wikipedia.org/wiki/John_Sloboda
