@@ -96,6 +96,7 @@ More
 ---
 
 - History: Richard Taruskin, 5 volumes
+- [Stephen C. Stone. Music Theory and Composition: A Practical Approach](https://rowman.com/ISBN/9781538101223/Music-Theory-and-Composition-A-Practical-Approach) - An approach to music theory through an emphasis on melody and counterpoint by starting with a single melodic line and gradually adding voices in counterpoint
 - [Michael Adduci. Music Theory](https://www.michaeladduci.com/music-theory)
 
 
