@@ -65,6 +65,7 @@ Books on individual pieces
 - James Webster. Haydn's "Farewell"
 - Robert S. Hatten for Beethoven
 - The music of Paul Hindemith by David Neumeyer
+- [The Cambridge Companion to the Eroica Symphony](https://www.cambridge.org/core/books/cambridge-companion-to-the-eroica-symphony/4CB6BBBF537F531FA4D8A1B5114776F0)
 - A modern composer Fazıl Say describes the structure of his Istanbul Symphony: [part 1](https://www.youtube.com/watch?v=Om9ONn5190k), [part 2](https://www.youtube.com/watch?v=Y_cF9Ts9XEU), [home video](https://www.youtube.com/watch?v=i5Etc3g-D5c)
 
 Notable analyses
