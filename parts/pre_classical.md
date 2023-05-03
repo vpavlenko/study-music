@@ -32,6 +32,8 @@ Baroque music
 - [Partimento and Continuo Playing in Theory and in Practice](https://www.amazon.com/Partimento-Continuo-Practice-Collected-Institute/dp/9058678288)
 - [🎥 Michael Koch. En blanc et noir: Baroque-style Piano Improvisations](https://www.youtube.com/@enblancetnoir7516/videos)
 - [Four Score and More](https://fourscoreandmore.org/resources/)
+- Dariusz Terefenko. The Passacaglia – A Primer for Teaching Baroque Improvisation
+
 
 
 Counterpoint
