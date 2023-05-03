@@ -15,6 +15,7 @@ Corpus studies
 10. Dig That Lick and Jazzomat
 11. [Evan Cortens. The Expositions of Haydn's String Quartets: A Corpus Analysis](https://remix.berklee.edu/cgi/viewcontent.cgi?article=1022&context=haydn-journal) - nice graphs, where's the corpus?
 12. [Jenine Brown, Daphne Tan, Michelle Lin. An Analytical Dataset of Approaches to V in Mozart](https://emusicology.org/index.php/EMR/article/view/8511/7815)
+13. [Omer Raz, Dror Chawin, Uri B. Rom. The Mozart Expositional Punctuation Corpus: A Dataset of Interthematic Cadences in Mozart's Sonata-Allegro Exposition](https://emusicology.org/index.php/EMR/article/view/7648/6273)
 
 
 General thoughts
