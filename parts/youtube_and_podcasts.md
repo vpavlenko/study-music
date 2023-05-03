@@ -1,5 +1,5 @@
 YouTube channels
-===
+---
 
 
 - [Guy Michelmore](https://www.youtube.com/playlist?list=PLH1Kp5ewZe_SZJ8ntw615PZb0TwrzC2EG) - A composer of music for film and television
@@ -17,8 +17,7 @@ YouTube channels
 
 
 Resources
-===
-
+---
 - [Art + Music + Technology podcast](https://artmusictech.libsyn.com/)
 - [Гильдия Разработчиков Интерактивного Аудио](https://griaudio.ru/)
 - https://chromatone.center/
@@ -29,16 +28,20 @@ Resources
 
 
 Other lists
-===
-
+---
 - [Awesome Music](https://github.com/ciconia/awesome-music)
 - [http://www.findingmusicresources.com/](http://www.findingmusicresources.com/)
 - Courses at American universities, eg. [CCRMA](https://ccrma.stanford.edu/)
 
 
 Lists of books
-===
+---
 - [Oxford Studies in Music Theory](https://global.oup.com/academic/content/series/o/oxford-studies-in-music-theory-oxsmt/)
 - Cambridge Studies in Music Theory and Analysis
 - Hal Leonard Fake Books
 - [Routledge on Music Theory](https://www.routledge.com/search?sb=SCAR2050)
+
+More
+---
+
+- https://usdivad.com/ - games about music
