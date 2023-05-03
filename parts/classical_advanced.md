@@ -50,11 +50,13 @@ Advanced form
 - [Steven Vande Moortele](https://scholar.google.be/citations?user=Nu2Ajf4AAAAJ) - references Caplin and Hepokoski, a good sign
 - [Steven Vande Moortele. Two-Dimensional Sonata Form: Form and Cycle in Single-Movement Instrumental Works by Liszt, Strauss, Schoenberg, and Zemlinsky](https://www.amazon.com/Two-Dimensional-Sonata-Form-Single-Movement-Instrumental/dp/9058677516)
 - [Andrew Davis. Sonata Fragments. Romantic Narratives in Chopin, Schumann, and Brahms](https://www.amazon.com/Sonata-Fragments-Romantic-Narratives-Interpretation/dp/0253028930)
+- [Steven Craig Cannon. Sonata Form in the Nineteenth-Century Symphony](https://emusicology.org/article/view/4956/4502)
 - [**Schenkerian analysis**](parts/schenkerian_analysis.md)
 - [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (is this actually about form, or is it vaguely musicological?)
 
 <img width="755" alt="Screenshot 2023-04-07 at 12 51 58" src="https://user-images.githubusercontent.com/1491908/230577232-46601926-c3c2-4d30-95cb-493fc6561558.png">
 - Nicholas Stoia. Sweet Thing The History and Musical Structure of a Shared American Vernacular Form
+
 
 Books on individual pieces
 ---
