@@ -31,6 +31,8 @@ Music composition
 
 - [🎥 Frans Absil. Music Composition Techniques](https://www.youtube.com/watch?v=sEuCEQ56dNc&list=PLRqx5UIhvD3ynJSmxBWQFJvuaPPjNqqRA)
 
+- [Margaret Lucy Wilkins. Creative Music Composition: The Young Composer's Voice](https://www.amazon.com/Creative-Music-Composition-Young-Composers/dp/0415974674)
+
 Also mention [GCSE and A-level books](https://t.me/keetezh/822): alan charlton, russell/harris, martin hinckley
 
 Insights into composers' minds
