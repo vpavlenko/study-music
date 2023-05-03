@@ -22,6 +22,8 @@ Ear training
 
 - https://www.freemusicdictations.net/
 
+- [Theta Music Trainer](https://trainer.thetamusic.com/)
+
 Sight Singing
 ---
 
