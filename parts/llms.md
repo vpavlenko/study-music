@@ -23,6 +23,7 @@ Other NN approaches for related things (GAN, VAE, RNNs, LSTMs)
 - https://epub.jku.at/obvulihs/download/pdf/8503579?originalFilename=true
 - https://liuhaumin.github.io/LeadsheetArrangement/
 - https://salu133445.github.io/projects
+- https://slseanwu.github.io/site-musemorphose/
 
 More
 ----
