@@ -52,6 +52,8 @@ Misc
 
 - https://zenodo.org/record/7088369#.ZDZ92hCEbi0
 
+- [🎥 Narno Suseno. Singing lessons](https://www.youtube.com/@narnosuseno5858)
+
 Modern pieces for gamelan
 ---
 
