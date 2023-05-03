@@ -14,6 +14,9 @@ YouTube channels
 трёхчасовые стримы по записи и сведению треков, введение в теорию музыки на клавишах.
 - [How to teach music notation to 3 yo kids](https://www.youtube.com/watch?v=zJDLG7AqPh0)
 
+Podcasts
+---
+- [Nikhil Hogan Show. Interviews with musicians skilled in composition and improvisation, with a focus on 18th century](https://nikhilhoganshow.libsyn.com/)
 
 
 Resources
