@@ -9,7 +9,7 @@ Advanced materials on classical music
 
 <img width="757" alt="Screenshot 2022-02-15 at 4 34 48 PM" src="https://user-images.githubusercontent.com/1491908/154072499-7c93331a-a90b-432b-982e-7f6f871e150c.png">
 
-- Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
+- Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet), [Victor Borge](https://en.wikipedia.org/wiki/Victor_Borge)
 
 - [Wallace Berry](https://en.wikipedia.org/wiki/Wallace_Berry)
 
