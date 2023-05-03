@@ -54,6 +54,7 @@ Conferences
 
 - [MEI](https://music-encoding.org/conference/proceedings.html)
 - ISMIR
+- [TENOR](https://www.tenor-conference.org/)
 
 
 
