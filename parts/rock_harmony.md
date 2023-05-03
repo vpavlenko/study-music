@@ -33,3 +33,4 @@ More
 - A lot of rock music is transcribed by transcribers like Andy Aledort, Paul Pappas, Addi Booth, some of it for Hal Leonard publisher.
 - ["Introduction to Harmonic Schemas in Pop Music". In Open Music Theory](https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-pop-schemas/)
 - [A cluster analysis of harmony in the McGill Billboard dataset](https://emusicology.org/index.php/EMR/article/view/5576/5604)
+- [Walter Everett. Making Sense of Rock’s Tonal Systems](https://mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html)
