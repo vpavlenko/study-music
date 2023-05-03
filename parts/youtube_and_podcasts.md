@@ -9,6 +9,7 @@ YouTube channels
 - [Tom Cosm](https://www.youtube.com/c/TomCosmNZ)
 - [Frans Absil](https://www.youtube.com/c/FransAbsil)
 - [12tone](https://www.youtube.com/c/12tonevideos)
+- [Deciphering Guitar and Music Theory](https://www.youtube.com/@decipheringguitarmusictheory/playlists)
 - [Институт музыкальных инициатив](https://www.youtube.com/c/%D0%98%D0%9C%D0%98%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/) - О музыкальной индустрии
 - [Нескучный саунд](https://www.youtube.com/channel/UCc1a1Nm8aNFoqv1G4CfyHzA) - Разборы гармониии Богемской рапсодии и саундтрека к Final Fantasy,
 трёхчасовые стримы по записи и сведению треков, введение в теорию музыки на клавишах.
