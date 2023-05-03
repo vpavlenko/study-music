@@ -46,7 +46,7 @@ Misc
 
 - [Review links from here](https://music.arts.uci.edu/abauer/148_2018/)
 
-- [R. Anderson Sutton. Humor, Mischief, and Aesthetics in Javanese Gamelan Music](https://www.jstor.org/stable/763917)
+- [R. Anderson Sutton. Humor, Mischief, and Aesthetics in Javanese Gamelan Music](https://www.jstor.org/stable/763917) and other articles
 
 - Chapter 10 on gamelan in [TTSS](https://sethares.engr.wisc.edu/ttss.html)
 
