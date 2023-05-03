@@ -56,6 +56,7 @@ Advanced form
 
 <img width="755" alt="Screenshot 2023-04-07 at 12 51 58" src="https://user-images.githubusercontent.com/1491908/230577232-46601926-c3c2-4d30-95cb-493fc6561558.png">
 - Nicholas Stoia. Sweet Thing The History and Musical Structure of a Shared American Vernacular Form
+- The Cambridge Companion to the Symphony
 
 
 Books on individual pieces
