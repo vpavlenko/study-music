@@ -1,7 +1,7 @@
 The idea
 ===
 
-There's a chance that I'll deliver some course on SC3 and audio programming languages in June 2023 at https://lalambda.school/
+There's a chance that I'll deliver some course on SC3 and audio programming languages and/or music theory in July 2023 at https://lalambda.school/
 
 Since I don't know these languages, my main idea is to organize it around building and exploring the corpus of existing programs in those languages.
 
