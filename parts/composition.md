@@ -31,7 +31,7 @@ Music composition
 
 - [🎥 Frans Absil. Music Composition Techniques](https://www.youtube.com/watch?v=sEuCEQ56dNc&list=PLRqx5UIhvD3ynJSmxBWQFJvuaPPjNqqRA)
 
-Also mention [GCSE and A-level books](https://t.me/keetezh/822)
+Also mention [GCSE and A-level books](https://t.me/keetezh/822): alan charlton, russell/harris, martin hinckley
 
 Insights into composers' minds
 ---
