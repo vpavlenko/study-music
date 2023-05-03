@@ -56,6 +56,10 @@ Conferences
 - ISMIR
 - [TENOR](https://www.tenor-conference.org/)
 
+Labs
+---
+- https://ddmal.music.mcgill.ca/research/
+- https://www.epfl.ch/labs/dcml/
 
 
 MIDI datasets
