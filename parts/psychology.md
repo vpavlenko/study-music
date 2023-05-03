@@ -9,6 +9,13 @@ Psychology of music
 
 - [EMR Vol. 10 No. 1-2 (2015): Special Issue: Music and Empathy](https://emusicology.org/index.php/EMR/issue/view/140) 
 
-- https://en.wikipedia.org/wiki/Gordon_music_learning_theory
+
 
 - https://en.wikipedia.org/wiki/John_Sloboda
+
+Music education
+---
+
+- https://en.wikipedia.org/wiki/Gordon_music_learning_theory
+- [David J. Elliott. Music matters: a new philosophy of music education](https://archive.org/details/musicmattersnewp0000elli/page/n9/mode/2up)
+- [Natalie Sarrazin. Music and the Child](https://milnepublishing.geneseo.edu/music-and-the-child/)
