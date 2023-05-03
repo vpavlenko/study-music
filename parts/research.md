@@ -28,17 +28,6 @@ General thoughts
 1. [David Temperley. "The Question of Purpose in Music Theory: Description, Suggestion and Explanation"](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-cm99.pdf)
 
 
-Online platforms for music visualization
----
-
-- http://www.dezrann.net/
-- https://vimu.app/
-- http://roman.algomus.fr/
-- https://verovio.humdrum.org/
-- https://visual-musicology.com/, [a paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14540)
-- https://rawl.vercel.app/
-- [iAnalyse](https://www.youtube.com/@pierrecouprie/playlists), [related?](https://www.youtube.com/watch?v=xHxkUyhY3TQ&list=PLfX9CXl_hg7VD1Z4jP_3XZTXtiKVdFl4i)
-- https://vmus.net/
 
 
 Journals
