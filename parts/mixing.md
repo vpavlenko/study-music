@@ -17,4 +17,4 @@ Mixing
 
 - 🇷🇺 [Digital Arts - очные курсы звукорежиссуры и аранжировки в Москве от Марка Брянцева](http://digarts.org/) - хожу, советую
 
-- [Resources by Ethan Hein](https://docs.google.com/spreadsheets/d/11bp8JupZ5FkK60W-mhXSfdr78fxpHLlU-tzVWONtrqg/edit#gid=437553663)
+- [Resources curated by Ethan Hein](https://docs.google.com/spreadsheets/d/11bp8JupZ5FkK60W-mhXSfdr78fxpHLlU-tzVWONtrqg/edit#gid=437553663)
