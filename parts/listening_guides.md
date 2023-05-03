@@ -22,3 +22,5 @@ Listening guides
 - [Neil Boumpani, Justin Carteret. Music and the Human Experience](https://alg.manifoldapp.org/read/music-and-the-human-experience/)
 
 - Aaron Copland. What to Listen for in Music - a guide from one of the most famous US composers of the 20th century
+
+- Ляля Кандаурова. Полчаса музыки. Как понять и полюбить классику
