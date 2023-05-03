@@ -42,7 +42,7 @@ Advanced harmony
 - Wilfrid Dunwell. The evolution of twentieth-century harmony
 - Ludmila Ulehla. Contemporary Harmony: Romanticism Through the Twelve-Tone Row
 - [Dmitri Tymoczko. Local Harmonic Grammar in Western Classical Music](https://dmitri.mycpanel.princeton.edu/mozart.pdf) - the harmonic syntax of Western classical music can be captured by a simple maplike grammar without recursive generative rules. Also see his other [books and papers](https://dmitri.mycpanel.princeton.edu/geometry-of-music.html)
-- 🎥 Alan Belkin. [Applied Harmony](https://www.youtube.com/watch?v=jffTBei6mxY&list=PLSntcNF64SVVBtDnYIfoLlvM4gPJw_i6R), [Modern Harmony](https://www.youtube.com/watch?v=kRb63Oy9ssI&list=PLSntcNF64SVXzsZiYybBTVcpKCiOEqH_m)
+- 🎥 Alan Belkin. [Applied Harmony](https://www.youtube.com/watch?v=jffTBei6mxY&list=PLSntcNF64SVVBtDnYIfoLlvM4gPJw_i6R), [Modern Harmony](https://www.youtube.com/watch?v=kRb63Oy9ssI&list=PLSntcNF64SVXzsZiYybBTVcpKCiOEqH_m) and [his books](https://alanbelkinmusic.com/site/en/index.php/introduction/)
 
 Advanced form
 ---
