@@ -51,7 +51,7 @@ The languages are (roughly speaking):
 - [**Video games**](parts/vgm.md)
 - [**Bach chorales**](parts/bach_chorales.md)
 - Other genres like R&B, country, dance electronic, gospel
-- Western regional traditions (eg. Latin)
+- Western regional traditions (eg. [Latin](https://www.halleonard.com/menu/562/latin))
 
 Non-Western music languages
 ---
