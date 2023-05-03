@@ -39,6 +39,8 @@ Craft
 
 - В. Романенко. "Учись импровизировать", "Импровизация в популярной песне" и другие
 
+- [David Kane. Playing Outside the Chord](https://www.jazzbooks.com/mm5/merchant.mvc?Screen=PROD&Product_code=D-OTC)
+
 Research
 ---
 
