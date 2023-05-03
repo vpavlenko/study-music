@@ -67,3 +67,6 @@ Books on individual pieces
 - The music of Paul Hindemith by David Neumeyer
 - A modern composer Fazıl Say describes the structure of his Istanbul Symphony: [part 1](https://www.youtube.com/watch?v=Om9ONn5190k), [part 2](https://www.youtube.com/watch?v=Y_cF9Ts9XEU), [home video](https://www.youtube.com/watch?v=i5Etc3g-D5c)
 
+Notable analyses
+---
+- [Five analyses](https://musescore.com/user/50070/sheetmusic)
