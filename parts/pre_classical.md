@@ -40,6 +40,7 @@ Counterpoint can be of 16th century (which is Renaissance) or 18th century (whic
 
 - Beth Denisch. Contemporary Counterpoint: Theory & Application
 - Евдокимова Ю. К., Дубравская Т. Н., Протопопов В. В. История полифонии. В 6 вып. М., 1983-1996
+- Т. Н. Дубравская. Полифония
 - John J. Mortensen. The Pianist's Guide to Historic Improvisation
 - John J. Mortensen. Improvising Fugue
 - Schoenberg on counterpoint
