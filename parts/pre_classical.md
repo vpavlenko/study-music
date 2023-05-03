@@ -19,6 +19,7 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - [Richard Parncutt, Daniel Reisinger, Andreas Fuchs, Fabio Kaiser. Consonance and prevalence of sonorities in Western polyphony: Roughness, harmonicity, familiarity, evenness, diatonicity](https://www.tandfonline.com/doi/full/10.1080/09298215.2018.1477804)
 - Alexander Morgan. [Automated Detection of Renaissance Cadential Voice Functions and Cadences](https://crimwp.richardfreedman.sites.haverford.edu/?page_id=720), [Renaissance Ternary Suspensions in Theory and Practice](https://www.esm.rochester.edu/integral/33-2019/morgan/)
 - [Karen Desmond, Emily Hopkins, Samuel Howes, Julie E. Cumming. Computer-aided Analysis of Sonority in the French Motet Repertory, ca. 1300–1350](https://www.mtosmt.org/issues/mto.20.26.4/mto.20.26.4.desmond.php)
+- Eric Chafe. Monteverdi's Tonal Language
 
 Baroque music
 ---
