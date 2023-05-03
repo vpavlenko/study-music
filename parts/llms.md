@@ -31,3 +31,4 @@ More
 - [🎥 Music + AI Reading Group](https://www.youtube.com/@musicaireadinggroup945/videos)
 - https://arxiv.org/html/1706.08675
 - https://rafaelramirez8.wixsite.com/mml2020
+- https://github.com/jongwook
