@@ -40,6 +40,8 @@ Lists of books
 - Cambridge Studies in Music Theory and Analysis
 - Hal Leonard Fake Books
 - [Routledge on Music Theory](https://www.routledge.com/search?sb=SCAR2050)
+- [Dewey 781.2 and around](https://www.librarything.com/mds/781.2)
+- https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fbibliografia.bib.txt
 
 More
 ---
