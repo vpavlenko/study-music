@@ -28,7 +28,7 @@ Resources
 Reddits
 ---
 - [r/musictheory](https://www.reddit.com/r/musictheory/)
-- [r/listentothis/](https://www.reddit.com/r/listentothis/)
+- [r/listentothis](https://www.reddit.com/r/listentothis/)
 
 
 Other lists
