@@ -24,3 +24,5 @@ Listening guides
 - Aaron Copland. What to Listen for in Music - a guide from one of the most famous US composers of the 20th century
 
 - Ляля Кандаурова. Полчаса музыки. Как понять и полюбить классику
+
+- [The Oxford Handbook of Public Music Theory](https://academic.oup.com/edited-volume/37086)
