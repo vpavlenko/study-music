@@ -25,36 +25,6 @@ General thoughts
 3. [David Huron. On the future of music research](https://kb.osu.edu/bitstream/handle/1811/93138/1/FDMC_2021_Huron_005.pdf)
 1. [David Temperley. "The Question of Purpose in Music Theory: Description, Suggestion and Explanation"](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-cm99.pdf)
 
-Journals
----
-
-- [Music Theory Online](https://www.mtosmt.org/)
-- [Empirical Musicology Review](https://emusicology.org/)
-- [Intégral](https://www.esm.rochester.edu/integral/)
-
-Conferences
----
-
-- [MEI](https://music-encoding.org/conference/proceedings.html)
-- ISMIR
-
-
-
-Misc
----
-
-- [David Huron. Sweet Anticipation: Music and the Psychology of Expectation](https://amzn.to/3FNCjmo) - (Published in 2006) Describes decades of research on how people expect the continuation of a certain musical phrase, and how music is balancing on being a mashup of expected and unexpected. The author also developed a set of Unix utilities called [Humdrum](https://www.humdrum.org/) to ground all his future statistical music research work - as far as in late 80s. Feels like the audio examples were promised but never delivered.
-
-<img width="774" alt="Screenshot 2022-01-21 at 12 10 47 PM" src="https://user-images.githubusercontent.com/1491908/150499414-7dbb1772-6ceb-44b8-8018-d4869a345fa3.png">
-
-
-- Research by Dmitri Tymoczko: 
-  - [Books and articles](https://dmitri.mycpanel.princeton.edu/publications.html)
-  - [Local Harmonic Grammar in Western Classical Music](https://dmitri.mycpanel.princeton.edu/mozart.pdf) - the harmonic syntax of Western classical music can be captured by a simple maplike grammar without recursive generative rules
-
-
-- https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fbibliografia.bib.txt
-
 
 Online platforms for music visualization
 ---
@@ -68,6 +38,19 @@ Online platforms for music visualization
 - [iAnalyse](https://www.youtube.com/@pierrecouprie/playlists)
 - https://vmus.net/
 
+
+Journals
+---
+
+- [Music Theory Online](https://www.mtosmt.org/)
+- [Empirical Musicology Review](https://emusicology.org/)
+- [Intégral](https://www.esm.rochester.edu/integral/)
+
+Conferences
+---
+
+- [MEI](https://music-encoding.org/conference/proceedings.html)
+- ISMIR
 
 
 
@@ -89,8 +72,6 @@ Individual datasets:
   - [Anthems](https://www.kaggle.com/datasets/awesomepgm/national-anthems-of-every-country)
   - [Baroque 17th century](https://www.kaggle.com/datasets/celiarubiomadrigal/baroque-midi-music-17th-century)
   - [Old phone ringtones](https://www.kaggle.com/datasets/narektorosyan/old-phone-ringtones-as-midi)
-
-
 
 
 Expressive performance
@@ -131,3 +112,9 @@ Libraries
 
 - music21
 - [Partitura](https://arxiv.org/abs/2206.01071) can estimate pitch spelling for midi files: may be relevant to run AugmentedNet on midi
+
+Long lists of literature
+---
+
+- https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fbibliografia.bib.txt
+
