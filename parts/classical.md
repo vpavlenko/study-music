@@ -13,6 +13,10 @@ Common practice music has several periods (having different language traits):
 
 The books below mostly focus on classical and romantic periods. They give an intro into music notation and are good for a beginner, although they ultimately go pretty far into things like voice-leading in four-part writing, diatonic and chromatic harmony (from Roman numerals to Neapolitan sixth and augmented sixth chords) and overview of forms (sentence, period, binary form, sonata form). They will probably take a good year or two to study. Their core topics are the same, so the difference is primarily in the choice of examples, notation, terms, exercises and appendices.
 
+Also, there are [**advanced materials**](classical_advanced.md)
+
+Also, let's see what we have for a specific example: [**Beethoven op. 10 no. 1 mov. 1**](beethoven_op10no1mov1.md)
+
 Free online books with audio examples
 ---
 
@@ -88,8 +92,12 @@ Form
 
 <img width="800" alt="Screenshot 2022-02-14 at 11 41 51 AM" src="https://user-images.githubusercontent.com/1491908/153829331-c9554a4e-c2d9-435d-bd2c-31f773d57125.png">
 
-History: Richard Taruskin
+More
+---
 
-Also, there are [**advanced materials**](classical_advanced.md)
+- History: Richard Taruskin, 5 volumes
+- [Michael Adduci. Music Theory](https://www.michaeladduci.com/music-theory)
 
-Also, let's see what we have for a specific example: [**Beethoven op. 10 no. 1 mov. 1**](beethoven_op10no1mov1.md)
+
+
+
