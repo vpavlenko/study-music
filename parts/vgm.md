@@ -16,7 +16,7 @@ These resources focus more on a historical context of origin or usage of certain
 - [🎥 Beep: Game Sound History](https://www.youtube.com/playlist?list=PLNfU10KQ9m1L10rMwINp4kyfcupi-CU9o)
 - Karen Collins with Chris Greening. The Beep Book: Documenting the History of Game Sound
 - https://soundcloud.com/retrogameaudio
-- [books by William Gibbons](https://scholar.google.com/citations?user=Lzs2ytMAAAAJ)
+- [books and papers by William Gibbons](https://scholar.google.com/citations?user=Lzs2ytMAAAAJ)
 
 
 Music theory
