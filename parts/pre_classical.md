@@ -42,4 +42,5 @@ Counterpoint can be of 16th century (which is Renaissance) or 18th century (whic
 - John J. Mortensen. Improvising Fugue
 - Schoenberg on counterpoint
 - Hindemith on counterpoint
+- [Alan Belkin. Applied Counterpoint](https://www.youtube.com/watch?v=yPHC9Zf9s04&list=PLSntcNF64SVW2hG6S7j78_cXg_13ZWN0q)
 
