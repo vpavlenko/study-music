@@ -99,6 +99,7 @@ Interactive harmonic analysis
 - https://ediss.sub.uni-hamburg.de/bitstream/ediss/3249/2/dissertation.pdf
 - https://github.com/manoskary/Harmonic_Analysis_and_Trajectory
 - Néstor Nápoles López. Automatic Roman Numeral Analysis in Symbolic Music Representations: [paper](https://escholarship.mcgill.ca/downloads/2j62s995f), [talk](https://www.youtube.com/watch?v=Obf10v9AN-w)
+- [Emmanouil Karystinaios, Gerhard Widmer. Cadence Detection in Symbolic Classical Music using Graph Neural Networks](https://github.com/manoskary/cadet)
 
 
 Music Information Retrieval
