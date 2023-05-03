@@ -31,3 +31,4 @@ More
 - [Brett Clement. Rock Tonality Amplified](https://www.routledge.com/Rock-Tonality-Amplified-A-Theory-of-Modality-Harmonic-Function-and-Tonal/Clement/p/book/9781032291444), [also see this](https://www.zappa-analysis.com/brett-clement.htm)
 - [Kasper Sloots. Frank Zappa's musical language](https://www.zappa-analysis.com/)
 - A lot of rock music is transcribed by transcribers like Andy Aledort, Paul Pappas, Addi Booth, some of it for Hal Leonard publisher.
+- [A cluster analysis of harmony in the McGill Billboard dataset](https://emusicology.org/index.php/EMR/article/view/5576/5604)
