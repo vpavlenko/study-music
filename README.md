@@ -82,7 +82,8 @@ Topics
 - [**Piano**](parts/piano.md)
 - [**Neural networks**](parts/llms.md)
 - [**Pseudoscience**](parts/pseudoscience.md)
-- [**Sociology of music**](parts/sociology.md)
+- [**Sociology**](parts/sociology.md)
+- [**Psychology**](parts/psychology.md)
 - [**YouTube, podcasts and lists of resources**](parts/youtube_and_podcasts.md)
 
 
