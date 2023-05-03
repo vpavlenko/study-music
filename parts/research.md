@@ -124,3 +124,8 @@ Music Information Retrieval
 
 <img width="600" alt="Screenshot 2022-02-15 at 4 14 14 PM" src="https://user-images.githubusercontent.com/1491908/154069157-6a3bdc98-f5d5-4fa2-b0c8-aa325b4fc11c.png">
 
+Libraries
+---
+
+- music21
+- [Partitura](https://arxiv.org/abs/2206.01071) can estimate pitch spelling for midi files: may be relevant to run AugmentedNet on midi
