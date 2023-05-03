@@ -1,6 +1,8 @@
 Music composition
 ===
 
+- [Alan Belkin. Letter to a Young Composer](https://alanbelkinmusic.com/site/en/index.php/letter-to-a-young-composer/)
+
 - [Scott Jarrett, Holly Day. Music Composition For Dummies](https://amzn.to/3rJ7oCC) - A light overview on motives/phrases, the role of harmony and orchestration, ideal to understand something without graduating from college first. Although the book of Belkin (see below) is also approachable ([the book of Schoenberg](https://amzn.to/3FWr4YN) analyzing Beethoven's sonatas is less so). The companion prerequisite [book on music theory for dummies](https://amzn.to/3rJ6OFd) also exists.
 
 <img width="600" alt="Screenshot 2022-01-22 at 3 41 19 PM" src="https://user-images.githubusercontent.com/1491908/150638907-66dee5a3-d487-40f8-98a3-8f52802e408c.png">
