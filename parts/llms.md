@@ -16,9 +16,10 @@ Articles that excite me:
 - https://github.com/slSeanWU/jazz_transformer
 - https://github.com/asigalov61/Los-Angeles-Music-Composer
 
-other nn approaches for related things
+Other NN approaches for related things (GAN, VAE, RNNs, LSTMs)
 ---
 - https://github.com/gudgud96/magenta-in-pytorch and his ISMIR reviews in his blog on DDSP
 - PianoTree VAE
 - https://epub.jku.at/obvulihs/download/pdf/8503579?originalFilename=true
 - https://liuhaumin.github.io/LeadsheetArrangement/
+- https://salu133445.github.io/projects
