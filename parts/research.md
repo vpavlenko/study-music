@@ -113,8 +113,7 @@ Libraries
 - music21
 - [Partitura](https://arxiv.org/abs/2206.01071) can estimate pitch spelling for midi files: may be relevant to run AugmentedNet on midi
 
-Long lists of literature
----
 
-- https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fbibliografia.bib.txt
+
+
 
