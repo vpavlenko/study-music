@@ -8,3 +8,5 @@ Psychology of music
 <img width="774" alt="Screenshot 2022-01-21 at 12 10 47 PM" src="https://user-images.githubusercontent.com/1491908/150499414-7dbb1772-6ceb-44b8-8018-d4869a345fa3.png">
 
 - [EMR Vol. 10 No. 1-2 (2015): Special Issue: Music and Empathy](https://emusicology.org/index.php/EMR/issue/view/140) 
+
+- https://en.wikipedia.org/wiki/Gordon_music_learning_theory
