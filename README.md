@@ -62,6 +62,7 @@ The families are (roughly speaking):
 - [**Maqam languages**](parts/maqam_languages.md)
 - [**Southeast Asian percussive languages**](parts/se_asian_percussive.md)
 - [**Balkan languages**](parts/balkan.md)
+- [**Indian music**](parts/indian.md)
 - many other traditions
 
 [**Broad overview on non-Western languages**](parts/non_western_languages.md)
