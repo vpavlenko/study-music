@@ -13,19 +13,19 @@ Where to start
 1. Go through [Ableton's guide on music](https://learningmusic.ableton.com/) and [Ableton's guide on synths](https://learningsynths.ableton.com/)
 2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab): search for your favorite songs and anime openings. Honestly [both of their books](https://www.hooktheory.com/books) are top-notch and well worth the money
 3. Play around with Bartosz Ciechanowski's [visualizations](https://ciechanow.ski/sound/) on the essence of sound
-3. Make some music with [the Music Mouse](https://teropa.info/musicmouse/)
+3. Make some music with [the Music Mouse 🐭](https://teropa.info/musicmouse/)
 9. Wander through [Ishkur's evolution of electronic music](https://music.ishkur.com/)
-7. Listen to two-chord changes typical for movie soundtracks: [LP](https://www.youtube.com/watch?v=I33UqUhKE10), [H](https://www.youtube.com/watch?v=_LCDlv33y4M), [T6](https://www.youtube.com/watch?v=0V1Mfmdt8lA), [S](https://www.youtube.com/watch?v=rfYU1F0pJik), [F and N](https://www.youtube.com/watch?v=tHs3gdouz68)
-3. See how a track emerges [on the OP-1](https://www.youtube.com/watch?v=lu5XB1Y2rHk), [in a studio with live instruments](https://www.youtube.com/watch?v=4CGBfbB4g0Y), [on a vocal looper](https://youtu.be/nvIGCMhjkvw?t=39), [in TidalCycles](https://youtu.be/etAZbQtggSQ?t=124)
-5. Dig into the structure of [Beethoven's sonata #5 movement #1](https://rawl.vercel.app/edit?a=beethoven_op10no1mov1), also see what we as a society [**know about it**](parts/beethoven_op10no1mov1.md). Also [Bolero](https://www.youtube.com/watch?v=4p-mwp0nNac)
+7. 🍿 Listen to two-chord changes typical for movie soundtracks: [LP](https://www.youtube.com/watch?v=I33UqUhKE10), [H](https://www.youtube.com/watch?v=_LCDlv33y4M), [T6](https://www.youtube.com/watch?v=0V1Mfmdt8lA), [S](https://www.youtube.com/watch?v=rfYU1F0pJik), [F and N](https://www.youtube.com/watch?v=tHs3gdouz68)
+3. See how a track emerges [on the OP-1 🎛️](https://www.youtube.com/watch?v=lu5XB1Y2rHk), [in a studio with live instruments 🎻](https://www.youtube.com/watch?v=4CGBfbB4g0Y), [on a vocal looper 🎤](https://youtu.be/nvIGCMhjkvw?t=39), [in TidalCycles 💻](https://youtu.be/etAZbQtggSQ?t=124)
+5. Dig into the structure of [Beethoven's sonata #5 movement #1](https://rawl.vercel.app/edit?a=beethoven_op10no1mov1), also see what we as a society [**know about it**](parts/beethoven_op10no1mov1.md). Also [Ravel's Bolero](https://www.youtube.com/watch?v=4p-mwp0nNac)
 4. Skim through [Toby W. Rush's overview](https://tobyrush.com/theorypages/pdf/en-us/the-whole-enchilada-set.pdf) to see how many moving parts does a classical theory have
 6. Click "Show Timeline" for patterns similar to octatonic used in jazz solos: [upward](https://dig-that-lick.hfm-weimar.de/similarity_search/search?id=8855&target_layout=&group_by=&task_id=6c3656c4-724b-401a-a69a-4f874adddafc), [downward](https://dig-that-lick.hfm-weimar.de/similarity_search/search?id=8856&target_layout=&group_by=&task_id=dce240ac-68c9-49f4-90f5-636e0ad2d15b)
-5. Get back to the 1990 with [The Art of Mixing](https://youtu.be/TEjOdqZFvhY?t=25)
-8. Press "scan" at [Every Noise](https://everynoise.com/)
+5. 🔙 Get back to the 1990 with [The Art of Mixing 🎚️](https://youtu.be/TEjOdqZFvhY?t=25)
+8. Press "scan" at [Every Noise 🌐](https://everynoise.com/)
 9. Try to sing phrases in [an Arabic microtonal scale](https://www.youtube.com/watch?v=xN7E1pc8Y2Y&list=PLcfDkfaWrWRRcgUawWPz4bdL0Co17rphx)
 10. Watch [a gamelan multitrack](https://www.youtube.com/watch?v=ccHTOepjK_s) and try to [make sense of it](https://docs.google.com/document/d/1oKbYpSAcunMTvB-casuFUyiaSuHGJkJhGf5rrvfOPgE/edit), maybe with a help of [a larger multitrack for another piece](https://www.youtube.com/watch?v=jE93bF0dooU)
-11. Find your favourite tempo of [Chopin's Funeral March](https://tuttitempi.com/#scoreId=U00000578581&from=0.5622&to=0.8122&youtube=1&spotify=0&muziekweb=0)
-12. Rate AI demos: [Magenta](https://magenta.tensorflow.org/demos/), [MusicLM](https://google-research.github.io/seanet/musiclm/examples/), [LakhNES](https://chrisdonahue.com/LakhNES/), [Muzic](https://ai-muzic.github.io/), [Jazz Transformer](https://drive.google.com/drive/folders/1-EeV02jvRftdvwWXa0KpoMvyRQaXUJ0W)
+11. Find your favourite tempo of [Chopin's Funeral March ⚰️](https://tuttitempi.com/#scoreId=U00000578581&from=0.5622&to=0.8122&youtube=1&spotify=0&muziekweb=0)
+12. 🤖 Rate AI demos: [Magenta](https://magenta.tensorflow.org/demos/), [MusicLM](https://google-research.github.io/seanet/musiclm/examples/), [LakhNES](https://chrisdonahue.com/LakhNES/), [Muzic](https://ai-muzic.github.io/), [Jazz Transformer](https://drive.google.com/drive/folders/1-EeV02jvRftdvwWXa0KpoMvyRQaXUJ0W)
 12. Stare at visualizations: [**classical**](parts/classical_visualizations.md), [**jazz harmony**](parts/jazz_harmony_visualizations.md) and [**jazz solos**](parts/jazz_solo_visualizations.md)
 
 
