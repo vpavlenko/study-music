@@ -60,7 +60,7 @@ Advanced form
 - The Cambridge Companion to the Symphony
 
 
-Books on individual pieces
+Books on individual composers and pieces
 ---
 
 - Pauline Fairclough. A Soviet Credo: Shostakovich's Fourth Symphony
@@ -69,6 +69,9 @@ Books on individual pieces
 - The music of Paul Hindemith by David Neumeyer
 - [The Cambridge Companion to the Eroica Symphony](https://www.cambridge.org/core/books/cambridge-companion-to-the-eroica-symphony/4CB6BBBF537F531FA4D8A1B5114776F0)
 - A modern composer Fazıl Say describes the structure of his Istanbul Symphony: [part 1](https://www.youtube.com/watch?v=Om9ONn5190k), [part 2](https://www.youtube.com/watch?v=Y_cF9Ts9XEU), [home video](https://www.youtube.com/watch?v=i5Etc3g-D5c)
+- Ю. Н. Тюлин. Произведения Чайковского. Структурный анализ
+ 
+<img width="467" alt="Screenshot 2023-05-04 at 10 20 02" src="https://user-images.githubusercontent.com/1491908/236125752-b40d00b5-de15-47eb-8607-0a2adc71e3f1.png">
 
 Notable analyses
 ---
