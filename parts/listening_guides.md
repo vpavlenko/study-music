@@ -26,3 +26,5 @@ Listening guides
 - Ляля Кандаурова. Полчаса музыки. Как понять и полюбить классику
 
 - [The Oxford Handbook of Public Music Theory](https://academic.oup.com/edited-volume/37086)
+
+- [🎥 Craig Wright. Listening to Music (Yale Course)](https://www.youtube.com/watch?v=5_yOVARO2Oc&list=PL9LXrs9vCXK56qtyK4qcqwHrbf0em_81r)
