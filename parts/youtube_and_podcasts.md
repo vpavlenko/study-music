@@ -1,12 +1,12 @@
 YouTube channels
 ---
 
-
 - [Guy Michelmore](https://www.youtube.com/playlist?list=PLH1Kp5ewZe_SZJ8ntw615PZb0TwrzC2EG) - A composer of music for film and television
 - [Andrew Huang](https://www.youtube.com/c/andrewhuang) - Electronic music production
 - [Adam Neely](https://www.youtube.com/@AdamNeely/)
 - [Tom Cosm](https://www.youtube.com/c/TomCosmNZ)
 - [Frans Absil](https://www.youtube.com/c/FransAbsil)
+- [Music Matters](https://www.youtube.com/@MusicMattersGB/playlists)
 - [12tone](https://www.youtube.com/c/12tonevideos)
 - [Deciphering Guitar and Music Theory](https://www.youtube.com/@decipheringguitarmusictheory/playlists)
 - [Институт музыкальных инициатив](https://www.youtube.com/c/%D0%98%D0%9C%D0%98%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/) - О музыкальной индустрии
