@@ -1,7 +1,7 @@
 Improvisation
 ===
 
-Apart from [jazz solos](parts/jazz_solo.md), improvisation also has its place in other cultures.
+Apart from [**jazz solos**](jazz_solo.md), improvisation also has its place in other cultures.
 
 - John J. Mortensen. The Pianist's Guide to Historic Improvisation
 - John J. Mortensen. Improvising Fugue
