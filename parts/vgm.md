@@ -42,3 +42,6 @@ And Famicom From 1988-1992](https://www.christopherjhopkins.com/chiptune-dissert
 <img width="780" alt="Screenshot 2023-03-26 at 11 06 39" src="https://user-images.githubusercontent.com/1491908/227760833-ec9d3f43-0163-486e-868d-61f7c0686526.png">
 <img width="821" alt="Screenshot 2023-03-26 at 11 06 57" src="https://user-images.githubusercontent.com/1491908/227760840-fafcef7b-5bb3-4035-9442-df9b4c900318.png">
 
+- [🎥 8-bit Music Theory](https://www.youtube.com/c/8bitMusicTheory)
+
+
