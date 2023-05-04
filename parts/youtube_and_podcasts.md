@@ -18,7 +18,7 @@ YouTube channels
 Podcasts
 ---
 - [Nikhil Hogan Show. Interviews with musicians skilled in composition and improvisation, with a focus on 18th century](https://nikhilhoganshow.libsyn.com/)
-- Note Doctors - a podcast all about music theory and music theory pedagogy
+- [Note Doctors](https://www.instagram.com/notedoctorspodcast) - a podcast about music theory and music theory pedagogy
 
 
 Resources
