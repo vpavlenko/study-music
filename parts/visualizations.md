@@ -17,7 +17,7 @@ Online platforms for music visualization
 - https://verovio.humdrum.org/
 - https://visual-musicology.com/, [a paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14540)
 - https://rawl.vercel.app/
-- [iAnalyse](https://www.youtube.com/@pierrecouprie/playlists), [related?](https://www.youtube.com/watch?v=xHxkUyhY3TQ&list=PLfX9CXl_hg7VD1Z4jP_3XZTXtiKVdFl4i)
+- [iAnalyse](https://www.youtube.com/watch?v=pPj1otRe2r8&list=PL90708293B6AACA01), [related?](https://www.youtube.com/watch?v=xHxkUyhY3TQ&list=PLfX9CXl_hg7VD1Z4jP_3XZTXtiKVdFl4i)
 - https://vmus.net/
 
 
