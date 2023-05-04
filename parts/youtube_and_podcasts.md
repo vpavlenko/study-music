@@ -5,7 +5,6 @@ YouTube channels
 - [Guy Michelmore](https://www.youtube.com/playlist?list=PLH1Kp5ewZe_SZJ8ntw615PZb0TwrzC2EG) - A composer of music for film and television
 - [Andrew Huang](https://www.youtube.com/c/andrewhuang) - Electronic music production
 - [Adam Neely](https://www.youtube.com/@AdamNeely/)
-- [8-bit Music Theory](https://www.youtube.com/c/8bitMusicTheory)
 - [Tom Cosm](https://www.youtube.com/c/TomCosmNZ)
 - [Frans Absil](https://www.youtube.com/c/FransAbsil)
 - [12tone](https://www.youtube.com/c/12tonevideos)
