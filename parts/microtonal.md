@@ -16,3 +16,5 @@ Microtonal music
 - Andrew M. Blake. COMPUTATIONAL ANALYSIS OF QUARTER-TONE COMPOSITIONS BY CHARLES IVES AND IVAN WYSCHNEGRADSKY
 
 - [Eirik Trovåg Bjørneset. Å popularisere mikrotonalitet](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3016082/no.ntnu:inspera:109865999:36898794.pdf?sequence=1)
+
+- [Now and Zen](https://nowandxen.libsyn.com/) - a podcast
