@@ -11,7 +11,7 @@ This repo
 Online platforms for music visualization
 ---
 
-- [Rawl](https://rawl.vercel.app/) - my attempt to visualize the tonal language by using intuitive colors. White/gray - root/perfect fifth (lack of quality), warm/cold (i.e. red/blue) opposition stands for major/minor chord tone opposition, diminished chords are shades of yellow, modulations shift the grid, close/distant keys are seen as match of the adjacent grid stripes
+- [Rawl](https://rawl.vercel.app/) - my attempt to visualize the tonal language by using intuitive colors. Each harmony's tones are colored depending of a distance to a root. White/gray - root/perfect fifth (lack of quality), warm/cold (i.e. red/blue) opposition stands for major/minor chord tone opposition, diminished chords are shades of yellow, modulations shift the grid, close/distant keys are seen as match of the adjacent grid stripes
 - http://www.dezrann.net/
 - https://verovio.humdrum.org/
 - https://visual-musicology.com/, [a paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14540)
