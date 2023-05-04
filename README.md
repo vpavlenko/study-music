@@ -80,8 +80,9 @@ Topics
 - [**Listening guides**](parts/listening_guides.md) - how to enjoy classical music without a deep commitment to learn theory
 - [**Ear training**](parts/ear_training.md)
 - [**Piano**](parts/piano.md)
-- [**Neural networks**](parts/llms.md)
 - [**Pseudoscience**](parts/pseudoscience.md)
+- [**Improvisation**](parts/improvisation.md)
+- [**Neural networks**](parts/llms.md)
 - [**Sociology**](parts/sociology.md)
 - [**Psychology**](parts/psychology.md)
 - [**YouTube, podcasts and lists of resources**](parts/youtube_and_podcasts.md)
