@@ -28,6 +28,7 @@ Resources
 - https://muted.io/
 - https://tambien.github.io/InteractiveMusic/syllabus
 - [A website of Milton Mermikides](https://www.miltonline.com/) - A lot of YouTube lectures and blog posts from a British composer.
+- [Stefanie Acevedo, Toby Rush. Advancing Music Theory](https://tobyrush.com/theorywiki/index.php?title=Main_Page) - a wiki for a new curricular approach to undergraduate music theory
 
 Reddits
 ---
