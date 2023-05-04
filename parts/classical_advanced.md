@@ -35,7 +35,7 @@ Advanced harmony
 - Laitz/Bartlette "Graduate review" is the very undergrad Laitz but condensed, no need to obtain (no new topics)
 - [Olivier Messiaen. The Technique of My Musical Language](https://monoskop.org/images/5/50/Messiaen_Olivier_The_Technique_of_My_Musical_Language.pdf)
 - Schoenberg. "Structural functions of harmony"
-- https://musictheoryexamples.com/ and "Bending the Rules of Music Theory"
+- https://musictheoryexamples.com/ and "Bending the Rules of Music Theory" and https://stefanieacevedo.com/musical-examples-db/
 - [Vincent Persichetti. Twentieth-Century Harmony](https://amzn.to/3AgQgbk) - A book from 1960. [Audio examples on YouTube](https://www.youtube.com/playlist?list=PLwRgeNTZ2i6_BA9H4as1srtNKBAzPPjns)
 
 <img width="685" alt="Screenshot 2022-02-15 at 4 37 05 PM" src="https://user-images.githubusercontent.com/1491908/154072861-dd63242e-7510-45c9-9216-5d14452de71e.png">
