@@ -6,7 +6,6 @@ Schenkerian analysis (critique only)
 1.  [Lodewijk Muns. Why I am not a Schenkerian](https://lodewijkmuns.nl/WhyIamNotaSchenkerian.pdf)
 1. [David Temperley. Composition, Perception, and Schenkerian Theory](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-mts11.pdf)
 1. [David Temperley. The Question of Purpose in Music Theory: Description, Suggestion and Explanation](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-cm99.pdf)
-3. List several books that are build on Schenkerian principles. (Eg. from the Oxford Studies in Music Theory) - Eg. Schmalfeldt "In The Process of Becoming", Aldwell–Schachter, Kostka–Payne (the Tonal one)
 4. [Emphasize that it's a US thing](https://music.stackexchange.com/questions/105141/why-is-schenker-so-influential-in-us-academia-is-it-the-same-elsewhere)
 5. Diergarten/Neuwirth, when publishing a modern study book on form (2019), [explicitly say](https://storage.gmth.de/zgmth/pdf/1034) that, while they base their book on Marx/Ratz/Schoenberg, Darcy/Hepokoski and Caplin, "Strategies  geared  towards  Heinrich  Schenker  are  not  central  to  the  book  (regardless  of  this,  superordinate  frameworks  are  occasionally  included  for  illustration  purposes)"
 6. https://sites.google.com/site/euromac2014/programme/4a/mathews
