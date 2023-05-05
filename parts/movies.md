@@ -1,5 +1,8 @@
-Neo-Riemannian theory
+Movie music
 ===
+
+Neo-Riemannian theory
+---
 
 - [A Wikipedia article has a nice list of books](https://en.wikipedia.org/wiki/Neo-Riemannian_theory)
 
@@ -17,10 +20,11 @@ with [audio resources](https://global.oup.com/us/companion.websites/978019060640
 <img width="841" alt="Screenshot 2023-02-22 at 11 34 35" src="https://user-images.githubusercontent.com/1491908/220553202-d859e19d-6428-4659-bda1-b1825ef06208.png">
 
 
-Backup long list
+More
 ---
 
 - https://www.amazon.com/Audio-Vision-Sound-Screen-Michel-Chion/dp/0231185898
 - https://www.amazon.co.uk/Film-Sound-Theory-Practice-Weis/dp/0231056370/
 - https://www.amazon.co.uk/Practical-Art-Motion-Picture-Sound/dp/0240808657/
 - https://www.amazon.com/Sound-Systems-Optimization-Techniques-Alignment/dp/0240521560/
+- [Charles Leinberger. Ennio Morricone's The Good, the Bad and the Ugly: A Film Score Guide](https://www.amazon.com/Ennio-Morricones-Good-Bad-Ugly-ebook/dp/B01FFHUIHC?ref_=ast_author_mpb), [a podcast](https://www.youtube.com/watch?v=Ynp4wEsMZuk)
