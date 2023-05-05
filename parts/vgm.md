@@ -22,7 +22,7 @@ These resources focus more on a historical context of origin or usage of certain
 Music theory
 ---
 
-- Seventh Sam - VGM analysis https://musescore.com/user/29606925
+- [Seventh Sam - VGM analysis](https://musescore.com/user/29606925), [all analyses in an archive](https://www.dropbox.com/s/i4m329x2fsqsasq/7thsam-vgmanalysiscollection-11-18-2022.zip?dl=0)
 
 <img width="800" alt="Screenshot 2023-02-23 at 18 45 14" src="https://user-images.githubusercontent.com/1491908/220940057-03831277-4985-4297-a6b4-d7006a6b5132.png">
 
