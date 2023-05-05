@@ -61,3 +61,10 @@ Orchestration
 1. Samuel Adler, The Study of Orchestration
 2. Г. Банщиков. Законы функциональной инструментовки
 3. [Alan Belkin. Applied Orchestration](https://www.youtube.com/watch?v=jOzoCe_UKgM&list=PLSntcNF64SVXBSwQx7kDHiF7V49lABSxC)
+
+
+Autobiographies
+---
+
+- Н. А. Римский-Корсаков. Летопись моей музыкальной жизни
+- Samuel Adler. Building Bridges With Music: Stories from a Composer's Life
