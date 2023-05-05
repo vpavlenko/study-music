@@ -29,7 +29,11 @@ Baroque music
 - https://www.amazon.com/Continuo-Playing-According-Handel-Exercises/dp/0193184338
 - Job Ijzerman. Harmony, Counterpoint, Partimento
 - [Derek Remeš. Compendium of Voice-Leading Patterns from the 17th and 18th Centuries to Play, Sing, and Transpose at the Keyboard](https://derekremes.com/wp-content/uploads/compendium_english.pdf)
-- [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) - And the Wikipedia articles on [Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata). Also [Daniel Heartz. Music in European Capitals](https://amzn.to/34U1qXY). Also [L. Poundie Burstein. Journeys Through Galant Expositions](https://amzn.to/3gNdYmJ)
+- [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) 
+  - [The podcast](https://www.artofcomposing.com/aoc-011-partimenti-and-the-secrets-of-the-greatest-composers-an-interview-with-robert-gjerdingen)
+  - And the Wikipedia articles on [Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata)
+  - Also [Daniel Heartz. Music in European Capitals](https://amzn.to/34U1qXY)
+  - Also [L. Poundie Burstein. Journeys Through Galant Expositions](https://amzn.to/3gNdYmJ)
 - [Partimento and Continuo Playing in Theory and in Practice](https://www.amazon.com/Partimento-Continuo-Practice-Collected-Institute/dp/9058678288)
 - [🎥 Michael Koch. En blanc et noir: Baroque-style Piano Improvisations](https://www.youtube.com/@enblancetnoir7516/videos)
 - [Four Score and More](https://fourscoreandmore.org/resources/)
