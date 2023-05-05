@@ -58,7 +58,7 @@ And then there are sketchbooks:
 Orchestration
 ---
 
-1. Samuel Adler, The Study of Orchestration
+1. Samuel Adler, The Study of Orchestration. [Podcast](https://www.artofcomposing.com/aoc-012-samuel-adler-and-the-study-of-orchestration)
 2. Г. Банщиков. Законы функциональной инструментовки
 3. [Alan Belkin. Applied Orchestration](https://www.youtube.com/watch?v=jOzoCe_UKgM&list=PLSntcNF64SVXBSwQx7kDHiF7V49lABSxC)
 
