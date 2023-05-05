@@ -23,8 +23,9 @@ with [audio resources](https://global.oup.com/us/companion.websites/978019060640
 More
 ---
 
+- [Charles Leinberger. Ennio Morricone's The Good, the Bad and the Ugly: A Film Score Guide](https://www.amazon.com/Ennio-Morricones-Good-Bad-Ugly-ebook/dp/B01FFHUIHC?ref_=ast_author_mpb), [a podcast](https://www.youtube.com/watch?v=Ynp4wEsMZuk)
+- [Film Music Notes - a blog](https://filmmusicnotes.com/blog/)
 - https://www.amazon.com/Audio-Vision-Sound-Screen-Michel-Chion/dp/0231185898
 - https://www.amazon.co.uk/Film-Sound-Theory-Practice-Weis/dp/0231056370/
 - https://www.amazon.co.uk/Practical-Art-Motion-Picture-Sound/dp/0240808657/
 - https://www.amazon.com/Sound-Systems-Optimization-Techniques-Alignment/dp/0240521560/
-- [Charles Leinberger. Ennio Morricone's The Good, the Bad and the Ugly: A Film Score Guide](https://www.amazon.com/Ennio-Morricones-Good-Bad-Ugly-ebook/dp/B01FFHUIHC?ref_=ast_author_mpb), [a podcast](https://www.youtube.com/watch?v=Ynp4wEsMZuk)
