@@ -9,6 +9,7 @@ Harmonic analysis is a creative reductionism and not a mechanical operation. The
 - should we mark [common-tone](https://viva.pressbooks.pub/openmusictheory/chapter/common-tone-chords/) [chords](https://sites.google.com/view/musicalharmonysite/part-ii-harmony-theory-and-analysis/altered-chords/common-tone-diminished-seventh-chords)?
 - what's a root of a non-applied diminished seventh chords, eg. io7 or #ivo7?
 - what if a third/a fifth is missing, can root be missing/implied?
+- are we overgeneralize Roman numerals as functional analysis labels in ambiguous cases?
 
 See "On the relative openness of syntax" in [Mark Gotham's paper](https://emusicology.org/index.php/EMR/article/view/7644/6253)
 
