@@ -99,6 +99,7 @@ Topics on electronic music
 - [**Mixing**](parts/mixing.md)
 - [**Microtonal music**](parts/microtonal.md)
 - [**Notable instruments**](parts/instruments.md)
+- [**Transcription**](parts/transcription.md)
 - [Institute of Sonology: One-Year Course](http://sonology.org/one-year-course-admission/)
 
 Contacts
