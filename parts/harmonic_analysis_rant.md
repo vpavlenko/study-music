@@ -4,7 +4,7 @@ Openness of harmonic analysis
 Harmonic analysis is a creative reductionism and not a mechanical operation. There's no single valid harmonic analysis. Different scholars perform harmonic analyses differently, and disagreements arise everywhere:
 - V7 or viio, ii6 or IV, IV6 or vi
 - I64 or Cad64 or V64
-- cadential I(247 - 35) - triple suspension
+- cadential I(247 - 35) - triple suspension, [a reddit discussion](https://www.reddit.com/r/musictheory/comments/133su42/roman_numeral_analysis_how_to_notate_tonic_root/)
 - should we mark passing harmonies?
 - should we mark [common-tone](https://viva.pressbooks.pub/openmusictheory/chapter/common-tone-chords/) [chords](https://sites.google.com/view/musicalharmonysite/part-ii-harmony-theory-and-analysis/altered-chords/common-tone-diminished-seventh-chords)?
 - what's a root of a non-applied diminished seventh chords, eg. io7 or #ivo7?
