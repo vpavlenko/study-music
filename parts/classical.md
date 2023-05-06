@@ -56,7 +56,7 @@ Video courses
 Harmonic analysis
 ---
 
-[**On openness of harmonic analysis**](harmonic_analysis_rant.md)
+[**On the openness of harmonic analysis**](harmonic_analysis_rant.md)
 
 
 - [David Bennett Thomas](https://www.youtube.com/playlist?list=PL613D1A6B3C4BBDF2) - A very thorough analysis of carefully picked pieces from different styles.
