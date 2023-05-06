@@ -7,20 +7,12 @@ Video game music
 [Chiptune music player](https://mmontag.github.io/chip-player-js/)
 
 
-Musicology
----
-
-These resources focus more on a historical context of origin or usage of certain music in video games, rather than a deep analysis of its specific harmonic/form traits:
-
-- Melanie Fritsch and Tim Summers. Cambridge Companion to Video Game Music 
-- [🎥 Beep: Game Sound History](https://www.youtube.com/playlist?list=PLNfU10KQ9m1L10rMwINp4kyfcupi-CU9o)
-- Karen Collins with Chris Greening. The Beep Book: Documenting the History of Game Sound
-- https://soundcloud.com/retrogameaudio
-- [books and papers by William Gibbons](https://scholar.google.com/citations?user=Lzs2ytMAAAAJ)
 
 
 Music theory
 ---
+
+- [🎥 8-bit Music Theory](https://www.youtube.com/c/8bitMusicTheory)
 
 - [Seventh Sam - VGM analysis](https://musescore.com/user/29606925), [all analyses in an archive](https://www.dropbox.com/s/i4m329x2fsqsasq/7thsam-vgmanalysiscollection-11-18-2022.zip?dl=0)
 
@@ -42,6 +34,16 @@ And Famicom From 1988-1992](https://www.christopherjhopkins.com/chiptune-dissert
 <img width="780" alt="Screenshot 2023-03-26 at 11 06 39" src="https://user-images.githubusercontent.com/1491908/227760833-ec9d3f43-0163-486e-868d-61f7c0686526.png">
 <img width="821" alt="Screenshot 2023-03-26 at 11 06 57" src="https://user-images.githubusercontent.com/1491908/227760840-fafcef7b-5bb3-4035-9442-df9b4c900318.png">
 
-- [🎥 8-bit Music Theory](https://www.youtube.com/c/8bitMusicTheory)
+
+Musicology
+---
+
+These resources focus more on a historical context of origin or usage of certain music in video games, rather than a deep analysis of its specific harmonic/form traits:
+
+- Melanie Fritsch and Tim Summers. Cambridge Companion to Video Game Music 
+- [🎥 Beep: Game Sound History](https://www.youtube.com/playlist?list=PLNfU10KQ9m1L10rMwINp4kyfcupi-CU9o)
+- Karen Collins with Chris Greening. The Beep Book: Documenting the History of Game Sound
+- https://soundcloud.com/retrogameaudio
+- [books and papers by William Gibbons](https://scholar.google.com/citations?user=Lzs2ytMAAAAJ)
 
 
