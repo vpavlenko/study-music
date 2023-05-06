@@ -1,5 +1,5 @@
 Bach chorales
----
+===
 
 Bach's chorale harmonizations are a reference for everyone studying classical harmony in relation to voice-leading. Harmonizing a chorale melody is a part of [UK college final exams](https://www.rhinegold.co.uk/wp-content/uploads/2015/10/MT10_scheme_KS5_Bach_chorale_harmonisation.pdf).
 
@@ -38,3 +38,5 @@ There are many ways to paint chorale scores to reveal their harmony:
 - [Coconet](https://magenta.tensorflow.org/coconet) - the ML model that harmonizes melodies in a style of Bach chorales
 
 - [Martin Rohrmeier, Ian Cross. Statistical Properties of Tonal Harmony in Bach’s Chorales](https://www.researchgate.net/profile/Ian-Cross-8/publication/267400941_Statistical_Properties_of_Tonal_Harmony_in_Bach's_Chorales/links/5450c6c70cf201441e93d922/Statistical-Properties-of-Tonal-Harmony-in-Bachs-Chorales.pdf)
+
+- https://partwriter.com/
