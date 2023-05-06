@@ -41,3 +41,5 @@ More
 - [A cluster analysis of harmony in the McGill Billboard dataset](https://emusicology.org/index.php/EMR/article/view/5576/5604)
 
 <img width="900" alt="Screenshot 2023-05-03 at 11 28 12" src="https://user-images.githubusercontent.com/1491908/235855249-857781d7-85d8-4710-9a41-48065fd46a27.png">
+
+- [Papers by Nicole Biamonte](https://scholar.google.ca/citations?user=quHge0cAAAAJ&hl=en), [a podcast](https://www.youtube.com/watch?v=wbHHNgFffBk)
