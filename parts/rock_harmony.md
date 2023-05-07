@@ -20,21 +20,30 @@ Rock harmony
 
 - [🎥 David Bennett. Chord Progressions](https://youtube.com/playlist?list=PLlx2eo2tD6KpfGmE-MXwcIRQh21neAKsK) - A series of videos listing samples of songs for some chord progressions repeatedly used in rock
 
-- [KG Johansson. The Harmonic Language of the Beatles](https://www.musikforskning.se/stmonline/vol_2/KGJO/Johansson.pdf) - sadly, the whole book (in Swedish) isn't available at all. Btw there's [a complete transcription of their songs](https://www.amazon.com/Beatles-Complete-Scores-Transcribed-Score/dp/0793518326)
+
 
 - [Kayano Chino. Japanese Music Harmony: The Fundamental Theory of Key Fluctuation](https://www.amazon.com/Japanese-Music-Harmony-Fundamental-Fluctuation-ebook/dp/B08513234C)
 
 - [🎥 Four harmonic analyses by Augusto (Björk and Billie Eilish)](https://www.youtube.com/@augusto7681/search?query=harmonic)
+
+
+Particular musicians and bands
+---
+
+- [KG Johansson. The Harmonic Language of the Beatles](https://www.musikforskning.se/stmonline/vol_2/KGJO/Johansson.pdf) - sadly, the whole book (in Swedish) isn't available at all. Btw there's [a complete transcription of their songs](https://www.amazon.com/Beatles-Complete-Scores-Transcribed-Score/dp/0793518326)
+
+- [Kasper Sloots. Frank Zappa's musical language](https://www.zappa-analysis.com/)
+
+- Brad Osborn. Everything in Its Right Place: Analyzing Radiohead
 
 More
 ---
 
 - [Drew Nobile. Form as Harmony in Rock Music](https://global.oup.com/academic/product/form-as-harmony-in-rock-music-9780190948351?cc=us&lang=en&)
 - [Brett Clement. Rock Tonality Amplified](https://www.routledge.com/Rock-Tonality-Amplified-A-Theory-of-Modality-Harmonic-Function-and-Tonal/Clement/p/book/9781032291444), [also see this](https://www.zappa-analysis.com/brett-clement.htm)
-- [Kasper Sloots. Frank Zappa's musical language](https://www.zappa-analysis.com/)
 - A lot of rock music is transcribed by transcribers like Andy Aledort, Paul Pappas, Addi Booth, some of it for Hal Leonard publisher.
 - ["Introduction to Harmonic Schemas in Pop Music". In Open Music Theory](https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-pop-schemas/)
-- [🎥 Metal Music Theory](https://www.youtube.com/watch?v=JwkXFNnsA2c&list=PLgYcaQlDpHN4CU-74EQ7NQnoDbHt8ZDH_)
+- [🎥 Calder Hannan. Metal Music Theory](https://www.youtube.com/watch?v=JwkXFNnsA2c&list=PLgYcaQlDpHN4CU-74EQ7NQnoDbHt8ZDH_)
 - [Walter Everett. Making Sense of Rock’s Tonal Systems](https://mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html)
 
 <img width="822" alt="Screenshot 2023-05-03 at 11 05 45" src="https://user-images.githubusercontent.com/1491908/235851363-79461516-a3ec-49eb-811a-3503184b6808.png">
@@ -44,7 +53,5 @@ More
 <img width="900" alt="Screenshot 2023-05-03 at 11 28 12" src="https://user-images.githubusercontent.com/1491908/235855249-857781d7-85d8-4710-9a41-48065fd46a27.png">
 
 - [Papers by Nicole Biamonte](https://scholar.google.ca/citations?user=quHge0cAAAAJ&hl=en), [a podcast](https://www.youtube.com/watch?v=wbHHNgFffBk)
-
-- Brad Osborn. Everything in Its Right Place: Analyzing Radiohead
 
 - The Bloomsbury Handbook of Rock Music Research
