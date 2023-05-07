@@ -48,6 +48,8 @@ Research
 
 <img width="600" alt="Screenshot 2022-02-14 at 10 56 47 AM" src="https://user-images.githubusercontent.com/1491908/153853441-9998abb4-cb6c-4c99-bc10-48ae349b3c94.jpg">
 
+  - Frieler et al., 2016. Midlevel analysis of monophonic  jazz solos: A new approach to  the study of improvisation. With annotations: https://osf.io/wumcd/
+
 - [Martin Norgaard. Descriptions of Improvisational Thinking by Artist-level Jazz Musicians](https://repositories.lib.utexas.edu/bitstream/handle/2152/17893/norgaardm.pdf) - Seven jazz artists recorded an improvised solo. After completing their improvisations, participants described the thinking processes that led to the realization of their performances
 
 <img width="647" alt="Screenshot 2022-02-14 at 10 56 47 AM" src="https://user-images.githubusercontent.com/1491908/153823001-1bca2004-799c-42b7-9c2f-009f4d2bb23c.png">
