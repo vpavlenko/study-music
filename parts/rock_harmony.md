@@ -25,6 +25,8 @@ Rock harmony
 
 - [🎥 Four harmonic analyses by Augusto (Björk and Billie Eilish)](https://www.youtube.com/@augusto7681/search?query=harmonic)
 
+- [Dave Carlton. I analyzed the chords of 1300 popular songs for patterns. This is what I found](https://www.hooktheory.com/blog/i-analyzed-the-chords-of-1300-popular-songs-for-patterns-this-is-what-i-found/) - a series of post by a Hooktheory co-founder
+
 More
 ---
 
