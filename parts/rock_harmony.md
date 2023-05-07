@@ -46,3 +46,5 @@ More
 - [Papers by Nicole Biamonte](https://scholar.google.ca/citations?user=quHge0cAAAAJ&hl=en), [a podcast](https://www.youtube.com/watch?v=wbHHNgFffBk)
 
 - Brad Osborn. Everything in Its Right Place: Analyzing Radiohead
+
+- The Bloomsbury Handbook of Rock Music Research
