@@ -4,6 +4,7 @@ Rock harmony
 <img width="400" align="right" alt="Screenshot 2022-01-21 at 12 57 44 AM" src="https://user-images.githubusercontent.com/1491908/150428708-4c3f082d-5cc2-47b5-a088-8558d5c41461.png" style="filter: drop-shadow(30px 10px 4px #4444dd); border: 1px solid pink">
 
 - [HookTheory](https://www.hooktheory.com/) - A database of many rock songs and some jazz songs and game tunes focused at harmonic analysis. Comes with a melody-harmony online editor [HookPad](https://www.hooktheory.com/videos) and [two must-read online books](https://www.hooktheory.com/books) on pop/rock harmony which explain Roman numeral analysis, secondary chords and modes. **You should probably start with those books** unless you already have a college degree in music. You can read them in two weeks if you focus enough.
+  - [Dave Carlton. I analyzed the chords of 1300 popular songs for patterns. This is what I found](https://www.hooktheory.com/blog/i-analyzed-the-chords-of-1300-popular-songs-for-patterns-this-is-what-i-found/) - a series of posts
 
 - [David Temperley. The Musical Language of Rock](https://amzn.to/3nK9eSO) - A book that summarizes [a corpus study](http://rockcorpus.midside.com/) of aspects like harmony, melody, rhythm, timbre and form on 200 rock songs. [Also his papers](http://davidtemperley.com/papers/). Also his other books: [The Cognition of Basic Musical Structures](https://amzn.to/3IvaS2I), [Music and Probability](https://amzn.to/3FXBWWu)
 
@@ -24,8 +25,6 @@ Rock harmony
 - [Kayano Chino. Japanese Music Harmony: The Fundamental Theory of Key Fluctuation](https://www.amazon.com/Japanese-Music-Harmony-Fundamental-Fluctuation-ebook/dp/B08513234C)
 
 - [🎥 Four harmonic analyses by Augusto (Björk and Billie Eilish)](https://www.youtube.com/@augusto7681/search?query=harmonic)
-
-- [Dave Carlton. I analyzed the chords of 1300 popular songs for patterns. This is what I found](https://www.hooktheory.com/blog/i-analyzed-the-chords-of-1300-popular-songs-for-patterns-this-is-what-i-found/) - a series of post by a Hooktheory co-founder
 
 More
 ---
