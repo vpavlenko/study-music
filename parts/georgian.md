@@ -10,3 +10,4 @@ https://www.researchgate.net/publication/342048009_Structural_analysis_and_model
 
 https://digitalcollections.wesleyan.edu/islandora/object/ir%3A2472/datastream/PDF/view
 
+https://www.facebook.com/watch/?v=508845260169018
