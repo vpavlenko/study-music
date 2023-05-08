@@ -33,6 +33,17 @@ Structure
 
 <img width="904" alt="Screenshot 2023-04-26 at 12 13 32" src="https://user-images.githubusercontent.com/1491908/234512925-53404f27-fe4d-4e71-ab15-bd0fcfd1ed7a.png">
 
+Chord-scale network
+---
+
+[Garrett Michaelsen. Chord-Scale Networks in the Music and Improvisations of Wayne Shorter](https://music.arts.uci.edu/abauer/3.1/notes/Chord-Scale_Networks.pdf)
+
+<img width="719" alt="Screenshot 2023-05-08 at 07 57 07" src="https://user-images.githubusercontent.com/1491908/236730588-16370eae-c0f0-49d0-889e-10a164feabb6.png">
+
+<img width="450" alt="Screenshot 2023-05-08 at 07 57 51" src="https://user-images.githubusercontent.com/1491908/236730679-ded31dbc-07b3-4b94-a6ca-9eab2280b30d.png">
+
+
+
 Jazzomat
 ===
 
