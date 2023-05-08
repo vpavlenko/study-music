@@ -3,9 +3,9 @@ Jazz solo
 
 There's instructive theory on how to start creating something that can be counted as a jazz solo (probably in a hard bop style) - where to start, tips and tricks, how to grow. It's "craft".
 
-And then there's the analysis of what the famous jazz musicians with many years of experience really make their solos of. It's "research".
+And then there's analysis of what the famous jazz musicians with many years of experience really make their solos of. It's "research".
 
-Because, surprisingly, after you learn some basic advise like "use pentatonics" or "use call-response" or "use licks", once you look at real solo transcriptions, you'll get lost, confused and intimidated as to "what's really going on" and "how to make sense of it all".
+Because, surprisingly, after you learn some basic advice like "use pentatonics" or "use call-response" or "use licks", once you look at real solo transcriptions, you'll get lost, confused and intimidated as to "what's really going on" and "how to make sense of it all".
 
 - [**Jazz solo visualizations**](jazz_solo_visualizations.md)
 
