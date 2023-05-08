@@ -7,7 +7,7 @@ And then there's analysis of what the famous jazz musicians with many years of e
 
 Because, surprisingly, after you learn some basic advice like "use pentatonics" or "use call-response" or "use licks", once you look at real solo transcriptions, you'll get lost, confused and intimidated as to "what's really going on" and "how to make sense of it all".
 
-- [**Jazz solo visualizations**](jazz_solo_visualizations.md)
+Also, look at [**Jazz solo visualizations**](jazz_solo_visualizations.md)
 
 Craft
 ---
