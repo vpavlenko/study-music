@@ -12,7 +12,7 @@ Because, surprisingly, after you learn some basic advice like "use pentatonics" 
 Craft
 ---
 
-- [🎥 Jazz Piano Practice Session - Major II V I & Turn Around Licks](https://www.youtube.com/watch?v=57r-M-oXpsc) - Introduction into solo building strategies
+- [🎥 Stijn Wauters. Jazz Piano Practice Session - Major II V I & Turn Around Licks](https://www.youtube.com/watch?v=57r-M-oXpsc) - Introduction into solo building strategies
 
 - [Charlie Parker Omnibook (wiki)](https://en.wikipedia.org/wiki/Charlie_Parker_Omnibook) - [pattern explorer by Jazzomat](https://jazzomat.hfm-weimar.de/pattern_explorer/), [progressions analyzed by mDecks](https://mdecks.com/bebopstandards.phtml)
 
@@ -23,8 +23,6 @@ Craft
 - [Impro-Visor](https://www.cs.hmc.edu/~keller/jazz/improvisor/) - an educational tool for creating and playing a lead sheet, with a particular orientation toward representing jazz solos
 
 <img width="900" alt="Screenshot 2023-05-08 at 07 48 11" src="https://user-images.githubusercontent.com/1491908/236729570-d0329f8e-bf71-4615-868f-c3d6a7b45420.png">
-
-
 
 - A modern context for Impro-visor and generated solos: [Brian A. Miller, 2020](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.miller.html)
 
