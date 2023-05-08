@@ -1,12 +1,23 @@
 Jazz solo visualizations
 ===
 
-Chord (blue) vs non-chord (red) tones
+Walk That Bass
 ---
+
+chord = blue, non-chord = red
 
 - [🎥 Analysing a Jazz Solo - Straight, No Chaser (Davis, Coltrane, Adderley, Garland, Chambers)](https://www.youtube.com/watch?v=qo_A5W-Lzvk) - Analysis of notable solos of the time
 
 <img width="763" alt="Screenshot 2023-04-30 at 00 49 38" src="https://user-images.githubusercontent.com/1491908/235323676-3760c8b3-c861-4826-9679-872fcb0a3f2e.png">
+
+Impro-visor
+---
+
+chord = black, color (chord-scale extension) = green, approach = blue, outside = red
+
+[Charlie Parker. Anthropology](https://www.cs.hmc.edu/~keller/jazz/improvisor/Solos/AnthropologyParker.htm)
+
+<img width="1002" alt="Screenshot 2023-05-08 at 07 51 42" src="https://user-images.githubusercontent.com/1491908/236729993-8c3e2566-ddae-48f3-82d7-512b0b630830.png">
 
 
 Chord tones, enumerated
