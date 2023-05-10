@@ -32,5 +32,8 @@ Sight Singing
 - [SFCM Sight Singing Book](https://drive.google.com/drive/u/0/folders/1-98WZ3mF3thoL2iBnvWW-QPiNKFO_UHl), [mirror](https://drive.google.com/file/d/1MCeiPgYB66zt402BA8gY9GMYsX2uQYJz/view?usp=share_link)
 
 - Gary S. Karpinski. Aural Skills Acquisition: The Development of Listening, Reading, and Performing Skills in College-level Musicians
+
+- Matrix singing by Dr. Blaise Ferrandino
+  - https://bridgingthemusictheorygap.wordpress.com/2022/02/10/aural-approach-to-part-writing/
  
 
