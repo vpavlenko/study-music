@@ -113,4 +113,4 @@ Do you know how to enroll in a music theory program after a computer science BSc
 
 Also, I'm happy to chat on topics of visualisation-aided music education and research popularisation
 
-Also, you can support me on &nbsp;&nbsp; <a href="https://www.patreon.com/studymusic"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+Also, you can support me on &nbsp;<a href="https://www.patreon.com/studymusic"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
