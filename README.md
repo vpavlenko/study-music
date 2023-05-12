@@ -112,5 +112,3 @@ Also, I post updates and other rant on music theory in [telegram](https://t.me/k
 Do you know how to enroll in a music theory program after a computer science BSc and two years of jazz college? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself)
 
 Also, I'm happy to chat on topics of visualisation-aided music education and research popularisation
-
-Also, you can support me on &nbsp;<a href="https://www.patreon.com/studymusic" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
