@@ -36,6 +36,12 @@ Particular musicians and bands
 
 - Brad Osborn. Everything in Its Right Place: Analyzing Radiohead
 
+Prog rock
+---
+
+- [Martin Quinn. The Development of the Role of the Keyboard in Progressive Rock from 1968 to 1980](https://eprints.hud.ac.uk/id/eprint/34986/1/FINAL%20THESIS%20-%20QUINN,%20MJ.pdf)
+- 
+
 More
 ---
 
