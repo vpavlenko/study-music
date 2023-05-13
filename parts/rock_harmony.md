@@ -6,6 +6,8 @@ Rock harmony
 - [HookTheory](https://www.hooktheory.com/) - A database of many rock songs and some jazz songs and game tunes focused at harmonic analysis. Comes with a melody-harmony online editor [HookPad](https://www.hooktheory.com/videos) and [two must-read online books](https://www.hooktheory.com/books) on pop/rock harmony which explain Roman numeral analysis, secondary chords and modes. **You should probably start with those books** unless you already have a college degree in music. You can read them in two weeks if you focus enough.
   - [Dave Carlton. I analyzed the chords of 1300 popular songs for patterns. This is what I found](https://www.hooktheory.com/blog/i-analyzed-the-chords-of-1300-popular-songs-for-patterns-this-is-what-i-found/) - a series of posts
 
+
+
 - [David Temperley. The Musical Language of Rock](https://amzn.to/3nK9eSO) - A book that summarizes [a corpus study](http://rockcorpus.midside.com/) of aspects like harmony, melody, rhythm, timbre and form on 200 rock songs. [Also his papers](http://davidtemperley.com/papers/). Also his other books: [The Cognition of Basic Musical Structures](https://amzn.to/3IvaS2I), [Music and Probability](https://amzn.to/3FXBWWu)
 
 
@@ -62,3 +64,8 @@ More
 - [Papers by Nicole Biamonte](https://scholar.google.ca/citations?user=quHge0cAAAAJ&hl=en), [a podcast](https://www.youtube.com/watch?v=wbHHNgFffBk)
 
 - The Bloomsbury Handbook of Rock Music Research
+
+- [Chord progressions of 5000 songs from Hooktheory](https://www.amitkohli.com/chord-progressions-of-5-000-songs/)
+
+![image](https://github.com/vpavlenko/study-music/assets/1491908/77ad3ff5-365f-4459-a296-474835215f30)
+
