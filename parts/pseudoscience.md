@@ -12,6 +12,8 @@ don't help in composition. Patterns which don't exist in minds of listeners unti
 means a new meaning. For some reason, this work doesn't seem to be referenced in any other research and is largely ignored by a scientific community.
 The author explicitly mentions that his research is falsifiable.
 
+Also see [this](https://www.laits.utexas.edu/wagner/ringtonalstructure/ringtonalstructure.html)
+
 <img width="650" alt="Screenshot 2023-04-28 at 21 53 07" src="https://user-images.githubusercontent.com/1491908/235218983-afcce574-6787-4a4d-8c1e-bfee785249ac.png">
 
 <img width="595" alt="Screenshot 2023-04-28 at 21 53 20" src="https://user-images.githubusercontent.com/1491908/235219030-a1fe544b-d301-4fb7-8834-40f8b8c0d171.png">
