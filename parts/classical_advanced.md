@@ -73,6 +73,12 @@ Books on individual composers and pieces
  
 <img width="467" alt="Screenshot 2023-05-04 at 10 20 02" src="https://user-images.githubusercontent.com/1491908/236125752-b40d00b5-de15-47eb-8607-0a2adc71e3f1.png">
 
+Wagner's "Ring"
+---
+
+- [Deryck Cooke](https://www.laits.utexas.edu/wagner/ringmotives/cooke.html)
+- [John Weinstock](https://www.laits.utexas.edu/wagner/home.html) - motive families, tonal structure
+
 Notable analyses
 ---
 - [Five analyses](https://musescore.com/user/50070/sheetmusic)
