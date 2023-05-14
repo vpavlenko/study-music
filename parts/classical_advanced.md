@@ -78,6 +78,7 @@ Wagner's "Ring"
 
 - [Deryck Cooke](https://www.laits.utexas.edu/wagner/ringmotives/cooke.html)
 - [John Weinstock](https://www.laits.utexas.edu/wagner/home.html) - motive families, tonal structure
+- [Derrick Everett](https://www.monsalvat.no/RingList.htm)
 
 Notable analyses
 ---
