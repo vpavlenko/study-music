@@ -20,6 +20,7 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - Alexander Morgan. [Automated Detection of Renaissance Cadential Voice Functions and Cadences](https://crimwp.richardfreedman.sites.haverford.edu/?page_id=720), [Renaissance Ternary Suspensions in Theory and Practice](https://www.esm.rochester.edu/integral/33-2019/morgan/)
 - [Karen Desmond, Emily Hopkins, Samuel Howes, Julie E. Cumming. Computer-aided Analysis of Sonority in the French Motet Repertory, ca. 1300–1350](https://www.mtosmt.org/issues/mto.20.26.4/mto.20.26.4.desmond.php)
 - Eric Chafe. Monteverdi's Tonal Language
+- https://www.routledge.com/Upper-Voice-Structures-and-Compositional-Process-in-the-Ars-Nova-Motet/Zayaruznaya/p/book/9780367590758
 
 Baroque music
 ---
