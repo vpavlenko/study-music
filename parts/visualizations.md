@@ -26,10 +26,10 @@ Online platforms for music visualization
 
 
 
-Misc
+More
 ---
 
-- [IEEE 1599](https://t.me/keetezh/715)
+- IEEE 1599: [the website](https://ieee1599.lim.di.unimi.it/music_collection.php), [the book](https://ieeexplore.ieee.org/book/6497235), [screenshots from the book](https://t.me/keetezh/715)
 - Chapter 24 in [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
 - [SeeGroove2](https://t.me/keetezh/739) - groove visualizations
 - [Alternative music notations: Review on Chromatone](https://chromatone.center/theory/notes/alternative/)
