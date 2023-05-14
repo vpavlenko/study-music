@@ -12,6 +12,7 @@ YouTube channels
 - [Институт музыкальных инициатив](https://www.youtube.com/c/%D0%98%D0%9C%D0%98%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/) - О музыкальной индустрии
 - [Нескучный саунд](https://www.youtube.com/channel/UCc1a1Nm8aNFoqv1G4CfyHzA) - Разборы гармониии Богемской рапсодии и саундтрека к Final Fantasy,
 трёхчасовые стримы по записи и сведению треков, введение в теорию музыки на клавишах.
+- [Gianmaria Griglio](https://www.youtube.com/@ggriglio/videos) - composer's analyses
 - [How to teach music notation to 3 yo kids](https://www.youtube.com/watch?v=zJDLG7AqPh0)
 
 Podcasts
