@@ -35,3 +35,4 @@ Misc
 - [Alternative music notations: Review on Chromatone](https://chromatone.center/theory/notes/alternative/)
 - [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - https://www.musicprocessing.net/features/analysis/
+- Roberto De Prisco, Delfina Malandrino, Donato Pirozzi, Gianluca Zaccagnino and Rocco Zaccagnino. Understanding the structure of musical compositions: Is visualization an effective approach?
