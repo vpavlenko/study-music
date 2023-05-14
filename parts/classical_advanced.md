@@ -83,4 +83,5 @@ Wagner
 
 Notable analyses
 ---
-- [Five analyses](https://musescore.com/user/50070/sheetmusic)
+- [Five analyses on Musescore](https://musescore.com/user/50070/sheetmusic)
+- [Steve's YouTube analyses (colored waveforms)](https://www.youtube.com/@corksmusic1/videos)
