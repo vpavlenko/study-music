@@ -34,3 +34,4 @@ Misc
 - [SeeGroove2](https://t.me/keetezh/739) - groove visualizations
 - [Alternative music notations: Review on Chromatone](https://chromatone.center/theory/notes/alternative/)
 - [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
+- https://www.musicprocessing.net/features/analysis/
