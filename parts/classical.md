@@ -21,10 +21,10 @@ Free online books with audio examples
 ---
 
 - [Andre Mount. Fundamentals, Function, and Form](https://milnepublishing.geneseo.edu/fundamentals-function-form/) - [Also there's a workbook](https://milnepublishing.geneseo.edu/fffworkbook/)
-- [Mark Gotham, Kyle Gullings, Chelsey Hamm, Bryn Hughes, Brian Jarvis, Megan Lavengood, John Peterson. Open Music Theory, Version 2](https://viva.pressbooks.pub/openmusictheory/front-matter/introduction/)
+- [Open Music Theory, Version 2](https://viva.pressbooks.pub/openmusictheory/front-matter/introduction/)
 - [Robert Hutchinson. Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 - [Mauro Braunstein. Offtonic Theory](https://offtonic.com/theory/index.html) - An online book that is spiced up with Jewish Chasidic examples (in addition to classical and rock ones) and an intro into Arabic maqamaat music
-- [Sean Butterfield. Integrated Musicianship: Theory](https://intmus.github.io/inttheory21-22/)
+- [Sean Butterfield. Integrated Musicianship](https://intmus.github.io/)
 - https://evanwill.github.io/open-music2/contents.html
 - [Artusi: Interactive Music Theory and Online Skills](https://www.artusimusic.com/) - a free online auto-graded course that teaches you four-part writing right in the web score editor. It shows all errors in the voice-leading (parallel fifths, tritone leaps, jumps on augmented intervals, forgotten preparations, voice crossing)
 
