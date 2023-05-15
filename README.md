@@ -59,7 +59,7 @@ Non-Western music languages are different families. As they were developed all o
 
 The families are (roughly speaking):
 - [**Maqam languages**](parts/maqam_languages.md)
-- [**Southeast Asian percussive languages**](parts/se_asian_percussive.md)
+- [**Gamelan**](parts/gamelan.md) and [**piphat**](parts/piphat.md) (are they somehow related or similar?)
 - [**Balkan languages**](parts/balkan.md)
 - [**Indian music**](parts/indian.md)
 - many other traditions
