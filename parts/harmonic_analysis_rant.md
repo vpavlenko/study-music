@@ -3,13 +3,22 @@ Openness of harmonic analysis
 
 Harmonic analysis is a creative reductionism and not a mechanical operation. There's no single valid harmonic analysis. Different scholars perform harmonic analyses differently, and disagreements arise everywhere:
 - V7 or viio, ii6 or IV, IV6 or vi
-- I64 or Cad64 or V64
+- I64 or Cad64 or V64 or [a functional labelling of passing chords](https://viva.pressbooks.pub/openmusictheory/chapter/64-chords-as-prolongations/)
 - cadential I(247 - 35) - triple suspension, [a reddit discussion](https://www.reddit.com/r/musictheory/comments/133su42/roman_numeral_analysis_how_to_notate_tonic_root/)
 - should we mark passing harmonies?
 - should we mark [common-tone](https://viva.pressbooks.pub/openmusictheory/chapter/common-tone-chords/) [chords](https://sites.google.com/view/musicalharmonysite/part-ii-harmony-theory-and-analysis/altered-chords/common-tone-diminished-seventh-chords)?
 - what's a root of a non-applied diminished seventh chords, eg. io7 or #ivo7?
-- what if a third/a fifth is missing, can root be missing/implied?
+- what if a third/a fifth is missing, or there are three consecutive pitches? [pic source](https://www.routledge.com/The-Music-in-the-Data-Corpus-Analysis-Music-Analysis-and-Tonal-Traditions/White/p/book/9781032259222)
+
+<img width="611" alt="Screenshot 2023-05-15 at 19 03 46" src="https://github.com/vpavlenko/study-music/assets/1491908/d900722e-7199-4d23-b280-0232e2bb870c">
+
+- can root be missing/implied, eg. use V7 in place of viio?
 - are we overgeneralize Roman numerals as functional analysis labels in ambiguous cases?
+- what to do with quartal chords? [pic source](http://tagg.org/mmmsp/EverydayTonalityInfo.htm)
+
+<img width="690" alt="Screenshot 2023-05-15 at 19 07 33" src="https://github.com/vpavlenko/study-music/assets/1491908/e6e6d06d-f539-444c-b729-971e4aa912c3">
+
+<img width="707" alt="Screenshot 2023-05-15 at 19 07 49" src="https://github.com/vpavlenko/study-music/assets/1491908/a4979ecb-737c-4d85-a8bf-1b414fe412aa">
 
 See "On the relative openness of syntax" in [Mark Gotham's paper](https://emusicology.org/index.php/EMR/article/view/7644/6253)
 
@@ -35,3 +44,5 @@ Literature
 - [Papers from the "When in Rome" corpus](https://github.com/MarkGotham/When-in-Rome#citeable-papers)
 
 - Christopher White, "The Music in The Data", chapter 3 on harmony
+
+- [AugmentedNet paper](https://napulen.github.io/media/augmentednet/napoles21augmentednet.pdf) - also follow other cited works from there
