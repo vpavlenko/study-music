@@ -25,6 +25,10 @@ Tuning
 
 - http://piano-tuner.org/
 
+
+History of tuning:
+- https://academic.oup.com/em/article/41/3/403/374483
+
 Misc
 ---
 
