@@ -22,7 +22,7 @@ Free online books with audio examples
 
 - [Andre Mount. Fundamentals, Function, and Form](https://milnepublishing.geneseo.edu/fundamentals-function-form/) - [Also there's a workbook](https://milnepublishing.geneseo.edu/fffworkbook/)
 - [Open Music Theory, Version 2](https://viva.pressbooks.pub/openmusictheory/front-matter/introduction/)
-- [Comprehensive Musicianship](https://www.oercommons.org/courses/comprehensive-musicianship-a-practical-resource/view)
+- [Comprehensive Musicianship: A Practical Resource](https://www.oercommons.org/courses/comprehensive-musicianship-a-practical-resource/view), [Workbook](https://scholarworks.uni.edu/facbook/520/)
 - [Robert Hutchinson. Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 - [Mauro Braunstein. Offtonic Theory](https://offtonic.com/theory/index.html) - An online book that is spiced up with Jewish Chasidic examples (in addition to classical and rock ones) and an intro into Arabic maqamaat music
 - [Sean Butterfield. Integrated Musicianship](https://intmus.github.io/)
