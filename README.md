@@ -11,7 +11,7 @@ Where to start
 
 
 1. Go through [Ableton's guide on music](https://learningmusic.ableton.com/) and [Ableton's guide on synths](https://learningsynths.ableton.com/)
-2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab): search for your favorite songs and anime openings. Honestly [both of their books](https://www.hooktheory.com/books) are top-notch and well worth the money
+2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab): search for your favorite songs and anime openings. Honestly [both of their books](https://hooktheory.com/affiliate/275-2-3-1.html) are top-notch and well worth the money
 3. Play around with Bartosz Ciechanowski's [visualizations](https://ciechanow.ski/sound/) on the essence of sound
 3. Make some music with [the Music Mouse 🐭](https://teropa.info/musicmouse/)
 9. Wander through [Ishkur's evolution of electronic music](https://music.ishkur.com/)
