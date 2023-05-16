@@ -22,6 +22,10 @@ Misc
 
 <img width="736" alt="Screenshot 2022-01-22 at 3 31 26 PM" src="https://user-images.githubusercontent.com/1491908/150638638-9a578b1b-092b-4c6f-a623-7351cdb131c8.png">
 
+<img width="734" alt="Screenshot 2023-05-17 at 00 08 38" src="https://github.com/vpavlenko/study-music/assets/1491908/35bc610a-dd53-4499-b6bf-a8cb1398ba87">
+
+<img width="720" alt="Screenshot 2023-05-17 at 00 08 48" src="https://github.com/vpavlenko/study-music/assets/1491908/464f9183-bb16-4bac-94f2-262e67e83c99">
+
 
 - [Jason Yust. Organized Time: Rhythm, Tonality, and Form](https://amzn.to/3BlTlaU) - not necessarily Schenkerian, but illustrations have that flavour of reductionism
 
