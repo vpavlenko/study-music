@@ -3,7 +3,7 @@ Rock harmony
 
 <img width="400" align="right" alt="Screenshot 2022-01-21 at 12 57 44 AM" src="https://user-images.githubusercontent.com/1491908/150428708-4c3f082d-5cc2-47b5-a088-8558d5c41461.png" style="filter: drop-shadow(30px 10px 4px #4444dd); border: 1px solid pink">
 
-- [HookTheory](https://www.hooktheory.com/) - A database of many rock songs and some jazz songs and game tunes focused at harmonic analysis. Comes with a melody-harmony online editor [HookPad](https://www.hooktheory.com/videos) and [two must-read online books](https://www.hooktheory.com/books) on pop/rock harmony which explain Roman numeral analysis, secondary chords and modes. **You should probably start with those books** unless you already have a college degree in music. You can read them in two weeks if you focus enough.
+- [HookTheory](https://hooktheory.com/affiliate/275-0-3-2.html) - A database of many rock songs and some jazz songs and game tunes focused at harmonic analysis. Comes with a melody-harmony online editor [HookPad](https://hooktheory.com/affiliate/275-3-3-3.html) and [two must-read online books](https://hooktheory.com/affiliate/275-2-3-1.html) on pop/rock harmony which explain Roman numeral analysis, secondary chords and modes. **You should probably start with those books** unless you already have a college degree in music. You can read them in two weeks if you focus enough.
   - [Dave Carlton. I analyzed the chords of 1300 popular songs for patterns. This is what I found](https://www.hooktheory.com/blog/i-analyzed-the-chords-of-1300-popular-songs-for-patterns-this-is-what-i-found/) - a series of posts
 
 
