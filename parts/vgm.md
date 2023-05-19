@@ -1,4 +1,4 @@
-<img width="600" align="right" alt="Screenshot 2023-02-23 at 18 39 54" src="https://user-images.githubusercontent.com/1491908/220938687-3dbdde83-2407-4702-ba53-0e7401be71aa.png">
+<img width="600" alt="Screenshot 2023-02-23 at 18 39 54" src="https://user-images.githubusercontent.com/1491908/220938687-3dbdde83-2407-4702-ba53-0e7401be71aa.png">
 
 
 Video game music
