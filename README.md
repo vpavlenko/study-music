@@ -105,10 +105,10 @@ Topics on electronic music
 Contacts
 ---
 
-Follow updates on a dedicated [twitter](https://twitter.com/studymmmusic). Feel free to suggest me other ways to stay in touch with you
+Follow updates on a dedicated [Twitter](https://twitter.com/studymmmusic). Feel free to suggest me other ways to stay in touch with you, as this Twitter thing doesn't kick off
 
-Also, I post updates and other rant on music theory in [telegram](https://t.me/keetezh) (in Russian)
+Also, I post updates and other rant on music theory on [Telegram](https://t.me/keetezh) (in Russian)
 
 Do you know how to enroll in a music theory program after a computer science BSc and two years of jazz college? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself)
 
-Also, I'm happy to chat on topics of visualisation-aided music education and research popularisation
+I'm always happy to chat about visualisation-aided music education and research popularisation
