@@ -42,6 +42,7 @@ These resources focus more on a historical context of origin or usage of certain
 
 - Melanie Fritsch and Tim Summers. Cambridge Companion to Video Game Music 
 - [🎥 Beep: Game Sound History](https://www.youtube.com/playlist?list=PLNfU10KQ9m1L10rMwINp4kyfcupi-CU9o)
+- [Retronauts podcast](https://soundcloud.com/retronauts-1)
 - Karen Collins with Chris Greening. The Beep Book: Documenting the History of Game Sound
 - https://soundcloud.com/retrogameaudio
 - [books and papers by William Gibbons](https://scholar.google.com/citations?user=Lzs2ytMAAAAJ)
