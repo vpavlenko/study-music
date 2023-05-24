@@ -24,7 +24,7 @@ Also see [**jazz harmony visualizations**](jazz_harmony_visualizations.md)
 Issues with lego
 ---
 
-- Some repeate larger blocks aren't named, eg. a sequence of cadences modulating a whole step down, [video](https://youtu.be/nGAZd1mx5xU): How High The Moon / Ornithology, Little Boat, One-Note Samba, Tune Up, Afternoon in Paris, Cherokee, Joy Spring, Recorda Me, The Night Has a Thousand Eyes, Invitation, A Night in Tunisia, Alone Together
+- Some repeate larger blocks aren't named, eg. a sequence of cadences modulating a whole step down, [video](https://youtu.be/nGAZd1mx5xU): How High The Moon / Ornithology, Little Boat, One-Note Samba, Tune Up, Afternoon in Paris, Cherokee, Joy Spring, Recorda Me, The Night Has a Thousand Eyes, Invitation, A Night in Tunisia, Alone Together, maybe Groovin' High
 - Lego doesn't talk about typical reharmonizations and variations. For many standards, there are structurally fixed chord and there are variable chords
 
 Misc
