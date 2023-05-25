@@ -35,6 +35,8 @@ Digital composition
 
 - [Jukeblocks - a skeleton generator](https://jukeblocks.io/)
 
+- [Pocket Operations](https://shittyrecording.studio/) - A collection of drum machine patterns in a PDF book
+
 - [Flucoma](https://www.flucoma.org/)
 
 - Dennis DeSantis. Making Music. 74 Creative Strategies for Electronic Music Producers
