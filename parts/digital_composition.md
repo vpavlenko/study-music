@@ -18,12 +18,12 @@ Digital composition
 
 - [V.J. Manzo, Will Kuhn. Interactive Composition: Strategies Using Ableton Live and Max for Live](https://amzn.to/3gOvIy0)
 
-<img width="532" alt="Screenshot 2022-02-15 at 5 32 25 PM" src="https://user-images.githubusercontent.com/1491908/154082815-08213e00-0959-49f7-a75c-938c734e749a.png">
+<img width="400" alt="Screenshot 2022-02-15 at 5 32 25 PM" src="https://user-images.githubusercontent.com/1491908/154082815-08213e00-0959-49f7-a75c-938c734e749a.png">
 
 - [Антон Маскелиаде. Твой первый трек](https://maskeliade.school/book) - Очень вдохновляющий учебник по созданию электронной музыки в Аблетоне для начинающих 
  с посылом "у вас сразу всё начнёт получаться" и "не дайте внешней критике загубить ваш талант". Разбирает строение треков (элементы гармонии, форму, сведение), много примеров из Radiohead, есть разделы про психологию начинающего музыканта и сетап домашней студии. Также есть большое дружелюбное комьюнити, [интенсивные курсы](https://maskeliade.school/), [ежемесячная рассылка](https://maskeliade.school/links), [справочник по эффектам Аблетона](https://maskeliade.school/fx)
 
-<img width="982" alt="Screenshot 2022-01-21 at 2 07 44 PM" src="https://user-images.githubusercontent.com/1491908/150516896-ce75b545-7864-4d3b-b235-453608ec10ca.png">
+<img width="800" alt="Screenshot 2022-01-21 at 2 07 44 PM" src="https://user-images.githubusercontent.com/1491908/150516896-ce75b545-7864-4d3b-b235-453608ec10ca.png">
 
 - [Books about Max/MSP](https://cycling74.com/books-about-max)
 
@@ -36,6 +36,9 @@ Digital composition
 - [Jukeblocks - a skeleton generator](https://jukeblocks.io/)
 
 - [Pocket Operations](https://shittyrecording.studio/) - A collection of drum machine patterns in a PDF book
+
+<img width="462" alt="Screenshot 2023-05-26 at 00 31 32" src="https://github.com/vpavlenko/study-music/assets/1491908/13390ca7-2083-481e-acd2-a9455b305be3">
+
 
 - [Flucoma](https://www.flucoma.org/)
 
