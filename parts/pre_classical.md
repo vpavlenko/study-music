@@ -26,6 +26,7 @@ Baroque music
 ---
 
 - [**Bach's Chorales**](bach_chorales.md)
+- [**Bach's Fugues**](bach_fugues.md)
 - https://partimenti.org/partimenti/about_parti/index.html
 - https://www.amazon.com/Continuo-Playing-According-Handel-Exercises/dp/0193184338
 - Job Ijzerman. Harmony, Counterpoint, Partimento
