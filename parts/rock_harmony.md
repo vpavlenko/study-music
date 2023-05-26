@@ -32,7 +32,7 @@ Rock harmony
 Particular musicians and bands
 ---
 
-- [KG Johansson. The Harmonic Language of the Beatles](https://www.musikforskning.se/stmonline/vol_2/KGJO/Johansson.pdf) - sadly, the whole book (in Swedish) isn't available at all. Btw there's [a complete transcription of their songs](https://www.amazon.com/Beatles-Complete-Scores-Transcribed-Score/dp/0793518326)
+- [KG Johansson. The Harmonic Language of the Beatles](https://www.musikforskning.se/stmonline/vol_2/KGJO/Johansson.pdf) - sadly, the whole book (in Swedish) isn't available at all. Btw there's [a complete transcription of their songs](https://www.amazon.com/Beatles-Complete-Scores-Transcribed-Score/dp/0793518326). Also The Songwriting Secrets Of The Beatles by Dominic Pedler
 
 - [Kasper Sloots. Frank Zappa's musical language](https://www.zappa-analysis.com/)
 
