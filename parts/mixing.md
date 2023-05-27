@@ -23,3 +23,5 @@ Mixing
 - [Resources curated by Ethan Hein](https://docs.google.com/spreadsheets/d/11bp8JupZ5FkK60W-mhXSfdr78fxpHLlU-tzVWONtrqg/edit#gid=437553663)
 
 - [🎥 "Recreate" videos by Doctor Mix](https://www.youtube.com/@Doctormix/search?query=Recreate)
+
+- https://mixwiththemasters.com/
