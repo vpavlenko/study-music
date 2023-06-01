@@ -19,7 +19,7 @@ Music composition
 
 - [Building Blocks](https://www.audiblegenius.com/buildingblocks) - A music theory and composition course in an online DAW from the creators of [Syntorial](sound_design.md)
 
-- [Art of Composing](https://www.artofcomposing.com/) - An email course
+- [Art of Composing](https://www.artofcomposing.com/) - An email course. It's also repackaged as Workbook 101 and Workbook 201
 
 - Edward Sarath, Music Theory though Improvisation - as a modern books like Russo's
 
