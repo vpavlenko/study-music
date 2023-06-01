@@ -100,6 +100,8 @@ Local modulations aren't usually notated - we may see more sharps and flats insi
 
 <img width="899" alt="Screenshot 2023-02-02 at 10 07 34" src="https://user-images.githubusercontent.com/1491908/216245190-89170eb6-408e-4e5a-839a-4b85f77cdfee.png">
 
+(Mind that wavescapes are a novel take on keyscapes)
+
 Also, at the very local level there's [a "tonicization vs. modulation" dichotomy](https://transactions.ismir.net/articles/10.5334/tismir.63/):
 
 ![image](https://user-images.githubusercontent.com/1491908/216252124-e25212bc-9461-4a16-93ad-c2b9a60332dd.png)
@@ -107,7 +109,7 @@ Also, at the very local level there's [a "tonicization vs. modulation" dichotomy
 
 ## Backup
 
-2. [Links on visualization start from here](https://t.me/keetezh/723)
+1. [Links on visualization start from here](https://t.me/keetezh/723)
 3. https://datasciencebydesign.org/blog/seeing-harmony-hearing-color
 4. related MuseScore plugins
 5. [Harmonic fingerprints](https://arxiv.org/pdf/1908.00003.pdf)
