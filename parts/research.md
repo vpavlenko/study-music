@@ -70,6 +70,8 @@ Individual datasets:
   - [Baroque 17th century](https://www.kaggle.com/datasets/celiarubiomadrigal/baroque-midi-music-17th-century)
   - [Old phone ringtones](https://www.kaggle.com/datasets/narektorosyan/old-phone-ringtones-as-midi)
 
+Kunst der Fuge and Classical Archives are prohibitive. There are individual sequencers whose work is [sometimes licensed](http://www.piano-midi.de/), [sometimes not](http://www.bc9.jp/~oguri/indexe1.html).
+
 
 Expressive performance
 ---
