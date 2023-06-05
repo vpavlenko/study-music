@@ -37,3 +37,4 @@ More
 - [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - https://www.musicprocessing.net/features/analysis/
 - Roberto De Prisco, Delfina Malandrino, Donato Pirozzi, Gianluca Zaccagnino and Rocco Zaccagnino. Understanding the structure of musical compositions: Is visualization an effective approach?
+- https://www.youtube.com/@CERMAA-VIAMAP
