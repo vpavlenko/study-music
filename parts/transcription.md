@@ -1,7 +1,7 @@
 Transcription
 ===
 
-on RipX, demucs and Onsets and Frames and OMR
+on RipX (spleeter/deezer etc), demucs and Onsets and Frames and OMR
 
 - https://github.com/chrisdonahue/sheetsage
 
@@ -9,5 +9,6 @@ on RipX, demucs and Onsets and Frames and OMR
 Audio to MIDI
 ---
 
+- https://basicpitch.spotify.com/
 - https://piano-scribe.glitch.me/
 
