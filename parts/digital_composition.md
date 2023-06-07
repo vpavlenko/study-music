@@ -44,6 +44,8 @@ Digital composition
 
 - Dennis DeSantis. Making Music. 74 Creative Strategies for Electronic Music Producers
 
+- [Building Blocks](https://www.audiblegenius.com/coursePreview/bb1) from creators of Syntorial
+
 
 Programming languages
 ---
