@@ -43,7 +43,7 @@ Baroque music
 - [🎥 Michael Koch. En blanc et noir: Baroque-style Piano Improvisations](https://www.youtube.com/@enblancetnoir7516/videos)
 - [Four Score and More](https://fourscoreandmore.org/resources/)
 - Dariusz Terefenko. The Passacaglia – A Primer for Teaching Baroque Improvisation
-
+- [🎥 Josep Castanyer Alonso. "Angry Birds" but it's a three voice fugal invention](https://www.youtube.com/watch?v=H7NRVbTIDKw) - visualizes of the structure
 
 
 Counterpoint
