@@ -31,11 +31,14 @@ Also see [this](https://www.laits.utexas.edu/wagner/ringtonalstructure/ringtonal
 
 - Affect theory
 
+- Guerino Mazzola. The Topos of Music
+
 - [Adam Neely. A = 432Hz](https://www.youtube.com/watch?v=EKTZ151yLnk)
 
 - [The Lydian Theory by Brett Clement](https://www.zappa-analysis.com/brett-clement.htm) - I've just found this discussion, I don't have my own opinion yet
 
 - Studies that claim that different keys employ different features in composers - I'm not sure that's 100% true. See [Steven Bradley Yan. Aspects of Mozart's Music in G Minor](https://etheses.whiterose.ac.uk/279/1/uk_bl_ethos_254655.pdf) and think for yourself
+
 
 Post-tonal theory
 ---
