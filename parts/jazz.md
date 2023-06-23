@@ -49,3 +49,4 @@ Misc
 - [Douglas R. Abrams. Rhythmic Complexity in Jazz: An Information Theory Approach](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=3876&context=dissertations_2)
 - Ron Miller. Modal Jazz Composition & Harmony
 - [Михаил Митропольский. Краткая история джаза для начинающих](https://www.jazz.ru/library/jazz-history-for-beginners/)
+- Greg Fishman. The Lobster Theory
