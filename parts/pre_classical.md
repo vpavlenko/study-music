@@ -23,6 +23,9 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - https://www.routledge.com/Upper-Voice-Structures-and-Compositional-Process-in-the-Ars-Nova-Motet/Zayaruznaya/p/book/9780367590758
 - Polyphony in medieval Paris: The art of composing with plainchant
 - 🎥 https://www.youtube.com/@EarlyMusicSources
+- Vincenzo Borghetti, Tim Shephard (eds). The Museum of Renaissance Music. A History in 100 Exhibits
+
+
 
 Baroque music
 ---
