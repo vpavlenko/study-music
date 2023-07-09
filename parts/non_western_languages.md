@@ -7,6 +7,8 @@ Non-Western languages
 
 - [Ocora Records](https://www.youtube.com/results?search_query=ocora)
 
+- [Ored Recordings](https://oredrecordings.bandcamp.com/)
+
 - [Books by Bruno Nettl](https://en.wikipedia.org/wiki/Bruno_Nettl#Selected_publications)
   - [In the course of performance: studies in the world of musical improvisation](https://archive.org/details/incourseofperfor0000unse/mode/2up)
 
