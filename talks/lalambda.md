@@ -22,12 +22,14 @@ https://everynoise.com/ - Alt+Scan
 Арабская музыка
 ---
 
-Inta Omri
+[Inta Omri](https://www.youtube.com/watch?v=e7wl1tm35bM)
 - [ноты](https://www.dropbox.com/scl/fi/cfm8ajyvhgg2mnku50uyw/inta_omri.pdf?rlkey=fzx7rsjiyr1x8wxh9rtsn1ds9&dl=0)
 - начало (kurd G)
 - 7:26 = m92
 - 12:44 = m196 (bayati G)
 - 17:35 = m205 (rast C)
+- [maqamlessons](https://maqamlessons.com/analysis/index.html)
+- google "azan + [saba/kurd/hijaz/ajam/nahawand/sikah/bayati/rast]"
 
 
 
