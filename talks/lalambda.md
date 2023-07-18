@@ -42,3 +42,13 @@ Rawl
 ---
 
 https://rawl.vercel.app/
+
+
+
+Plan for talk 2
+===
+
+- PDQ Bach
+- Jazz
+- Balkan languages
+- VGM, NRT
