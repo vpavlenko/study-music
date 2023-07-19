@@ -28,52 +28,60 @@ https://everynoise.com/ - Alt+Scan
 
 [Misirlou - Oud](https://www.youtube.com/watch?v=ymTnXVKnvPY)
 
-Порядок рассказа:
 
 - Sama'i Bayati Qadim
   - https://www.youtube.com/watch?v=cMVhlhJ9gX8
   - https://www.arabicmusicalscores.com/wp-content/uploads/2018/06/SamaiiBayatQadim_IbrahimMasri_ArabicMusicalScores.pdf
   - https://musescore.com/user/36026841/scores/6471937
-  - with solfege https://www.youtube.com/watch?v=-8O7vtJjkjw
-  - https://www.youtube.com/watch?v=wlhsgm98zU4 quartertone chromatic scale
-  - https://www.youtube.com/watch?v=jZkeuwyG328 quartertone scale on piano
+  - [with solfege](https://www.youtube.com/watch?v=-8O7vtJjkjw)
+
+
+- [Sama'i with notes and thaqil](https://www.youtube.com/@musicechafi/search?query=%D8%B3%D9%85%D8%A7%D8%B9%D9%8A)
+  - [Sama'i Bayati - Marcel Khalife - notes](https://www.youtube.com/watch?v=8uj9SlMsFVI)
+  - [recording](https://www.youtube.com/watch?v=qQFhCVQ_KfI)
+  - [another recording](https://www.youtube.com/watch?v=Z6V6qrglA-0)
+
+[Sama'i Bayati Al-Aryan, guitar](https://www.youtube.com/watch?v=af5ghQLnMgw)
 
 
 - Thaqil
-  - https://youtu.be/kNMTnR4Ed6U?t=24
-  - https://www.youtube.com/watch?v=E-Nv_zyeJOM
-  - https://www.maqamworld.com/en/iqaa/samai_thaqil.php#
+  - [https://youtu.be/kNMTnR4Ed6U?t=24](darbuka)
+  - [https://www.youtube.com/watch?v=E-Nv_zyeJOM](riqq)
+  - [https://www.maqamworld.com/en/iqaa/samai_thaqil.php#](Maqam World)
     - посмотреть Iqa Maqsum, Iqa Wahda
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/c5e0984b-221c-439f-955a-7244a56665ef)
 
 
-
 - Rast
   - [поем с Sami Abu Shumays](https://youtu.be/xN7E1pc8Y2Y?t=82)
+  - [tuner](https://www.onlinemictest.com/tuners/chromatic-tuner/)
 
-- Saba
-
-- Azan
-  - https://www.youtube.com/@mosabalibrahim9753/videos
+[Azan](https://www.youtube.com/@mosabalibrahim9753/videos)
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/0eeeb5d2-a88e-49f4-8958-9af2c1ed3ea2)
 
 - Maqamat
   - [piano + oud + notation, 12 maqams](https://www.youtube.com/watch?v=UbwsCHAZM9E)
+  - [quartertone piano](https://sites.uniarts.fi/web/quartertonepiano/play-online)
+  - [quartertone chromatic scale](https://www.youtube.com/watch?v=wlhsgm98zU4)
+  - [quartertone scale on piano](https://www.youtube.com/watch?v=jZkeuwyG328)
 
-- Ughniya
 
-- Çeçen kızı
-  - https://www.youtube.com/watch?v=YIK1iDXC8TA
+[Çeçen kızı - turkish kanun close-up view](https://www.youtube.com/watch?v=YIK1iDXC8TA)
 
 - Taqsim
   - [Sunbati, Rahat Al-Arwa](https://www.youtube.com/watch?v=CvWT8zfZ0w0)
   - [Huzam taqsim on double bass](https://www.youtube.com/watch?v=TatBgc2cD9s)
   - [Huzam taqsim + Marmar Zamani with painted frets](https://www.youtube.com/watch?v=E0X12oadxCs)
 
+- Jins analysis
+  - [Azan hijaz + bayati](https://maqamlessons.com/analysis/adhanhijaz.html)
+  - [Sama'i Bayati Al-Aryan](https://maqamlessons.com/analysis/samaibayati.html)
+  - [Rast network](Jins analysis)
+
+
 - Backup
-  - https://hmtrad.com/products/arabic-qanun-kanun-used
   - [лекция на Физтехе, 2021](https://telegra.ph/Lekciya-7-TIPM-MFTI-2021-Arabskaya-muzyka-makamat-07-19)
   - [Inta Omri](https://www.youtube.com/watch?v=e7wl1tm35bM)
   - [ноты](https://www.dropbox.com/scl/fi/cfm8ajyvhgg2mnku50uyw/inta_omri.pdf?rlkey=fzx7rsjiyr1x8wxh9rtsn1ds9&dl=0)
@@ -84,6 +92,8 @@ https://everynoise.com/ - Alt+Scan
   - google "azan + [saba/kurd/hijaz/ajam/nahawand/sikah/bayati/rast]"
   - [maqamlessons](https://maqamlessons.com/analysis/index.html) - потом, т.к. jins-анализ это следующая ступень
 
+
+[Outro: Fairouz "Ya Ana"](https://www.youtube.com/watch?v=AjIdXqNeaDk&t=30s)
 
 Hooktheory
 ---
