@@ -27,7 +27,9 @@ https://everynoise.com/ - Alt+Scan
 
 ![D8C54543-2E35-4179-B464-4A8C9A81A09E_2048x2048](https://github.com/vpavlenko/study-music/assets/1491908/de2ba56a-709c-4523-89f5-aa0c8533d4fd)
 
-[Misirlou - Oud](https://www.youtube.com/watch?v=ymTnXVKnvPY)
+- Intro
+  - [Inta Omri by a 6 yo girl](https://www.youtube.com/watch?v=2zifL7SgWXk)
+  - [Misirlou - Oud](https://www.youtube.com/watch?v=ymTnXVKnvPY)
 
 
 - [Sama'i with notes and thaqil](https://www.youtube.com/@musicechafi/search?query=%D8%B3%D9%85%D8%A7%D8%B9%D9%8A)
