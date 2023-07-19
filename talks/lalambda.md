@@ -30,9 +30,9 @@ https://everynoise.com/ - Alt+Scan
 
 
 - Sama'i Bayati Qadim
-  - https://www.youtube.com/watch?v=cMVhlhJ9gX8
-  - https://www.arabicmusicalscores.com/wp-content/uploads/2018/06/SamaiiBayatQadim_IbrahimMasri_ArabicMusicalScores.pdf
-  - https://musescore.com/user/36026841/scores/6471937
+  - [oud + riqq](https://www.youtube.com/watch?v=cMVhlhJ9gX8)
+  - [score](https://www.arabicmusicalscores.com/wp-content/uploads/2018/06/SamaiiBayatQadim_IbrahimMasri_ArabicMusicalScores.pdf)
+  - [musescore](https://musescore.com/user/36026841/scores/6471937)
   - [with solfege](https://www.youtube.com/watch?v=-8O7vtJjkjw)
 
 
@@ -41,13 +41,13 @@ https://everynoise.com/ - Alt+Scan
   - [recording](https://www.youtube.com/watch?v=qQFhCVQ_KfI)
   - [another recording](https://www.youtube.com/watch?v=Z6V6qrglA-0)
 
-[Sama'i Bayati Al-Aryan, guitar](https://www.youtube.com/watch?v=af5ghQLnMgw)
+- [Sama'i Bayati Al-Aryan, guitar](https://www.youtube.com/watch?v=af5ghQLnMgw)
 
 
 - Thaqil
-  - [https://youtu.be/kNMTnR4Ed6U?t=24](darbuka)
-  - [https://www.youtube.com/watch?v=E-Nv_zyeJOM](riqq)
-  - [https://www.maqamworld.com/en/iqaa/samai_thaqil.php#](Maqam World)
+  - [darbuka](https://youtu.be/kNMTnR4Ed6U?t=24)
+  - [riqq](https://www.youtube.com/watch?v=E-Nv_zyeJOM)
+  - [Maqam World](https://www.maqamworld.com/en/iqaa/samai_thaqil.php)
     - посмотреть Iqa Maqsum, Iqa Wahda
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/c5e0984b-221c-439f-955a-7244a56665ef)
@@ -57,9 +57,7 @@ https://everynoise.com/ - Alt+Scan
   - [поем с Sami Abu Shumays](https://youtu.be/xN7E1pc8Y2Y?t=82)
   - [tuner](https://www.onlinemictest.com/tuners/chromatic-tuner/)
 
-[Azan](https://www.youtube.com/@mosabalibrahim9753/videos)
-
-![image](https://github.com/vpavlenko/study-music/assets/1491908/0eeeb5d2-a88e-49f4-8958-9af2c1ed3ea2)
+- [Azan](https://www.youtube.com/@mosabalibrahim9753/videos)
 
 - Maqamat
   - [piano + oud + notation, 12 maqams](https://www.youtube.com/watch?v=UbwsCHAZM9E)
