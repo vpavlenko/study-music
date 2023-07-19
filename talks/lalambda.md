@@ -62,7 +62,7 @@ https://everynoise.com/ - Alt+Scan
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/c5e0984b-221c-439f-955a-7244a56665ef)
 
 
-Поем с Sami Abu Shumays
+- Поем с Sami Abu Shumays
   - [bayati](https://youtu.be/oNbFbxwepgQ?t=127)
   - [rast](https://youtu.be/xN7E1pc8Y2Y?t=82)
   - [tuner](https://www.onlinemictest.com/tuners/chromatic-tuner/)
