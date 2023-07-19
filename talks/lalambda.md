@@ -66,7 +66,7 @@ https://everynoise.com/ - Alt+Scan
   - [quartertone scale on piano](https://www.youtube.com/watch?v=jZkeuwyG328)
 
 
-[Çeçen kızı - turkish kanun close-up view](https://www.youtube.com/watch?v=YIK1iDXC8TA)
+- [Çeçen kızı - turkish kanun close-up view](https://www.youtube.com/watch?v=YIK1iDXC8TA)
 
 - Taqsim
   - [Sunbati, Rahat Al-Arwa](https://www.youtube.com/watch?v=CvWT8zfZ0w0)
