@@ -14,6 +14,7 @@ https://everynoise.com/ - Alt+Scan
 - выписанные irama в manyar sewu: https://www.youtube.com/watch?v=I2xY8oY1qXY 
 - manyar sewu pelog + saron imbalan: https://www.youtube.com/watch?v=NzMNT2ne6qg
 - Другое произведение: https://www.youtube.com/watch?v=aMIXKIcorTA
+- [ещё материалы](https://github.com/vpavlenko/study-music/blob/main/parts/gamelan.md)
 
 
 
