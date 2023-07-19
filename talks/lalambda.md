@@ -76,7 +76,7 @@ https://everynoise.com/ - Alt+Scan
 - Jins analysis
   - [Azan hijaz + bayati](https://maqamlessons.com/analysis/adhanhijaz.html)
   - [Sama'i Bayati Al-Aryan](https://maqamlessons.com/analysis/samaibayati.html)
-  - [Rast network](Jins analysis)
+  - [Rast network](https://maqamlessons.com/analysis/rast.html)
 
 
 - Backup
