@@ -56,13 +56,21 @@ https://everynoise.com/ - Alt+Scan
 
 - Azan
   - https://www.youtube.com/@mosabalibrahim9753/videos
- 
-- Hijaz
-  - 
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/0eeeb5d2-a88e-49f4-8958-9af2c1ed3ea2)
 
+- Maqamat
+  - [piano + oud + notation, 12 maqams](https://www.youtube.com/watch?v=UbwsCHAZM9E)
 
+- Ughniya
+
+- Çeçen kızı
+  - https://www.youtube.com/watch?v=YIK1iDXC8TA
+
+- Taqsim
+  - [Sunbati, Rahat Al-Arwa](https://www.youtube.com/watch?v=CvWT8zfZ0w0)
+  - [Huzam taqsim on double bass](https://www.youtube.com/watch?v=TatBgc2cD9s)
+  - [Huzam taqsim + Marmar Zamani with painted frets](https://www.youtube.com/watch?v=E0X12oadxCs)
 
 - Backup
   - https://hmtrad.com/products/arabic-qanun-kanun-used
