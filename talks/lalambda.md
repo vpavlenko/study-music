@@ -119,7 +119,7 @@ Hooktheory
 - Caplin
   - cadence: [1.2](http://www.music.mcgill.ca/acf/example1-2.php), [2.22](http://www.music.mcgill.ca/acf/example2-22.php)
   - [sequence](http://www.music.mcgill.ca/acf/example1-3.php)
-  - [sentence]: 1-2, 13-21, 23-35
+  - [sentence](http://www.music.mcgill.ca/acf/example2-1.php): 1-2, 13-21, 23-35
 
 
 
