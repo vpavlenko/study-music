@@ -95,24 +95,36 @@ https://everynoise.com/ - Alt+Scan
 
 - [Outro: Fairouz "Ya Ana"](https://www.youtube.com/watch?v=AjIdXqNeaDk&t=30s)
 
-Hooktheory
----
+22 июля, аккорды в рок/поп музыке
+===
 
-- https://book-one.hooktheory.com/section/relative-notation
+Hooktheory
+- [первая книга](https://book-one.hooktheory.com/section/relative-notation)
+- [вторая книга](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
 - https://www.hooktheory.com/trends#key=C&scale=major&path=1.3.6.4
 
+Порядок обсуждения:
+- мажор, аккорды в мажоре
+- минор
+- побочная доминанта
+- септаккорды
+- лады
 
-Rawl
----
+Первая часть пятой сонаты Бетховена
+===
 
-https://rawl.vercel.app/
+- https://rawl.vercel.app/
+- Caplin
+  - [cadence](http://www.music.mcgill.ca/acf/example1-2.php)
+  - [sequence](http://www.music.mcgill.ca/acf/example1-3.php)
 
 
 
-Plan for talk 2
+Backup plan
 ===
 
 - PDQ Bach
 - Jazz
 - Balkan languages
 - VGM, NRT
+- Potpourri
