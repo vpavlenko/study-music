@@ -115,7 +115,7 @@ Hooktheory
 
 [Glenn Gould](https://www.youtube.com/watch?v=LRmkr0Zh1Z8)
 
-- https://rawl.vercel.app/edit?a=beethoven_op10no1mov1
+- https://rawl.vercel.app/
 - Caplin
   - cadence: [1.2](http://www.music.mcgill.ca/acf/example1-2.php), [2.22](http://www.music.mcgill.ca/acf/example2-22.php)
   - [sequence](http://www.music.mcgill.ca/acf/example1-3.php)
