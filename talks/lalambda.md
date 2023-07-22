@@ -121,13 +121,8 @@ Hooktheory
   - [sequence](http://www.music.mcgill.ca/acf/example1-3.php)
   - [sentence](http://www.music.mcgill.ca/acf/example2-1.php): 1-2, 13-21, 23-35
 
-
-
-Backup plan
+Hydra
 ===
 
-- PDQ Bach
-- Jazz
-- Balkan languages
-- VGM, NRT
-- Potpourri
+https://hydra.ojack.xyz/
+
