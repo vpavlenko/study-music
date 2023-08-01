@@ -59,6 +59,7 @@ Advanced form
 - Nicholas Stoia. Sweet Thing The History and Musical Structure of a Shared American Vernacular Form
 - The Cambridge Companion to the Symphony
 - [Contemplating Caplin](https://www.erudit.org/en/journals/is/2010-v31-n1-is0113/)
+- Charles Rosen. Sonata Forms
 
 
 Books on individual composers and pieces
