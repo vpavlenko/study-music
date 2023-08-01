@@ -53,13 +53,13 @@ Advanced form
 - [Andrew Davis. Sonata Fragments. Romantic Narratives in Chopin, Schumann, and Brahms](https://www.amazon.com/Sonata-Fragments-Romantic-Narratives-Interpretation/dp/0253028930)
 - [Steven Craig Cannon. Sonata Form in the Nineteenth-Century Symphony](https://emusicology.org/article/view/4956/4502)
 - [**Schenkerian analysis**](parts/schenkerian_analysis.md)
-- [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (is this actually about form, or is it vaguely musicological?)
-
-<img width="755" alt="Screenshot 2023-04-07 at 12 51 58" src="https://user-images.githubusercontent.com/1491908/230577232-46601926-c3c2-4d30-95cb-493fc6561558.png">
 - Nicholas Stoia. Sweet Thing The History and Musical Structure of a Shared American Vernacular Form
 - The Cambridge Companion to the Symphony
 - [Contemplating Caplin](https://www.erudit.org/en/journals/is/2010-v31-n1-is0113/)
 - Charles Rosen. Sonata Forms
+- [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (is this actually about form, or is it vaguely musicological?)
+
+<img width="755" alt="Screenshot 2023-04-07 at 12 51 58" src="https://user-images.githubusercontent.com/1491908/230577232-46601926-c3c2-4d30-95cb-493fc6561558.png">
 
 
 Books on individual composers and pieces
