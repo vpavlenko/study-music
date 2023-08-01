@@ -75,6 +75,12 @@ Books on individual composers and pieces
  
 <img width="467" alt="Screenshot 2023-05-04 at 10 20 02" src="https://user-images.githubusercontent.com/1491908/236125752-b40d00b5-de15-47eb-8607-0a2adc71e3f1.png">
 
+- [Michele Kishlansky. Sonata Form in Beethoven's Sixth Symphony](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1329&context=cc_etds_theses)
+
+<img width="600" alt="Screenshot 2023-08-01 at 18 16 03" src="https://github.com/vpavlenko/study-music/assets/1491908/7ae44bb6-7262-4ff2-b637-6d33d0af4736">
+
+ 
+
 Wagner
 ---
 
