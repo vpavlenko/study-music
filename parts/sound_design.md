@@ -38,3 +38,5 @@ Also, historically there was a number of environments to do sound synthesis with
 - the oxford handbook of timbre
 
 - Алексей Насретдинов. Физика и анатомия звука
+
+- [R-Synth](https://deibid.github.io/r-synth/index.html) - a random synth generator
