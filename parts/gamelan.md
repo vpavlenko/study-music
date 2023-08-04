@@ -54,6 +54,8 @@ Misc
 
 - [🎥 Narno Suseno. Singing lessons](https://www.youtube.com/@narnosuseno5858)
 
+- https://celanajaya.github.io/vGamelan/
+
 Modern pieces for gamelan
 ---
 
