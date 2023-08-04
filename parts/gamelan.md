@@ -56,6 +56,8 @@ Misc
 
 - https://celanajaya.github.io/vGamelan/
 
+- https://github.com/zhejny/webaudio-kendang-metronome
+
 Modern pieces for gamelan
 ---
 
@@ -74,3 +76,9 @@ Find a gamelan ensemble in your city, come and learn to play it. You can instant
 - https://en.wikipedia.org/wiki/Gamelan_outside_Indonesia
 
 
+Free gamelan samples
+---
+
+- https://jsimonvanderwalt.com/2020/12/14/gamelan-samples/
+- https://github.com/celanajaya/kotekanator
+- https://wiki.laptop.org/go/Free_sound_samples
