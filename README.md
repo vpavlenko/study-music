@@ -28,7 +28,7 @@ Where to start
 15. Find your favourite tempo of [Chopin's Funeral March ⚰️](https://tuttitempi.com/#scoreId=U00000578581&from=0.5622&to=0.8122&youtube=1&spotify=0&muziekweb=0)
 16. 🤖 Rate AI demos: [Magenta](https://magenta.tensorflow.org/demos/), [MusicLM](https://google-research.github.io/seanet/musiclm/examples/), [LakhNES](https://chrisdonahue.com/LakhNES/), [Muzic](https://ai-muzic.github.io/), [Jazz Transformer](https://drive.google.com/drive/folders/1-EeV02jvRftdvwWXa0KpoMvyRQaXUJ0W)
 17. Stare at visualizations: [**classical**](parts/classical_visualizations.md), [**jazz harmony**](parts/jazz_harmony_visualizations.md) and [**jazz solos**](parts/jazz_solo_visualizations.md)
-18. Immerse yourself in [the Tone.js demos](https://tonejs.github.io/demos)
+18. Immerse yourself in [the Tone.js demos](https://tonejs.github.io/demos), especially [Chrome Music Lab](https://musiclab.chromeexperiments.com/)
 
 
 Western music languages
