@@ -9,11 +9,19 @@ Where to start
 
 <img src="https://user-images.githubusercontent.com/1491908/220568166-377d3637-b5f6-45a9-906c-a8e4a21c3778.jpg" width="200" align="right">
 
+**Play**
+1. [Pentatonic sequencer](https://www.maxlaumeister.com/tonematrix/)
+2. [Music Mouse 🐭](https://teropa.info/musicmouse/)
 
+
+**Interact**
+
+**Wander around**
+
+**Misc**
 1. Go through [Ableton's guide on music](https://learningmusic.ableton.com/) and [Ableton's guide on synths](https://learningsynths.ableton.com/)
 2. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab): search for your favorite songs and anime openings. Honestly [both of their books](https://hooktheory.com/affiliate/275-2-3-1.html) are top-notch and well worth the money
 3. Play around with Bartosz Ciechanowski's [visualizations](https://ciechanow.ski/sound/) on the essence of sound
-3. Make some music with [the Music Mouse 🐭](https://teropa.info/musicmouse/)
 4. See a demo of [Nopia 🎹](https://www.youtube.com/watch?v=Ivuy9QYLFVY)
 9. Wander through [Ishkur's evolution of electronic music](https://music.ishkur.com/)
 7. 🍿 Listen to two-chord changes typical for movie soundtracks: [LP](https://www.youtube.com/watch?v=I33UqUhKE10), [H](https://www.youtube.com/watch?v=_LCDlv33y4M), [T6](https://www.youtube.com/watch?v=0V1Mfmdt8lA), [S](https://www.youtube.com/watch?v=rfYU1F0pJik), [F and N](https://www.youtube.com/watch?v=tHs3gdouz68)
