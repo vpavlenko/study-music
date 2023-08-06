@@ -48,7 +48,8 @@ Where to start
 
 
 **Sing**
-1. Try to sing phrases in [an Arabic microtonal scale](https://www.youtube.com/watch?v=xN7E1pc8Y2Y&list=PLcfDkfaWrWRRcgUawWPz4bdL0Co17rphx)
+1. [Arabic maqamat](https://www.youtube.com/watch?v=xN7E1pc8Y2Y&list=PLcfDkfaWrWRRcgUawWPz4bdL0Co17rphx)
+2. [Indonesian gamelan](https://www.youtube.com/watch?v=99GFmJmiwZA)
 
 
 
