@@ -13,3 +13,10 @@ Sound
 4. Anthem Score: which files to open?
 5. Discuss the basic sequence: https://beatbucket.io/
 6. RipX, demucs, [**transcription**](../parts/transcription.md)
+
+Where to go next
+---
+
+Start discussing basic structures like chords and arpeggios on other Music Labs.
+
+Discuss Music Mouse.
