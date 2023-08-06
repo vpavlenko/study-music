@@ -11,4 +11,5 @@ Sound
    - https://musiclab.chromeexperiments.com/Strings/
    - https://musiclab.chromeexperiments.com/Oscillators/
 4. Anthem Score: which files to open?
-5. RipX, demucs, [**transcription**](../parts/transcription.md)
+5. Discuss the basic sequence: https://beatbucket.io/
+6. RipX, demucs, [**transcription**](../parts/transcription.md)
