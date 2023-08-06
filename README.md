@@ -22,7 +22,7 @@ Where to start
 
 
 **Wander around**
-1. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab): search for your favorite songs and anime openings. Honestly [both of their books](https://hooktheory.com/affiliate/275-2-3-1.html) are top-notch and well worth the money
+1. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab): search for your favorite songs and anime openings. 
 1. [Ishkur's evolution of electronic music](https://music.ishkur.com/)
 12. Press "scan" at [Every Noise 🌐](https://everynoise.com/)
 15. [TuttiTempi: Chopin's Funeral March ⚰️](https://tuttitempi.com/#scoreId=U00000578581&from=0.5622&to=0.8122&youtube=1&spotify=0&muziekweb=0)
@@ -30,8 +30,13 @@ Where to start
 
 
 **Watch**
-1. How a track emerges [on the OP-1 🎛️](https://www.youtube.com/watch?v=lu5XB1Y2rHk), [in a studio with live instruments 🎻](https://www.youtube.com/watch?v=4CGBfbB4g0Y), [on a vocal looper 🎤](https://youtu.be/nvIGCMhjkvw?t=39), [in TidalCycles 💻](https://youtu.be/etAZbQtggSQ?t=124). Also, [a Piano Phase jam in TidalCycles](https://www.youtube.com/watch?v=Hc-lcAajQxo)
-2. [Ravel's Bolero](https://www.youtube.com/watch?v=4p-mwp0nNac)
+1. How a track emerges:
+   - [on the OP-1 🎛️](https://www.youtube.com/watch?v=lu5XB1Y2rHk)
+   - [in a studio with live instruments 🎻](https://www.youtube.com/watch?v=4CGBfbB4g0Y)
+   - [on a vocal looper 🎤](https://youtu.be/nvIGCMhjkvw?t=39)
+   - [in TidalCycles 💻](https://youtu.be/etAZbQtggSQ?t=124)
+   - Also, [a Piano Phase jam in TidalCycles](https://www.youtube.com/watch?v=Hc-lcAajQxo)
+3. [Ravel's Bolero](https://www.youtube.com/watch?v=4p-mwp0nNac)
 2. [The Art of Mixing 🎚️](https://youtu.be/TEjOdqZFvhY?t=25)
 4. [Nopia 🎹](https://www.youtube.com/watch?v=Ivuy9QYLFVY) - a chord-based synthesizer
 2. 🍿 Two-chord changes typical for movie soundtracks: [LP](https://www.youtube.com/watch?v=I33UqUhKE10), [H](https://www.youtube.com/watch?v=_LCDlv33y4M), [T6](https://www.youtube.com/watch?v=0V1Mfmdt8lA), [S](https://www.youtube.com/watch?v=rfYU1F0pJik), [F and N](https://www.youtube.com/watch?v=tHs3gdouz68)
@@ -39,6 +44,7 @@ Where to start
 
 
 **Read**
+1. [📚 Hooktheory 📚](https://hooktheory.com/affiliate/275-2-3-1.html) - interactive books on pop harmony. A must-read for anyone
 1. [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/pdf/en-us/the-whole-enchilada-set.pdf) 
 1. Dig into the structure of [Beethoven's sonata #5 movement #1](https://rawl.vercel.app/edit?a=beethoven_op10no1mov1), also see what we as a society [**know about it**](parts/beethoven_op10no1mov1.md).
 17. Visualizations: [**classical**](parts/classical_visualizations.md), [**jazz harmony**](parts/jazz_harmony_visualizations.md) and [**jazz solos**](parts/jazz_solo_visualizations.md)
