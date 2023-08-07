@@ -28,6 +28,10 @@ Other NN approaches for related things (GAN, VAE, RNNs, LSTMs)
 More
 ----
 
+- [A Comprehensive Survey on Deep Music Generation:
+Multi-level Representations, Algorithms, Evaluations, and
+Future Directions
+SHULEI JI, JING LUO, and XINYU YANG](https://arxiv.org/pdf/2011.06801.pdf)
 - [🎥 Music + AI Reading Group](https://www.youtube.com/@musicaireadinggroup945/videos)
 - https://arxiv.org/html/1706.08675
 - https://rafaelramirez8.wixsite.com/mml2020
