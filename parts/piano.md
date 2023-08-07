@@ -46,3 +46,9 @@ Misc
 - [Scott McBride Smith. Expressive piano technic: basics of healthy movement, technic and interpretation](https://dergipark.org.tr/en/download/article-file/1922155)
 
 - [Iñaki Sandoval Campillo. In Your Own Sweet Way: A Study of Effective Habits of Practice for Jazz Pianists](https://www.tdx.cat/bitstream/handle/10803/129393/isc1de1.pdf)
+
+- [SKRYABIN, RAKHMANINOV, AND PROKOFIEV
+AS COMPOSER-PIANISTS:
+THE RUSSIAN PIANO TRADITION, AESTHETICS,
+AND PERFORMANCE PRACTICES
+John Anthony Rego](https://www.cglib.org/wp-content/uploads/cglib.org/Musicology/Skryabin,%20Rakhmaninov,%20and%20Prokofiev%20as%20composer-pianists%20the%20russian%20piano%20tradition,%20aesthetics,%20and%20performance%20practices.pdf)
