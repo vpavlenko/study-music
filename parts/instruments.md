@@ -18,4 +18,4 @@ Computer-based
 - https://mynoise.net/NoiseMachines/blackLyraSoundscapeGenerator.php
 - [Hyperscore](https://www.youtube.com/watch?v=X4_KE0DMshY&list=PLdyToMyKUg3cQIcWGyCJGwA2ATtbxbKpk) - an old software for kids to compose music. Has interesting concepts
 - https://muted.io/music-tools/
-- [Melodymorph](https://www.ericrosenbaum.com/#/melodymorph/)
+- Eric Rosenbaum: [Melodymorph](https://www.ericrosenbaum.com/#/melodymorph/), [Singing Fingers](https://www.ericrosenbaum.com/#/singing-fingers/), [Musical Painting](https://www.ericrosenbaum.com/#/musical-paintings/)
