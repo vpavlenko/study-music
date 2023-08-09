@@ -20,3 +20,4 @@ Computer-based
 - https://muted.io/music-tools/
 - Eric Rosenbaum: [Melodymorph](https://www.ericrosenbaum.com/#/melodymorph/), [Singing Fingers](https://www.ericrosenbaum.com/#/singing-fingers/), [Musical Painting](https://www.ericrosenbaum.com/#/musical-paintings/), [a thesis](https://static1.squarespace.com/static/561c2019e4b0ee65a89cee14/t/580e408cbe6594278d2616d6/1477329067597/rosenbaum-musical-tinkering-dissertation.pdf)
 - [Plink](https://plink.in/) - pentatonic real-time collaborative jam
+- [WebAudio Drum Machine](https://webaudiodemos.appspot.com/MIDIDrums/index.html)
