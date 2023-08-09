@@ -9,6 +9,7 @@ Where to start
 **Play**
 1. [Pentatonic sequencer](https://www.maxlaumeister.com/tonematrix/)
 2. [Music Mouse 🐭](https://teropa.info/musicmouse/)
+3. [Drum Machine 🥁](https://webaudiodemos.appspot.com/MIDIDrums/index.html)
 
 
 **Interact**
