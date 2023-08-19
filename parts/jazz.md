@@ -15,6 +15,8 @@ Jazz piano
 - [Mark Levine. The Jazz Piano Book](https://amzn.to/3uQwd2Q) and also [Mark Levine. The Jazz Theory Book](https://amzn.to/3uVHVt1)
 - [Oscar Peterson. Jazz Exercises, Minuets, Etudes & Pieces for Piano](https://amzn.to/3GQFDOe)
 - [Charlie Banacos](https://en.wikipedia.org/wiki/Charlie_Banacos)
+- John Valerio. Post-bop
+- Modern Jazz Theory and Practice: The Post-Bop Era - Book with Online Audio by Steve Rochinski
 
 Jazz composers
 ---
