@@ -5,3 +5,4 @@ Indian Classical Music
 - [CompMusic](https://compmusic.upf.edu/publications) - search for "Carnatic" and "Hindustani"
 - https://www.behance.net/gallery/44776267/Carnatic-Music-Theory-Data-Visualisation
 - [Saraga: Open Datasets for Research on Indian Art Music](https://emusicology.org/index.php/EMR/article/view/7641/6263)
+- John McLaughlin on Konnakol
