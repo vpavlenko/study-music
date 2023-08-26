@@ -10,7 +10,7 @@ Digital composition
 
 ![image](https://user-images.githubusercontent.com/1491908/153887377-bff76caf-d83e-4675-83d1-b7c79f251212.png)
 
-[Similar tools](https://chat.openai.com/share/78a6cd51-8857-432f-8320-928e1ebe1863): RapidComposer, Orb Composer, ChordChord, Captain Chords Epic, Scaler. See [YouTube comparisons](https://www.youtube.com/watch?v=qXtwep8PhD4)
+[Similar tools](https://chat.openai.com/share/78a6cd51-8857-432f-8320-928e1ebe1863): RapidComposer, Orb Composer, ChordChord, Captain Chords Epic, Scaler, ChordPotion, Phrasebox. See [YouTube comparisons](https://www.youtube.com/watch?v=qXtwep8PhD4)
 
 - [V.J. Manzo, Will Kuhn. Interactive Composition: Strategies Using Ableton Live and Max for Live](https://amzn.to/3gOvIy0)
 
