@@ -1,13 +1,8 @@
-
-
 Digital composition
----
+===
 
 - [Ableton Guide: Learning Music](https://learningmusic.ableton.com/)
 
-- [Tidal Cycles](https://tidalcycles.org/) - A live coding environment with a painful setup that allows you to compose loops using code. Useful for very tricky rhythmic patterns. [Watch](https://www.youtube.com/watch?v=pS24J_cQM-o) [people](https://www.youtube.com/watch?v=XyfPEwdrHAQ) [doing](https://www.youtube.com/watch?v=1YADa-DSQT8) [it](https://www.youtube.com/watch?v=TB0AQ9RRqO0&list=PLKgxw7RG3hcQ84G6jiSA46mk3mPjX97Xo). Also look at [Hydra](https://hydra.ojack.xyz/) to code visuals for your algorave. Also [a book](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992) edited by its creator describing the algorithmic landscape.
-
-<img width="600" alt="Screenshot 2022-01-21 at 2 25 02 PM" src="https://user-images.githubusercontent.com/1491908/150519151-8e4fe664-80f7-42a5-98f4-fffb69c0d865.png">
 
 - [Against The Clock](https://www.youtube.com/watch?v=BSs4TMpSwuw&list=PLg5ScSqSDXsvXVvNqW42AjfOmPjIupYZH) - Electronic musicians are asked to create a track in 10 minutes.
 
@@ -15,7 +10,7 @@ Digital composition
 
 ![image](https://user-images.githubusercontent.com/1491908/153887377-bff76caf-d83e-4675-83d1-b7c79f251212.png)
 
-[Similar tools](https://chat.openai.com/share/78a6cd51-8857-432f-8320-928e1ebe1863): RapidComposer, Orb Composer, ChordChord, Captain Chords, Scaler
+[Similar tools](https://chat.openai.com/share/78a6cd51-8857-432f-8320-928e1ebe1863): RapidComposer, Orb Composer, ChordChord, Captain Chords Epic, Scaler. See [YouTube comparisons](https://www.youtube.com/watch?v=qXtwep8PhD4)
 
 - [V.J. Manzo, Will Kuhn. Interactive Composition: Strategies Using Ableton Live and Max for Live](https://amzn.to/3gOvIy0)
 
@@ -40,7 +35,6 @@ Digital composition
 
 <img width="462" alt="Screenshot 2023-05-26 at 00 31 32" src="https://github.com/vpavlenko/study-music/assets/1491908/13390ca7-2083-481e-acd2-a9455b305be3">
 
-
 - [Flucoma](https://www.flucoma.org/)
 
 - Dennis DeSantis. Making Music. 74 Creative Strategies for Electronic Music Producers
@@ -58,7 +52,7 @@ Roughly, there are three types of tools to produce music (listed in descending p
 
 Inside the “text-based programming languages” group, SuperCollider seems to be the most popular _among low-level_. That is, there are high-level languages sitting on top of SuperCollider like TidalCycles or Sonic Pi which may be more popular and more modern and more useful for livecoding. There’s probably [one for your favorite programming language](https://github.com/toplap/awesome-livecoding#languages).
 
-Reddit sizes:
+Reddit community sizes:
 - Ableton 333k members
 - Max/MSP 11k
 - PureData 5.9k
@@ -66,6 +60,11 @@ Reddit sizes:
 - TidalCycles 815
 
 Also, [OpenMusic](http://repmus.ircam.fr/openmusic/home)
+
+- [Tidal Cycles](https://tidalcycles.org/) - A live coding environment with a painful setup that allows you to compose loops using code. Useful for very tricky rhythmic patterns. [Watch](https://www.youtube.com/watch?v=pS24J_cQM-o) [people](https://www.youtube.com/watch?v=XyfPEwdrHAQ) [doing](https://www.youtube.com/watch?v=1YADa-DSQT8) [it](https://www.youtube.com/watch?v=TB0AQ9RRqO0&list=PLKgxw7RG3hcQ84G6jiSA46mk3mPjX97Xo). Also look at [Hydra](https://hydra.ojack.xyz/) to code visuals for your algorave. Also [a book](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992) edited by its creator describing the algorithmic landscape. Also [Strudel](https://strudel.tidalcycles.org/)
+
+<img width="600" alt="Screenshot 2022-01-21 at 2 25 02 PM" src="https://user-images.githubusercontent.com/1491908/150519151-8e4fe664-80f7-42a5-98f4-fffb69c0d865.png">
+
 
 More
 ---
