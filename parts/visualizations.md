@@ -38,3 +38,6 @@ More
 - https://www.musicprocessing.net/features/analysis/
 - Roberto De Prisco, Delfina Malandrino, Donato Pirozzi, Gianluca Zaccagnino and Rocco Zaccagnino. Understanding the structure of musical compositions: Is visualization an effective approach?
 - https://www.youtube.com/@CERMAA-VIAMAP
+
+![image](https://github.com/vpavlenko/study-music/assets/1491908/b65558f2-a410-43ca-9815-9e734840b46b)
+
