@@ -21,3 +21,5 @@ Where to go next
 Start discussing basic structures like chords and arpeggios on other Music Labs.
 
 Discuss Music Mouse.
+
+<img width="571" alt="Screenshot 2023-08-29 at 19 33 04" src="https://github.com/vpavlenko/study-music/assets/1491908/24f18fa6-3232-47f5-accc-4fe491a3575e">
