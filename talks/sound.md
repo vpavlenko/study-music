@@ -14,6 +14,7 @@ Sound
 4. Anthem Score: which files to open?
 5. Discuss the basic sequence: https://beatbucket.io/
 6. RipX, demucs, [**transcription**](../parts/transcription.md)
+7. First chapters of David Huron. Voice Leading
 
 Where to go next
 ---
