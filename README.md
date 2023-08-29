@@ -10,7 +10,7 @@ Where to start
 1. [Pentatonic sequencer](https://www.maxlaumeister.com/tonematrix/)
 2. [Music Mouse 🐭](https://teropa.info/musicmouse/)
 3. [Drum Machine 🥁](https://webaudiodemos.appspot.com/MIDIDrums/index.html)
-4. [Chord Player](https://www.onemotion.com/chord-player/)
+4. [Chord Player](https://www.onemotion.com/chord-player/) (check out "Melody" and "Explore" tabs)
 
 
 **Interact**
