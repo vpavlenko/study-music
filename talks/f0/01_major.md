@@ -27,7 +27,7 @@
    - [Pachelbel's Canon on Hooktheory](https://www.google.com/search?q=hooktheory+pachelbel)
    - [Lenka "Trouble is a Friend"](https://www.hooktheory.com/theorytab/view/lenka/trouble-is-a-friend?node=1.5.6.3#chorus)
    - Try [Chord Crush](https://chordcrush.hooktheory.com/)
-6. Misery
+6. [The Beatles - Misery](https://www.youtube.com/watch?v=rnryrBSk1t0)
    - [Rawl](https://rawl.vercel.app/edit?a=beatles_misery)
    - [midi](https://freemidi.org/getter-1062)
    - [sheet music](https://www.dropbox.com/scl/fi/s92wqwqs32izu7fug4396/The-Beatles-Misery.pdf?rlkey=eo2tqvyw2hyw9xt1fgf6fezo2&dl=0)
@@ -40,7 +40,7 @@
    - [Bo Diddley - one-chord song](https://youtu.be/3jrIK7YB0tE?si=-InFVqmur0BIY66p&t=5)
    - [Two-chord shuttles](https://www.youtube.com/watch?v=zpURr5COwI4&t=23s)
    - [Four-chord progressions](https://youtu.be/v3YbEL-_eoI?si=oJyQKvveD3MLgQ_q&t=455&list=PLlx2eo2tD6KpfGmE-MXwcIRQh21neAKsK)
-9. A Lover's Concerto
+9. [The Toys - A Lover's Concerto](https://www.youtube.com/watch?v=FmJ1AqtTuyo)
    - [source](https://en.wikipedia.org/wiki/Minuets_in_G_major_and_G_minor), [video analysis in Spanish](https://youtu.be/1XofQPRQGmE?si=iuBxcIL1kHPO11qK), [Roman numeral analysis on music sheet](https://musescore.com/user/9361256/scores/6809844), [many arrangements](https://musescore.com/sheetmusic?text=lover%27s%20concerto), [ukulele cover](https://youtu.be/oaFVxuBCwQ8?si=mXdm-8jxlk7VVhce&t=25)
    - type into Hookpad, discuss harmonization
    - briefly discuss other arrangements
