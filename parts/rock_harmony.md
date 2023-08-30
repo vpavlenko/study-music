@@ -42,6 +42,7 @@ Particular musicians and bands
 - Every song is analyzed by Alan W. Pollack in [Notes On...](https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml) series
 - Walter Everett. The Beatles as Musicians
 - Dominic Pedler. The Songwriting Secrets Of The Beatles
+- [Beabliography](https://www.icce.rug.nl/~soundscapes/BEAB/index.shtml)
 
 
 Progressive rock
