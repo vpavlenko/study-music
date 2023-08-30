@@ -2,9 +2,8 @@
 ## Order
 
 1. Warm up
-   - ask which songs are in minor vs major
-   - differentiate major from minor by ear: [everynoise with Alt+scan](https://everynoise.com/)
-   - name a genre where songs are mostly in minor / major
+   - is it minor or major: [everynoise with Alt+scan](https://everynoise.com/)
+   - name a genre where songs are mostly in minor / major. [gpt4](https://chat.openai.com/share/c42d5aea-0f71-43ae-9d8a-5071d8d48594)
 2. [Hooktheory: book one](https://book-one.hooktheory.com/), chapter 1
    - After 1.2:
       - All major scales: https://muted.io/major-minor-scales/
