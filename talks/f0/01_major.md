@@ -13,13 +13,13 @@
    - [Songs with I-V-I-V-I in C major](https://www.hooktheory.com/trends#key=C&scale=major&path=1.5.1.5.1)
    - [Songs with I-IV-I-IV-I in C major](https://www.hooktheory.com/trends#key=C&scale=major&path=1.4.1.4.1)
    - Guessing game: I pick one song from either list
-3. [OneMotion Chord Player](https://www.onemotion.com/chord-player/) - how to make tracks in major
 3. Саратовская гармонь
    - [концерт 2011](https://youtu.be/AbdaIB0TLoQ?si=Xp3zuLbAAibLtbHz)
    - [звукоряд](https://www.youtube.com/watch?v=Y88wSnNfhwM)
    - <img width="400" alt="Screenshot 2023-08-28 at 18 38 03" src="https://github.com/vpavlenko/study-music/assets/1491908/37c19941-17ea-4d43-8df8-153ec7eac921">
    - [в лесу родилась ёлочка](https://www.youtube.com/watch?v=KPJxInrMvbY)
    - type this song into Hookpad, discuss harmonization
+3. [OneMotion Chord Player](https://www.onemotion.com/chord-player/) - how to make tracks in major
 3. [Hooktheory, book one, ch. 2](https://book-one.hooktheory.com/section/the-I-chord-home-base)
    - [Autoharp](https://youtu.be/TQKdCXyX9y4?si=FJb3KVTO2T_YjShy) - what do buttons do?
    - [close-up](https://www.etsy.com/listing/632396472/the-favorite-autoharp-early-1900s)
@@ -28,15 +28,15 @@
    - [Pachelbel's Canon on Hooktheory](https://www.google.com/search?q=hooktheory+pachelbel)
    - [Lenka "Trouble is a Friend"](https://www.hooktheory.com/theorytab/view/lenka/trouble-is-a-friend?node=1.5.6.3#chorus)
    - Try [Chord Crush](https://chordcrush.hooktheory.com/)
-6. The Beatles, tracks from "Please Please Me"
+6. The Beatles
    - discuss "Misery": emotions, arrangement
       - [midi](https://freemidi.org/getter-1062)
       - show in [signal](https://signal.vercel.app/)
       - import into Hooktheory
       - [piano arrangement](https://www.youtube.com/watch?v=ccMntzs6gYo)
-   - maybe briefly discuss all others
-   - [spreadsheet](https://docs.google.com/spreadsheets/d/10xItzWoKcwdQX84kCBK22peyFgXcoUhTqAHO6Zad68A/edit?usp=sharing)
+   - [Please Please Me](https://docs.google.com/spreadsheets/d/10xItzWoKcwdQX84kCBK22peyFgXcoUhTqAHO6Zad68A/edit?usp=sharing)
    - [all arrangements](https://www.dropbox.com/scl/fi/hwiq4n155w64cqk0iuwm5/The-Beatles-Complete-Scores-Hal-Leonard-Corporation-1993.pdf?rlkey=mw12j767gcxvi0bv0d5byqvd1&dl=0)
+   - [all analyses](https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml)
 8. A Lover's Concerto:
    - [source](https://en.wikipedia.org/wiki/Minuets_in_G_major_and_G_minor), [analysis](https://youtu.be/1XofQPRQGmE?si=iuBxcIL1kHPO11qK), [analysis](https://musescore.com/user/9361256/scores/6809844), [many arrangements](https://musescore.com/sheetmusic?text=lover%27s%20concerto), [ukulele cover](https://youtu.be/oaFVxuBCwQ8?si=mXdm-8jxlk7VVhce&t=25)
    - type into Hookpad, discuss harmonization
