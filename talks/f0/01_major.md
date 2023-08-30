@@ -43,7 +43,6 @@
    - [source](https://en.wikipedia.org/wiki/Minuets_in_G_major_and_G_minor), [analysis](https://youtu.be/1XofQPRQGmE?si=iuBxcIL1kHPO11qK), [analysis](https://musescore.com/user/9361256/scores/6809844), [many arrangements](https://musescore.com/sheetmusic?text=lover%27s%20concerto), [ukulele cover](https://youtu.be/oaFVxuBCwQ8?si=mXdm-8jxlk7VVhce&t=25)
    - type into Hookpad, discuss harmonization
    - briefly discuss other arrangements
-10. Discuss two-chord shuttles
 
 ## Homework
 
