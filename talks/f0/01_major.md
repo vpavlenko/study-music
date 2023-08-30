@@ -29,15 +29,11 @@
    - [Lenka "Trouble is a Friend"](https://www.hooktheory.com/theorytab/view/lenka/trouble-is-a-friend?node=1.5.6.3#chorus)
    - Try [Chord Crush](https://chordcrush.hooktheory.com/)
 6. Misery:
-   - show Misery in Rawl
-   - materials:
-      - [midi](https://freemidi.org/getter-1062)
-      - show in [signal](https://signal.vercel.app/)
-      - import into Hooktheory
-      - [piano arrangement](https://www.youtube.com/watch?v=ccMntzs6gYo)
-      - [Please Please Me](https://docs.google.com/spreadsheets/d/10xItzWoKcwdQX84kCBK22peyFgXcoUhTqAHO6Zad68A/edit?usp=sharing)
-      - [all arrangements](https://www.dropbox.com/scl/fi/hwiq4n155w64cqk0iuwm5/The-Beatles-Complete-Scores-Hal-Leonard-Corporation-1993.pdf?rlkey=mw12j767gcxvi0bv0d5byqvd1&dl=0)
-      - [all analyses](https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml)
+   - [Rawl](https://rawl.vercel.app/edit?a=beatles_misery)
+   - [midi](https://freemidi.org/getter-1062)
+   - [Hooktheory](https://www.hooktheory.com/theorytab/view/the-beatles/misery)
+   - [analysis by Alan W. Pollack](https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/m1.shtml)
+   - [piano arrangement](https://www.youtube.com/watch?v=ccMntzs6gYo)
 8. A Lover's Concerto:
    - [source](https://en.wikipedia.org/wiki/Minuets_in_G_major_and_G_minor), [analysis](https://youtu.be/1XofQPRQGmE?si=iuBxcIL1kHPO11qK), [analysis](https://musescore.com/user/9361256/scores/6809844), [many arrangements](https://musescore.com/sheetmusic?text=lover%27s%20concerto), [ukulele cover](https://youtu.be/oaFVxuBCwQ8?si=mXdm-8jxlk7VVhce&t=25)
    - type into Hookpad, discuss harmonization
@@ -93,6 +89,14 @@
 ### Beatles Bass Lines
 - [Tabs](https://becomeabassist.com/227-beatles-bass-lines-downloads/)
 - [Video](https://www.youtube.com/watch?v=LMtf7PtqIlw)
+
+### Beatles
+
+- Backup:      
+   - [Please Please Me](https://docs.google.com/spreadsheets/d/10xItzWoKcwdQX84kCBK22peyFgXcoUhTqAHO6Zad68A/edit?usp=sharing)
+   - [all arrangements](https://www.dropbox.com/scl/fi/hwiq4n155w64cqk0iuwm5/The-Beatles-Complete-Scores-Hal-Leonard-Corporation-1993.pdf?rlkey=mw12j767gcxvi0bv0d5byqvd1&dl=0)
+   - [all analyses](https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml)
+
 
 ### Colorings
 
