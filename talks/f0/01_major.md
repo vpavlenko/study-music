@@ -77,8 +77,7 @@
 
 ### Chord progressions
 
-1. One-chord: [Bo Diddley](https://www.youtube.com/watch?v=3jrIK7YB0tE)
-2. Two-chord shuttles (from Philip Tagg. "Everyday Tonality II", ch. 12):
+Two-chord shuttles (from Philip Tagg. "Everyday Tonality II", ch. 12):
    
 <img width="609" alt="Screenshot 2023-08-29 at 20 45 30" src="https://github.com/vpavlenko/study-music/assets/1491908/a06467fb-eda3-431d-89e4-4feeb6350c72">
 
@@ -134,24 +133,17 @@ Play chords online:
 - [Барыня](https://youtu.be/KrtAcXReJOY?si=p89oUB7cPQX068AX&t=45)
 
 
-
-Type into hookpad on the spot
-
-
 **Diatonic accordion**:
 - [Play online](https://www.keyboardaccordion.com/diatonic)
 - [Wikipedia](https://en.wikipedia.org/wiki/Diatonic_button_accordion)
 
 **Autoharp**:
 - [5 chords](https://youtu.be/HBmlMN9XG6w?si=SmzO43ilkXak_KWK)
-- can be different in nature (mixolydian vibes): https://reverb.com/item/29114296-rhythm-band-chromaharp-autoharp-child-s-miniharp-5-chords
+- https://reverb.com/item/29114296-rhythm-band-chromaharp-autoharp-child-s-miniharp-5-chords
 
 
 **Kalimba**:
 - [chords](https://youtu.be/4j6RJQ_lTaY?si=2LjouuXawKp9WD-C&t=244)
-
-
-Про хромку тоже можно дать примеры на мажор
 
 
 ### Backup
