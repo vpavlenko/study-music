@@ -13,13 +13,13 @@
    - [Songs with I-V-I-V-I in C major](https://www.hooktheory.com/trends#key=C&scale=major&path=1.5.1.5.1)
    - [Songs with I-IV-I-IV-I in C major](https://www.hooktheory.com/trends#key=C&scale=major&path=1.4.1.4.1)
    - Guessing game: I pick one song from either list
+3. [OneMotion Chord Player](https://www.onemotion.com/chord-player/) - how to make tracks in major
 3. Саратовская гармонь
    - [концерт 2011](https://youtu.be/AbdaIB0TLoQ?si=Xp3zuLbAAibLtbHz)
    - [звукоряд](https://www.youtube.com/watch?v=Y88wSnNfhwM)
    - <img width="400" alt="Screenshot 2023-08-28 at 18 38 03" src="https://github.com/vpavlenko/study-music/assets/1491908/37c19941-17ea-4d43-8df8-153ec7eac921">
    - [в лесу родилась ёлочка](https://www.youtube.com/watch?v=KPJxInrMvbY)
    - type this song into Hookpad, discuss harmonization
-3. [OneMotion Chord Player](https://www.onemotion.com/chord-player/) - how to make tracks in major
 3. [Hooktheory, book one, ch. 2](https://book-one.hooktheory.com/section/the-I-chord-home-base)
    - [Autoharp](https://youtu.be/TQKdCXyX9y4?si=FJb3KVTO2T_YjShy) - what do buttons do?
    - [close-up](https://www.etsy.com/listing/632396472/the-favorite-autoharp-early-1900s)
