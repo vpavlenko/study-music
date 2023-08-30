@@ -36,6 +36,7 @@
    - [piano arrangement](https://www.youtube.com/watch?v=ccMntzs6gYo)
 7. Statistical patterns
    - Transition graphs (see below)
+   - [Bo Diddley - one-chord song](https://youtu.be/3jrIK7YB0tE?si=-InFVqmur0BIY66p&t=5)
    - [Two-chord shuttles](https://www.youtube.com/watch?v=zpURr5COwI4&t=23s)
    - [Four-chord progressions](https://youtu.be/v3YbEL-_eoI?si=oJyQKvveD3MLgQ_q&t=455&list=PLlx2eo2tD6KpfGmE-MXwcIRQh21neAKsK)
 9. A Lover's Concerto
