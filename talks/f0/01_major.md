@@ -1,7 +1,7 @@
 # Rock harmony in major
 ## Order
 
-1. Warm up: 
+1. Warm up
    - ask which songs are in minor vs major
    - differentiate major from minor by ear: [everynoise with Alt+scan](https://everynoise.com/)
    - name a genre where songs are mostly in minor / major
@@ -28,17 +28,21 @@
    - [Pachelbel's Canon on Hooktheory](https://www.google.com/search?q=hooktheory+pachelbel)
    - [Lenka "Trouble is a Friend"](https://www.hooktheory.com/theorytab/view/lenka/trouble-is-a-friend?node=1.5.6.3#chorus)
    - Try [Chord Crush](https://chordcrush.hooktheory.com/)
-6. Misery:
+6. Misery
    - [Rawl](https://rawl.vercel.app/edit?a=beatles_misery)
    - [midi](https://freemidi.org/getter-1062)
    - [Hooktheory](https://www.hooktheory.com/theorytab/view/the-beatles/misery)
    - [analysis by Alan W. Pollack](https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/m1.shtml)
    - [piano arrangement](https://www.youtube.com/watch?v=ccMntzs6gYo)
-8. A Lover's Concerto:
+7. Statistical patterns
+   - Transition graphs (see below)
+   - [Two-chord shuttles](https://www.youtube.com/watch?v=zpURr5COwI4&t=23s)
+   - [Four-chord progressions](https://youtu.be/v3YbEL-_eoI?si=oJyQKvveD3MLgQ_q&t=455&list=PLlx2eo2tD6KpfGmE-MXwcIRQh21neAKsK)
+9. A Lover's Concerto
    - [source](https://en.wikipedia.org/wiki/Minuets_in_G_major_and_G_minor), [analysis](https://youtu.be/1XofQPRQGmE?si=iuBxcIL1kHPO11qK), [analysis](https://musescore.com/user/9361256/scores/6809844), [many arrangements](https://musescore.com/sheetmusic?text=lover%27s%20concerto), [ukulele cover](https://youtu.be/oaFVxuBCwQ8?si=mXdm-8jxlk7VVhce&t=25)
    - type into Hookpad, discuss harmonization
    - briefly discuss other arrangements
-9. Discuss two-chord shuttles
+10. Discuss two-chord shuttles
 
 ## Homework
 
@@ -59,15 +63,17 @@
 
 ### Transition graphs
 
+<img width="600" alt="Screenshot 2023-08-29 at 19 48 22" src="https://github.com/vpavlenko/study-music/assets/1491908/8de334d5-2441-4fd0-ae27-12bb1be93832">
+
+(David Huron. Sweet Anticipation, p. 160)
+
+
 <img width="600" src="https://github.com/vpavlenko/study-music/assets/1491908/4bffe4bf-d091-4286-b07e-62bc2e69acf2">
 
 <img width="600" alt="Screenshot 2023-08-29 at 19 40 11" src="https://github.com/vpavlenko/study-music/assets/1491908/7d814a70-ad50-433d-a548-f0d8aaf9cf52">
 
 <img width="600" alt="Screenshot 2023-08-29 at 19 40 31" src="https://github.com/vpavlenko/study-music/assets/1491908/5c314bb5-c418-4486-af97-d96ae3778a4d">
 
-<img width="600" alt="Screenshot 2023-08-29 at 19 48 22" src="https://github.com/vpavlenko/study-music/assets/1491908/8de334d5-2441-4fd0-ae27-12bb1be93832">
-
-(David Huron. Sweet Anticipation, p. 160)
 
 ### Chord progressions
 
@@ -85,6 +91,7 @@
 <img width="618" alt="Screenshot 2023-08-29 at 20 49 38" src="https://github.com/vpavlenko/study-music/assets/1491908/f923b270-8fe7-49e7-9dcf-d15ba21cc323">
 
 <img width="622" alt="Screenshot 2023-08-29 at 20 49 51" src="https://github.com/vpavlenko/study-music/assets/1491908/3f41de44-0886-4e58-ae53-63158d23ae88">
+
 
 ### Beatles Bass Lines
 - [Tabs](https://becomeabassist.com/227-beatles-bass-lines-downloads/)
