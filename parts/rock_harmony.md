@@ -1,5 +1,5 @@
 Rock harmony
----
+===
 
 <img width="400" align="right" alt="Screenshot 2022-01-21 at 12 57 44 AM" src="https://user-images.githubusercontent.com/1491908/150428708-4c3f082d-5cc2-47b5-a088-8558d5c41461.png" style="filter: drop-shadow(30px 10px 4px #4444dd); border: 1px solid pink">
 
@@ -32,11 +32,17 @@ Rock harmony
 Particular musicians and bands
 ---
 
-- [KG Johansson. The Harmonic Language of the Beatles](https://www.musikforskning.se/stmonline/vol_2/KGJO/Johansson.pdf) - sadly, the whole book (in Swedish) isn't available at all. Btw there's [a complete transcription of their songs](https://www.amazon.com/Beatles-Complete-Scores-Transcribed-Score/dp/0793518326). Also The Songwriting Secrets Of The Beatles by Dominic Pedler
-
 - [Kasper Sloots. Frank Zappa's musical language](https://www.zappa-analysis.com/)
 
 - Brad Osborn. Everything in Its Right Place: Analyzing Radiohead
+
+#### The Beatles
+- [KG Johansson. The Harmonic Language of the Beatles](https://www.musikforskning.se/stmonline/vol_2/KGJO/Johansson.pdf) - sadly, the whole book (in Swedish) isn't available at all
+- [A complete transcription of songs](https://www.amazon.com/Beatles-Complete-Scores-Transcribed-Score/dp/0793518326)
+- Every song is analyzed by Alan W. Pollack in [Notes On...](https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-alphabet.shtml) series
+- Walter Everett. The Beatles as Musicians
+- Dominic Pedler. The Songwriting Secrets Of The Beatles
+
 
 Progressive rock
 ---
