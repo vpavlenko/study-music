@@ -14,6 +14,7 @@
    - Then 1.3-1.6
    - [Songs with I-V-I-V-I in C major](https://www.hooktheory.com/trends#key=C&scale=major&path=1.5.1.5.1)
    - [Songs with I-IV-I-IV-I in C major](https://www.hooktheory.com/trends#key=C&scale=major&path=1.4.1.4.1)
+   - [Two-chord shuttles](https://www.youtube.com/watch?v=zpURr5COwI4&t=23s)
    - Guessing game: I pick one song from either list
 3. [OneMotion Chord Player](https://www.onemotion.com/chord-player/) - how to make tracks in major
 3. Саратовская гармонь
@@ -41,7 +42,6 @@
    - [Transition graphs](#transition-graphs)
       - [David Temperley. The Cadential IV in Rock](https://mtosmt.org/issues/mto.11.17.1/mto.11.17.1.temperley.html)
    - [Bo Diddley - one-chord song](https://youtu.be/3jrIK7YB0tE?si=-InFVqmur0BIY66p&t=5)
-   - [Two-chord shuttles](https://www.youtube.com/watch?v=zpURr5COwI4&t=23s)
    - [Four-chord progressions](https://youtu.be/v3YbEL-_eoI?si=oJyQKvveD3MLgQ_q&t=455&list=PLlx2eo2tD6KpfGmE-MXwcIRQh21neAKsK)
    - Google: [bVII in major](https://www.google.com/search?q=bvii+in+major), [I vi IV V](https://www.google.com/search?q=I+vi+IV+V)
 9. [The Toys - A Lover's Concerto](https://www.youtube.com/watch?v=FmJ1AqtTuyo)
@@ -74,11 +74,13 @@
 (David Huron. Sweet Anticipation, p. 160)
 
 
-<img width="600" src="https://github.com/vpavlenko/study-music/assets/1491908/4bffe4bf-d091-4286-b07e-62bc2e69acf2">
 
 <img width="600" alt="Screenshot 2023-08-29 at 19 40 11" src="https://github.com/vpavlenko/study-music/assets/1491908/7d814a70-ad50-433d-a548-f0d8aaf9cf52">
 
 <img width="600" alt="Screenshot 2023-08-29 at 19 40 31" src="https://github.com/vpavlenko/study-music/assets/1491908/5c314bb5-c418-4486-af97-d96ae3778a4d">
+
+<img width="600" src="https://github.com/vpavlenko/study-music/assets/1491908/4bffe4bf-d091-4286-b07e-62bc2e69acf2">
+
 
 ### Saratov garmon
 
