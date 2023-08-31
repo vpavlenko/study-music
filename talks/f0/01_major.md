@@ -1,4 +1,7 @@
 # Rock harmony in major
+
+# [bit.ly/fmaj](https://bit.ly/fmaj)
+
 ## Order
 
 1. Warm up
