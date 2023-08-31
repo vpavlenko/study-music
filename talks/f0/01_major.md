@@ -19,7 +19,7 @@
 3. Саратовская гармонь
    - [концерт 2011](https://youtu.be/AbdaIB0TLoQ?si=Xp3zuLbAAibLtbHz)
    - [звукоряд](https://www.youtube.com/watch?v=Y88wSnNfhwM)
-   - Как под горкой...
+   - [Как под горкой...](#saratov-garmon)
    - [в лесу родилась ёлочка](https://www.youtube.com/watch?v=KPJxInrMvbY)
    - type this song into Hookpad, discuss harmonization
 3. [Hooktheory, book one, ch. 2](https://book-one.hooktheory.com/section/the-I-chord-home-base)
@@ -80,7 +80,7 @@
 
 <img width="600" alt="Screenshot 2023-08-29 at 19 40 31" src="https://github.com/vpavlenko/study-music/assets/1491908/5c314bb5-c418-4486-af97-d96ae3778a4d">
 
-### Саратовская гармонь
+### Saratov garmon
 
 [Как под горкой...](https://www.youtube.com/shorts/iF3IC3uSw_c)
 
