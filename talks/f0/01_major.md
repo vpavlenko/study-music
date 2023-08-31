@@ -1,6 +1,7 @@
 # Rock harmony in major
 
 # [bit.ly/fmaj](https://bit.ly/fmaj)
+# [t.me/f0rthsp4ce](t.me/f0rthsp4ce)
 
 ## Order
 
