@@ -12,10 +12,10 @@
       - All major scales: https://muted.io/major-minor-scales/
       - Sing a scale, sing in step motion
    - Then 1.3-1.6
-   - [Songs with I-V-I-V-I in C major](https://www.hooktheory.com/trends#key=C&scale=major&path=1.5.1.5.1)
-   - [Songs with I-IV-I-IV-I in C major](https://www.hooktheory.com/trends#key=C&scale=major&path=1.4.1.4.1)
-   - [Two-chord shuttles](https://www.youtube.com/watch?v=zpURr5COwI4&t=23s)
+   - [David Bennett. Two-chord shuttles](https://www.youtube.com/watch?v=zpURr5COwI4&t=23s)
    - Guessing game: I pick one song from either list
+      - [Songs with I-V-I-V-I in C major](https://www.hooktheory.com/trends#key=C&scale=major&path=1.5.1.5.1)
+      - [Songs with I-IV-I-IV-I in C major](https://www.hooktheory.com/trends#key=C&scale=major&path=1.4.1.4.1)
 3. [OneMotion Chord Player](https://www.onemotion.com/chord-player/) - how to make tracks in major
 3. Саратовская гармонь
    - [концерт 2011](https://youtu.be/AbdaIB0TLoQ?si=Xp3zuLbAAibLtbHz)
