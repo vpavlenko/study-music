@@ -170,8 +170,9 @@ Plan for future lectures
 8. Indonesian music
 9. Blues
 1. Jazz harmony
+   - Modal jazz: how to solo over "Cantaloupe Island"
    - Jazz in major on white keys
    - Lego theory for chord progressions
    - ii-V-Is, tritone substition
-   - Modal jazz
+1. Bulgarian fake book: balkan languages, harmonization of Eastern modes
 1. Form and harmony in common practice music: period, sentence
