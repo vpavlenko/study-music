@@ -166,15 +166,15 @@ Plan for future lectures
 ===
 
 2. Minor
-3. Scales
-4. Applied chords, tonicization, modulation
+3. Modal jazz: how to solo over "Cantaloupe Island"
+1. Bulgarian fake book: balkan languages, harmonization of Eastern modes
+5. Scales
+6. Applied chords, tonicization, modulation
 7. Arabic music
 8. Indonesian music
 9. Blues
 1. Jazz harmony
-   - Modal jazz: how to solo over "Cantaloupe Island"
    - Jazz in major on white keys
    - Lego theory for chord progressions
    - ii-V-Is, tritone substition
-1. Bulgarian fake book: balkan languages, harmonization of Eastern modes
 1. Form and harmony in common practice music: period, sentence
