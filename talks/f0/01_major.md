@@ -23,7 +23,7 @@
    - [Autoharp](https://youtu.be/TQKdCXyX9y4?si=FJb3KVTO2T_YjShy) - what do buttons do?
    - [close-up](https://www.etsy.com/listing/632396472/the-favorite-autoharp-early-1900s)
    - [How to play 5-chord zither](https://youtu.be/ExA9lhy0_cc?si=xaEm0saXD8PIpHp4)
-   - [Pachelbel's Canon on zither](https://www.youtube.com/watch?v=UPCGOHjBuNU)
+   - [Pachelbel's Canon on zither](https://youtu.be/UPCGOHjBuNU?si=lqGfOiQooTJYJuMf&t=21)
    - [Pachelbel's Canon on Hooktheory](https://www.google.com/search?q=hooktheory+pachelbel)
    - [Lenka "Trouble is a Friend"](https://www.hooktheory.com/theorytab/view/lenka/trouble-is-a-friend?node=1.5.6.3#chorus)
    - Try [Chord Crush](https://chordcrush.hooktheory.com/)
