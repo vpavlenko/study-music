@@ -41,8 +41,10 @@
 7. Statistical patterns
    - [Transition graphs](#transition-graphs)
    - [David Temperley. The Cadential IV in Rock](https://mtosmt.org/issues/mto.11.17.1/mto.11.17.1.temperley.html)
-   - [Bo Diddley - one-chord song](https://youtu.be/3jrIK7YB0tE?si=-InFVqmur0BIY66p&t=5)
-   - [Four-chord progressions](https://youtu.be/v3YbEL-_eoI?si=oJyQKvveD3MLgQ_q&t=455&list=PLlx2eo2tD6KpfGmE-MXwcIRQh21neAKsK)
+   - One-chord song
+      - [Bo Diddley](https://youtu.be/3jrIK7YB0tE?si=-InFVqmur0BIY66p&t=5)
+      - [David Bennett. Songs that only use one chord](https://youtu.be/xrLZ1F69rsM?si=-IVdLVCkt_eh7Yvx&t=18)
+   - [David Bennett. Four-chord progressions](https://youtu.be/v3YbEL-_eoI?si=oJyQKvveD3MLgQ_q&t=455&list=PLlx2eo2tD6KpfGmE-MXwcIRQh21neAKsK)
    - Google: [bVII in major](https://www.google.com/search?q=bvii+in+major), [I vi IV V](https://www.google.com/search?q=I+vi+IV+V)
 9. [The Toys - A Lover's Concerto](https://www.youtube.com/watch?v=FmJ1AqtTuyo)
    - [source](https://en.wikipedia.org/wiki/Minuets_in_G_major_and_G_minor), [video analysis in Spanish](https://youtu.be/1XofQPRQGmE?si=iuBxcIL1kHPO11qK), [Roman numeral analysis on music sheet](https://musescore.com/user/9361256/scores/6809844), [many arrangements](https://musescore.com/sheetmusic?text=lover%27s%20concerto), [ukulele cover](https://youtu.be/oaFVxuBCwQ8?si=mXdm-8jxlk7VVhce&t=25)
