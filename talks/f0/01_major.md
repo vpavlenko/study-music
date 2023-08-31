@@ -16,7 +16,7 @@
 3. Саратовская гармонь
    - [концерт 2011](https://youtu.be/AbdaIB0TLoQ?si=Xp3zuLbAAibLtbHz)
    - [звукоряд](https://www.youtube.com/watch?v=Y88wSnNfhwM)
-   - music sheet example (see below)
+   - Как под горкой...
    - [в лесу родилась ёлочка](https://www.youtube.com/watch?v=KPJxInrMvbY)
    - type this song into Hookpad, discuss harmonization
 3. [Hooktheory, book one, ch. 2](https://book-one.hooktheory.com/section/the-I-chord-home-base)
@@ -77,6 +77,8 @@
 <img width="600" alt="Screenshot 2023-08-29 at 19 40 31" src="https://github.com/vpavlenko/study-music/assets/1491908/5c314bb5-c418-4486-af97-d96ae3778a4d">
 
 ### Саратовская гармонь
+
+[Как под горкой...](https://www.youtube.com/shorts/iF3IC3uSw_c)
 
 <img width="400" alt="Screenshot 2023-08-28 at 18 38 03" src="https://github.com/vpavlenko/study-music/assets/1491908/37c19941-17ea-4d43-8df8-153ec7eac921">
 
