@@ -4,7 +4,7 @@
 1. Warm up
    - is it minor or major: [everynoise with Alt+scan](https://everynoise.com/)
    - name a genre where songs are mostly in minor / major. [gpt4](https://chat.openai.com/share/c42d5aea-0f71-43ae-9d8a-5071d8d48594)
-2. [Hooktheory: book one](https://book-one.hooktheory.com/), chapter 1
+2. [Hooktheory: book one, chapter 1](https://book-one.hooktheory.com/section/the-major-scale)
    - After 1.2:
       - All major scales: https://muted.io/major-minor-scales/
       - Sing a scale, sing in step motion
@@ -40,6 +40,7 @@
    - [Bo Diddley - one-chord song](https://youtu.be/3jrIK7YB0tE?si=-InFVqmur0BIY66p&t=5)
    - [Two-chord shuttles](https://www.youtube.com/watch?v=zpURr5COwI4&t=23s)
    - [Four-chord progressions](https://youtu.be/v3YbEL-_eoI?si=oJyQKvveD3MLgQ_q&t=455&list=PLlx2eo2tD6KpfGmE-MXwcIRQh21neAKsK)
+   - Google: [bVII in major](https://www.google.com/search?q=bvii+in+major), [I vi IV V](https://www.google.com/search?q=I+vi+IV+V)
 9. [The Toys - A Lover's Concerto](https://www.youtube.com/watch?v=FmJ1AqtTuyo)
    - [source](https://en.wikipedia.org/wiki/Minuets_in_G_major_and_G_minor), [video analysis in Spanish](https://youtu.be/1XofQPRQGmE?si=iuBxcIL1kHPO11qK), [Roman numeral analysis on music sheet](https://musescore.com/user/9361256/scores/6809844), [many arrangements](https://musescore.com/sheetmusic?text=lover%27s%20concerto), [ukulele cover](https://youtu.be/oaFVxuBCwQ8?si=mXdm-8jxlk7VVhce&t=25)
    - type into Hookpad, discuss harmonization
