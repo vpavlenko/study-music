@@ -2,7 +2,7 @@
 
 ## Outline
 
-Minor, parallel major, diatonic accordion, V7. Analysis of some of our tracks
+Minor, parallel major, diatonic accordion, V7, V7/V. Analysis of some of our tracks
 
 ## Resources
 
