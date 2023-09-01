@@ -6,6 +6,10 @@ Minor, parallel major, diatonic accordion, V7, V7/V. Analysis of some of our tra
 
 Как соотносятся мажорный аккорд и мажорная гамма, минорный аккорд и минорная гамма?
 
+[Nopia](https://www.youtube.com/watch?v=Ivuy9QYLFVY)
+
+v vs V in minor
+
 ## Resources
 
 **Хромка**:
