@@ -4,6 +4,8 @@
 
 Minor, parallel major, diatonic accordion, V7, V7/V. Analysis of some of our tracks
 
+Как соотносятся мажорный аккорд и мажорная гамма, минорный аккорд и минорная гамма?
+
 ## Resources
 
 **Хромка**:
