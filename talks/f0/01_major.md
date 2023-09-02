@@ -1,5 +1,7 @@
 # Rock harmony in major
 
+[Видеозапись лекции](https://t.me/keetezh/945)
+
 ## Order
 
 1. Warm up
