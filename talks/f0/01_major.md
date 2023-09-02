@@ -21,6 +21,7 @@
    - [Как под горкой...](#saratov-garmon)
    - [в лесу родилась ёлочка](https://www.youtube.com/watch?v=KPJxInrMvbY)
    - type this song into Hookpad, discuss harmonization
+   - [signal](https://signal.vercel.app/) - an open-source web MIDI editor
 3. [Hooktheory, book one, ch. 2](https://book-one.hooktheory.com/section/the-I-chord-home-base)
    - [Autoharp](https://youtu.be/TQKdCXyX9y4?si=FJb3KVTO2T_YjShy) - what do buttons do?
    - [close-up](https://www.etsy.com/listing/632396472/the-favorite-autoharp-early-1900s)
