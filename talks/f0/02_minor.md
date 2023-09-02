@@ -1,10 +1,28 @@
 # Rock harmony in minor
 
+## Order
+
+1. Natural minor in Hooktheory
+   - i-VII-VI-VII, VI-VII-i
+   - i-VI shuttle
+2. Harmonic major
+   - Три блатных аккорда
+   - Частушки
+   - V7
+   - Параллельный мажор. Хромка 25х12
+   - Phrygian cadence
+4. Mixture
+   - Разбирать все популярные треки, не разбирать редкие
+
 ## Outline
 
-Minor, parallel major, diatonic accordion, V7, V7/V. Analysis of some of our tracks
+Minor, parallel major, diatonic accordion, V7. Analysis of some of our tracks
 
 Как соотносятся мажорный аккорд и мажорная гамма, минорный аккорд и минорная гамма?
+
+Слишком обскурно
+- Комсомольск - Самурай
+5. Анализ всего Комсомольска
 
 [Nopia](https://www.youtube.com/watch?v=Ivuy9QYLFVY)
 
