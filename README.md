@@ -53,7 +53,8 @@ Where to start
 1. [Arabic maqamat](https://www.youtube.com/watch?v=xN7E1pc8Y2Y&list=PLcfDkfaWrWRRcgUawWPz4bdL0Co17rphx)
 2. [Indonesian gamelan](https://www.youtube.com/watch?v=99GFmJmiwZA)
 
-
+**Лекции**
+[Есть мои видеолекции](https://t.me/keetezh/945)
 
 Western music languages
 ---
