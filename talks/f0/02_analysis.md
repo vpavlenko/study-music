@@ -14,3 +14,4 @@
 - Then feed the output of demucs to [Basic Pitch](https://basicpitch.spotify.com/) (bass)
 - "Drum stems audio to midi" is a separate task which may have some good solution
 - Maybe Ableton
+- Try Omnizart
