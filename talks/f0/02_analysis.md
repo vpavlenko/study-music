@@ -11,4 +11,6 @@
 - [Stem Separation Comparison Dec 2022](https://www.youtube.com/watch?v=gl5AKCgMSSc)
    - Start with [demucs](https://github.com/facebookresearch/demucs) as it's free and cli-based
 - What do we want to extract from this track? Drums, bass guitar, vocals. Can we separate [two guitars](https://www.youtube.com/watch?v=h6ytkmZEEUU) - lead from rhythm?
-- Then feed the output of demucs to [Basic Pitch](https://basicpitch.spotify.com/)
+- Then feed the output of demucs to [Basic Pitch](https://basicpitch.spotify.com/) (bass)
+- "Drum stems audio to midi" is a separate task which may have some good solution
+- Maybe Ableton
