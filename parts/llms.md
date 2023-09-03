@@ -1,3 +1,5 @@
+[Paper Digest: Recent Papers on AI for Music](https://www.paperdigest.org/2020/07/recent-papers-on-ai-for-music/)
+
 LLMs for music theory
 ---
 
@@ -18,6 +20,7 @@ Articles that excite me:
 
 Other NN approaches for related things (GAN, VAE, RNNs, LSTMs)
 ---
+
 - https://github.com/gudgud96/magenta-in-pytorch and his ISMIR reviews in his blog on DDSP
 - PianoTree VAE
 - https://epub.jku.at/obvulihs/download/pdf/8503579?originalFilename=true
