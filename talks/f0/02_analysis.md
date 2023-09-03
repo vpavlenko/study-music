@@ -15,3 +15,4 @@
 - "Drum stems audio to midi" is a separate task which may have some good solution
 - Maybe Ableton
 - Try Omnizart
+- For piano: either [bytedance](https://github.com/bytedance/piano_transcription) or "Onsets and Frames"
