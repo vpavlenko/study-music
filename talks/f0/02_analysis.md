@@ -1,4 +1,4 @@
-# Rock harmony in major
+# Analyze tracks in major
 
 ## [Carver Commodore - Drown Me In Emotions](https://www.youtube.com/watch?v=bLaipK9lisc)
 
