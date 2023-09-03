@@ -15,4 +15,5 @@
 - "Drum stems audio to midi" is a separate task which may have some good solution
 - Maybe Ableton
 - Try Omnizart. Omnizart uses spleeter under the hood, and maybe replacing it with demucs can give better results. Also [MT3](https://github.com/magenta/mt3)
+   - Also see [MusicNetEM](https://benadar293.github.io/)
 - For piano: either [bytedance](https://github.com/bytedance/piano_transcription) or "Onsets and Frames"
