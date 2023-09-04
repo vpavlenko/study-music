@@ -31,6 +31,10 @@ Options:
 - [Magenta OaF Drums](https://magenta.tensorflow.org/oaf-drums)
 - [Omnizart: adt_with_a2md](https://replicate.com/e7mac/omnizart)
 
+### Chords
+
+[Omnizart](https://replicate.com/e7mac/omnizart) on the original file.
+
 ## Singing
 
 Can we sing something on this meeting?
