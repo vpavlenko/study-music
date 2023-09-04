@@ -17,3 +17,13 @@
 - Try Omnizart. Omnizart uses spleeter under the hood, and maybe replacing it with demucs can give better results. Also [MT3](https://github.com/magenta/mt3)
    - Also see [MusicNetEM](https://benadar293.github.io/)
 - For piano: either [bytedance](https://github.com/bytedance/piano_transcription) or "Onsets and Frames"
+
+## Install omnizart
+
+If fails due to PyYAML: [run this](https://github.com/yaml/pyyaml/issues/601#issuecomment-1693730229). (It also fails on colab).
+
+I try on `pyenv global 3.8.10`.
+
+`python3 -m pip install tensorflow-macos`
+
+Maybe I should fix omnizart installation right in a colab.
