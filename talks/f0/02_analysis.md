@@ -24,6 +24,11 @@
 - What's the correct way to merge files given tempo stuff and some other discrepances?
   
 
+## Singing
+
+Can we sing something on this meeting?
+
+
 # Obsolete notes
 
 ## Install omnizart
