@@ -24,7 +24,7 @@
    - Can merge midi tracks in Ableton
    - Can also use [midisox](https://pjb.com.au/midi/midisox.html)
 - Unplayable drum midi tracks is fixed by copy-pasting drum track onto a fresh track in signal. Probably, some important setup midi messages are created this way
-
+- Maybe check ISMIR Slack
 
 ## Singing
 
