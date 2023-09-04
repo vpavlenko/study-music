@@ -19,7 +19,10 @@
 - For piano: either [bytedance](https://github.com/bytedance/piano_transcription) or "Onsets and Frames"
 
 - [Omnizart for drums](https://replicate.com/e7mac/omnizart)
+- [Merge midi files](https://www.ofoct.com/merge-midi-files) - select "Add Tracks" mode
 
+- What's the correct way to merge files given tempo stuff and some other discrepances?
+  
 
 # Obsolete notes
 
