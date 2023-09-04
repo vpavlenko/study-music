@@ -27,3 +27,7 @@ I try on `pyenv global 3.8.10`.
 `python3 -m pip install tensorflow-macos`
 
 Maybe I should fix omnizart installation right in a colab.
+
+Try on Colab. The issue: since May 2023, the default colab python is 3.10, and the original colab for omnizart is for 3.8. So there are two options:
+- try to port it to 3.10 (which will be obsolete in 1-2 years again)
+- try to bring the env version back to 3.8 (which requires installing an old ipykernel)
