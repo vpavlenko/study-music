@@ -18,6 +18,11 @@
    - Also see [MusicNetEM](https://benadar293.github.io/)
 - For piano: either [bytedance](https://github.com/bytedance/piano_transcription) or "Onsets and Frames"
 
+- [Omnizart for drums](https://replicate.com/e7mac/omnizart)
+
+
+# Obsolete notes
+
 ## Install omnizart
 
 If fails due to PyYAML: [run this](https://github.com/yaml/pyyaml/issues/601#issuecomment-1693730229). (It also fails on colab).
@@ -31,3 +36,12 @@ Maybe I should fix omnizart installation right in a colab.
 Try on Colab. The issue: since May 2023, the default colab python is 3.10, and the original colab for omnizart is for 3.8. So there are two options:
 - try to port it to 3.10 (which will be obsolete in 1-2 years again)
 - try to bring the env version back to 3.8 (which requires installing an old ipykernel)
+
+### Port it to 3.10
+
+P
+madmom 0.16 will crash on `from collections import MutableSequence`
+
+### Bring env to 3.8
+
+Find the right ipykernel install commands.
