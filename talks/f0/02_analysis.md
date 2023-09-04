@@ -21,6 +21,7 @@
 - [Merge midi files](https://www.ofoct.com/merge-midi-files) - select "Add Tracks" mode
 - What's the correct way to merge files given tempo stuff and some other discrepances?
 - Caveat: Basic Pitch produces midi with resolution 480, whereas omnizart outputs in 220. Merging them can lead to errors
+- Also please try RipX
 
 ## Singing
 
