@@ -26,6 +26,7 @@
 - Maybe check ISMIR Slack
 - [Docker installation for cog on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 - Can probably use [WaveBeat](https://github.com/csteinmetz1/wavebeat) for downbeat estimation - instead of omnizart beat
+   - Run on Ubuntu 20.04 with python3.8, numpy==1.19 and madmom==0.16.1 recompiled after installing numpy.
 
 ### Automatic drum transription
 
