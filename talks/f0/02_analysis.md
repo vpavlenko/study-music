@@ -25,7 +25,8 @@
 - Unplayable drum midi tracks is fixed by copy-pasting drum track onto a fresh track in signal. Probably, some important setup midi messages are created this way
 - Maybe check ISMIR Slack
 - [Docker installation for cog on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
-  
+- Can probably use [WaveBeat](https://github.com/csteinmetz1/wavebeat) for downbeat estimation - instead of omnizart beat
+
 ### Automatic drum transription
 
 Options:
