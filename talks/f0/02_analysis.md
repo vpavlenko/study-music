@@ -17,12 +17,10 @@
 - Try Omnizart. Omnizart uses spleeter under the hood, and maybe replacing it with demucs can give better results. Also [MT3](https://github.com/magenta/mt3)
    - Also see [MusicNetEM](https://benadar293.github.io/)
 - For piano: either [bytedance](https://github.com/bytedance/piano_transcription) or "Onsets and Frames"
-
 - [Omnizart for drums](https://replicate.com/e7mac/omnizart)
 - [Merge midi files](https://www.ofoct.com/merge-midi-files) - select "Add Tracks" mode
-
 - What's the correct way to merge files given tempo stuff and some other discrepances?
-  
+- Caveat: Basic Pitch produces midi with resolution 480, whereas omnizart outputs in 220. Merging them can lead to errors
 
 ## Singing
 
