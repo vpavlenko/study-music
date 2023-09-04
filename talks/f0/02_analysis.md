@@ -12,11 +12,10 @@
    - Start with [demucs](https://github.com/facebookresearch/demucs) as it's free and cli-based
 - What do we want to extract from this track? Drums, bass guitar, vocals. Can we separate [two guitars](https://www.youtube.com/watch?v=h6ytkmZEEUU) - lead from rhythm?
 - Then feed the output of demucs to [Basic Pitch](https://basicpitch.spotify.com/) (bass)
-- "Drum stems audio to midi" is a separate task which may have some good solution
-- Try [Omnizart for drums](https://replicate.com/e7mac/omnizart). Omnizart uses spleeter under the hood, and maybe replacing it with demucs can give better results.
+- Try [Omnizart for drums](). Omnizart uses spleeter under the hood, and maybe replacing it with demucs can give better results.
    - Also [MT3](https://github.com/magenta/mt3)
    - Also see [MusicNetEM](https://benadar293.github.io/)
-   - `omnizart beat` can't run on Replicate due to assert
+   - `omnizart beat` can't run on Replicate
 - For piano: either [bytedance](https://github.com/bytedance/piano_transcription) or "Onsets and Frames"
 - Also try RipX
 - Merge midi files:
@@ -25,6 +24,12 @@
    - Can also use [midisox](https://pjb.com.au/midi/midisox.html)
 - Unplayable drum midi tracks is fixed by copy-pasting drum track onto a fresh track in signal. Probably, some important setup midi messages are created this way
 - Maybe check ISMIR Slack
+
+### Automatic drum transription
+
+Options:
+- [Magenta OaF Drums](https://magenta.tensorflow.org/oaf-drums)
+- [Omnizart: adt_with_a2md](https://replicate.com/e7mac/omnizart)
 
 ## Singing
 
