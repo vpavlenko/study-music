@@ -13,16 +13,16 @@
 - What do we want to extract from this track? Drums, bass guitar, vocals. Can we separate [two guitars](https://www.youtube.com/watch?v=h6ytkmZEEUU) - lead from rhythm?
 - Then feed the output of demucs to [Basic Pitch](https://basicpitch.spotify.com/) (bass)
 - "Drum stems audio to midi" is a separate task which may have some good solution
-- Maybe Ableton
 - Try Omnizart. Omnizart uses spleeter under the hood, and maybe replacing it with demucs can give better results. Also [MT3](https://github.com/magenta/mt3)
    - Also see [MusicNetEM](https://benadar293.github.io/)
 - For piano: either [bytedance](https://github.com/bytedance/piano_transcription) or "Onsets and Frames"
 - [Omnizart for drums](https://replicate.com/e7mac/omnizart)
-- [Merge midi files](https://www.ofoct.com/merge-midi-files) - select "Add Tracks" mode
-- What's the correct way to merge files given tempo stuff and some other discrepances?
-- Caveat: Basic Pitch produces midi with resolution 480, whereas omnizart outputs in 220. Merging them can lead to errors
 - Also please try RipX
-- Hint: can merge midi tracks in Ableton
+- Merge midi files:
+   - Caveat: Basic Pitch produces midi with resolution 480, whereas omnizart outputs in 220. Merging them can lead to errors when using online tools
+   - Can merge midi tracks in Ableton
+   - Can also use [midisox](https://pjb.com.au/midi/midisox.html)
+
 
 ## Singing
 
