@@ -86,7 +86,9 @@ Caveat: Basic Pitch produces midi with resolution 480, whereas omnizart outputs 
 
 ### Harmonic analysis: chords, keys
 
-[Omnizart chord](https://replicate.com/e7mac/omnizart)
+- [Omnizart chord (2019)](https://replicate.com/e7mac/omnizart)
+- [Sheet Sage (2022)](https://github.com/chrisdonahue/sheetsage)
+- key: [Spotify API](https://developer.spotify.com/documentation/web-api/reference/get-audio-analysis)
 
 Possibly, with "omnizart chord" and any beat tracking you can already build a clone of [Chordify](https://chordify.net/) and even improve it by adding form annotation.
 
