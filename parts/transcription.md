@@ -1,6 +1,6 @@
 # Transcription and analysis
 
-tldr: `demucs + basic pitch + omnizart drum + omnizart chord + all-in-one (+ sheet sage chords)` or RipX
+tldr: ready-to-use pipeline is `demucs + basic pitch + omnizart drum + omnizart chord + all-in-one (+ sheet sage chords)`. or RipX
 
 ## Audio to midi
 
