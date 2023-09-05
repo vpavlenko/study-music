@@ -1,7 +1,8 @@
 # Transcription and analysis
 
-## Audio to midi
+tldr: `demucs + basic pitch + omnizart drum + omnizart chord + all-in-one (+ sheet sage chords)` or RipX
 
+## Audio to midi
 
 
 ### RipX
