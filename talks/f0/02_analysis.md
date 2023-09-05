@@ -31,6 +31,10 @@
       - [fork](https://github.com/vpavlenko/wavebeat), [Currently fails](https://gist.github.com/vpavlenko/6c4982ea9920ad0c46aa035b84afa300)
 - [All-In-One Music Structure Analyzer](https://github.com/mir-aidj/all-in-one)
 
+![download](https://github.com/vpavlenko/study-music/assets/1491908/49b1933f-7a8c-46f2-addf-5a093ff0ad7b)
+
+
+
 ### Automatic drum transription
 
 Options:
