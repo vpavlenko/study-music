@@ -71,6 +71,7 @@ Historically, a lot of effort was put specifically into solo piano recognition. 
 
 Other:
 - [Bytedance (2020)](https://github.com/bytedance/piano_transcription)
+- [Onsets and Velocities (2023)](https://github.com/andres-fr/iamusica_training)
 
 ### Automatic drum tracking
 
