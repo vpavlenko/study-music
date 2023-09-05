@@ -84,7 +84,6 @@ So: get your parts Basic Pitched, get your drums separately, get your downbeat t
 
 Caveat: Basic Pitch produces midi with resolution 480, whereas omnizart outputs in 220. Merging them can lead to errors when using online tools
 
-## Analysis
 
 ### Harmonic analysis: chords, keys
 
@@ -98,7 +97,7 @@ Possibly, with "omnizart chord" and any beat tracking you can already build a cl
 
 ## PDF sheet music to MusicXML (Optical Music Recognition, OMR)
 
-
+[It's tough and not solved holistically yet.](https://www.google.com/search?q=challenges+omr+paper+music+survey)
 
 
 # Read more
