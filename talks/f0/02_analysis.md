@@ -1,7 +1,10 @@
 # Analyze tracks in major
 
 
+[**Tools for transcription**](../../parts/transcription.md) 
 
+Everynoise in major:
+- Joe Yamada "Chasing the Dream" (solo piano) - easy major harmony, melody + arpeggios, mostly on 4-chord progressions
 
 
 ## Todo
