@@ -26,9 +26,9 @@ The rest of this doc focuses on how to build your own RipX from existing tools.
 
 ### Demixing
 
-[Demucs v4 (2022)](https://github.com/facebookresearch/demucs) splits into bass, drums, vocals and other. Previously [spleeter (2020)](https://github.com/deezer/spleeter) was widely used - it can do additional fifth stem with piano.
+[Demucs v4 (2022)](https://github.com/facebookresearch/demucs) [▶️](https://www.google.com/search?q=demucs+online) splits into bass, drums, vocals and other. Previously [spleeter (2020)](https://github.com/deezer/spleeter) was widely used - it can do additional fifth stem with piano.
 
-[Run demucs online](https://www.google.com/search?q=demucs+online)
+
 
 
 ### Beat tracking
@@ -44,6 +44,7 @@ There's also a [nice visualizer](https://github.com/tae-jun/music-dissector):
 
 Previous solutions:
 - [WaveBeat](https://github.com/csteinmetz1/wavebeat)
+- [omnizart beat](https://music-and-culture-technology-lab.github.io/omnizart-doc/) - requires midi, [has](https://github.com/Music-and-Culture-Technology-Lab/omnizart/issues/100) [issues](https://github.com/Music-and-Culture-Technology-Lab/omnizart/issues/104) [running](https://github.com/Music-and-Culture-Technology-Lab/omnizart/pull/103) "beat" now
 
 ### Pitch recognition
 
