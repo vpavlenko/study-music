@@ -61,8 +61,13 @@ Historically, a lot of effort was put specifically into solo piano recognition. 
 
 ### Automatic drum tracking
 
+omnizart drum
 
+## Analysis
 
+### Harmonic analysis: chords, keys
+
+omnizart chord
 
 
 
@@ -80,6 +85,5 @@ Audio to midi
 ---
 
 
-- https://piano-scribe.glitch.me/
 - https://tuneflow.com/
 - [**Lecture on analysis**](../talks/f0/02_analysis.md)
