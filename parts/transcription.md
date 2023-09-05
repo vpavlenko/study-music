@@ -59,7 +59,8 @@ For each of non-drum parts you want pitch recognition. General-purpose SOTA is [
 
 <img width="600" alt="Screenshot 2023-09-05 at 11 17 27" src="https://github.com/vpavlenko/study-music/assets/1491908/5fc44b23-9689-446a-b6e6-aaee7ae7af29">
 
-For melody specifically, [sheetsage (2022)](https://github.com/chrisdonahue/sheetsage) may also be considered
+Other: 
+- [sheetsage (2022)](https://github.com/chrisdonahue/sheetsage) for melody - although I tested it, and results are far from great
 
 
 #### Piano
@@ -88,7 +89,7 @@ Caveat: Basic Pitch produces midi with resolution 480, whereas omnizart outputs 
 ### Harmonic analysis: chords, keys
 
 - [Omnizart chord (2019)](https://replicate.com/e7mac/omnizart)
-- [Sheet Sage (2022)](https://github.com/chrisdonahue/sheetsage)
+- [Sheet Sage (2022)](https://github.com/chrisdonahue/sheetsage) - easy to run, chords are mostly right
 - key: [Spotify API](https://developer.spotify.com/documentation/web-api/reference/get-audio-analysis)
 
 Possibly, with "omnizart chord" and any beat tracking you can already build a clone of [Chordify](https://chordify.net/) and even improve it by adding form annotation.
