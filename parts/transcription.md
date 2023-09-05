@@ -73,7 +73,9 @@ Other:
 
 [Omnizart chord](https://replicate.com/e7mac/omnizart)
 
+Possibly, with "omnizart chord" and any beat tracking you can already build a clone of [Chordify](https://chordify.net/) and even improve it by adding form annotation.
 
+<img width="700" alt="Screenshot 2023-09-05 at 11 56 05" src="https://github.com/vpavlenko/study-music/assets/1491908/b47afde3-5aeb-4345-b75a-0dedb1275c38">
 
 ## PDF sheet music to MusicXML (Optical Music Recognition, OMR)
 
