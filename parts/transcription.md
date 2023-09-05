@@ -20,10 +20,6 @@ Questions:
 - How does it estimate midi notes?
 - Does it extract midi notes first and then Q-filters a certain part over it for playback? Or how does it split a part into harmonics/notes in a polyphonic texture?
 
-Other:
-- [TuneFlow](https://tuneflow.com/) promises audio to MIDI - is it good?
-
-
 The rest of this doc focuses on how to build your own RipX from existing tools.
 
 ### Demixing
@@ -104,6 +100,7 @@ Also, a paper by [Chordify (2014)](https://dspace.library.uu.nl/handle/1874/3037
 [It's tough and not solved holistically yet.](https://www.google.com/search?q=challenges+omr+paper+music+survey)
 
 
-# Read more
+# Notes
 
 - https://paperswithcode.com/task/music-transcription/latest
+- [TuneFlow](https://tuneflow.com/) [is](https://github.com/tuneflow/tuneflow-plugin-demucs) [probably](https://github.com/tuneflow/basic-pitch) a wrapper around demucs and Basic Pitch.
