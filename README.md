@@ -67,7 +67,7 @@ Music languages can be divided into a number of families. Historically, the most
 - 12-tone temperament
 - major/minor keys
 - homophony: melody over chords, chords give a separate narrative
-- chords in thirds
+- chords as stacked thirds
 - any of the 12 notes can be a tonic
 
 The languages are (roughly speaking):
