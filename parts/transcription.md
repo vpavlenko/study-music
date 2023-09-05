@@ -60,7 +60,7 @@ For each of non-drum parts you want pitch recognition. General-purpose SOTA is [
 <img width="600" alt="Screenshot 2023-09-05 at 11 17 27" src="https://github.com/vpavlenko/study-music/assets/1491908/5fc44b23-9689-446a-b6e6-aaee7ae7af29">
 
 Other: 
-- [sheetsage (2022)](https://github.com/chrisdonahue/sheetsage) for melody - although I tested it, and results are far from great
+- [Sheet Sage (2022)](https://github.com/chrisdonahue/sheetsage) for melody - although I tested it, and results are far from great
 
 
 #### Piano
