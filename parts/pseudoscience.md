@@ -33,7 +33,7 @@ Also see [this](https://www.laits.utexas.edu/wagner/ringtonalstructure/ringtonal
 
 - Guerino Mazzola. The Topos of Music
 
-- [Adam Neely. A = 432Hz](https://www.youtube.com/watch?v=EKTZ151yLnk)
+- [Adam Neely. A = 432Hz](https://www.youtube.com/watch?v=EKTZ151yLnk) (Adam is great, 432 Hz is weird)
 
 - [The Lydian Theory by Brett Clement](https://www.zappa-analysis.com/brett-clement.htm) - I've just found this discussion, I don't have my own opinion yet
 
