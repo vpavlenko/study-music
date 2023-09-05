@@ -125,10 +125,10 @@ Topics on electronic music
 
 - [**Sound design**](parts/sound_design.md)
 - [**Digital composition**](parts/digital_composition.md)
+- [**🔥 Transcription**](parts/transcription.md)
 - [**Mixing**](parts/mixing.md)
 - [**Microtonal music**](parts/microtonal.md)
 - [**Notable instruments**](parts/instruments.md)
-- [**Transcription**](parts/transcription.md)
 - [Institute of Sonology: One-Year Course](http://sonology.org/one-year-course-admission/)
 
 Contacts
