@@ -1,4 +1,4 @@
-# Transcription
+# Transcription and analysis
 
 ## Audio to midi
 
@@ -42,7 +42,7 @@ There's also a [nice visualizer](https://github.com/tae-jun/music-dissector):
 
 <img width="1728" alt="Screenshot 2023-09-05 at 11 14 02" src="https://github.com/vpavlenko/study-music/assets/1491908/bb28f70b-313d-4574-afd3-9c64ddefbcfb">
 
-Previous solutions:
+Other:
 - [WaveBeat](https://github.com/csteinmetz1/wavebeat)
 - [omnizart beat](https://music-and-culture-technology-lab.github.io/omnizart-doc/) - requires midi, [has](https://github.com/Music-and-Culture-Technology-Lab/omnizart/issues/100) [issues](https://github.com/Music-and-Culture-Technology-Lab/omnizart/issues/104) [running](https://github.com/Music-and-Culture-Technology-Lab/omnizart/pull/103) "beat" now
 
@@ -59,15 +59,19 @@ Historically, a lot of effort was put specifically into solo piano recognition. 
 
 <img width="600" alt="Screenshot 2023-09-05 at 11 37 00" src="https://github.com/vpavlenko/study-music/assets/1491908/3c164332-53c4-4bbc-a7a8-2f13601b1eda">
 
+Other:
+- [Bytedance (2020)](https://github.com/bytedance/piano_transcription)
+
 ### Automatic drum tracking
 
-omnizart drum
+- omnizart drum
+- [Magenta OaF Drums](https://magenta.tensorflow.org/oaf-drums)
 
 ## Analysis
 
 ### Harmonic analysis: chords, keys
 
-omnizart chord
+[Omnizart chord](https://replicate.com/e7mac/omnizart)
 
 
 
