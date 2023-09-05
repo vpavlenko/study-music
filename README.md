@@ -66,7 +66,7 @@ Western music languages
 Music languages can be divided into a number of families. Historically, the most dominant and influencial one is Western family of languages. Its languages share some common traits:
 - 12-tone temperament
 - major/minor keys
-- homophony
+- homophony: melody over chords, chords give a separate narrative
 - chords in thirds
 - any of the 12 notes can be a tonic
 
