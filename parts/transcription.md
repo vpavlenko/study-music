@@ -45,6 +45,11 @@ There's also a [nice visualizer](https://github.com/tae-jun/music-dissector):
 Other:
 - [WaveBeat](https://github.com/csteinmetz1/wavebeat)
 - [omnizart beat](https://music-and-culture-technology-lab.github.io/omnizart-doc/) - requires midi, [has](https://github.com/Music-and-Culture-Technology-Lab/omnizart/issues/100) [issues](https://github.com/Music-and-Culture-Technology-Lab/omnizart/issues/104) [running](https://github.com/Music-and-Culture-Technology-Lab/omnizart/pull/103) "beat" now
+- [Spotify Track's Audio Analysis API](https://developer.spotify.com/documentation/web-api/reference/get-audio-analysis) - gives bars/beats, sections, key
+
+Questions:
+- does All-in-One improve madmom significantly?
+- is Spotify's API any good?
 
 ### Pitch recognition
 
