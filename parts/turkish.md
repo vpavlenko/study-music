@@ -3,3 +3,4 @@
 3. [Intonation in Turkish Maqam Music](https://github.com/vpavlenko/intonation_in_turkish_makam_music)
 4. [CompMusic Turkish makam music corpus](https://dunya.compmusic.upf.edu/makam/stats)
 5. [Neyzen Note Archive](https://neyzen.com/ney_klasik_eserler.html)
+6. [Structure Analysis Experiments on Ottoman-Turkish Makam Music Scores](https://github.com/sertansenturk/otmm_score_structure_experiments)
