@@ -28,6 +28,8 @@
 - Can probably use [WaveBeat](https://github.com/csteinmetz1/wavebeat) for downbeat estimation - instead of omnizart beat
    - Run on Ubuntu 20.04 with python3.8, numpy==1.19 and madmom==0.16.1 recompiled after installing numpy. [Installation](https://gist.github.com/vpavlenko/6d88bd19b4017c0bf63d70ca5a9738e7)
    - [Deploying wavebeat on Replicate: ChatGPT](https://chat.openai.com/share/de2f0f76-a6a0-4029-896e-16a37706f7ea)
+      - [fork](https://github.com/vpavlenko/wavebeat), [Currently fails](https://gist.github.com/vpavlenko/6c4982ea9920ad0c46aa035b84afa300)
+- [All-In-One Music Structure Analyzer](https://github.com/mir-aidj/all-in-one)
 
 ### Automatic drum transription
 
