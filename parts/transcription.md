@@ -16,7 +16,7 @@ Well, take [RipX DeepRemix](https://hitnmix.com/remix-software/) and you'll get 
 
 Questions:
 - Does it use spleeter? Is demucs better?
-- How does it draw precise melodyne-like pitch contours?
+- How does it draw precise Melodyne-like pitch contours? I see them in a demo of Basic Pitch, but they're lost on midi export?
 - How does it estimate midi notes?
 - Does it extract midi notes first and then Q-filters a certain part over it for playback? Or how does it split a part into harmonics/notes in a polyphonic texture?
 
@@ -50,14 +50,14 @@ Previous solutions:
 
 For each of non-drum parts you want pitch recognition. General-purpose SOTA is [Basic Pitch](https://basicpitch.spotify.com/):
 
-<img width="954" alt="Screenshot 2023-09-05 at 11 17 27" src="https://github.com/vpavlenko/study-music/assets/1491908/5fc44b23-9689-446a-b6e6-aaee7ae7af29">
+<img width="600" alt="Screenshot 2023-09-05 at 11 17 27" src="https://github.com/vpavlenko/study-music/assets/1491908/5fc44b23-9689-446a-b6e6-aaee7ae7af29">
 
 
 #### Piano
 
-Historically, a lot of effort was put specifically into solo piano recognition. So now we have:
+Historically, a lot of effort was put specifically into solo piano recognition. So now we have [Onsets and Frames (2018)](https://magenta.tensorflow.org/onsets-frames) [🐟](https://piano-scribe.glitch.me/)
 
-
+<img width="600" alt="Screenshot 2023-09-05 at 11 37 00" src="https://github.com/vpavlenko/study-music/assets/1491908/3c164332-53c4-4bbc-a7a8-2f13601b1eda">
 
 ### Automatic drum tracking
 
