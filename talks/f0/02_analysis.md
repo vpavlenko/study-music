@@ -3,12 +3,7 @@
 
 
 ## Todo
-- [Stem Separation Comparison Dec 2022](https://www.youtube.com/watch?v=gl5AKCgMSSc)
-- Can we separate [two guitars](https://www.youtube.com/watch?v=h6ytkmZEEUU) - lead from rhythm?
-   - Also 
-   - Also see [MusicNetEM](https://benadar293.github.io/)
 - Unplayable drum midi tracks is fixed by copy-pasting drum track onto a fresh track in signal. Probably, some important setup midi messages are created this way
-- Maybe check ISMIR Slack
 
 
 
