@@ -31,6 +31,7 @@ Other NN approaches for related things (GAN, VAE, RNNs, LSTMs)
 More
 ----
 
+- https://github.com/archinetai/audio-ai-timeline
 - [A Comprehensive Survey on Deep Music Generation:
 Multi-level Representations, Algorithms, Evaluations, and
 Future Directions
