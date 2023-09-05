@@ -101,12 +101,9 @@ Possibly, with "omnizart chord" and any beat tracking you can already build a cl
 
  # Rest
 
-- https://github.com/chrisdonahue/sheetsage
 - https://paperswithcode.com/task/music-transcription/latest
 
 Audio to midi
 ---
 
-
 - https://tuneflow.com/
-- [**Lecture on analysis**](../talks/f0/02_analysis.md)
