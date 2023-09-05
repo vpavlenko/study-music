@@ -58,6 +58,10 @@ And then there are sketchbooks:
 Orchestration
 ---
 
+<img width="1247" alt="Screenshot 2023-09-05 at 14 56 15" src="https://github.com/vpavlenko/study-music/assets/1491908/7ef2b66c-6cf5-4a37-9b9f-0e7b578dc5f1">
+
+([pic source](https://arxiv.org/pdf/2107.05916.pdf))
+
 1. Samuel Adler, The Study of Orchestration. [Podcast](https://www.artofcomposing.com/aoc-012-samuel-adler-and-the-study-of-orchestration)
 2. Г. Банщиков. Законы функциональной инструментовки
 3. [Alan Belkin. Applied Orchestration](https://www.youtube.com/watch?v=jOzoCe_UKgM&list=PLSntcNF64SVXBSwQx7kDHiF7V49lABSxC)
