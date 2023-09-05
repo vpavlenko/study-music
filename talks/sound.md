@@ -15,6 +15,8 @@ Sound
 5. Discuss the basic sequence: https://beatbucket.io/
 6. RipX, demucs, [**transcription**](../parts/transcription.md)
 7. First chapters of David Huron. Voice Leading
+8. https://www.acs.psu.edu/drussell/demos.html
+9. https://www.phys.unsw.edu.au/music/
 
 Where to go next
 ---
