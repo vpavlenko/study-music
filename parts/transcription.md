@@ -67,6 +67,12 @@ Other:
 - omnizart drum
 - [Magenta OaF Drums](https://magenta.tensorflow.org/oaf-drums)
 
+### Assemble midi
+
+Doing it straight away via [MT3](https://github.com/magenta/mt3) gives very bizarre results.
+
+So: get your parts Basic Pitched, get your drums separately, get your downbeat timings, and then use gpt4 scripting, midisox, Ableton (XML-hackable!) and what not.
+
 ## Analysis
 
 ### Harmonic analysis: chords, keys
