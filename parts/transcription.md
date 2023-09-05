@@ -71,7 +71,9 @@ Other:
 
 Doing it straight away via [MT3](https://github.com/magenta/mt3) gives very bizarre results.
 
-So: get your parts Basic Pitched, get your drums separately, get your downbeat timings, and then use gpt4 scripting, midisox, Ableton (XML-hackable!) and what not.
+So: get your parts Basic Pitched, get your drums separately, get your downbeat timings, and then use gpt4 scripting, [midisox](https://pjb.com.au/midi/midisox.html), Ableton (XML-hackable!) and what not.
+
+Caveat: Basic Pitch produces midi with resolution 480, whereas omnizart outputs in 220. Merging them can lead to errors when using online tools
 
 ## Analysis
 
