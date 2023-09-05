@@ -20,6 +20,8 @@ Questions:
 - How does it estimate midi notes?
 - Does it extract midi notes first and then Q-filters a certain part over it for playback? Or how does it split a part into harmonics/notes in a polyphonic texture?
 
+Other:
+- [TuneFlow](https://tuneflow.com/) promises audio to MIDI - is it good?
 
 
 The rest of this doc focuses on how to build your own RipX from existing tools.
@@ -99,11 +101,6 @@ Possibly, with "omnizart chord" and any beat tracking you can already build a cl
 
 
 
- # Rest
+# Read more
 
 - https://paperswithcode.com/task/music-transcription/latest
-
-Audio to midi
----
-
-- https://tuneflow.com/
