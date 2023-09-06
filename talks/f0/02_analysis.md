@@ -6,6 +6,7 @@
 Everynoise in major:
 - Joe Yamada "Chasing the Dream" (solo piano) - easy major harmony, melody + arpeggios, mostly on 4-chord progressions
 
+All-in-One: [HuggingFace](https://huggingface.co/spaces/vpavlenko/all-in-one), [Music Dissector](https://music-dissector.vercel.app/)
 
 ## Todo
 - Unplayable drum midi tracks is fixed by copy-pasting drum track onto a fresh track in signal. Probably, some important setup midi messages are created this way
