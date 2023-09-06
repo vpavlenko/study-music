@@ -18,6 +18,12 @@ Can we sing something on this meeting?
 
 
 
+# Analyses
+
+## In Control "Victims of Progress"
+
+
+
 
 
 # Obsolete notes
