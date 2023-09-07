@@ -2,6 +2,12 @@
 
 0. Let's try to sing [chords](https://book-one.hooktheory.com/section/chords)
 
+## Show
+
+1. AnthemScore - for spectrogram
+2. RipX
+3. All-in-One: [HuggingFace](https://huggingface.co/spaces/vpavlenko/all-in-one), [Music Dissector](https://music-dissector.vercel.app/)
+
 ## How to analyze
 
 [Homework](https://github.com/vpavlenko/study-music/blob/main/talks/f0/01_major.md#homework)
@@ -12,10 +18,6 @@
 4. If it's absent - try transcription tools:
 
 [**Tools for transcription**](../../parts/transcription.md) 
-
-All-in-One: [HuggingFace](https://huggingface.co/spaces/vpavlenko/all-in-one), [Music Dissector](https://music-dissector.vercel.app/)
-
-показать спектрограммы и гармоники инструментов
 
 # Obsolete notes
 
