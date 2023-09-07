@@ -3,9 +3,18 @@
 
 - Can we sing something on this meeting? Let's try to sing chords
 
+## How to analyze
+
+1. Search on Hooktheory. If it's not there, aim for uploading it there
+2. Check https://www.ultimate-guitar.com/
+3. Search for midi.
+4. If it's absent - try transcription tools:
+
 [**Tools for transcription**](../../parts/transcription.md) 
 
 All-in-One: [HuggingFace](https://huggingface.co/spaces/vpavlenko/all-in-one), [Music Dissector](https://music-dissector.vercel.app/)
+
+
 
 ## Todo
 - Unplayable drum midi tracks is fixed by copy-pasting drum track onto a fresh track in signal. Probably, some important setup midi messages are created this way
