@@ -18,7 +18,8 @@
 1. Search on Hooktheory. If it's not there, aim for uploading it there
 2. Check https://www.ultimate-guitar.com/
 3. Search for midi.
-4. If it's absent - try transcription tools:
+4. Search for chords.
+5. If it's absent - try transcription tools:
 
 [**Tools for transcription**](../../parts/transcription.md) 
 
