@@ -6,6 +6,7 @@
 
 ## Show
 
+0. [talks/sound.md](../sound.md)
 1. AnthemScore - for spectrogram
 2. RipX
 3. All-in-One: [HuggingFace](https://huggingface.co/spaces/vpavlenko/all-in-one), [Music Dissector](https://music-dissector.vercel.app/)
