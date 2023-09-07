@@ -15,6 +15,7 @@
 
 All-in-One: [HuggingFace](https://huggingface.co/spaces/vpavlenko/all-in-one), [Music Dissector](https://music-dissector.vercel.app/)
 
+показать спектрограммы и гармоники инструментов
 
 # Obsolete notes
 
