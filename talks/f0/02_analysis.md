@@ -1,9 +1,10 @@
 # Analyze tracks in major
 
-
-- Can we sing something on this meeting? Let's try to sing chords
+0. Let's try to sing [chords](https://book-one.hooktheory.com/section/chords)
 
 ## How to analyze
+
+[Homework](https://github.com/vpavlenko/study-music/blob/main/talks/f0/01_major.md#homework)
 
 1. Search on Hooktheory. If it's not there, aim for uploading it there
 2. Check https://www.ultimate-guitar.com/
@@ -15,26 +16,10 @@
 All-in-One: [HuggingFace](https://huggingface.co/spaces/vpavlenko/all-in-one), [Music Dissector](https://music-dissector.vercel.app/)
 
 
-
-## Todo
-- Unplayable drum midi tracks is fixed by copy-pasting drum track onto a fresh track in signal. Probably, some important setup midi messages are created this way
-
-
-
-## Singing
-
-
-
-
-
-# Analyses
-
-
-
 # Obsolete notes
 
 - Joe Yamada "Chasing the Dream" (solo piano) - easy major harmony, melody + arpeggios, mostly on 4-chord progressions
-
+- Unplayable drum midi tracks is fixed by copy-pasting drum track onto a fresh track in signal. Probably, some important setup midi messages are created this way
 
 ## [Carver Commodore - Drown Me In Emotions](https://www.youtube.com/watch?v=bLaipK9lisc)
 
