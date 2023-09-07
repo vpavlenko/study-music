@@ -3,9 +3,6 @@
 
 [**Tools for transcription**](../../parts/transcription.md) 
 
-Everynoise in major:
-- Joe Yamada "Chasing the Dream" (solo piano) - easy major harmony, melody + arpeggios, mostly on 4-chord progressions
-
 All-in-One: [HuggingFace](https://huggingface.co/spaces/vpavlenko/all-in-one), [Music Dissector](https://music-dissector.vercel.app/)
 
 ## Todo
@@ -29,13 +26,16 @@ Can we sing something on this meeting?
 
 # Obsolete notes
 
+- Joe Yamada "Chasing the Dream" (solo piano) - easy major harmony, melody + arpeggios, mostly on 4-chord progressions
+
+
 ## [Carver Commodore - Drown Me In Emotions](https://www.youtube.com/watch?v=bLaipK9lisc)
 
 - Found in everynoise's scan. Feels like it's in major.
 - [Search for chords](https://www.google.com/search?q=Carver+Commodore+-+Drown+Me+In+Emotions+chords). 
 - Found [chordify](https://chordify.net/chords/carver-commodore-drown-me-in-emotions-official-music-video-carver-commodore) - it's auto chords. It's a rare track, so neither midi nor human-entered chords.
 - It's in E Major, because if we assume that, we get verse IV-I-V and chorus I-(iii)-ii-V, pretty straightforward.
-- `youtube-dl -x --audio-format "best" --audio-quality 0 --embed-thumbnail --add-metadata https://www.youtube.com/watch\?v\=bLaipK9lisc`
+- `youtube-dl -x --audio-format "best" --audio-quality 0 --embed-thumbnail --add-metadata https://www.youtube.com/watch\?v\=bLaipK9lisc` or youtubepi
 
 
 
