@@ -1,6 +1,8 @@
 # Analyze tracks in major
 
 
+- Can we sing something on this meeting? Let's try to sing chords
+
 [**Tools for transcription**](../../parts/transcription.md) 
 
 All-in-One: [HuggingFace](https://huggingface.co/spaces/vpavlenko/all-in-one), [Music Dissector](https://music-dissector.vercel.app/)
@@ -12,15 +14,11 @@ All-in-One: [HuggingFace](https://huggingface.co/spaces/vpavlenko/all-in-one), [
 
 ## Singing
 
-Can we sing something on this meeting?
+
 
 
 
 # Analyses
-
-## In Control "Victims of Progress"
-
-
 
 
 
