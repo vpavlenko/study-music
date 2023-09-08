@@ -4,8 +4,6 @@
 
 # [bit.ly/gmaj](https://bit.ly/gmaj)
 
-0. Let's try to sing [chords](https://book-one.hooktheory.com/section/chords)
-
 ## Show
 
 0. [talks/sound.md](../sound.md)
@@ -27,7 +25,6 @@
 
 # Obsolete notes
 
-- Joe Yamada "Chasing the Dream" (solo piano) - easy major harmony, melody + arpeggios, mostly on 4-chord progressions
 - Unplayable drum midi tracks is fixed by copy-pasting drum track onto a fresh track in signal. Probably, some important setup midi messages are created this way
 
 ## [Carver Commodore - Drown Me In Emotions](https://www.youtube.com/watch?v=bLaipK9lisc)
