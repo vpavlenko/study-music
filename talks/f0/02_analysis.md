@@ -1,5 +1,7 @@
 # Analyze tracks in major
 
+[Видеозапись лекции](https://t.me/keetezh/952)
+
 # [bit.ly/gmaj](https://bit.ly/gmaj)
 
 0. Let's try to sing [chords](https://book-one.hooktheory.com/section/chords)
