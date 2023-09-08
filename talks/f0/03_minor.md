@@ -12,6 +12,7 @@
    - Параллельный мажор. Хромка 25х12
       - https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP
    - Phrygian cadence
+   - VI-V-i-III
 4. Mixture
    - Разбирать все популярные треки, не разбирать редкие
    - Мб строить лекцию исходя из лайнапа популярных трэков
