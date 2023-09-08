@@ -5,6 +5,7 @@
 1. Natural minor in Hooktheory
    - i-VII-VI-VII, VI-VII-i
    - i-VI shuttle
+2. Поем в movable do: do-re-mi, do-re-me
 2. Harmonic major
    - Три блатных аккорда
    - Частушки
@@ -13,7 +14,7 @@
       - https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP
    - Phrygian cadence
    - VI-V-i-III
-3. Классическая форма: sentence по Каплину
+3. Классическая форма: sentence по Каплину. Разобрать пару примеров понотно
 5. Mixture
    - Разбирать все популярные треки, не разбирать редкие
    - Мб строить лекцию исходя из лайнапа популярных трэков
