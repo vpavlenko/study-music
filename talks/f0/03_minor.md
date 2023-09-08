@@ -1,4 +1,4 @@
-# Rock harmony in minor
+# Western harmony in minor
 
 ## Order
 
