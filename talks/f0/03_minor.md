@@ -13,6 +13,7 @@
       - https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP
    - Phrygian cadence
    - VI-V-i-III
+3. Одноименный мажор
 4. Mixture
    - Разбирать все популярные треки, не разбирать редкие
    - Мб строить лекцию исходя из лайнапа популярных трэков
