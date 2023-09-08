@@ -76,3 +76,5 @@ More
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/77ad3ff5-365f-4459-a296-474835215f30)
 
+- https://www.angelfire.com/fl4/moneychords/classicrocklwsson.html
+
