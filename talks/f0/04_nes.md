@@ -21,6 +21,8 @@ A direct conversion to midi may lose too much information, including timbral. Eg
 # Notes on games
 
 - https://chiptune.app/browse/Nintendo/Battle%20Storm - doesn't use square 2 - two voices only
-- https://chiptune.app/browse/Nintendo/Crystalis - 25% duty
+- https://chiptune.app/browse/Nintendo/Crystalis - 25% duty. Overall a great soundtrack
 - https://chiptune.app/browse/Nintendo/Crime%20Busters - tune 2 has 25% and 12.5% simultaneously, also a lot of gliding. Also a clear minor/major language with boogie vibe
 - https://chiptune.app/browse/Nintendo/Kero%20Kero%20Keroppi%20no%20Daibouken - tune 1, square 1 changes from 12.% to 50%
+- https://chiptune.app/browse/Nintendo/Little%20Magic - purely 50% on three voices, has vibrato
+- 
