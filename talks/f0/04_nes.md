@@ -16,3 +16,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 A direct conversion to midi may lose too much information, including timbral. Eg. each square wave generator has duty cycle control.
 
 - [Harmonics of rectangular waves](https://pages.uoregon.edu/emi/14.php)
+
+# Notes on games
+
+- https://chiptune.app/browse/Nintendo/Battle%20Storm - doesn't use square 2 - two voices only
