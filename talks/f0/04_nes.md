@@ -16,6 +16,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 A direct conversion to midi may lose too much information, including timbral. Eg. each square wave generator has duty cycle control.
 
 - [Harmonics of rectangular waves](https://pages.uoregon.edu/emi/14.php)
+- [Explanation on duty cycles harmonics cancelling](https://wigglewave.wordpress.com/2014/08/16/pulse-waveforms-and-harmonics/)
 
 # Notes on games
 
