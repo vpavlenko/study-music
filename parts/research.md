@@ -82,6 +82,8 @@ Expressive performance
 - [Janis Sokolovskis, Dorien Herremans, Elaine Chew. A Novel Interface for the Graphical Analysis of Music Practice Behaviors](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02292/full)
 - [CosmoNote](https://cosmonote.isd.kcl.ac.uk/), [one of their articles](https://hal.science/hal-03856199/file/22020.pdf)
 - [Dorottya Fabian, Renee Timmers, and Emery Schubert. Expressiveness in music performance: Empirical approaches across styles and cultures](https://amzn.to/34XbpMk)
+- https://touchpianist.com/
+- See how Beethoven's MIDI sequences of [Bernd Krueger](http://www.piano-midi.de/beeth.htm) use the tempo track. [Web MIDI editor](https://signal.vercel.app/)
 
 
 Interactive harmonic analysis
