@@ -1,5 +1,5 @@
-Sound design
-===
+# Sound design
+
 
 - [Syntorial](https://www.syntorial.com/) - An educational app that asks you to repeat the synth sound you hear and progressively gives you
  more controls to manipulate. Has a free trial of 22 lessons, with a full course of 199 lessons. [Demo on YouTube](https://www.youtube.com/watch?v=ulLmILO1oV4)
@@ -40,3 +40,11 @@ Also, historically there was a number of environments to do sound synthesis with
 - Алексей Насретдинов. Физика и анатомия звука
 
 - [R-Synth](https://deibid.github.io/r-synth/index.html) - a random synth generator
+
+# Acoustics
+
+1. https://www.acs.psu.edu/drussell/demos.html
+9. https://www.phys.unsw.edu.au/music/
+10. https://www.mattmontag.com/auralization/
+
+
