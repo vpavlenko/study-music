@@ -15,6 +15,7 @@ Sound
 5. Discuss the basic sequence: https://beatbucket.io/
 6. [**Transcription**](../parts/transcription.md)
 7. First chapters of David Huron. Voice Leading
+8. [**Acoustics**](../parts/sound_design.md#acoustics)
 
 Where to go next
 ---
