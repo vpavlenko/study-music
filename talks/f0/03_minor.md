@@ -15,8 +15,10 @@
    - Разбираем "Не надо стесняться" - корпус :)
    - Phrygian cadence
    - VI-V-i-III
-3. Классическая форма: sentence по Каплину. Разобрать пару примеров понотно.
-   - Покрасить нотный текст в Мьюзскоре: цвета плюс movable do noteheads
+4. Грузинская доминанта
+   - Makvala: [guitar + voice](https://www.youtube.com/watch?v=cWgEATUOgbg),
+   - https://www.youtube.com/watch?v=9Cs4yynbhdQ
+   - [Аварский](https://www.youtube.com/watch?v=p7Kc35wxdAs)
 5. Mixture
    - Разбирать все популярные треки, не разбирать редкие
    - Мб строить лекцию исходя из лайнапа популярных трэков
@@ -39,6 +41,13 @@ v vs V in minor
 
 На лекции с побочными доминантами разобрать "Каким ты был" на хромке
 - ["Правильный разбор"](https://www.youtube.com/watch?v=pcDpHjJvaOA)
+
+Фригийский: помимо Firuze разобрать Nino Chkheidze - Makvala
+
+3. Классическая форма: sentence по Каплину. Разобрать пару примеров понотно.
+   - Покрасить нотный текст в Мьюзскоре: цвета плюс movable do noteheads
+
+
 
 ## Resources
 
