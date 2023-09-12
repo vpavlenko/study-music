@@ -24,6 +24,7 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - Polyphony in medieval Paris: The art of composing with plainchant
 - 🎥 https://www.youtube.com/@EarlyMusicSources
 - Vincenzo Borghetti, Tim Shephard (eds). The Museum of Renaissance Music. A History in 100 Exhibits
+- http://digitalduchemin.org/
 
 
 
@@ -64,4 +65,5 @@ Counterpoint can be of 16th century (which is Renaissance) or 18th century (whic
 - [Alan Belkin. Applied Counterpoint](https://www.youtube.com/watch?v=yPHC9Zf9s04&list=PLSntcNF64SVW2hG6S7j78_cXg_13ZWN0q)
 - Скребков. Полифонический анализ - про ХТК
 - Kurt-Jürgen Sachs, Carl Dahlhaus. "Counterpoint" - an article in New Grove Music Dictionary
+- https://doc.verovio.humdrum.org/filter/dissonant/
 
