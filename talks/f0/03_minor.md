@@ -47,6 +47,7 @@ v vs V in minor
 
 Также нехватка V/iv:
 - [Пусть бегут неуклюже](https://www.youtube.com/watch?v=DKBhmD-1E6g)
+- [Смуглянка](https://www.youtube.com/watch?v=h0sjqR_zH14)
 
 Фригийский: помимо Firuze разобрать Nino Chkheidze - Makvala
 
