@@ -13,7 +13,7 @@
    - Частушки
    - [V7](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
    - Параллельный мажор. Хромка 25х12
-      - [очень хороший видос](https://www.youtube.com/watch?v=zmFHms43eCE)
+      - [очень хороший видос](https://www.youtube.com/watch?v=zmFHms43eCE) - можно посмотреть первые 2:30 перед обсуждением звукоряда
       - [Цыганочка](https://www.youtube.com/watch?v=3MxegQmK1_c)
       - [Звукоряд](https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP)
       - [Три минорных аккорда](https://www.youtube.com/watch?v=2gjUpyAIh9A)
