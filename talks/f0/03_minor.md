@@ -10,7 +10,6 @@
 3. Поем в movable do: do-re-mi, do-re-me
 2. [Harmonic major in Hooktheory](https://book-two.hooktheory.com/section/modal-mixture-in-minor) (только первый раздел)
    - Три блатных аккорда
-   - Частушки
    - [V7](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
    - Параллельный мажор. Хромка 25х12
       - [очень хороший видос](https://www.youtube.com/watch?v=zmFHms43eCE) - можно посмотреть первые 2:30 перед обсуждением звукоряда
