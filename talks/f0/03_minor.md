@@ -6,7 +6,7 @@
    - i-VII-VI-VII, VI-VII-i
    - i-VI shuttle
 2. Поем в movable do: do-re-mi, do-re-me
-2. Harmonic major
+2. [Harmonic major in Hooktheory](https://book-two.hooktheory.com/section/modal-mixture-in-minor)
    - Три блатных аккорда
    - Частушки
    - V7
