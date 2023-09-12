@@ -18,21 +18,17 @@
    - Phrygian cadence
    - VI-V-i-III
 4. Ещё одна доминанта
-   - Makvala: [guitar + voice](https://www.youtube.com/watch?v=cWgEATUOgbg),
+   - [пример](https://dl.dropboxusercontent.com/scl/fi/0br2vcz9an5qpdufzzntl/m.mp3?rlkey=vovgskrwlc65r79my2m2kafjk&dl=0)
    - https://www.youtube.com/watch?v=9Cs4yynbhdQ
-   - [Аварский](https://www.youtube.com/watch?v=p7Kc35wxdAs)
-   - [Nino Bagiashvili - Ver Dagtmob](https://www.youtube.com/watch?v=JxHrDGKddWU)
-   - [Алан Царикаев - Девчонка осетинка](https://www.youtube.com/watch?v=e43MDRKbD0g)
+   - [ещё](https://www.youtube.com/watch?v=p7Kc35wxdAs)
+   - [ещё](https://www.youtube.com/watch?v=JxHrDGKddWU)
+   - [ещё](https://www.youtube.com/watch?v=e43MDRKbD0g)
 
 ## Outline
 
 Minor, parallel major, diatonic accordion, V7. Analysis of some of our tracks
 
 Как соотносятся мажорный аккорд и мажорная гамма, минорный аккорд и минорная гамма?
-
-Слишком обскурно
-- Комсомольск - Самурай
-5. Анализ всего Комсомольска
 
 [Nopia](https://www.youtube.com/watch?v=Ivuy9QYLFVY)
 
