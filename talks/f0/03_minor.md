@@ -19,6 +19,8 @@
    - Makvala: [guitar + voice](https://www.youtube.com/watch?v=cWgEATUOgbg),
    - https://www.youtube.com/watch?v=9Cs4yynbhdQ
    - [Аварский](https://www.youtube.com/watch?v=p7Kc35wxdAs)
+   - [Nino Bagiashvili - Ver Dagtmob](https://www.youtube.com/watch?v=JxHrDGKddWU)
+   - [Алан Царикаев - Девчонка осетинка](https://www.youtube.com/watch?v=e43MDRKbD0g)
 
 ## Outline
 
