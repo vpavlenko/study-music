@@ -14,6 +14,7 @@
    - [V7](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
    - Параллельный мажор. Хромка 25х12
       - https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP
+   - [Accordion detune](https://www.youtube.com/watch?v=Z9VzzHaopcc)
    - Разбираем ["Не надо стесняться"](https://nns.i-m-i.ru/)
    - Phrygian cadence
    - VI-V-i-III
