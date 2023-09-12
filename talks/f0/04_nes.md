@@ -18,6 +18,10 @@ A direct conversion to midi may lose too much information, including timbral. Eg
 - [Harmonics of rectangular waves](https://pages.uoregon.edu/emi/14.php)
 - [Explanation on duty cycles harmonics cancelling](https://wigglewave.wordpress.com/2014/08/16/pulse-waveforms-and-harmonics/)
 
+# Trackers
+
+- https://famistudio.org/
+
 # Notes on games
 
 - https://chiptune.app/browse/Nintendo/Battle%20Storm - doesn't use square 2 - two voices only
