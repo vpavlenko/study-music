@@ -17,7 +17,7 @@
    - Разбираем ["Не надо стесняться"](https://nns.i-m-i.ru/)
    - Phrygian cadence
    - VI-V-i-III
-4. Грузинская доминанта
+4. Ещё одна доминанта
    - Makvala: [guitar + voice](https://www.youtube.com/watch?v=cWgEATUOgbg),
    - https://www.youtube.com/watch?v=9Cs4yynbhdQ
    - [Аварский](https://www.youtube.com/watch?v=p7Kc35wxdAs)
