@@ -5,14 +5,16 @@
 1. [Natural minor in Hooktheory](https://book-two.hooktheory.com/section/a-new-home-base)
    - i-VII-VI-VII, VI-VII-i
    - i-VI shuttle
+   - [i-VII-VI-VII, Elton John - Daniel](https://www.hooktheory.com/trends#key=C&scale=major&path=6.5.4.5)
+   - [i-VI-III-VII](https://www.youtube.com/watch?v=Rfsn3au--qo)
 3. Поем в movable do: do-re-mi, do-re-me
 2. [Harmonic major in Hooktheory](https://book-two.hooktheory.com/section/modal-mixture-in-minor) (только первый раздел)
    - Три блатных аккорда
    - Частушки
-   - V7
+   - [V7](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
    - Параллельный мажор. Хромка 25х12
       - https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP
-   - Разбираем "Не надо стесняться"
+   - Разбираем ["Не надо стесняться"](https://nns.i-m-i.ru/)
    - Phrygian cadence
    - VI-V-i-III
 4. Грузинская доминанта
