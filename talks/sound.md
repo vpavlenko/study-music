@@ -16,6 +16,7 @@ Sound
 6. [**Transcription**](../parts/transcription.md)
 7. First chapters of David Huron. Voice Leading
 8. [**Acoustics**](../parts/sound_design.md#acoustics)
+9. [Accordion detune](https://www.youtube.com/watch?v=Z9VzzHaopcc)
 
 Where to go next
 ---
