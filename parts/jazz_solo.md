@@ -47,6 +47,8 @@ Craft
 
 - [David Kane. Playing Outside the Chord](https://www.jazzbooks.com/mm5/merchant.mvc?Screen=PROD&Product_code=D-OTC)
 
+- Books by Bert Ligon, eg. "Connecting Chords with Linear Harmony"
+
 Research
 ---
 
