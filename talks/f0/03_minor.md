@@ -13,12 +13,14 @@
    - Частушки
    - [V7](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
    - Параллельный мажор. Хромка 25х12
+      - [Цыганочка](https://www.youtube.com/watch?v=3MxegQmK1_c)
       - [Звукоряд](https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP)
       - [Три минорных аккорда](https://www.youtube.com/watch?v=2gjUpyAIh9A)
+      - [Мелодия на 5 аккордов](https://youtu.be/Ldo4R6owZvc?si=kD8uJKRUx5zfv8Kt&t=213)
+      - [плейлист в шакальном качестве](https://www.youtube.com/playlist?list=PLcmCL8fscI389sdlSrB3Ljz8uwSf0Ljel)
    - [Accordion detune](https://www.youtube.com/watch?v=Z9VzzHaopcc)
       - [Звук из видео, открыть в Audacity](https://dl.dropbox.com/scl/fi/w9xv4sb0gj8oqtao7cntd/Accordion-Buyer-s-Guide-Comparison-of-10-Musette-De-tunings-Dry-to-Wet-Z9VzzHaopcc-192k-1694525395.mp3?rlkey=0qsew7228x9g1xlunpmsu2kgl&dl=1)
    - Разбираем ["Не надо стесняться"](https://nns.i-m-i.ru/)
-   - Phrygian cadence
    - VI-V-i-III
 4. Ещё одна доминанта
    - [пример](https://dl.dropboxusercontent.com/scl/fi/0br2vcz9an5qpdufzzntl/m.mp3?rlkey=vovgskrwlc65r79my2m2kafjk&dl=0)
@@ -26,6 +28,7 @@
    - [ещё](https://www.youtube.com/watch?v=p7Kc35wxdAs)
    - [ещё](https://www.youtube.com/watch?v=JxHrDGKddWU)
    - [ещё](https://www.youtube.com/watch?v=e43MDRKbD0g)
+
 
 ## Outline
 
@@ -42,11 +45,17 @@ v vs V in minor
 На лекции с побочными доминантами разобрать "Каким ты был" на хромке
 - ["Правильный разбор"](https://www.youtube.com/watch?v=pcDpHjJvaOA)
 
+Также нехватка V/iv:
+- [Пусть бегут неуклюже](https://www.youtube.com/watch?v=DKBhmD-1E6g)
+
 Фригийский: помимо Firuze разобрать Nino Chkheidze - Makvala
 
 3. Классическая форма: sentence по Каплину. Разобрать пару примеров понотно.
    - Покрасить нотный текст в Мьюзскоре: цвета плюс movable do noteheads
 
+- Phrygian cadence
+
+[Все песни Алёны Швец](https://www.youtube.com/watch?v=To7Ulep-NTI)
 
 
 ## Resources
@@ -57,7 +66,10 @@ v vs V in minor
 - https://www.youtube.com/watch?app=desktop&v=_dBYKPCNLOU
 - https://en.wikipedia.org/wiki/Autoharp
 - 
-<img width="500" alt="Screenshot 2023-08-28 at 11 41 28" src="https://github.com/vpavlenko/study-music/assets/1491908/80013c32-2117-43d9-9f7d-508104c78b50">
+![image](https://github.com/vpavlenko/study-music/assets/1491908/0635b46c-c104-455a-b08f-2a84fb021b69)
+
+![image](https://github.com/vpavlenko/study-music/assets/1491908/ca84507a-a34f-42e0-8776-8fbeda2a848c)
+
 
 **5-chord zither**:
 - [Autumn Melody (minor)](https://www.youtube.com/watch?v=Q2p7nir0scM)
