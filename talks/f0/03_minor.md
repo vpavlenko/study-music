@@ -12,16 +12,13 @@
    - V7
    - Параллельный мажор. Хромка 25х12
       - https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP
-   - Разбираем "Не надо стесняться" - корпус :)
+   - Разбираем "Не надо стесняться"
    - Phrygian cadence
    - VI-V-i-III
 4. Грузинская доминанта
    - Makvala: [guitar + voice](https://www.youtube.com/watch?v=cWgEATUOgbg),
    - https://www.youtube.com/watch?v=9Cs4yynbhdQ
    - [Аварский](https://www.youtube.com/watch?v=p7Kc35wxdAs)
-5. Mixture
-   - Разбирать все популярные треки, не разбирать редкие
-   - Мб строить лекцию исходя из лайнапа популярных трэков
 
 ## Outline
 
