@@ -2,7 +2,7 @@
 
 ## Order
 
-1. Natural minor in Hooktheory
+1. [Natural minor in Hooktheory](https://book-two.hooktheory.com/section/a-new-home-base)
    - i-VII-VI-VII, VI-VII-i
    - i-VI shuttle
 2. Поем в movable do: do-re-mi, do-re-me
