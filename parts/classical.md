@@ -40,6 +40,7 @@ Printed books
 
 - [Steven G. Laitz. The Complete Musician](https://amzn.to/3nKdSAa) - A standard modern book on classical harmony with introduction into a form and XX century techniques. [Audio examples](https://learninglink.oup.com/access/laitz-4e-student-resources) are freely available
 - Kevin Holm-Hudson. Music Theory Remixed - offers a mixed repertoire of classical, popular and non-Western music. [A review](https://hcommons.org/deposits/objects/hc:23398/datastreams/CONTENT/content)
+- [Charles Horton, David A. Byrne, Lawrence Ritchey. Harmony Through Melody: The Interaction of Melody, Counterpoint, and Harmony in Western Music](https://www.amazon.com/Harmony-Through-Melody-Interaction-Counterpoint-ebook/dp/B08JSMN4NW)
 - Elizabeth Marvin, Jane Piper Clendinning. The Musician's Guide to Theory and Analysis
 - Benward/Saker. Music in Theory and Practice
 - L. Poundie Burstein, Joseph N. Straus. Concise Introduction to Tonal Harmony
