@@ -12,7 +12,6 @@
    - V7
    - Параллельный мажор. Хромка 25х12
       - https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP
-      - "Каким ты был" на хромке :)
    - Phrygian cadence
    - VI-V-i-III
 3. Классическая форма: sentence по Каплину. Разобрать пару примеров понотно.
@@ -34,6 +33,11 @@ Minor, parallel major, diatonic accordion, V7. Analysis of some of our tracks
 [Nopia](https://www.youtube.com/watch?v=Ivuy9QYLFVY)
 
 v vs V in minor
+
+# Оффтоп
+
+На лекции с побочными доминантами разобрать "Каким ты был" на хромке
+- ["Правильный разбор"](https://www.youtube.com/watch?v=pcDpHjJvaOA)
 
 ## Resources
 
