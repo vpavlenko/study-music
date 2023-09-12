@@ -3,7 +3,6 @@
 ## Order
 
 1. [Natural minor in Hooktheory](https://book-two.hooktheory.com/section/a-new-home-base)
-   - хочется поразбирать чего-то родного. "Не надо стесняться"?
    - i-VII-VI-VII, VI-VII-i
    - i-VI shuttle
 3. Поем в movable do: do-re-mi, do-re-me
