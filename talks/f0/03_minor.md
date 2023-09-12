@@ -12,6 +12,7 @@
    - V7
    - Параллельный мажор. Хромка 25х12
       - https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP
+      - "Каким ты был" на хромке :)
    - Phrygian cadence
    - VI-V-i-III
 3. Классическая форма: sentence по Каплину. Разобрать пару примеров понотно.
