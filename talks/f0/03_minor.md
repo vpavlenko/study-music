@@ -15,6 +15,7 @@
    - Параллельный мажор. Хромка 25х12
       - https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP
    - [Accordion detune](https://www.youtube.com/watch?v=Z9VzzHaopcc)
+      - [Звук из видео, открыть в Audacity](https://dl.dropbox.com/scl/fi/w9xv4sb0gj8oqtao7cntd/Accordion-Buyer-s-Guide-Comparison-of-10-Musette-De-tunings-Dry-to-Wet-Z9VzzHaopcc-192k-1694525395.mp3?rlkey=0qsew7228x9g1xlunpmsu2kgl&dl=1)
    - Разбираем ["Не надо стесняться"](https://nns.i-m-i.ru/)
    - Phrygian cadence
    - VI-V-i-III
