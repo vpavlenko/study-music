@@ -13,6 +13,7 @@
    - V7
    - Параллельный мажор. Хромка 25х12
       - https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP
+   - Разбираем "Не надо стесняться" - корпус :)
    - Phrygian cadence
    - VI-V-i-III
 3. Классическая форма: sentence по Каплину. Разобрать пару примеров понотно.
