@@ -19,6 +19,7 @@ Sound
 9. [Accordion detune](https://www.youtube.com/watch?v=Z9VzzHaopcc)
 10. Tuning
    - PAL/NTSC NES?
+   - https://chiptune.app/browse/Nintendo/Bishoujo%20Shashinkan%20-%20Studio%20Cut
 
 Where to go next
 ---
