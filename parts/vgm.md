@@ -4,7 +4,7 @@
 Video game music
 ===
 
-[Chiptune music player](https://mmontag.github.io/chip-player-js/)
+[Chiptune music player](https://chiptune.app/)
 
 [Otocky (1987, NES)](https://www.youtube.com/watch?v=4A2mzS6toMo) - an early example of a [music video game](https://en.wikipedia.org/wiki/Music_video_game)
 
@@ -18,14 +18,12 @@ Music theory
 
 <img width="800" alt="Screenshot 2023-02-23 at 18 45 14" src="https://user-images.githubusercontent.com/1491908/220940057-03831277-4985-4297-a6b4-d7006a6b5132.png">
 
-
 - [Christopher J. Hopkins. Chiptune Music: An Exploration of Compositional Techniques as Found in Sunsoft Games for the Nintendo Entertainment System
 And Famicom From 1988-1992](https://www.christopherjhopkins.com/chiptune-dissertation.html)
 
 <img width="600" alt="Screenshot 2022-06-27 at 11 07 48" src="https://user-images.githubusercontent.com/1491908/175864137-4b139ba4-246c-4d67-9ec5-6b1cdbcb94c7.png">
 
 - https://web.archive.org/web/20110815082924/http://dutycyclegenerator.com/
-- https://deflemask.com/
 - https://github.com/chrisdonahue/nesmdb
 - https://arxiv.org/abs/2211.07131
 
@@ -49,3 +47,8 @@ These resources focus more on a historical context of origin or usage of certain
 - [Game songs that have real life mimics (Or vice versa)](https://ocremix.org/community/topic/21358-game-songs-that-have-real-life-mimics-or-vice-versa/)
 
 
+Trackers
+---
+
+- https://famistudio.org/
+- https://deflemask.com/
