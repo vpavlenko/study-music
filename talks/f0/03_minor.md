@@ -31,13 +31,14 @@
    - [ещё](https://www.youtube.com/watch?v=e43MDRKbD0g)
 
 
-## Outline
+## Клавиатура хромки 25х12
 
-[Nopia](https://www.youtube.com/watch?v=Ivuy9QYLFVY)
+![image](https://github.com/vpavlenko/study-music/assets/1491908/0635b46c-c104-455a-b08f-2a84fb021b69)
 
-v vs V in minor
+![image](https://github.com/vpavlenko/study-music/assets/1491908/ca84507a-a34f-42e0-8776-8fbeda2a848c)
 
-# Оффтоп
+
+## Оффтоп
 
 На лекции с побочными доминантами разобрать "Каким ты был" на хромке
 - ["Правильный разбор"](https://www.youtube.com/watch?v=pcDpHjJvaOA)
@@ -52,7 +53,7 @@ v vs V in minor
 Dorian
 - https://www.hooktheory.com/trends#key=D&scale=minor&path=6.J5.1.3
 
-3. Классическая форма: sentence по Каплину. Разобрать пару примеров понотно.
+Классическая форма: sentence по Каплину. Разобрать пару примеров понотно.
    - Покрасить нотный текст в Мьюзскоре: цвета плюс movable do noteheads
 
 - Phrygian cadence
@@ -67,10 +68,7 @@ Dorian
 - [Хромка на Википедии](https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%BA%D0%B0)
 - https://www.youtube.com/watch?app=desktop&v=_dBYKPCNLOU
 - https://en.wikipedia.org/wiki/Autoharp
-- 
-![image](https://github.com/vpavlenko/study-music/assets/1491908/0635b46c-c104-455a-b08f-2a84fb021b69)
 
-![image](https://github.com/vpavlenko/study-music/assets/1491908/ca84507a-a34f-42e0-8776-8fbeda2a848c)
 
 
 **5-chord zither**:
