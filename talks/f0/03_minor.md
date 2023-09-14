@@ -38,7 +38,7 @@
 
 - [Комбинация "Бухгалтер"](https://www.youtube.com/watch?v=qfaEiWaXoao)
 
-## Клавиатура хромки 25х12
+## Клавиатуры гармоней
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/0635b46c-c104-455a-b08f-2a84fb021b69)
 
@@ -49,6 +49,15 @@
 <img width="280" alt="Screenshot 2023-09-14 at 11 04 30" src="https://github.com/vpavlenko/study-music/assets/1491908/5e0f576f-74c1-4dfa-8c8f-c5e8e52845f5">
 
 <img width="610" alt="Screenshot 2023-09-14 at 11 04 43" src="https://github.com/vpavlenko/study-music/assets/1491908/8be1eb43-ac1c-448f-801d-d231cb6f1813">
+
+
+![image](https://github.com/vpavlenko/study-music/assets/1491908/587054f9-12ed-44b2-aa64-69df835bd0d6)
+
+![image](https://github.com/vpavlenko/study-music/assets/1491908/ed5b76aa-957e-4bdd-865b-a5d9bb4ba34c)
+
+<img width="1433" alt="Screenshot 2023-09-14 at 12 19 53" src="https://github.com/vpavlenko/study-music/assets/1491908/134d62db-e6c1-421d-87ec-dcd20974fa83">
+
+![image](https://github.com/vpavlenko/study-music/assets/1491908/d6af2a50-20e6-43e4-891c-a81ca7d79401)
 
 
 ## Оффтоп
