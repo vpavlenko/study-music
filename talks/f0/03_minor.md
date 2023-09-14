@@ -29,10 +29,11 @@
 4. Какая доминанта в ["Не надо стесняться"](https://nns.i-m-i.ru/)?
 6. Ещё одна доминанта
    - [пример](https://dl.dropboxusercontent.com/scl/fi/0br2vcz9an5qpdufzzntl/m.mp3?rlkey=vovgskrwlc65r79my2m2kafjk&dl=0), [она же](https://www.youtube.com/watch?v=J-T-3Sawla8), [Hooktheory](https://www.hooktheory.com/theorytab/view/nino-chkheidze/makvala)
-   - https://www.youtube.com/watch?v=9Cs4yynbhdQ
+   - [ещё](https://www.youtube.com/watch?v=9HKxgHz5pS0)
    - [ещё](https://www.youtube.com/watch?v=p7Kc35wxdAs)
    - [ещё](https://www.youtube.com/watch?v=JxHrDGKddWU)
    - [ещё](https://www.youtube.com/watch?v=e43MDRKbD0g)
+   - [гадаем на канале](https://www.youtube.com/@NinoChxeidzeofficial/videos)
 
 ## Movable do solfege
 
