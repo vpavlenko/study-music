@@ -23,4 +23,4 @@ Arabic music
 
 - [Some videos on YouTube](https://www.youtube.com/results?search_query=maqam+analysis)
 
-
+- [Darbuka Rhythms on several simultaneous instruments visualized](https://www.youtube.com/watch?v=gG5e893sbvY&list=PLGifnNEER0cJyAV2HsQTPA_CizVEH1zFO&index=2)
