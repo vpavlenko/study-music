@@ -17,6 +17,7 @@ A direct conversion to midi may lose too much information, including timbral. Eg
 
 - [Harmonics of rectangular waves](https://pages.uoregon.edu/emi/14.php)
 - [Explanation on duty cycles harmonics cancelling](https://wigglewave.wordpress.com/2014/08/16/pulse-waveforms-and-harmonics/)
+- [Oscilloscope](https://www.youtube.com/watch?v=OfrEoEQpPrI&list=PLeQUY34t8UPlJqQ1iJcw2h_gEIUtBqAr0)
 
 # Trackers
 
