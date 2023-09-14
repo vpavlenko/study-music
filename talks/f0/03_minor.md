@@ -3,8 +3,8 @@
 ## Order
 
 1. [Natural minor in Hooktheory](https://book-two.hooktheory.com/section/a-new-home-base)
-   - i-VII-VI-VII, VI-VII-i
-   - i-VI shuttle
+   - [i-VII-VI-VII](https://www.hooktheory.com/trends#key=A&scale=minor&path=1.7.6.7)
+   - [i-VI shuttle](https://www.hooktheory.com/trends#key=D&scale=minor&path=1.6.1.6.1)
    - [i-VII-VI-VII, Elton John - Daniel](https://www.hooktheory.com/trends#key=C&scale=major&path=6.5.4.5)
    - [i-VI-III-VII](https://www.youtube.com/watch?v=Rfsn3au--qo)
 3. Поем в movable do: do-re-mi, do-re-me
@@ -47,7 +47,11 @@ v vs V in minor
 - [Пусть бегут неуклюже](https://www.youtube.com/watch?v=DKBhmD-1E6g)
 - [Смуглянка](https://www.youtube.com/watch?v=h0sjqR_zH14)
 
-Фригийский: помимо Firuze разобрать Nino Chkheidze - Makvala
+Фригийский
+- Firuze
+
+Dorian
+- https://www.hooktheory.com/trends#key=D&scale=minor&path=6.J5.1.3
 
 3. Классическая форма: sentence по Каплину. Разобрать пару примеров понотно.
    - Покрасить нотный текст в Мьюзскоре: цвета плюс movable do noteheads
