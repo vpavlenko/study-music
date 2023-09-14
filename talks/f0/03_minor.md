@@ -10,7 +10,8 @@
 3. Поем в movable do: do-re-mi, do-re-me
 2. [Harmonic major in Hooktheory](https://book-two.hooktheory.com/section/modal-mixture-in-minor) (только первый раздел)
    - [VI-V-i-III](https://www.hooktheory.com/trends#key=C&scale=minor&path=6.J5.1.3)
-   - [V7](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
+      - [t.A.T.u. - All The Things She Said](https://www.hooktheory.com/theorytab/view/tatu/all-the-things-she-said)
+3. [V7](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
 3. Хромка 25х12
    - [сначала вот этот видос на три минуты](https://www.youtube.com/watch?v=zmFHms43eCE)
    - [Цыганочка](https://www.youtube.com/watch?v=3MxegQmK1_c)
