@@ -20,6 +20,7 @@
    - [Звукоряд](https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP)
    - [Три минорных аккорда](https://www.youtube.com/watch?v=2gjUpyAIh9A)
    - [Мелодия на 5 аккордов](https://youtu.be/Ldo4R6owZvc?si=kD8uJKRUx5zfv8Kt&t=213)
+      - https://www.youtube.com/watch?v=oUMXOuw4h6c
    - [Много гармоней на продажу](https://www.youtube.com/@user-bi9wt2de1z/videos)
    - [Пара песен](https://youtu.be/_dBYKPCNLOU?si=VtjJGdTiEHcooq9v&t=147)
    - теория про финальный Am6
@@ -39,7 +40,9 @@
 
 ## "Не надо стесняться" на гармони
 
-- [Комбинация "Бухгалтер"](https://www.youtube.com/watch?v=qfaEiWaXoao)
+- [Бухгалтер](https://www.youtube.com/watch?v=qfaEiWaXoao)
+- [Девчоночка](https://www.youtube.com/watch?v=JKPgPN10uk4)
+- [Стюардесса по имени Жанна](https://www.youtube.com/watch?v=Fp8xk4Mh3X8)
 
 ## Клавиатуры гармоней
 
