@@ -8,18 +8,19 @@
    - [i-VI-III-VII](https://www.youtube.com/watch?v=Rfsn3au--qo)
 3. Поем в movable do: do-re-mi, do-re-me
 2. [Harmonic major in Hooktheory](https://book-two.hooktheory.com/section/modal-mixture-in-minor) (только первый раздел)
+   - [VI-V-i-III](https://www.hooktheory.com/trends#key=C&scale=minor&path=6.J5.1.3)
    - [V7](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
-   - Параллельный мажор. Хромка 25х12
-      - [сначала вот этот видос на три минуты](https://www.youtube.com/watch?v=zmFHms43eCE)
-      - [Цыганочка](https://www.youtube.com/watch?v=3MxegQmK1_c)
-      - [Звукоряд](https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP)
-      - [Три минорных аккорда](https://www.youtube.com/watch?v=2gjUpyAIh9A)
-      - [Мелодия на 5 аккордов](https://youtu.be/Ldo4R6owZvc?si=kD8uJKRUx5zfv8Kt&t=213)
-      - [плейлист в шакальном качестве](https://www.youtube.com/playlist?list=PLcmCL8fscI389sdlSrB3Ljz8uwSf0Ljel)
+3. Хромка 25х12
+   - [сначала вот этот видос на три минуты](https://www.youtube.com/watch?v=zmFHms43eCE)
+   - [Цыганочка](https://www.youtube.com/watch?v=3MxegQmK1_c)
+   - [Звукоряд](https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP)
+   - [Три минорных аккорда](https://www.youtube.com/watch?v=2gjUpyAIh9A)
+   - [Мелодия на 5 аккордов](https://youtu.be/Ldo4R6owZvc?si=kD8uJKRUx5zfv8Kt&t=213)
+   - [плейлист в шакальном качестве](https://www.youtube.com/playlist?list=PLcmCL8fscI389sdlSrB3Ljz8uwSf0Ljel)
    - [Accordion detune](https://www.youtube.com/watch?v=Z9VzzHaopcc)
       - [Звук из видео, открыть в Audacity](https://dl.dropbox.com/scl/fi/w9xv4sb0gj8oqtao7cntd/Accordion-Buyer-s-Guide-Comparison-of-10-Musette-De-tunings-Dry-to-Wet-Z9VzzHaopcc-192k-1694525395.mp3?rlkey=0qsew7228x9g1xlunpmsu2kgl&dl=1)
-3. Разбираем ["Не надо стесняться"](https://nns.i-m-i.ru/)
-4. Ещё одна доминанта
+4. Разбираем ["Не надо стесняться"](https://nns.i-m-i.ru/)
+5. Ещё одна доминанта
    - [пример](https://dl.dropboxusercontent.com/scl/fi/0br2vcz9an5qpdufzzntl/m.mp3?rlkey=vovgskrwlc65r79my2m2kafjk&dl=0)
    - https://www.youtube.com/watch?v=9Cs4yynbhdQ
    - [ещё](https://www.youtube.com/watch?v=p7Kc35wxdAs)
