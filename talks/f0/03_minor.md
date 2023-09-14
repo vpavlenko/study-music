@@ -31,7 +31,7 @@
    - [пример](https://dl.dropboxusercontent.com/scl/fi/0br2vcz9an5qpdufzzntl/m.mp3?rlkey=vovgskrwlc65r79my2m2kafjk&dl=0), [она же](https://www.youtube.com/watch?v=J-T-3Sawla8), [Hooktheory](https://www.hooktheory.com/theorytab/view/nino-chkheidze/makvala)
    - [ещё](https://www.youtube.com/watch?v=p7Kc35wxdAs)
    - [ещё](https://www.youtube.com/watch?v=JxHrDGKddWU)
-   - [ещё](https://youtu.be/e43MDRKbD0g?si=eq9guS_Rf8mJfcNs&t=27)
+   - [ещё?](https://youtu.be/e43MDRKbD0g?si=eq9guS_Rf8mJfcNs&t=27)
    - [гадаем на канале](https://www.youtube.com/@NinoChxeidzeofficial/videos)
 
 ## Movable do solfege
