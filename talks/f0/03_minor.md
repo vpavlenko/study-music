@@ -14,7 +14,8 @@
       - [t.A.T.u. - All The Things She Said](https://www.hooktheory.com/theorytab/view/tatu/all-the-things-she-said)
 3. [V7](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
 3. Хромка 25х12
-   - [сначала вот этот видос на три минуты](https://www.youtube.com/watch?v=zmFHms43eCE)
+   - [сначала вот этот видос до 1:13](https://www.youtube.com/watch?v=zmFHms43eCE)
+   - потом обсуждаем левую клавиатуру, потом досматриваем видос
    - [Цыганочка](https://www.youtube.com/watch?v=3MxegQmK1_c)
    - [Звукоряд](https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP)
    - [Три минорных аккорда](https://www.youtube.com/watch?v=2gjUpyAIh9A)
