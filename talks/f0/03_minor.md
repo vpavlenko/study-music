@@ -2,6 +2,7 @@
 
 ## Order
 
+0. [19:00 - Nopia](https://www.youtube.com/watch?v=Ivuy9QYLFVY)
 1. [Natural minor in Hooktheory](https://book-two.hooktheory.com/section/a-new-home-base)
    - [i-VII-VI-VII - Hooktheory](https://www.hooktheory.com/trends#key=A&scale=minor&path=1.7.6.7)
    - [i-VI shuttle - Hooktheory](https://www.hooktheory.com/trends#key=A&scale=minor&path=1.6.1.6.1)
@@ -31,10 +32,6 @@
 
 
 ## Outline
-
-Minor, parallel major, diatonic accordion, V7. Analysis of some of our tracks
-
-Как соотносятся мажорный аккорд и мажорная гамма, минорный аккорд и минорная гамма?
 
 [Nopia](https://www.youtube.com/watch?v=Ivuy9QYLFVY)
 
