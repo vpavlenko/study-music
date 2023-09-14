@@ -17,7 +17,8 @@ Sound
 7. First chapters of David Huron. Voice Leading
 8. [**Acoustics**](../parts/sound_design.md#acoustics)
 9. [Accordion detune](https://www.youtube.com/watch?v=Z9VzzHaopcc)
-10. Tuning
+10. [Chiptune bass](https://www.youtube.com/watch?v=lU7nARUa2CA)
+11. Tuning
    - PAL/NTSC NES
       - https://chiptune.app/browse/Nintendo/Bishoujo%20Shashinkan%20-%20Studio%20Cut
       - Over Horizon NES
