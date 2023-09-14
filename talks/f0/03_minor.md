@@ -37,6 +37,12 @@
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/ca84507a-a34f-42e0-8776-8fbeda2a848c)
 
+<img width="268" alt="Screenshot 2023-09-14 at 10 59 56" src="https://github.com/vpavlenko/study-music/assets/1491908/b0fa46cd-c021-4fa1-8bb3-9058556a625b">
+
+<img width="280" alt="Screenshot 2023-09-14 at 11 04 30" src="https://github.com/vpavlenko/study-music/assets/1491908/5e0f576f-74c1-4dfa-8c8f-c5e8e52845f5">
+
+<img width="610" alt="Screenshot 2023-09-14 at 11 04 43" src="https://github.com/vpavlenko/study-music/assets/1491908/8be1eb43-ac1c-448f-801d-d231cb6f1813">
+
 
 ## Оффтоп
 
