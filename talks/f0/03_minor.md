@@ -44,7 +44,8 @@
 
 ## Клавиатуры гармоней
 
-![image](https://github.com/vpavlenko/study-music/assets/1491908/0635b46c-c104-455a-b08f-2a84fb021b69)
+### Левая клавиатура
+
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/ca84507a-a34f-42e0-8776-8fbeda2a848c)
 
@@ -54,24 +55,33 @@
 
 <img width="610" alt="Screenshot 2023-09-14 at 11 04 43" src="https://github.com/vpavlenko/study-music/assets/1491908/8be1eb43-ac1c-448f-801d-d231cb6f1813">
 
+<img width="1433" alt="Screenshot 2023-09-14 at 12 19 53" src="https://github.com/vpavlenko/study-music/assets/1491908/134d62db-e6c1-421d-87ec-dcd20974fa83">
+
 
 <img width="200" src="https://github.com/vpavlenko/study-music/assets/1491908/587054f9-12ed-44b2-aa64-69df835bd0d6">
 
-![image](https://github.com/vpavlenko/study-music/assets/1491908/ed5b76aa-957e-4bdd-865b-a5d9bb4ba34c)
-
-<img width="1433" alt="Screenshot 2023-09-14 at 12 19 53" src="https://github.com/vpavlenko/study-music/assets/1491908/134d62db-e6c1-421d-87ec-dcd20974fa83">
-
-![image](https://github.com/vpavlenko/study-music/assets/1491908/d6af2a50-20e6-43e4-891c-a81ca7d79401)
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/62a8cdf5-8ed6-47c9-9260-69413433bbd6)
 
-![image](https://github.com/vpavlenko/study-music/assets/1491908/1251354e-2848-46b8-a376-45d0740d85b7)
+
+### Правая клавиатура
+
+![image](https://github.com/vpavlenko/study-music/assets/1491908/0635b46c-c104-455a-b08f-2a84fb021b69)
+
+
+
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/4acfd6c7-30f0-4a44-9fc4-11692178c60c)
 
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/8f1e82c7-dd5c-4166-87ba-343fc581b3e6)
 
+![image](https://github.com/vpavlenko/study-music/assets/1491908/ed5b76aa-957e-4bdd-865b-a5d9bb4ba34c)
+
+
+![image](https://github.com/vpavlenko/study-music/assets/1491908/d6af2a50-20e6-43e4-891c-a81ca7d79401)
+
+![image](https://github.com/vpavlenko/study-music/assets/1491908/1251354e-2848-46b8-a376-45d0740d85b7)
 
 
 ## Оффтоп
