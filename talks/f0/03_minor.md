@@ -86,7 +86,7 @@
 - [Смуглянка](https://www.youtube.com/watch?v=h0sjqR_zH14)
 
 Фригийский
-- Firuze
+- Firuze, [Hooktheory](https://www.hooktheory.com/hookpad/view/JkmZZGekmqn)
 
 Dorian
 - https://www.hooktheory.com/trends#key=D&scale=minor&path=6.J5.1.3
