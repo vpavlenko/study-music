@@ -16,14 +16,12 @@
 3. Хромка 25х12
    - [сначала вот этот видос до 1:13](https://www.youtube.com/watch?v=zmFHms43eCE)
    - потом обсуждаем левую клавиатуру, потом досматриваем видос
-   - [Цыганочка](https://www.youtube.com/watch?v=3MxegQmK1_c)
    - [Звукоряд](https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP)
-   - [Три минорных аккорда](https://www.youtube.com/watch?v=2gjUpyAIh9A)
-   - [Мелодия на 5 аккордов](https://youtu.be/Ldo4R6owZvc?si=kD8uJKRUx5zfv8Kt&t=213)
-      - https://www.youtube.com/watch?v=oUMXOuw4h6c
+   - [Цыганочка](https://www.youtube.com/watch?v=3MxegQmK1_c)
+   - [Мелодия на 5 аккордов](https://youtu.be/Ldo4R6owZvc?si=kD8uJKRUx5zfv8Kt&t=215)
    - [Много гармоней на продажу](https://www.youtube.com/@user-bi9wt2de1z/videos)
    - [Пара песен](https://youtu.be/_dBYKPCNLOU?si=VtjJGdTiEHcooq9v&t=147)
-   - теория про финальный Am6
+   - теория про финальный Am6, примеры: [Илья Хватков "Цыганочка"](https://youtu.be/RBkljoidZQ8?si=oK-VTUV9n2L1BxsG&t=136), [Юрий Никитин](https://youtu.be/zmFHms43eCE?si=QGs0PUqxF3Oc49w7&t=133)
    - [Accordion detune](https://www.youtube.com/watch?v=Z9VzzHaopcc)
       - [Звук из видео, открыть в Audacity](https://dl.dropbox.com/scl/fi/w9xv4sb0gj8oqtao7cntd/Accordion-Buyer-s-Guide-Comparison-of-10-Musette-De-tunings-Dry-to-Wet-Z9VzzHaopcc-192k-1694525395.mp3?rlkey=0qsew7228x9g1xlunpmsu2kgl&dl=1)
 4. Какая доминанта в ["Не надо стесняться"](https://nns.i-m-i.ru/)?
