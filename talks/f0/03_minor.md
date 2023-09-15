@@ -28,6 +28,9 @@
 4. [Accordion detune](https://www.youtube.com/watch?v=Z9VzzHaopcc)
    - [Звук из видео, открыть в Audacity](https://dl.dropbox.com/scl/fi/w9xv4sb0gj8oqtao7cntd/Accordion-Buyer-s-Guide-Comparison-of-10-Musette-De-tunings-Dry-to-Wet-Z9VzzHaopcc-192k-1694525395.mp3?rlkey=0qsew7228x9g1xlunpmsu2kgl&dl=1)
 4. Какая доминанта в ["Не надо стесняться"](https://nns.i-m-i.ru/)?
+   - [Бухгалтер](https://www.youtube.com/watch?v=qfaEiWaXoao)
+   - [Девчоночка](https://www.youtube.com/watch?v=JKPgPN10uk4)
+   - [Стюардесса по имени Жанна](https://www.youtube.com/watch?v=Fp8xk4Mh3X8)
 6. Ещё одна доминанта
    - [пример](https://dl.dropboxusercontent.com/scl/fi/0br2vcz9an5qpdufzzntl/m.mp3?rlkey=vovgskrwlc65r79my2m2kafjk&dl=0), [она же](https://www.youtube.com/watch?v=J-T-3Sawla8), [Hooktheory](https://www.hooktheory.com/theorytab/view/nino-chkheidze/makvala)
    - [ещё](https://www.youtube.com/watch?v=p7Kc35wxdAs)
@@ -43,11 +46,6 @@
 
 <img width="1589" alt="Screenshot 2023-09-14 at 12 32 54" src="https://github.com/vpavlenko/study-music/assets/1491908/99c21abb-f18d-4b0c-8fc6-963db61785f6">
 
-## "Не надо стесняться" на гармони
-
-- [Бухгалтер](https://www.youtube.com/watch?v=qfaEiWaXoao)
-- [Девчоночка](https://www.youtube.com/watch?v=JKPgPN10uk4)
-- [Стюардесса по имени Жанна](https://www.youtube.com/watch?v=Fp8xk4Mh3X8)
 
 ## Клавиатуры гармоней
 
