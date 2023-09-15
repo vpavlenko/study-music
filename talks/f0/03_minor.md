@@ -19,7 +19,10 @@
    - [Звукоряд](https://youtu.be/bcmpXYzNmUs?si=vQCgyHyE9MQjRHHP)
    - [Цыганочка](https://www.youtube.com/watch?v=3MxegQmK1_c)
    - [Мелодия на 5 аккордов](https://youtu.be/Ldo4R6owZvc?si=kD8uJKRUx5zfv8Kt&t=215)
-   - теория про финальный аккорд, примеры: [Юрий Никитин](https://youtu.be/zmFHms43eCE?si=798Jifuve5LPEsYT&t=71), [Илья Хватков "Цыганочка"](https://youtu.be/RBkljoidZQ8?si=oK-VTUV9n2L1BxsG&t=136)
+   - теория про финальный аккорд
+      - [Юрий Никитин](https://youtu.be/zmFHms43eCE?si=798Jifuve5LPEsYT&t=71)
+      - [Илья Хватков "Цыганочка"](https://youtu.be/RBkljoidZQ8?si=oK-VTUV9n2L1BxsG&t=136)
+      - ["Снежинка" из "Дня выборов"](https://www.youtube.com/watch?v=X0dDa_ynX3Y&t=97s)
    - [Много гармоней на продажу](https://www.youtube.com/@user-bi9wt2de1z/videos)
    - [Гармонь из механической клавиатуры](https://www.youtube.com/watch?v=wEixZBxPfMs)
 4. [Accordion detune](https://www.youtube.com/watch?v=Z9VzzHaopcc)
