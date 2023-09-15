@@ -31,6 +31,7 @@
    - [ещё](https://www.youtube.com/watch?v=JxHrDGKddWU)
    - [ещё](https://youtu.be/e43MDRKbD0g?si=eq9guS_Rf8mJfcNs&t=27)
    - [ещё](https://www.hooktheory.com/theorytab/view/tarkan/firuze), [в защиту подбора аккордов](https://www.youtube.com/watch?v=aymYRNCME24)
+   - [paper](https://core.ac.uk/download/pdf/20343908.pdf)
    - [гадаем на канале](https://www.youtube.com/@NinoChxeidzeofficial/videos)
 
 ## Movable do solfege
