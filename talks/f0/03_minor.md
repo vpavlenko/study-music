@@ -21,8 +21,9 @@
    - [Мелодия на 5 аккордов](https://youtu.be/Ldo4R6owZvc?si=kD8uJKRUx5zfv8Kt&t=215)
    - теория про финальный аккорд, примеры: [Юрий Никитин](https://youtu.be/zmFHms43eCE?si=798Jifuve5LPEsYT&t=71), [Илья Хватков "Цыганочка"](https://youtu.be/RBkljoidZQ8?si=oK-VTUV9n2L1BxsG&t=136)
    - [Много гармоней на продажу](https://www.youtube.com/@user-bi9wt2de1z/videos)
-   - [Accordion detune](https://www.youtube.com/watch?v=Z9VzzHaopcc)
-      - [Звук из видео, открыть в Audacity](https://dl.dropbox.com/scl/fi/w9xv4sb0gj8oqtao7cntd/Accordion-Buyer-s-Guide-Comparison-of-10-Musette-De-tunings-Dry-to-Wet-Z9VzzHaopcc-192k-1694525395.mp3?rlkey=0qsew7228x9g1xlunpmsu2kgl&dl=1)
+   - [Гармонь из механической клавиатуры](https://www.youtube.com/watch?v=wEixZBxPfMs)
+4. [Accordion detune](https://www.youtube.com/watch?v=Z9VzzHaopcc)
+   - [Звук из видео, открыть в Audacity](https://dl.dropbox.com/scl/fi/w9xv4sb0gj8oqtao7cntd/Accordion-Buyer-s-Guide-Comparison-of-10-Musette-De-tunings-Dry-to-Wet-Z9VzzHaopcc-192k-1694525395.mp3?rlkey=0qsew7228x9g1xlunpmsu2kgl&dl=1)
 4. Какая доминанта в ["Не надо стесняться"](https://nns.i-m-i.ru/)?
 6. Ещё одна доминанта
    - [пример](https://dl.dropboxusercontent.com/scl/fi/0br2vcz9an5qpdufzzntl/m.mp3?rlkey=vovgskrwlc65r79my2m2kafjk&dl=0), [она же](https://www.youtube.com/watch?v=J-T-3Sawla8), [Hooktheory](https://www.hooktheory.com/theorytab/view/nino-chkheidze/makvala)
