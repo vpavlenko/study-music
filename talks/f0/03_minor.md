@@ -6,7 +6,7 @@
 1. [Natural minor in Hooktheory](https://book-two.hooktheory.com/section/a-new-home-base)
    - [i-VII-VI-VII - Hooktheory](https://www.hooktheory.com/trends#key=A&scale=minor&path=1.7.6.7)
    - [i-VI shuttle - Hooktheory](https://www.hooktheory.com/trends#key=A&scale=minor&path=1.6.1.6.1)
-   - [i-VI-III-VII - под гитару](https://www.youtube.com/watch?v=Rfsn3au--qo)
+   - [i-VI-III-VII - под гитару](https://youtu.be/Rfsn3au--qo?si=4av2MPDk1M5vHYC9&t=72)
    - [VI–VII–i–III (hopscotch) - Open Music Theory](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/)
 3. Поем в movable do: do-re-mi, do-re-me
 2. [Harmonic major in Hooktheory](https://book-two.hooktheory.com/section/modal-mixture-in-minor) (только первый раздел)
