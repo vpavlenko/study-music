@@ -36,6 +36,8 @@
 
 ## Movable do solfege
 
+[Настройка](https://muted.io/major-minor-scales/#c-minor-scale)
+
 <img width="1589" alt="Screenshot 2023-09-14 at 12 32 54" src="https://github.com/vpavlenko/study-music/assets/1491908/99c21abb-f18d-4b0c-8fc6-963db61785f6">
 
 ## "Не надо стесняться" на гармони
