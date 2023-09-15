@@ -1,5 +1,7 @@
 # Western harmony in minor
 
+# [bit.ly/gmaj](https://bit.ly/gmaj)
+
 ## Order
 
 0. [19:00 - Nopia](https://www.youtube.com/watch?v=Ivuy9QYLFVY)
