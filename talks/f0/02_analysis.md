@@ -2,8 +2,6 @@
 
 [Видеозапись лекции](https://t.me/keetezh/952)
 
-# [bit.ly/gmaj](https://bit.ly/gmaj)
-
 ## Show
 
 0. [talks/sound.md](../sound.md)
