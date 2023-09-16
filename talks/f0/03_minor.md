@@ -1,5 +1,7 @@
 # Western harmony in minor
 
+[Видеозапись лекции](https://t.me/keetezh/955)
+
 ## Order
 
 0. [19:00 - Nopia](https://www.youtube.com/watch?v=Ivuy9QYLFVY)
