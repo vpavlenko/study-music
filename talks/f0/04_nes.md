@@ -10,6 +10,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - Does it have form? (AABA, verse-chorus, sentence, melody/solo?)
 
 # Порядок разбора
+- https://vpavlenko.github.io/chiptheory/browse/Nintendo/75%20Bingo tune 6
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Atlantis%20no%20Nazo
 
 # Sound chip
