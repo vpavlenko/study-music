@@ -9,6 +9,9 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - What's the structure of the melody?
 - Does it have form? (AABA, verse-chorus, sentence, melody/solo?)
 
+# Порядок разбора
+- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Atlantis%20no%20Nazo
+
 # Sound chip
 
 [Spec](https://www.nesdev.org/2A03%20technical%20reference.txt)
