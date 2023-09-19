@@ -13,6 +13,8 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/75%20Bingo tune 6
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Atlantis%20no%20Nazo
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/America%20Daitouryou%20Senkyo, [Musipedia search](https://www.musipedia.org/result.html?sourceid=melody-url&tx_mpsearch_pi1%5bsubmit_button%5d=Search&tx_mpsearch_pi1%5bpc%5d=lilyc%27%278+b%278+c%27%278+g%274.+e%274.+d%278+cis%278+d%278+a%274.+&filtertext=&coll=m&onlymatchfrom=0.3)
+- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Ankoku%20Shinwa%20-%20Yamato%20Takeru%20Densetsu?subtune=4
+
 
 # Sound chip
 
