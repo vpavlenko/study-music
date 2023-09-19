@@ -4,7 +4,7 @@
 Video game music
 ===
 
-[Chiptune music player](https://chiptune.app/)
+[Chiptune music player](https://chiptune.app/), also [my attempt to show music theory in it](https://vpavlenko.github.io/chiptheory/)
 
 [Otocky (1987, NES)](https://www.youtube.com/watch?v=4A2mzS6toMo) - an early example of a [music video game](https://en.wikipedia.org/wiki/Music_video_game)
 
