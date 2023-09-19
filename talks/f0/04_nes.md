@@ -16,6 +16,10 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Ankoku%20Shinwa%20-%20Yamato%20Takeru%20Densetsu?subtune=4
 
 
+# Структура западной гармонии
+
+Лад делит глобально 12 нот на 7 наших и 5 чужих. аккорд локально в ближайшие две секунды дальше делит эти 7 на 3 наших и 4 временно чужих
+
 # Sound chip
 
 [Spec](https://www.nesdev.org/2A03%20technical%20reference.txt)
