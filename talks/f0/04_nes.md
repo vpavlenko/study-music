@@ -12,6 +12,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 # Порядок разбора
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/75%20Bingo tune 6
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Atlantis%20no%20Nazo
+- https://vpavlenko.github.io/chiptheory/browse/Nintendo/America%20Daitouryou%20Senkyo, [Musipedia search](https://www.musipedia.org/result.html?sourceid=melody-url&tx_mpsearch_pi1%5bsubmit_button%5d=Search&tx_mpsearch_pi1%5bpc%5d=lilyc%27%278+b%278+c%27%278+g%274.+e%274.+d%278+cis%278+d%278+a%274.+&filtertext=&coll=m&onlymatchfrom=0.3)
 
 # Sound chip
 
@@ -25,6 +26,7 @@ A direct conversion to midi may lose too much information, including timbral. Eg
    - [Silver Surfer](https://www.youtube.com/watch?v=Mi7l8ZIrG8s) - lots of vibrato and glides
    - [FDS Zelga](https://www.youtube.com/watch?v=-CPrdomMoA4)
    - [Perfect triangle wave](https://www.youtube.com/watch?v=8RrQrATnXXY)
+  
 
 # Trackers
 
