@@ -19,6 +19,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Addams%20Family?subtune=5
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aspic%20-%20Mahebiou%20no%20Noroi?subtune=1
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Dino-Riki - spooky non-functional
+- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Alien%203 - partly modal
 
 
 # Структура западной гармонии
