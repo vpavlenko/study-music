@@ -16,6 +16,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Ankoku%20Shinwa%20-%20Yamato%20Takeru%20Densetsu?subtune=4
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=14
 - http://localhost:3000/browse/Nintendo/2in1%20Cosmo%20Cop?subtune=1
+- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Addams%20Family?subtune=5
 
 
 # Структура западной гармонии
