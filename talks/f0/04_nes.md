@@ -20,6 +20,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aspic%20-%20Mahebiou%20no%20Noroi?subtune=1
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Dino-Riki - spooky non-functional
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Alien%203 - partly modal
+- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aigiina%20no%20Yogen%20-%20From%20the%20Legend%20of%20Balubalouk - constant structures
 
 
 # Структура западной гармонии
