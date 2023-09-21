@@ -10,31 +10,37 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - Anything special in chords?
 
 # Порядок разбора
-- simple
-   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/75%20Bingo?subtune=6
-   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Ankoku%20Shinwa%20-%20Yamato%20Takeru%20Densetsu?subtune=4
 - проставить аккорды - с помощью добровольца
    - [игра](https://www.youtube.com/watch?v=W1nPX5zn0lY), 1986, [composer](https://en.wikipedia.org/wiki/Naoki_Kodaka)
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Atlantis%20no%20Nazo
-- https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=14
-- https://vpavlenko.github.io/chiptheory/browse/Nintendo/2in1%20Cosmo%20Cop?subtune=1
-- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Addams%20Family?subtune=5
-- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aspic%20-%20Mahebiou%20no%20Noroi?subtune=1
-- https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Hanafuda%20Club
+- simple, можно скипнуть
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/75%20Bingo?subtune=6
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Ankoku%20Shinwa%20-%20Yamato%20Takeru%20Densetsu?subtune=4
+- https://vpavlenko.github.io/chiptheory/browse/Nintendo/2in1%20Cosmo%20Cop?subtune=1 - обсудить слои фактуры
+- modulations:
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Addams%20Family?subtune=5
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Dino-Riki?subtune=4
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=3
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Alien%203?subtune=1
+- pentatonic
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Hanafuda%20Club?subtune=1
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Airwolf?subtune=1 (also modulation)
 - spooky
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Dino-Riki?subtune=3
-- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Alien%203 - partly modal, stasis, modulation
 - constant structures
-   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aigiina%20no%20Yogen%20-%20From%20the%20Legend%20of%20Balubalouk
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aigiina%20no%20Yogen%20-%20From%20the%20Legend%20of%20Balubalouk?subtune=1
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aspic%20-%20Mahebiou%20no%20Noroi?subtune=1
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=9
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Akagawa%20Jirou%20no%20Yuurei%20Ressha?subtune=1
-   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Dino-Riki?subtune=4
 - atonal
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Rad%20Gravity,%20The
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/A%20Ressha%20de%20Ikou?subtune=3
 - blues
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Hanafuda%20Club?subtune=2
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Al%20Unser%20Jr.%20Turbo%20Racing?subtune=29
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Poker?subtune=5
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=14
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Apple%20Town%20Monogatari%20-%20Little%20Computer%20People?subtune=3
 - цитаты
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/America%20Daitouryou%20Senkyo, [Musipedia search](https://www.musipedia.org/result.html?sourceid=melody-url&tx_mpsearch_pi1%5bsubmit_button%5d=Search&tx_mpsearch_pi1%5bpc%5d=lilyc%27%278+b%278+c%27%278+g%274.+e%274.+d%278+cis%278+d%278+a%274.+&filtertext=&coll=m&onlymatchfrom=0.3)
 
