@@ -44,6 +44,7 @@ Log in to add your annotations. Log out to browse mine.
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Rad%20Gravity,%20The
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/A%20Ressha%20de%20Ikou?subtune=3
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Astyanax?subtune=6
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Astyanax?subtune=8 - chromatic
 - blues
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Hanafuda%20Club?subtune=2
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Pachinko%20-%20AV%20Super%20Real%20Pachinko%20(SFX)?subtune=8
