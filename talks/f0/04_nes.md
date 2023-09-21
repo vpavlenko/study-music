@@ -26,6 +26,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aigiina%20no%20Yogen%20-%20From%20the%20Legend%20of%20Balubalouk
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=9
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Akagawa%20Jirou%20no%20Yuurei%20Ressha?subtune=1
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Dino-Riki?subtune=4
 - atonal
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Rad%20Gravity,%20The
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/A%20Ressha%20de%20Ikou?subtune=3
