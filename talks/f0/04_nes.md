@@ -36,6 +36,7 @@ Log in to add your annotations. Log out to browse mine.
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aspic%20-%20Mahebiou%20no%20Noroi?subtune=1
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=9
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Akagawa%20Jirou%20no%20Yuurei%20Ressha?subtune=1
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Artelius?subtune=1
 - atonal
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Rad%20Gravity,%20The
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/A%20Ressha%20de%20Ikou?subtune=3
