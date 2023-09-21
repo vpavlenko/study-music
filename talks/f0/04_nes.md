@@ -47,6 +47,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - цитаты
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/America%20Daitouryou%20Senkyo, [Musipedia search](https://www.musipedia.org/result.html?sourceid=melody-url&tx_mpsearch_pi1%5bsubmit_button%5d=Search&tx_mpsearch_pi1%5bpc%5d=lilyc%27%278+b%278+c%27%278+g%274.+e%274.+d%278+cis%278+d%278+a%274.+&filtertext=&coll=m&onlymatchfrom=0.3)
 
+<img width="988" alt="Screenshot 2023-09-21 at 18 00 23" src="https://github.com/vpavlenko/study-music/assets/1491908/d8e7f2bf-c980-471f-b0e1-09d1e903c67b">
 
 
 # Структура западной гармонии
