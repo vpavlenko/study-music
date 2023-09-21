@@ -20,9 +20,11 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aspic%20-%20Mahebiou%20no%20Noroi?subtune=1
 - spooky
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Dino-Riki 
-   - /browse/Nintendo/Akagawa%20Jirou%20no%20Yuurei%20Ressha?subtune=1
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Alien%203 - partly modal
-- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aigiina%20no%20Yogen%20-%20From%20the%20Legend%20of%20Balubalouk - constant structures
+- constant structures
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aigiina%20no%20Yogen%20-%20From%20the%20Legend%20of%20Balubalouk
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Akagawa%20Jirou%20no%20Yuurei%20Ressha?subtune=1
+- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Rad%20Gravity,%20The - atonal
 
 
 # Структура западной гармонии
