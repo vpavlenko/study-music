@@ -13,7 +13,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - simple
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/75%20Bingo?subtune=6
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Ankoku%20Shinwa%20-%20Yamato%20Takeru%20Densetsu?subtune=4
-- проставить аккорды
+- проставить аккорды - с помощью добровольца
    - [игра](https://www.youtube.com/watch?v=W1nPX5zn0lY), 1986, [composer](https://en.wikipedia.org/wiki/Naoki_Kodaka)
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Atlantis%20no%20Nazo
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=14
