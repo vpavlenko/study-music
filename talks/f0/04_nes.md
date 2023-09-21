@@ -26,6 +26,7 @@ Log in to add your annotations. Log out to browse mine.
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=3
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Alien%203?subtune=1
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Tom%20Sawyer?subtune=1
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aussie%20Rules%20Footy?subtune=10
 - stasis
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Astyanax?subtune=5
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Alien%20Syndrome?subtune=1
