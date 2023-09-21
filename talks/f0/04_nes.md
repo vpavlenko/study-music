@@ -31,7 +31,7 @@ Log in to add your annotations. Log out to browse mine.
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Airwolf?subtune=1 (also modulation)
 - spooky
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Dino-Riki?subtune=3
-- constant structures
+- constant structures, [Mario cadence](https://www.youtube.com/watch?v=ONB8CUFIAB8)
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aigiina%20no%20Yogen%20-%20From%20the%20Legend%20of%20Balubalouk?subtune=1
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aspic%20-%20Mahebiou%20no%20Noroi?subtune=1
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=9
