@@ -9,7 +9,7 @@ Pick any [NES tune](https://vpavlenko.github.io/chiptheory/):
 - Does it have form? (AABA, verse-chorus, sentence, melody/solo?)
 - Anything special in chords?
 
-To edit your own annotation, log in. To view my annotations, log out.
+Log in to add your annotations. Log out to browse mine.
 
 # Порядок разбора
 - проставить аккорды - с помощью добровольца
