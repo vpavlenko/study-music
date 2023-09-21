@@ -23,6 +23,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Dino-Riki?subtune=4
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=3
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Alien%203?subtune=1
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Tom%20Sawyer?subtune=1
 - pentatonic
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Hanafuda%20Club?subtune=1
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Airwolf?subtune=1 (also modulation)
@@ -38,6 +39,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/A%20Ressha%20de%20Ikou?subtune=3
 - blues
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Hanafuda%20Club?subtune=2
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Pachinko%20-%20AV%20Super%20Real%20Pachinko%20(SFX)?subtune=8
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Al%20Unser%20Jr.%20Turbo%20Racing?subtune=29
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Poker?subtune=5
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=14
