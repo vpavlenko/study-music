@@ -1,6 +1,6 @@
 # NES
 
-Pick any [NES tune](https://chiptune.app/browse/Nintendo):
+Pick any [NES tune](https://vpavlenko.github.io/chiptheory/):
 - Is it in major/minor Western language?
 - Does it conform to chords/melody duality?
    - Are there arpeggiated chords, bass?
@@ -8,6 +8,8 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - What's the structure of the melody?
 - Does it have form? (AABA, verse-chorus, sentence, melody/solo?)
 - Anything special in chords?
+
+To edit your own annotation, log in. To view my annotations, log out.
 
 # Порядок разбора
 - проставить аккорды - с помощью добровольца
