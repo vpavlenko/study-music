@@ -21,7 +21,7 @@ Pick any [NES tune](https://chiptune.app/browse/Nintendo):
 - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aspic%20-%20Mahebiou%20no%20Noroi?subtune=1
 - spooky
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Dino-Riki 
-- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Alien%203 - partly modal
+- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Alien%203 - partly modal, stasis, modulation
 - constant structures
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aigiina%20no%20Yogen%20-%20From%20the%20Legend%20of%20Balubalouk
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=9
