@@ -1,3 +1,5 @@
+# [bit.ly/gmaj](https://bit.ly/gmaj)
+
 # NES
 
 Pick any [NES tune](https://vpavlenko.github.io/chiptheory/):
