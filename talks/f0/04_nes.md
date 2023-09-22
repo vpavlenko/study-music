@@ -74,6 +74,7 @@ Log in to add your annotations. Log out to browse mine.
 
 A direct conversion to midi may lose too much information, including timbral. Eg. each square wave generator has duty cycle control.
 
+- [Консоли третьей волны](https://en.wikipedia.org/wiki/Home_video_game_console)
 - [Harmonics of rectangular waves](https://pages.uoregon.edu/emi/14.php)
 - [Explanation on duty cycles harmonics cancelling](https://wigglewave.wordpress.com/2014/08/16/pulse-waveforms-and-harmonics/)
 - [Oscilloscope](https://www.youtube.com/watch?v=OfrEoEQpPrI&list=PLeQUY34t8UPlJqQ1iJcw2h_gEIUtBqAr0) 
