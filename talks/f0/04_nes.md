@@ -75,8 +75,8 @@ A direct conversion to midi may lose too much information, including timbral. Eg
 
 - [Harmonics of rectangular waves](https://pages.uoregon.edu/emi/14.php)
 - [Explanation on duty cycles harmonics cancelling](https://wigglewave.wordpress.com/2014/08/16/pulse-waveforms-and-harmonics/)
-- [Oscilloscope](https://www.youtube.com/watch?v=OfrEoEQpPrI&list=PLeQUY34t8UPlJqQ1iJcw2h_gEIUtBqAr0)
-   - [Silver Surfer](https://www.youtube.com/watch?v=Mi7l8ZIrG8s) - lots of vibrato and glides
+- [Oscilloscope](https://www.youtube.com/watch?v=OfrEoEQpPrI&list=PLeQUY34t8UPlJqQ1iJcw2h_gEIUtBqAr0) 
+   - [Silver Surfer](https://www.youtube.com/watch?v=Mi7l8ZIrG8s) - lots of vibrato and glides - [chiptheory](https://vpavlenko.github.io/chiptheory/browse/Nintendo/Silver%20Surfer?subtune=4)
    - [FDS Zelga](https://www.youtube.com/watch?v=-CPrdomMoA4)
    - [Perfect triangle wave](https://www.youtube.com/watch?v=8RrQrATnXXY)
   
