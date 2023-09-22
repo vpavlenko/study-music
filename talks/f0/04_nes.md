@@ -80,13 +80,14 @@ A direct conversion to midi may lose too much information, including timbral. Eg
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/'89%20Dennou%20Kyuusei%20Uranai?subtune=14
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Apple%20Town%20Monogatari%20-%20Little%20Computer%20People?subtune=3
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Dragon%20Mahjong?subtune=5
-   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Apple%20Town%20Monogatari%20-%20Little%20Computer%20People?subtune=3
+   
 - цитаты
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/America%20Daitouryou%20Senkyo, [Musipedia search](https://www.musipedia.org/result.html?sourceid=melody-url&tx_mpsearch_pi1%5bsubmit_button%5d=Search&tx_mpsearch_pi1%5bpc%5d=lilyc%27%278+b%278+c%27%278+g%274.+e%274.+d%278+cis%278+d%278+a%274.+&filtertext=&coll=m&onlymatchfrom=0.3)
 - real shit
    - Abadox
    - Armadillo
    - Adventures of Dino-Riki, subtune 2
+   - Apple Town Monogatari ragtime
 
 <img width="988" alt="Screenshot 2023-09-21 at 18 00 23" src="https://github.com/vpavlenko/study-music/assets/1491908/d8e7f2bf-c980-471f-b0e1-09d1e903c67b">
 
