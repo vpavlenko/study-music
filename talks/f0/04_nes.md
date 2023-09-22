@@ -22,6 +22,7 @@ Log in to add your annotations. Log out to browse mine.
 - обсудить слои фактуры
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/2in1%20Cosmo%20Cop?subtune=1
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Astyanax?subtune=2
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/1943%20-%20The%20Battle%20of%20Midway?subtune=11
 - modulations:
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Addams%20Family?subtune=5
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Dino-Riki?subtune=4
