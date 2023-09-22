@@ -11,6 +11,28 @@ Pick any [NES tune](https://vpavlenko.github.io/chiptheory/):
 
 Log in to add your annotations. Log out to browse mine.
 
+# Sound chip of NES
+
+[Spec](https://www.nesdev.org/2A03%20technical%20reference.txt)
+
+A direct conversion to midi may lose too much information, including timbral. Eg. each square wave generator has duty cycle control.
+
+- [Atari 2600 games](https://www.youtube.com/watch?v=6kJ_79ih9rI)
+- [Консоли третьей волны](https://en.wikipedia.org/wiki/Home_video_game_console)
+- [Harmonics of rectangular waves](https://pages.uoregon.edu/emi/14.php)
+- [Explanation on duty cycles harmonics cancelling](https://wigglewave.wordpress.com/2014/08/16/pulse-waveforms-and-harmonics/)
+- [Oscilloscope](https://www.youtube.com/watch?v=OfrEoEQpPrI&list=PLeQUY34t8UPlJqQ1iJcw2h_gEIUtBqAr0) 
+   - [Silver Surfer](https://www.youtube.com/watch?v=Mi7l8ZIrG8s) - lots of vibrato and glides - [chiptheory](https://vpavlenko.github.io/chiptheory/browse/Nintendo/Silver%20Surfer?subtune=4)
+   - [FDS Zelga](https://www.youtube.com/watch?v=-CPrdomMoA4)
+   - [Perfect triangle wave](https://www.youtube.com/watch?v=8RrQrATnXXY)
+
+
+# Структура западной гармонии
+
+Лад делит глобально 12 нот на 7 наших и 5 чужих. аккорд локально в ближайшие две секунды дальше делит эти 7 на 3 наших и 4 временно чужих
+
+
+
 # Порядок разбора
 - проставить аккорды - с помощью добровольца
    - [игра](https://www.youtube.com/watch?v=W1nPX5zn0lY), 1986, [composer](https://en.wikipedia.org/wiki/Naoki_Kodaka)
@@ -65,24 +87,7 @@ Log in to add your annotations. Log out to browse mine.
 <img width="988" alt="Screenshot 2023-09-21 at 18 00 23" src="https://github.com/vpavlenko/study-music/assets/1491908/d8e7f2bf-c980-471f-b0e1-09d1e903c67b">
 
 
-# Структура западной гармонии
 
-Лад делит глобально 12 нот на 7 наших и 5 чужих. аккорд локально в ближайшие две секунды дальше делит эти 7 на 3 наших и 4 временно чужих
-
-# Sound chip
-
-[Spec](https://www.nesdev.org/2A03%20technical%20reference.txt)
-
-A direct conversion to midi may lose too much information, including timbral. Eg. each square wave generator has duty cycle control.
-
-- [Atari 2600 games](https://www.youtube.com/watch?v=6kJ_79ih9rI)
-- [Консоли третьей волны](https://en.wikipedia.org/wiki/Home_video_game_console)
-- [Harmonics of rectangular waves](https://pages.uoregon.edu/emi/14.php)
-- [Explanation on duty cycles harmonics cancelling](https://wigglewave.wordpress.com/2014/08/16/pulse-waveforms-and-harmonics/)
-- [Oscilloscope](https://www.youtube.com/watch?v=OfrEoEQpPrI&list=PLeQUY34t8UPlJqQ1iJcw2h_gEIUtBqAr0) 
-   - [Silver Surfer](https://www.youtube.com/watch?v=Mi7l8ZIrG8s) - lots of vibrato and glides - [chiptheory](https://vpavlenko.github.io/chiptheory/browse/Nintendo/Silver%20Surfer?subtune=4)
-   - [FDS Zelga](https://www.youtube.com/watch?v=-CPrdomMoA4)
-   - [Perfect triangle wave](https://www.youtube.com/watch?v=8RrQrATnXXY)
   
 
 # Trackers
