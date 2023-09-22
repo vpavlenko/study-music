@@ -38,10 +38,9 @@ A direct conversion to midi may lose too much information, including timbral. Eg
    - [игра](https://www.youtube.com/watch?v=W1nPX5zn0lY), 1986, [composer](https://en.wikipedia.org/wiki/Naoki_Kodaka)
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Atlantis%20no%20Nazo
 - simple
-   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/75%20Bingo?subtune=2
-   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/75%20Bingo?subtune=6
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Ankoku%20Shinwa%20-%20Yamato%20Takeru%20Densetsu?subtune=4
 - обсудить слои фактуры
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/75%20Bingo?subtune=6
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/2in1%20Cosmo%20Cop?subtune=1
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Astyanax?subtune=2
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/1943%20-%20The%20Battle%20of%20Midway?subtune=11
