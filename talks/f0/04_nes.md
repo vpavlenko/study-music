@@ -29,6 +29,7 @@ Log in to add your annotations. Log out to browse mine.
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Alien%203?subtune=1
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Tom%20Sawyer?subtune=1
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aussie%20Rules%20Footy?subtune=10
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/1943%20-%20The%20Battle%20of%20Midway?subtune=3
 - stasis
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Astyanax?subtune=5
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Alien%20Syndrome?subtune=1
