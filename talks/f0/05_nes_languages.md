@@ -1,6 +1,16 @@
-Лады - через NES
-===
+# Языки для NES
 
+1. common practice
+2. 12-bar-blues
+3. chiptune (super mario cadence)
+
+
+
+
+
+
+
+# Long list
 
 Задание на практику: написать 12-тактовый блюз для NES
 
