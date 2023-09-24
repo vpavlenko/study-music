@@ -1,11 +1,10 @@
 # Языки для NES
 
+
+0. [thomas renoldner - don't know what](https://vimeo.com/412906856)
 1. common practice
 2. 12-bar-blues
 3. chiptune (super mario cadence)
-
-
-
 
 
 
