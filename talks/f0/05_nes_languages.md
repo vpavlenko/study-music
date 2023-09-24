@@ -3,7 +3,7 @@
 
 0. [thomas renoldner - don't know what](https://vimeo.com/412906856)
 1. common practice
-   - explain voice-leading in Bad News Baseball subtune 4
+   - Bad News Baseball
 3. 12-bar-blues
 4. chiptune (super mario cadence)
 
