@@ -24,6 +24,7 @@ Where to start
 1. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab): search for your favorite songs and anime openings. 
 1. [Ishkur's evolution of electronic music](https://music.ishkur.com/)
 12. Press "scan" at [Every Noise 🌐](https://everynoise.com/)
+13. [👾🕹 **Music theory for Famicom/NES soundtracks** 🕹👾](https://vpavlenko.github.io/chiptheory)
 15. [TuttiTempi: Chopin's Funeral March ⚰️](https://tuttitempi.com/#scoreId=U00000578581&from=0.5622&to=0.8122&youtube=1&spotify=0&muziekweb=0)
 10. Click "Show Timeline" for patterns similar to octatonic used in jazz solos: [upward](https://dig-that-lick.hfm-weimar.de/similarity_search/search?id=8855&target_layout=&group_by=&task_id=6c3656c4-724b-401a-a69a-4f874adddafc), [downward](https://dig-that-lick.hfm-weimar.de/similarity_search/search?id=8856&target_layout=&group_by=&task_id=dce240ac-68c9-49f4-90f5-636e0ad2d15b)
 
