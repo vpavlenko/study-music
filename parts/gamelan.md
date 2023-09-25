@@ -61,6 +61,11 @@ Misc
 - [Henry Spiller. Gamelan: The Traditional Sounds of Indonesia](https://www.goodreads.com/en/book/show/3416865)
 
 
+Sundanese gamelan
+---
+
+- https://www.jstor.org/stable/834075
+- Nano Suratno
 
 Modern pieces for gamelan
 ---
