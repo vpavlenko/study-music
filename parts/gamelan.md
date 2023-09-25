@@ -58,6 +58,10 @@ Misc
 
 - https://github.com/zhejny/webaudio-kendang-metronome
 
+- [Henry Spiller. Gamelan: The Traditional Sounds of Indonesia](https://www.goodreads.com/en/book/show/3416865)
+
+
+
 Modern pieces for gamelan
 ---
 
