@@ -41,9 +41,3 @@ Midi: https://www.youtube.com/watch?v=v7QrACGbhYM :
 <img width="1152" alt="Screenshot 2023-09-27 at 14 53 38" src="https://github.com/vpavlenko/study-music/assets/1491908/d0294fb3-54c0-4f80-872a-2edf122cf21f">
 
 
-Классный видос про bonang panembung:
-https://www.youtube.com/watch?v=x_OyLzIvK0U
-
-[Teknik Variasi Bonang Gending Manyar Sewu Laras Pelog](https://www.youtube.com/watch?v=kV1m2YR_Ihk)
-
-Поговорить про Gamelan Gadhon
