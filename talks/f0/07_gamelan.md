@@ -5,3 +5,8 @@
 
 Например, по циклу: всего один цикл разобрать на всех инструментах. Мб Music Dissector?
 
+[Классный видос про bonang panembung](https://www.youtube.com/watch?v=x_OyLzIvK0U)
+
+[Teknik Variasi Bonang Gending Manyar Sewu Laras Pelog](https://www.youtube.com/watch?v=kV1m2YR_Ihk)
+
+Поговорить про Gamelan Gadhon
