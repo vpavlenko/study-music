@@ -40,4 +40,5 @@ Cubase: https://www.youtube.com/watch?v=k6LyTN75evM :
 Midi: https://www.youtube.com/watch?v=v7QrACGbhYM :
 <img width="1152" alt="Screenshot 2023-09-27 at 14 53 38" src="https://github.com/vpavlenko/study-music/assets/1491908/d0294fb3-54c0-4f80-872a-2edf122cf21f">
 
+<img width="922" alt="Screenshot 2023-09-27 at 19 58 23" src="https://github.com/vpavlenko/study-music/assets/1491908/e877e9f2-d822-435a-97ed-1f2973dce5d6">
 
