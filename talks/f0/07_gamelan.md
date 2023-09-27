@@ -10,3 +10,4 @@
 [Teknik Variasi Bonang Gending Manyar Sewu Laras Pelog](https://www.youtube.com/watch?v=kV1m2YR_Ihk)
 
 Поговорить про Gamelan Gadhon
+
