@@ -11,3 +11,4 @@
 
 Поговорить про Gamelan Gadhon
 
+<img width="1728" alt="kebogiro_spectrum" src="https://github.com/vpavlenko/study-music/assets/1491908/447f08b9-97a1-4bf5-b258-a5b1b5072f65">
