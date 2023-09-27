@@ -42,3 +42,21 @@ Midi: https://www.youtube.com/watch?v=v7QrACGbhYM :
 
 <img width="922" alt="Screenshot 2023-09-27 at 19 58 23" src="https://github.com/vpavlenko/study-music/assets/1491908/e877e9f2-d822-435a-97ed-1f2973dce5d6">
 
+
+
+
+Виды сверху:
+- https://www.youtube.com/watch?v=B4Z_2a7_cgY
+
+
+Мб совместить это с парнем, а не с Kebo Giro
+
+# Lancaran Bindri
+
+сделать семиминутную нарезку из видосов, комментируя в начале каждого что делает этот инструмент
+
+Source: https://www.youtube.com/watch?v=ERksreBScGg (but it's pelog)
+
+- https://www.youtube.com/watch?v=Vr_TWfkFwy8 (slendro): отсюда взять -ss 0:00 -to 0:55
+
+
