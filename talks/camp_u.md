@@ -22,6 +22,24 @@
 
 # Что можно показать
 
-Multi-track?
+Multi-track on Kebo Giro
 
-Can I make the same multi-track?
+С ним проблема в том, что он не даёт визуальной картинки (а Tropongan - даёт)
+
+Хорошее видео к Kebo Giro: https://www.youtube.com/watch?v=FJYy2PNiGCw
+
+Здесь получше видно музыкантов: https://www.youtube.com/watch?v=hg9cjuGXNXA
+
+
+Cubase: https://www.youtube.com/watch?v=k6LyTN75evM :
+
+<img width="1665" alt="Screenshot 2023-09-27 at 14 51 53" src="https://github.com/vpavlenko/study-music/assets/1491908/ad310ecc-c47e-462b-850b-eee5aa5af7da">
+
+<img width="1651" alt="Screenshot 2023-09-27 at 14 52 39" src="https://github.com/vpavlenko/study-music/assets/1491908/90f4951d-11cd-4672-b5b3-0850e37db4b5">
+
+Midi: https://www.youtube.com/watch?v=v7QrACGbhYM :
+<img width="1152" alt="Screenshot 2023-09-27 at 14 53 38" src="https://github.com/vpavlenko/study-music/assets/1491908/d0294fb3-54c0-4f80-872a-2edf122cf21f">
+
+
+Классный видос про bonang panembung:
+https://www.youtube.com/watch?v=x_OyLzIvK0U
