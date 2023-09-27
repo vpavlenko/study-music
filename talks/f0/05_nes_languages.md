@@ -8,9 +8,6 @@
 3. middle voice:
    - Adventures%20of%20Lolo%202?subtune=3
 5. 12-bar-blues
-2. gamelan - kebogiro
-   - [slendro](https://www.youtube.com/watch?v=vTcUbjXyhBQ)
-   - [solo](https://www.youtube.com/watch?v=lWqqRQQalS0)
 4. chiptune (super mario cadence)
 
 
@@ -18,13 +15,6 @@
 
 # Long list
 
-## Задания на практику: написать несколько текстов:
-
-— джингл прохождения миссии
-— четырёхтактовый цикл для главного меню
-— период для первой локации
-— "злой" уровень
-— 12-тактовый блюз
 
 
 ## Ещё материалы
