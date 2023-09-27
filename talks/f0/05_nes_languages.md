@@ -1,10 +1,8 @@
 # Языки для NES
 
-
 0. [thomas renoldner - don't know what](https://vimeo.com/412906856)
 1. common practice
    - Bad News Baseball
-   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Baken%20Hisshou%20Gaku%20-%20Gate%20In?subtune=1 - модуляция в тональность доминанты
    - period
 2. diverse: Astro Fang
 3. middle voice:
@@ -20,9 +18,15 @@
 
 # Long list
 
-Задание на практику: написать 12-тактовый блюз для NES
+## Задания на практику: написать несколько текстов:
+
+— джингл прохождения миссии
+— четырёхтактовый цикл для главного меню
+— период для первой локации
+— "злой" уровень
+— 12-тактовый блюз
 
 
-Начать с 12-тактового блюза, найти их все, обсудить этот язык
+## Ещё материалы
 
-Также 7 минут на индонезийскую музыку
+- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Baken%20Hisshou%20Gaku%20-%20Gate%20In?subtune=1 - модуляция в тональность доминанты
