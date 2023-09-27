@@ -10,7 +10,7 @@
 5. 12-bar-blues
 4. chiptune (super mario cadence)
 
-5. Must finish with Adentures of Lolo 3 - last subtune
+5. Must finish with Adentures of Lolo 3 - subtune 19
 
 
 
