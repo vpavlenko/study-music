@@ -1,6 +1,5 @@
 # Форма и голосоведение в NES
 
-<img width="584" alt="Screenshot 2023-09-28 at 23 07 17" src="https://github.com/vpavlenko/study-music/assets/1491908/0798fa5f-691c-47a0-9e5d-e64aaab30bfc">
 
 
 0. интро: [диджеим каверы](https://vpavlenko.github.io/chiptheory/search/covers/)
@@ -40,6 +39,12 @@
 
 
 6. В конце обсудить планы на будущее
+
+## Элементы музыки
+
+<img width="584" alt="Screenshot 2023-09-28 at 23 07 17" src="https://github.com/vpavlenko/study-music/assets/1491908/0798fa5f-691c-47a0-9e5d-e64aaab30bfc">
+
+<img width="900" alt="Screenshot 2023-09-28 at 23 11 02" src="https://github.com/vpavlenko/study-music/assets/1491908/b7d8fd99-2208-4ee3-b4b0-cf7eaae1ddcb">
 
 
 
