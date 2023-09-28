@@ -1,4 +1,7 @@
-# Форма в NES
+# Форма и голосоведение в NES
+
+<img width="584" alt="Screenshot 2023-09-28 at 23 07 17" src="https://github.com/vpavlenko/study-music/assets/1491908/0798fa5f-691c-47a0-9e5d-e64aaab30bfc">
+
 
 0. интро: [диджеим каверы](https://vpavlenko.github.io/chiptheory/search/covers/)
 0. [thomas renoldner - don't know what](https://vimeo.com/412906856)
