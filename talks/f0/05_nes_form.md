@@ -4,7 +4,7 @@
 0. [thomas renoldner - don't know what](https://vimeo.com/412906856)
 1. Период. В каком порядке разбирать:
    - обсудить, что вообще люди знают из формы
-   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/16%20Mahjong?subtune=1 - разобрать первой, после разбора показать карточку. можем ли мы придумать тут форму?
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/16%20Mahjong?subtune=1 - разобрать первой, глядя в карточку. можем ли мы придумать тут форму?
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Lolo?subtune=1
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Bad%20Dudes%20%20[Bad%20Dudes%20vs.%20Dragon%20Ninja]?subtune=6
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Aladdin?subtune=1 - можно четвертым
