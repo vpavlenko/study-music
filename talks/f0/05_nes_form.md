@@ -33,7 +33,8 @@
    - Adventures of Rocky and Bullwinkie and Friends
 4. harmonic devices
 
-3. Можно разобрать с нуля Athena и Athletic Wolrd
+3. Можно разобрать с нуля Athena и Athletic World
+
 
 6. В конце обсудить планы на будущее
 
