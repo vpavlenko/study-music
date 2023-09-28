@@ -1,6 +1,11 @@
 # Языки для NES
 
 0. [thomas renoldner - don't know what](https://vimeo.com/412906856)
+1. Период и средний голос. В каком порядке разбирать:
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Ankoku%20Shinwa%20-%20Yamato%20Takeru%20Densetsu?subtune=4 - , IAC, extension, нет среднего голоса - был на прошлой лекции, разобрать ближе к концу
+
+
+
 1. common practice
    - Bad News Baseball
    - period
@@ -10,7 +15,7 @@
    - discuss on Air Fortress subtune 1 - after giving all examples
    - discuss other tunes
    - Adventures of Rocky and Bullwinkie and Friends
-5. 12-bar-blues
+4. 12-bar-blues
 4. chiptune (super mario cadence)
 
 5. Must finish with Adentures of Lolo 3 - subtune 19
