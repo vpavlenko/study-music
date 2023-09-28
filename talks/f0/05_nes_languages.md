@@ -7,6 +7,7 @@
 2. diverse: Astro Fang
 3. middle voice:
    - Adventures%20of%20Lolo%202?subtune=3
+   - discuss on Air Fortress subtune 1 - after giving all examples
 5. 12-bar-blues
 4. chiptune (super mario cadence)
 
