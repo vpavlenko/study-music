@@ -2,7 +2,7 @@
 
 0. интро: [диджеим каверы](https://vpavlenko.github.io/chiptheory/search/covers/)
 0. [thomas renoldner - don't know what](https://vimeo.com/412906856)
-1. Период и средний голос. В каком порядке разбирать:
+1. Период. В каком порядке разбирать:
    - обсудить, что вообще люди знают из формы
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/16%20Mahjong?subtune=1 - разобрать первой, после разбора показать карточку
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Lolo?subtune=1
@@ -22,16 +22,14 @@
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Back%20to%20the%20Future?subtune=2
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Bad%20Street%20Brawler?subtune=2
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Dragon%20Mahjong?subtune=5 - ровный минорный блюз со сложной фактурой
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Bakushou!%20Star%20Monomane%20Shitennou?subtune=20
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Bad%20Street%20Brawler?subtune=1
-   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/%2789%20Dennou%20Kyuusei%20Uranai?subtune=14 - где Super Mario
-
-
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/%2789%20Dennou%20Kyuusei%20Uranai?subtune=14
 4. можно ли без формы?
    - Astro Fang
 3. middle voice:
-   - Adventures%20of%20Lolo%202?subtune=3
-   - discuss on Air Fortress subtune 1 - after giving all examples
-   - discuss other tunes
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Adventures%20of%20Lolo%202?subtune=3
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Air%20Fortress?subtune=1
    - Adventures of Rocky and Bullwinkie and Friends
 4. harmonic devices
 
@@ -42,6 +40,6 @@
 
 
 ## Ещё материалы
+
 - common practice
    - Bad News Baseball и вообще Keiji Yamagishi
-- https://vpavlenko.github.io/chiptheory/browse/Nintendo/Baken%20Hisshou%20Gaku%20-%20Gate%20In?subtune=1 - модуляция в тональность доминанты
