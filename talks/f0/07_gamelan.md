@@ -36,3 +36,9 @@ Midi: https://www.youtube.com/watch?v=v7QrACGbhYM :
 тж см [**camp u**](../camp_u.md)
 
 Bindri pelog: Source: https://www.youtube.com/watch?v=ERksreBScGg (but it's pelog)
+
+## Lancaran Bindri
+
+Irama 2 -> irama 1: https://www.youtube.com/watch?v=tkzHRxyIwMs
+
+Лучше слышно kempul + gongs: https://www.youtube.com/watch?v=Wkaug7rmui4
