@@ -1,6 +1,6 @@
 # Форма в NES
 
-0. интро: диджеим цитаты
+0. интро: [диджеим каверы](https://vpavlenko.github.io/chiptheory/search/covers/)
 0. [thomas renoldner - don't know what](https://vimeo.com/412906856)
 1. Период и средний голос. В каком порядке разбирать:
    - обсудить, что вообще люди знают из формы
