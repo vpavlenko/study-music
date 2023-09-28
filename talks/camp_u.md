@@ -14,48 +14,12 @@
 
 В конце реклама моих лекций: t.me/keetezh
 
-Два варианта: либо рассказывать стандартную Джокьякарта-теорию, либо освоить балийскую и показать на веб-симуляторе
-
-Можно сегодня весь день попытаться понять схему balinese gamelan демку. Это надо обложиться книжками
-
-А можно забить и рассказать что-то стандартное. Мб лучше стандарт, чтобы не отнимать время от NES. А балийский гамелан потом в свободном формате разботаю зимой
-
-# Что можно показать
-
-Multi-track on Kebo Giro
-
-С ним проблема в том, что он не даёт визуальной картинки (а Tropongan - даёт)
-
-Хорошее видео к Kebo Giro: https://www.youtube.com/watch?v=FJYy2PNiGCw
-
-Здесь получше видно музыкантов: https://www.youtube.com/watch?v=hg9cjuGXNXA
-
-
-Cubase: https://www.youtube.com/watch?v=k6LyTN75evM :
-
-<img width="1665" alt="Screenshot 2023-09-27 at 14 51 53" src="https://github.com/vpavlenko/study-music/assets/1491908/ad310ecc-c47e-462b-850b-eee5aa5af7da">
-
-<img width="1651" alt="Screenshot 2023-09-27 at 14 52 39" src="https://github.com/vpavlenko/study-music/assets/1491908/90f4951d-11cd-4672-b5b3-0850e37db4b5">
-
-Midi: https://www.youtube.com/watch?v=v7QrACGbhYM :
-<img width="1152" alt="Screenshot 2023-09-27 at 14 53 38" src="https://github.com/vpavlenko/study-music/assets/1491908/d0294fb3-54c0-4f80-872a-2edf122cf21f">
-
-<img width="922" alt="Screenshot 2023-09-27 at 19 58 23" src="https://github.com/vpavlenko/study-music/assets/1491908/e877e9f2-d822-435a-97ed-1f2973dce5d6">
-
-
-
+# Lancaran Bindri
 
 Виды сверху:
 - https://www.youtube.com/watch?v=B4Z_2a7_cgY
 
-
-Мб совместить это с парнем, а не с Kebo Giro
-
-# Lancaran Bindri
-
 сделать семиминутную нарезку из видосов, комментируя в начале каждого что делает этот инструмент
-
-Source: https://www.youtube.com/watch?v=ERksreBScGg (but it's pelog)
 
 - https://www.youtube.com/watch?v=Vr_TWfkFwy8 (slendro): отсюда взять -ss 0:00 -to 0:55
 
