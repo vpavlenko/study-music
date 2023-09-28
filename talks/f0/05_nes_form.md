@@ -26,6 +26,7 @@
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/AV%20Dragon%20Mahjong?subtune=5 - ровный минорный блюз со сложной фактурой
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Bakushou!%20Star%20Monomane%20Shitennou?subtune=20
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Bad%20Street%20Brawler?subtune=1
+   - https://vpavlenko.github.io/chiptheory/browse/Nintendo/Barbie?subtune=2
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/%2789%20Dennou%20Kyuusei%20Uranai?subtune=14
 4. можно ли без формы?
    - Astro Fang
