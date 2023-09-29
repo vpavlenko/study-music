@@ -19,7 +19,8 @@
 Виды сверху:
 - https://www.youtube.com/watch?v=B4Z_2a7_cgY
 
-сделать семиминутную нарезку из видосов, комментируя в начале каждого что делает этот инструмент
+сделать [нарезку из видосов](https://www.dropbox.com/scl/fi/lzo9337ztflv8apt0b4lp/combined_output.mkv?rlkey=l3mzxjidmitbgg0ukofgpbgzq&dl=0), комментируя в начале каждого что делает этот инструмент
+
 
 - https://www.youtube.com/watch?v=Vr_TWfkFwy8 (slendro): отсюда взять -ss 0:00 -to 0:55
 
