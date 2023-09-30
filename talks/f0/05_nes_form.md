@@ -1,4 +1,3 @@
-# [bit.ly/gmaj](https://bit.ly/gmaj)
 
 # Форма и голосоведение в NES
 
