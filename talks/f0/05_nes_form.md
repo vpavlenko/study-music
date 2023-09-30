@@ -2,7 +2,6 @@
 # Форма и голосоведение в NES
 
 0. интро: [слушаем каверы](https://vpavlenko.github.io/chiptheory/search/covers/)
-0. [thomas renoldner - don't know what](https://vimeo.com/412906856)
 1. Период. В каком порядке разбирать:
    - обсудить, что вообще люди знают из формы
    - https://vpavlenko.github.io/chiptheory/browse/Nintendo/16%20Mahjong?subtune=1 - разобрать первой, глядя в карточку. можем ли мы придумать тут форму?
