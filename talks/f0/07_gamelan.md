@@ -42,3 +42,6 @@ Bindri pelog: Source: https://www.youtube.com/watch?v=ERksreBScGg (but it's pelo
 Irama 2 -> irama 1: https://www.youtube.com/watch?v=tkzHRxyIwMs
 
 Лучше слышно kempul + gongs: https://www.youtube.com/watch?v=Wkaug7rmui4
+
+
+[Конец лекции: Despacito Caklempong cover](https://youtu.be/qSxcm8PNZUg?si=Eb3aegpAoQKWEe-8&t=26)
