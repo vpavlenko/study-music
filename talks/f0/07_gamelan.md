@@ -45,3 +45,8 @@ Irama 2 -> irama 1: https://www.youtube.com/watch?v=tkzHRxyIwMs
 
 
 [Конец лекции: Despacito Caklempong cover](https://youtu.be/qSxcm8PNZUg?si=Eb3aegpAoQKWEe-8&t=26)
+
+<img width="862" alt="Screenshot 2023-10-02 at 05 26 21" src="https://github.com/vpavlenko/study-music/assets/1491908/5f8f4fd9-aff6-40e1-9292-840369754942">
+
+https://repositori.kemdikbud.go.id/13325/1/Konsep%20pathet%20dalam%20karawitan%20jawa.pdf
+
