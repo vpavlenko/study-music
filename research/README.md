@@ -112,13 +112,6 @@ Can we visualize the real expressiveness of a certain recording right on the sco
 
 What are the patterns of expression for certain pieces/composers/styles in terms of volumes/onsets? How can we simplify and visualize it?
 
-## Pan-Western
-
- - harmonic evolution across everynoise (v vs V, minor vs major, harmonic rhythm, progressions)
-     - can we easily explain how certain genres are different from the others? is this due to instrumentation / production (plugins) or harmony?
-       can we extend the everynoise map to include this information?
-     - in which genres do certain countries actually have their national fingerprint / style?
-
 ## Rock harmony
 
 On the one hand, rock harmony is theorized in [several](http://davidtemperley.com/the-musical-language-of-rock/) [modern](https://press.umich.edu/Books/H/Hearing-Harmony2) [books](https://www.amazon.com/Japanese-Music-Harmony-Fundamental-Fluctuation-ebook/dp/B08513234C) by manual annotation and categorization of chord progressions.
@@ -159,7 +152,6 @@ Film music has one certain [feature](https://alpof.wordpress.com/2021/10/09/neo-
 - Do arrangers have their fingerprints by which we can identify them?
 - Can we measure the interestingness of the arrangement?
 
-## Balkan music
 
 ## Arabic music
 
@@ -175,12 +167,16 @@ Also, tuning of quartertones is not fixed. Can we say anything about it?
 
 [Adhan](https://youtu.be/ke4vcLCGgRY?si=3jykA74r6HIRQQEX&t=72) [is](https://www.youtube.com/playlist?list=PLMXv6l1xIo3LSoeDbL-y_bNo9--Kd_pTF) [the](https://www.youtube.com/watch?v=Ue1KjsAmoa0) Islamic call to prayer recited from the mosque five times daily. It's either recorded of performed live by a trained muezzin. It's in a maqam tradition and can be described an a vocal improvisation in a certain scale. In Turkey every time of a day is recited [in a different makam](https://www.youtube.com/watch?v=ueq8tROmyLE).
 
+What are the precise rules of this improvisation? What's allowed and what's not?
+
 ## Persian music
 
-Persian traditional radif improvisation is usually described as follows: a musician trained by a certain master glues motives from a radif together. Given an audio performance, can we highlight the certain radif chunks in it?
+Persian traditional radif improvisation is usually described as follows: a musician trained by a certain master glues motives from a radif together. 
+
+Given an audio performance, can we highlight the certain radif chunks in it?
 
 ## Gamelan
 
-Gamelan music is performed on an orchestra of xylophones and gongs. This culture is mostly about preservation of cultural heritage across centuries, and not about the creativeness of individual performers. The rich soundscape is created by many instruments rendering a rather simple melody by rigid rules. 
+[Gamelan](https://www.youtube.com/watch?v=B4Z_2a7_cgY) [music](https://www.youtube.com/watch?v=ccHTOepjK_s) [is](https://www.youtube.com/watch?v=iqKV59P4ZgI) performed on an orchestra of xylophones and gongs. This culture is mostly about preservation of cultural heritage across centuries, and not about the creativeness of individual performers. The rich soundscape is created by many instruments rendering a rather simple melody by rigid rules. 
 
 As the rules are known, and multitracks are unavailable, can we build an unsupervised splitter of a mix into different tracks? Once this problem is solved, can we make automatic models for elaborating instruments like gender barung (in the style of Impro-Visor)?
