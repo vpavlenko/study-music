@@ -131,7 +131,7 @@ On the other hand, we have a lot of datasets of chords for the long tail of rock
 
 ## Video game music
 
-Video game music is a diverse representation of mostly Western musical idiom. It's usually short in form and sometimes it's solving certain tasks related to representing a game's content: location, emotion, cultural context. VGM beginned with a third generation of game consoles, gradually expanding it's capabilities in timbre and number of voices as audio chips matured.
+Video game music is a diverse representation of mostly Western musical idiom. It's usually short in form and sometimes it's solving certain tasks related to representing a game's content: location, emotion, cultural context. VGM began with a third generation of game consoles, gradually expanding it's capabilities in timbre and number of voices as audio chips matured.
 
 Some research articles:
 - [YM2413-MDB: A Multi-Instrumental FM Video Game Music Dataset with Emotion Annotations](https://jech2.github.io/YM2413-MDB/)
