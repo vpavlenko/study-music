@@ -31,7 +31,7 @@ Music can be roughly split into notes (what keys does a pianist press?) and soun
 The questions I ask:
 - In which order do notes go together in different music?
 - Are there statistical patterns that musicians regularly apply?
-- Do musicians and composers differ in the tools they use?
+- Do different composers use different toolboxes? Where does it come from?
 - Do listeners actually know and hear that?
 - Do sequences of notes, chords, motives and form structures represent genres and styles? How?
 
