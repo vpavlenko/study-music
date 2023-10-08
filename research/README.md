@@ -20,7 +20,7 @@
    - I'm not employed and I'm not pursuing a degree
    - I'm working on [a corpus of analyses for NES soundtracks](https://github.com/vpavlenko/chiptheory)
    - I give [lectures](https://t.me/keetezh/945) on music theory in Tbilisi
-- I'd be very glad to mentor students willing to do research in music theory 🧑‍🎓🔬
+- I'd be very glad to mentor students willing to do research in music theory 👩‍🔬🔬🧑‍🎓
 
 # What is music theory?
 
