@@ -121,7 +121,17 @@ What are the patterns of expression for certain pieces/composers/styles in terms
 
 ## Rock harmony
 
+On the one hand, rock harmony is theorized in [several](http://davidtemperley.com/the-musical-language-of-rock/) [modern](https://press.umich.edu/Books/H/Hearing-Harmony2) [books](https://www.amazon.com/Japanese-Music-Harmony-Fundamental-Fluctuation-ebook/dp/B08513234C) by manual annotation and categorization of chord progressions.
+
+On the other hand, we have a lot of datasets of chords for the long tail of rock music: both [uploaded by people](https://amdm.ru/) and [done automatically](https://chordify.net/).
+
+- Can we use these datasets to generalize our model to other countries / rock bands?
+- Can we show that a harmonic complexity grows as the band gets older?
+- Can we show trends in using certain chord progressions over times and countries?
+
 ## Video game music
+
+...
 
 ## Film music
 
@@ -135,6 +145,15 @@ Film music has one certain [feature](https://alpof.wordpress.com/2021/10/09/neo-
 
 
 ## Barbershop quartets
+
+Barbershop is a culture that nearly died at the start of the 20th century and then was semi-artificially preserved. Much like the spoken Hebrew language. It has The Book: "Barbershop Arranging Manual" (1980). Moreover, this is the culture driven by competition with clear rules of [contest judging](https://www.barbershop.org/files/documents/contestandjudging/C&J%20Handbook.pdf).
+
+- Can we build a transcription pipeline that yields four barbershop voices?
+   - Can we fine-tuning existing splitters/transcribers?
+   - Can we improve its accuracy by exploiting the knowledge of these rules?
+- How does The Manual and The Judging Handbook influence modern arrangers?
+- Is the "lock and ring" really visible on the spectrogram? Can we measure the amount of it?
+- 
 
 ## Balkan music
 
