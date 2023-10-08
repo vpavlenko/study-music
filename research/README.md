@@ -134,7 +134,7 @@ On the other hand, we have a lot of datasets of chords for the long tail of rock
 
 - https://jech2.github.io/YM2413-MDB/
 - https://chrisdonahue.com/LakhNES/
-- 
+- https://www.dropbox.com/scl/fi/5mgwcu9jevbyrndcsmn9e/Chiptune_music_An_exploration_Christopher_Hopkins.pdf?rlkey=n116axcnl27qq42ogzye64hru&dl=0
 
 ## Film music
 
