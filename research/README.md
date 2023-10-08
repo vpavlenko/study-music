@@ -37,6 +37,8 @@ The questions I ask:
 
 I care about [all musical cultures](https://github.com/vpavlenko/study-music): not only the classics and not only Western. For me, music theory is 95% theoretical linguistics and 5% mathematics.
 
+I don't care about black box automatic music generation.
+
 # How to start?
 
 Browse topics below. Pick one or design your own. [Reach out to me](https://t.me/vitalypavlenko) to brainstorm over the possible work plan. Start. Iterate.
@@ -73,13 +75,39 @@ Below I give topics which I care about. I'm happy to work out any other research
 
 ## Jazz solos
 
+    - jazz solos?
+        - can Prieler's theory or any NN from Impro-visor improve jazz solo transcription on unseen examples?
+        - can Prieler's theory help us build a real-time imrpovisation instrument that's fun to use?
+
+
+## Bass lines
+
 ## Classical music
+
+ - MAESTRO
+     - can we visualize the real expressiveness on the score?
+     - what are the patterns of expression for certain pieces / composers / styles? what's the easy model to teach the real side of it?
+     - what are expression fingerprints of certain pianists?
+
+## Pan-Western
+
+ - harmonic evolution across everynoise (v vs V, minor vs major, harmonic rhythm, progressions)
+     - can we easily explain how certain genres are different from the others? is this due to instrumentation / production (plugins) or harmony?
+       can we extend the everynoise map to include this information?
+     - in which genres do certain countries actually have their national fingerprint / style?
 
 ## Rock harmony
 
 ## Video game music
 
 ## Film music
+
+    - movie music
+        - can we reliably identify NRT transitions in the soundtrack?
+        - is there evolution of usage of them over time?
+        - do all composers use them in the same way?
+        - do they have stable semantic load? (can we separate "positive"/"negative", sorts of magic?)
+
 
 ## Barbershop quartets
 
@@ -93,28 +121,4 @@ Below I give topics which I care about. I'm happy to work out any other research
 
 ## Gamelan
 
-
-Datasets:
-- everynoise (or any audio corpus)
-    - jazz solos?
-        - can Prieler's theory or any NN from Impro-visor improve jazz solo transcription on unseen examples?
-        - can Prieler's theory help us build a real-time imrpovisation instrument that's fun to use?
-    - movie music
-        - can we reliably identify NRT transitions in the soundtrack?
-        - is there evolution of usage of them over time?
-        - do all composers use them in the same way?
-        - do they have stable semantic load? (can we separate "positive"/"negative", sorts of magic?)
-    - jazz bass lines
-    - harmonic evolution across everynoise (v vs V, minor vs major, harmonic rhythm, progressions)
-        - can we easily explain how certain genres are different from the others? is this due to instrumentation / production (plugins) or harmony?
-          can we extend the everynoise map to include this information?
-        - in which genres do certain countries actually have their national fingerprint / style?
-
-- any chiptune rips dataset
-
-- midi files (eg. jazz, LakhNES)
-    - MAESTRO
-        - can we visualize the real expressiveness on the score?
-        - what are the patterns of expression for certain pieces / composers / styles? what's the easy model to teach the real side of it?
-        - what are expression fingerprints of certain pianists?
 
