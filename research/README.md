@@ -125,11 +125,13 @@ What are the patterns of expression for certain pieces/composers/styles in terms
 
 ## Film music
 
-    - movie music
-        - can we reliably identify NRT transitions in the soundtrack?
-        - is there evolution of usage of them over time?
-        - do all composers use them in the same way?
-        - do they have stable semantic load? (can we separate "positive"/"negative", sorts of magic?)
+Film music has one certain [feature](https://alpof.wordpress.com/2021/10/09/neo-riemannian-examples-in-music/) that's rarely used in other Western music: non-functional two-chord changes that are usually described as neo-Riemannian or as chromatic mediants.
+
+- Given an entire film's soundtrack, can we reliably identify these two-chord patterns in the soundtrack?
+- If "yes", can we batch-process a lot of film music to answer the following:
+   - is there evolution of usage of them over time?
+   - do all composers use them in the same way?
+   - do they have stable semantic load? (can we separate "positive"/"negative", sorts of magic?)
 
 
 ## Barbershop quartets
