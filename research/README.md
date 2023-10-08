@@ -23,7 +23,21 @@
 
 # What is music theory?
 
-Music theory is 
+Music theory is our knowledge of what musicians and composers do and do not. Also, it's about what listeners hear.
+
+Music can be roughly split into notes (what keys does a pianist press?) and sound (how producers combine effects to create timbres?). I focus on the notes.
+
+I wonder, in which order do notes go together in different music:
+- Are there statistical patterns that musicians regularly apply?
+- Do composers differ in the tools they use?
+- Do listeners actually know and hear that?
+- Do combinations of notes, chords, motives and form structures represent genres and styles? How?
+
+I care about [all musical cultures](https://github.com/vpavlenko/study-music): not only the classics and not only Western.
+
+# How to start?
+
+Browse topics below. Pick one or design your own. [Reach out to me](https://t.me/vitalypavlenko) to brainstorm over the possible work plan. Start. Iterate.
 
 # Work principles
 
