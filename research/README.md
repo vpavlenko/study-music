@@ -1,4 +1,4 @@
-# About me
+# Who am I?
 
 - I'm [Vitaly Pavlenko](https://www.linkedin.com/in/vitaly-pavlenko-9729bb76/)
    - an independent researcher of music theory
