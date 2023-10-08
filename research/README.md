@@ -85,7 +85,7 @@ Jazz music is constantly being developed: new composers compose new tunes. Every
 
 ## Jazz solos
 
-Another key aspect of jazz 
+Another key aspect of jazz is solo: a [chain](https://youtu.be/lu5AV2hXDJc?si=spGwtVM47oTEGE-g&t=31) [of](https://www.youtube.com/watch?v=nYr_avtNntE) [phrases](https://www.youtube.com/watch?v=aRPKgl0rOzA) that a single musician plays over a chain of chords. Every jazz musician grows his solo vocabulary for the entire life by combining common patterns with personal discoveries and taste. [Some researchers](https://github.com/vpavlenko/study-music/blob/main/parts/jazz_solo.md#research) like Norgaard or Frieler tried to describe patterns in this activity. However, the clear picture is still absent.
 
 - Can [Frieler's models](https://github.com/vpavlenko/study-music/blob/main/parts/jazz_solo_visualizations.md) (or any models from [Impro-visor](https://github.com/Impro-Visor/Impro-Visor/tree/master/grammars)) improve jazz solo transcription?
 - Can Frieler's models help us build a real-time imrpovisation instrument that's fun to use? (Touch screen instruments? [Music Mouse](https://teropa.info/musicmouse/)-like?)
