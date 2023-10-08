@@ -131,10 +131,14 @@ On the other hand, we have a lot of datasets of chords for the long tail of rock
 
 ## Video game music
 
-- https://jech2.github.io/YM2413-MDB/
-- https://chrisdonahue.com/LakhNES/
-- https://www.dropbox.com/scl/fi/5mgwcu9jevbyrndcsmn9e/Chiptune_music_An_exploration_Christopher_Hopkins.pdf?rlkey=n116axcnl27qq42ogzye64hru&dl=0
+Video game music is a diverse representation of mostly Western musical idiom. It's usually short in form and sometimes it's solving certain tasks related to representing a game's content: location, emotion, cultural context. VGM beginned with a third generation of game consoles, gradually expanding it's capabilities in timbre and number of voices as audio chips matured.
 
+Some research articles:
+- [YM2413-MDB: A Multi-Instrumental FM Video Game Music Dataset with Emotion Annotations](https://jech2.github.io/YM2413-MDB/)
+- [LakhNES: Improving multi-instrumental music generation with cross-domain pre-training](https://chrisdonahue.com/LakhNES/)
+- [Chiptune Music: An Exploration of Compositional Techniques as Found In Sunsoft Games for the Nintendo Entertainment System And Famicom From 1988-1992](https://www.dropbox.com/scl/fi/5mgwcu9jevbyrndcsmn9e/Chiptune_music_An_exploration_Christopher_Hopkins.pdf?rlkey=n116axcnl27qq42ogzye64hru&dl=0)
+- [The Common Cold: Using Computational Musicology to Define the Winter Topic in Video Game Music](https://www.mtosmt.org/issues/mto.23.29.1/mto.23.29.1.lavengoodwilliams.html)
+ 
 ## Film music
 
 Film music has one certain [feature](https://alpof.wordpress.com/2021/10/09/neo-riemannian-examples-in-music/) that's rarely used in other Western music: non-functional two-chord changes that are usually described as neo-Riemannian or as chromatic mediants.
