@@ -73,11 +73,15 @@ Below I give topics which I care about. I'm happy to work out any other research
 
 ## Jazz harmony
 
+Jazz harmony is pretty regular. Chords can be grouped into [blocks](https://github.com/vpavlenko/study-music/blob/main/parts/lego.md) like ii-V-I.
+
+- Can we trace birth and death of certain blocks across history?
+- Do composers and subgenres of jazz have certain preferences?
+
 ## Jazz solos
 
-    - jazz solos?
-        - can Prieler's theory or any NN from Impro-visor improve jazz solo transcription on unseen examples?
-        - can Prieler's theory help us build a real-time imrpovisation instrument that's fun to use?
+- Can [Frieler's models](https://github.com/vpavlenko/study-music/blob/main/parts/jazz_solo_visualizations.md) (or any models from [Impro-visor](https://github.com/Impro-Visor/Impro-Visor/tree/master/grammars)) improve jazz solo transcription?
+- Can Frieler's models help us build a real-time imrpovisation instrument that's fun to use? (Touch screen instruments? [Music Mouse](https://teropa.info/musicmouse/)-like?)
 
 
 ## Bass lines
