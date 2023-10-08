@@ -82,6 +82,16 @@ Below I give topics which I care about. I'm happy to work out any other research
 
 ## Bass lines
 
+Bass lines are everywhere in Western music. They can easily be separated from the track using demucs and further transcribed using basic-pitch.
+
+A theory for bass lines should be more regular, because, in most cases, a bass line is inferred from a current chord, and in some cases it has a clear structure (riff or shape).
+
+The questions for bass lines:
+- Can we demonstrate that bass lines [become complex](https://www.youtube.com/watch?v=LMtf7PtqIlw) as a single musician matures? How to measure complexity/creativeness of a musician from album #1 to album #10?
+- Can we make automatic [comparative analysis](https://digscholarship.unco.edu/dissertations/329/) of different bassists playing the same pieces?
+- Are bass lines different for the same genre across different [countries](https://everynoise.com/countries.html)? Eg. do Italian metal bassists do the same things which French metal bassists don't do? Is "region" a thing in enthropy (perplexity) growth as we zoom out from a single musician to a whole genre?
+- What's the easiest visual way to represent bass line patterns? Can we show piano roll bass patterns over [everynoise](https://everynoise.com/)?
+
 ## Classical music
 
  - MAESTRO
