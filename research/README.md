@@ -1,4 +1,4 @@
-# Who am I
+# About me
 
 - I'm [Vitaly Pavlenko](https://www.linkedin.com/in/vitaly-pavlenko-9729bb76/)
    - an independent researcher of music theory
@@ -6,6 +6,7 @@
    - also with a lot of teaching experience
 - In the past:
    - I got a BSc in Applied Math and CS at MIPT (Moscow)
+   - After that, I've studied at Skoltech, ШАД and [МКИМ](https://mcim.ru/) for some time
    - I've created [pythontutor.ru](https://pythontutor.ru/), which is a popular Python course that's used by thousands of people every day
    - I've taught:
      - [Digital Technologies at a high school](https://sites.google.com/site/vpavlenkoinf/)
@@ -41,22 +42,25 @@ Browse topics below. Pick one or design your own. [Reach out to me](https://t.me
 
 # Work principles
 
+- do corpus-based research: choose from 100 to 100k pieces and analyze them to find patterns
 - present the discoveries through web demos rich in audio examples and visual explanations
-- anti-perfectionism: release as soon as there's something to play with
+- anti-perfectionism: release and demo as soon as there's something to play with
 - work in extremely small iterations. one week is great, one day is even better
 - limit the scope of the very first steps, make a humble MVP on the week one and iterate from there
 - help others with forking and reproducibility: publish the research code in open source repositories with clear setup instructions
 - consider making something publishable in real music theory journals like Music Theory Online
 - however, optimize for teaching your friends on what you've discovered
 - listen to the type of music you're researching, even if it's outside of your comfort zone
+- however, optimize for working on music that you deeply care about
 - read books and papers to get an idea of how other researchers understand its structure
 - switch back and forth between manual transcription/annotation and large-scale DS/ML processing
+- [write down](https://emusicology.org/index.php/EMR/article/view/8103/6032#:~:text=with%20questions) [questions](https://kb.osu.edu/bitstream/handle/1811/93138/1/FDMC_2021_Huron_005.pdf) before the research
 
-Feel free to adjust them to your taste. As a software engineer with long experience in teaching, I'm happy to navigate you towards reaching this style of research.
+Feel free to adjust them to your taste. I'm happy to navigate you towards reaching this style of research.
 
-For the research and DS/ML, you may use any available ML tools and libraries. For visualizing the results, I personally use Githup Pages + React + TypeScript and I often ask GPT4 for help. I'm happy to explain this stack or help you with your own.
+For the research and DS/ML, you may use any available ML tools and libraries. For visualizing the results, I personally use Githup Pages + React + TypeScript and I often ask GPT4 for help. I'm happy to help you with this stack (or any other).
 
-The ideal student has some background in music theory. You most likely have one if you've learned to play some instrument before. It's probably enough if you have an idea of what chords are, what's major/minor, what's an octave and a fifth, and can potentially play some songs given the chords - maybe on piano, guitar, ukulele or in the DAW. Or at least if you understand how others do that.
+Things will be faster if you have some background in music theory. You most likely have one if you've learned to play some instrument before. It's probably enough if you have an idea of what chords are, what's major/minor, what's an octave and a fifth, and if you can potentially play some songs given the chords - maybe on piano, guitar, ukulele or in the DAW. Or at least if you understand how others do that.
 
 The curve to learn other useful concepts like Roman numerals, seventh chords, cadences and modulation can be steep. However, I'm very happy to navigate you through learning it as you proceed with your research.
 
