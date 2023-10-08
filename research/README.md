@@ -105,7 +105,7 @@ The questions for bass lines:
 
 ## Expression in classical piano
 
-A pianist improvises by controlling velocities and onsets of all notes written out by composer, without changing the order of the notes. The actual rendition is a product of:
+A pianist [improvises](https://tuttitempi.com/#scoreId=U00000577908&youtube=1&spotify=0&muziekweb=0) by [controlling](https://touchpianist.com/) velocities and onsets of all notes written out by composer, without changing the order of the notes. The actual rendition is a product of:
 - muscle abilities and limitations
 - composer's marks on a music sheet
 - cultural inertia of how should a certain piece sound
