@@ -61,7 +61,7 @@ Browse topics below. Pick one or design your own. [Reach out to me](https://t.me
 
 Feel free to adjust them to your taste. I'm happy to navigate you towards reaching this style of research.
 
-For the research and DS/ML, you may use any available ML tools and libraries. For visualizing the results, I personally use Githup Pages + React + TypeScript and I often ask GPT4 for help. I'm happy to help you with this stack (or any other).
+For the research and DS/ML, you may use any available tools and libraries. For visualizing the results, I personally use Githup Pages + React + TypeScript and I often ask GPT4 for help. I'm happy to help you with this stack (or any other).
 
 Things will be faster if you have some background in music theory. You most likely have one if you've learned to play some instrument before. It's probably enough if you have an idea of what chords are, what's major/minor, what's an octave and a fifth, and if you can potentially play some songs given the chords - maybe on piano, guitar, ukulele or in the DAW. Or at least if you understand how others do that.
 
