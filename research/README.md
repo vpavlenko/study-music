@@ -177,7 +177,7 @@ What are the precise rules of this improvisation? What's allowed and what's not?
 
 ## Persian music
 
-[Persian](https://www.youtube.com/watch?v=e3oKIn6Vw5k) [traditional](https://www.youtube.com/watch?v=Bq-RX04vG24) radif improvisation is usually described as follows: a musician trained by a certain master glues motives from a radif together. 
+[Persian](https://www.youtube.com/watch?v=e3oKIn6Vw5k) [traditional](https://www.youtube.com/watch?v=Bq-RX04vG24) radif improvisation is usually described as follows: a musician trained by a certain master glues motives from a [radif](https://music.apple.com/us/album/the-mirza-abdollah-radif-for-tar-and-setar-vol-1/1536600848) together. 
 
 Given an audio performance, can we highlight the certain radif chunks in it?
 
