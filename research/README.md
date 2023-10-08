@@ -73,13 +73,19 @@ Below I give topics which I care about. I'm happy to work out any other research
 
 ## Jazz harmony
 
-Jazz harmony is pretty regular. Chords can be grouped into [blocks](https://github.com/vpavlenko/study-music/blob/main/parts/lego.md) like ii-V-I.
+One of the key aspect of traditional jazz music is harmony - the chain of chords that is played over and over again in choruses. 
 
-- Can we trace birth and death of certain blocks across history?
-- Do composers and subgenres of jazz have certain preferences?
-- Can we [visualize](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf) harmony of all jazz standards at a single page? Instantly playable and navigable?
+Jazz harmony is pretty regular. Chords can be grouped into [blocks](https://github.com/vpavlenko/study-music/blob/main/parts/lego.md) like ii-V-I or chain of dominants.
+
+Jazz music is constantly being developed: new composers compose new tunes. Every tune is usually represented as a lead sheet: chords + melody. Chords on a lead sheet help musicians to render a tune. However, they somewhat obscure the original composer's idea, and there may be better way to represent [the harmonic structure](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf).
+
+- Can we trace birth and death of certain lego blocks across history?
+- Do composers and subgenres of jazz have certain preferences of lego blocks?
+- Can we visualize harmony of all jazz standards at a single page to uncover patterns?
 
 ## Jazz solos
+
+Another key aspect of jazz 
 
 - Can [Frieler's models](https://github.com/vpavlenko/study-music/blob/main/parts/jazz_solo_visualizations.md) (or any models from [Impro-visor](https://github.com/Impro-Visor/Impro-Visor/tree/master/grammars)) improve jazz solo transcription?
 - Can Frieler's models help us build a real-time imrpovisation instrument that's fun to use? (Touch screen instruments? [Music Mouse](https://teropa.info/musicmouse/)-like?)
