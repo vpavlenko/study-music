@@ -163,6 +163,14 @@ Film music has one certain [feature](https://alpof.wordpress.com/2021/10/09/neo-
 
 ## Arabic music
 
+Traditional Arabic music is a heterophonic, with a single melody elaborated by several instruments. In 20th century a lot of composers created original pieces, including [long](https://www.youtube.com/watch?v=jlPx-R7XmaA) [songs](https://www.youtube.com/watch?v=e7wl1tm35bM). Instead of using just two scales, as Western music, an Arabic music uses many scales, or rather jins (4 or 5 pitch collections) and modulates between them, creating a [narrative](https://maqamlessons.com/analysis/rast.html) through these modulations, much like Western music creates one with chords.
+
+- Can we make an automatic transcription of a piece, exploiting this knowledge of its structure?
+- How can we visualize the modulations in the most efficient way? What's the best piano roll for Arabic music?
+- Are [networks of maqams](https://maqamlessons.com/playground/010_01_MaqamRast.html) not cliques? Are certain edges really absent? Why?
+
+Also, tuning of quartertones is not fixed. Can we say anything about it?
+
 ## Adhans
 
 [Adhan](https://youtu.be/ke4vcLCGgRY?si=3jykA74r6HIRQQEX&t=72) [is](https://www.youtube.com/playlist?list=PLMXv6l1xIo3LSoeDbL-y_bNo9--Kd_pTF) [the](https://www.youtube.com/watch?v=Ue1KjsAmoa0) Islamic call to prayer recited from the mosque five times daily. It's either recorded of performed live by a trained muezzin. It's in a maqam tradition and can be described an a vocal improvisation in a certain scale. In Turkey every time of a day is recited [in a different makam](https://www.youtube.com/watch?v=ueq8tROmyLE).
