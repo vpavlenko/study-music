@@ -45,7 +45,7 @@ Browse topics below. Pick one or design your own. [Reach out to me](https://t.me
 
 # Work principles
 
-- Do corpus-based research: choose from 100 to 100k pieces and analyze them to find patterns
+- Do corpus-based research: choose from 10 to 100k pieces and analyze them to find patterns
 - Present the discoveries through web demos rich in audio examples and visual explanations
 - Anti-perfectionism: release and demo as soon as there's something to play with
 - Work in extremely small iterations. one week is great, one day is even better
