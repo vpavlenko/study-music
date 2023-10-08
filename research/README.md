@@ -1,16 +1,29 @@
 # Who am I
 
-- I'm [Vitaly Pavlenko](https://www.linkedin.com/in/vitaly-pavlenko-9729bb76/), an independent researcher of music theory
-- I'm originally from Russia (MIPT) and I live in Tbilisi, Georgia 🇬🇪
-- I have a background in creating mobile and web products
+- I'm [Vitaly Pavlenko](https://www.linkedin.com/in/vitaly-pavlenko-9729bb76/)
+   - an independent researcher of music theory
+   - with a background in creating mobile and web products
+   - also with a lot of teaching experience
+- In the past:
+   - I got a BSc in Applied Math and CS at MIPT (Moscow)
    - I've created [pythontutor.ru](https://pythontutor.ru/), which is a popular Python course that's used by thousands of people every day
+   - I've taught:
+     - [Digital Technologies at a high school](https://sites.google.com/site/vpavlenkoinf/)
+     - [web development at MIPT](https://github.com/vpavlenko/web-programming)
+     - [Java](https://www.youtube.com/playlist?list=PLzQrZe3EemP7hx6NKGA26yr3HJ-RF4iwT)
+     - intro to programming, algorithms and data structures - at MIPT, ЛКШ, three high schools and other places
+   - I've mentored teams doing tech and startup projects, at two Russian universities
    - I've also worked at WhatsApp, [ASAP](https://asaptaste.com/getasap) and [Jetway](https://www.linkedin.com/pulse/how-i-launched-subsequently-messed-up-marketplace-igor-grigoriev/)
 - Now:
+   - I live in Tbilisi, Georgia 🇬🇪
    - I'm not employed and I'm not pursuing a degree
    - I'm working on [a corpus of analyses for NES soundtracks](https://github.com/vpavlenko/chiptheory)
    - I give [lectures](https://t.me/keetezh/945) on music theory in Tbilisi
 - I'd be very glad to mentor students willing to do research in music theory
 
+# What is music theory?
+
+Music theory is 
 
 # Work principles
 
