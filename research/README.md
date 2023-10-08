@@ -77,6 +77,7 @@ Jazz harmony is pretty regular. Chords can be grouped into [blocks](https://gith
 
 - Can we trace birth and death of certain blocks across history?
 - Do composers and subgenres of jazz have certain preferences?
+- Can we [visualize](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf) harmony of all jazz standards at a single page? Instantly playable and navigable?
 
 ## Jazz solos
 
@@ -96,12 +97,20 @@ The questions for bass lines:
 - Are bass lines different for the same genre across different [countries](https://everynoise.com/countries.html)? Eg. do Italian metal bassists do the same things which French metal bassists don't do? Is "region" a thing in enthropy (perplexity) growth as we zoom out from a single musician to a whole genre?
 - What's the easiest visual way to represent bass line patterns? Can we show piano roll bass patterns over [everynoise](https://everynoise.com/)?
 
-## Classical music
+## Expression in classical piano
 
- - MAESTRO
-     - can we visualize the real expressiveness on the score?
-     - what are the patterns of expression for certain pieces / composers / styles? what's the easy model to teach the real side of it?
-     - what are expression fingerprints of certain pianists?
+A pianist improvises by controlling velocities and onsets of all notes written out by composer, without changing the order of the notes. The actual rendition is a product of:
+- muscle abilities and limitations
+- composer's marks on a music sheet
+- cultural inertia of how should a certain piece sound
+- composer's consistent taste across the pieces
+- composer's approach to this individual piece
+
+Can we decompose a certain piano rendition onto these axes?
+
+Can we visualize the real expressiveness of a certain recording right on the score?
+
+What are the patterns of expression for certain pieces/composers/styles in terms of volumes/onsets? How can we simplify and visualize it?
 
 ## Pan-Western
 
