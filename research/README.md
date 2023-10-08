@@ -132,7 +132,9 @@ On the other hand, we have a lot of datasets of chords for the long tail of rock
 
 ## Video game music
 
-...
+- https://jech2.github.io/YM2413-MDB/
+- https://chrisdonahue.com/LakhNES/
+- 
 
 ## Film music
 
@@ -163,7 +165,7 @@ Film music has one certain [feature](https://alpof.wordpress.com/2021/10/09/neo-
 
 ## Adhans
 
-Adhan is the Islamic call to prayer recited from the mosque five times daily. It's either recorded of performed live by a trained muezzin. It's in a maqam tradition and can be described an a vocal improvisation in a certain scale.
+[Adhan](https://youtu.be/ke4vcLCGgRY?si=3jykA74r6HIRQQEX&t=72) [is](https://www.youtube.com/playlist?list=PLMXv6l1xIo3LSoeDbL-y_bNo9--Kd_pTF) [the](https://www.youtube.com/watch?v=Ue1KjsAmoa0) Islamic call to prayer recited from the mosque five times daily. It's either recorded of performed live by a trained muezzin. It's in a maqam tradition and can be described an a vocal improvisation in a certain scale. In Turkey every time of a day is recited [in a different makam](https://www.youtube.com/watch?v=ueq8tROmyLE).
 
 ## Persian music
 
