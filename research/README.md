@@ -6,7 +6,7 @@
    - also with a lot of teaching experience
 - In the past:
    - I got a BSc in Applied Math and CS at MIPT (Moscow)
-   - After that, I've studied at Skoltech, ШАД and [МКИМ](https://mcim.ru/) for some time
+   - After that, I've studied at Skoltech, ШАД and [МКИМ](https://mcim.ru/)
    - I've created [pythontutor.ru](https://pythontutor.ru/), which is a popular Python course that's used by thousands of people every day
    - I've taught:
      - [Digital Technologies at a high school](https://sites.google.com/site/vpavlenkoinf/)
@@ -20,7 +20,7 @@
    - I'm not employed and I'm not pursuing a degree
    - I'm working on [a corpus of analyses for NES soundtracks](https://github.com/vpavlenko/chiptheory)
    - I give [lectures](https://t.me/keetezh/945) on music theory in Tbilisi
-- I'd be very glad to mentor students willing to do research in music theory
+- I'd be very glad to mentor students willing to do research in music theory 🧑‍🎓🔬
 
 # What is music theory?
 
@@ -28,13 +28,14 @@ Music theory is our knowledge of what musicians and composers do and do not. Als
 
 Music can be roughly split into notes (what keys does a pianist press?) and sound (how producers combine effects to create timbres?). I focus on the notes.
 
-I wonder, in which order do notes go together in different music:
+The questions I ask:
+- In which order do notes go together in different music?
 - Are there statistical patterns that musicians regularly apply?
-- Do composers differ in the tools they use?
+- Do musicians and composers differ in the tools they use?
 - Do listeners actually know and hear that?
-- Do combinations of notes, chords, motives and form structures represent genres and styles? How?
+- Do sequences of notes, chords, motives and form structures represent genres and styles? How?
 
-I care about [all musical cultures](https://github.com/vpavlenko/study-music): not only the classics and not only Western.
+I care about [all musical cultures](https://github.com/vpavlenko/study-music): not only the classics and not only Western. For me, music theory is 95% theoretical linguistics and 5% mathematics.
 
 # How to start?
 
@@ -42,19 +43,19 @@ Browse topics below. Pick one or design your own. [Reach out to me](https://t.me
 
 # Work principles
 
-- do corpus-based research: choose from 100 to 100k pieces and analyze them to find patterns
-- present the discoveries through web demos rich in audio examples and visual explanations
-- anti-perfectionism: release and demo as soon as there's something to play with
-- work in extremely small iterations. one week is great, one day is even better
-- limit the scope of the very first steps, make a humble MVP on the week one and iterate from there
-- help others with forking and reproducibility: publish the research code in open source repositories with clear setup instructions
-- consider making something publishable in real music theory journals like Music Theory Online
-- however, optimize for teaching your friends on what you've discovered
-- listen to the type of music you're researching, even if it's outside of your comfort zone
-- however, optimize for working on music that you deeply care about
-- read books and papers to get an idea of how other researchers understand its structure
-- switch back and forth between manual transcription/annotation and large-scale DS/ML processing
-- [write down](https://emusicology.org/index.php/EMR/article/view/8103/6032#:~:text=with%20questions) [questions](https://kb.osu.edu/bitstream/handle/1811/93138/1/FDMC_2021_Huron_005.pdf) before the research
+- Do corpus-based research: choose from 100 to 100k pieces and analyze them to find patterns
+- Present the discoveries through web demos rich in audio examples and visual explanations
+- Anti-perfectionism: release and demo as soon as there's something to play with
+- Work in extremely small iterations. one week is great, one day is even better
+- Limit the scope of the very first steps, make a humble MVP on the week one and iterate from there
+- Help others with forking and reproducibility: publish the research code in open source repositories with clear setup instructions
+- Consider making something publishable in real music theory journals like Music Theory Online
+- However, optimize for teaching your friends on what you've discovered
+- Listen to the type of music you're researching, even if it's outside of your comfort zone
+- However, optimize for working on music that you deeply care about
+- Read books and papers to get an idea of how other researchers understand its structure
+- Switch back and forth between manual transcription/annotation and large-scale DS/ML processing
+- [Write down](https://emusicology.org/index.php/EMR/article/view/8103/6032#:~:text=with%20questions) [questions](https://kb.osu.edu/bitstream/handle/1811/93138/1/FDMC_2021_Huron_005.pdf) before the research
 
 Feel free to adjust them to your taste. I'm happy to navigate you towards reaching this style of research.
 
@@ -67,6 +68,31 @@ The curve to learn other useful concepts like Roman numerals, seventh chords, ca
 # Topics
 
 Below I give topics which I care about. I'm happy to work out any other research topics based on your personal interests. It's way better if you scratch your own itch and tackle the questions you can't stand being unanswered anymore. Let's make music structure uncovered, understood and clearly visualized, one question at a time.
+
+## Jazz harmony
+
+## Jazz solos
+
+## Classical music
+
+## Rock harmony
+
+## Video game music
+
+## Film music
+
+## Barbershop quartets
+
+## Balkan music
+
+## Arabic music
+
+## Adhans
+
+## Persian music
+
+## Gamelan
+
 
 Datasets:
 - everynoise (or any audio corpus)
@@ -91,8 +117,4 @@ Datasets:
         - can we visualize the real expressiveness on the score?
         - what are the patterns of expression for certain pieces / composers / styles? what's the easy model to teach the real side of it?
         - what are expression fingerprints of certain pianists?
-
-
-PS. I should note that I'm a beginner researcher myself. I haven't published any scientific articles yet. My only degree is Bachelor's in Applied Mathematics and Computer Science and most of my teaching experience is also about tech. However, I hope that I can combine my experience in tech with my knowledge of music theory and linguistics to make something valuable for others.
-
 
