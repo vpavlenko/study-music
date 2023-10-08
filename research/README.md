@@ -161,7 +161,7 @@ Film music has one certain [feature](https://alpof.wordpress.com/2021/10/09/neo-
 
 ## Arabic music
 
-Traditional Arabic music is a heterophonic, with a single melody elaborated by several instruments. In 20th century a lot of composers created original pieces, including [long](https://www.youtube.com/watch?v=jlPx-R7XmaA) [songs](https://www.youtube.com/watch?v=e7wl1tm35bM). Instead of using just two scales, as Western music, an Arabic music uses many scales, or rather jins (4 or 5 pitch collections) and modulates between them, creating a [narrative](https://maqamlessons.com/analysis/rast.html) through these modulations, much like Western music creates one with chords.
+Traditional Arabic music is a heterophonic, with a single melody elaborated by several instruments. In 20th century a lot of composers created original pieces, including [long](https://www.youtube.com/watch?v=jlPx-R7XmaA) [songs](https://www.youtube.com/watch?v=e7wl1tm35bM). Instead of using just two scales, as Western music, an Arabic music uses many scales, or rather [jins](https://www.maqamworld.com/en/jins.php) (4 or 5 pitch collections) and modulates between them, creating a [narrative](https://maqamlessons.com/analysis/rast.html) through these modulations, much like Western music creates one with chords.
 
 - Can we make an automatic transcription of a piece, exploiting this knowledge of its structure?
 - How can we visualize the modulations in the most efficient way? What's the best piano roll for Arabic music?
