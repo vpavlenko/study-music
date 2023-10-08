@@ -1,13 +1,24 @@
-Bremen: Solo, the whole year, research-oriented
+# Who am I
 
-I'm Vitaly Pavlenko, an independent researcher of music theory. I'm originally from Russia (MIPT) and I live in Tbilisi, Georgia. I have a background in creating mobile and web products. I've created pythontutor.ru, which is a popular Python course that's used by thousands of people every day. I've also worked at WhatsApp, ASAP and Jetway. Currently I'm working on a corpus of analyses for NES soundtracks and I give lectures on music theory in Tbilisi (recordings are available).
+- I'm [Vitaly Pavlenko](https://www.linkedin.com/in/vitaly-pavlenko-9729bb76/), an independent researcher of music theory
+- I'm originally from Russia (MIPT) and I live in Tbilisi, Georgia 🇬🇪
+- I have a background in creating mobile and web products
+   - I've created [pythontutor.ru](https://pythontutor.ru/), which is a popular Python course that's used by thousands of people every day
+   - I've also worked at WhatsApp, [ASAP](https://asaptaste.com/getasap) and [Jetway](https://www.linkedin.com/pulse/how-i-launched-subsequently-messed-up-marketplace-igor-grigoriev/)
+- Now:
+   - I'm not employed and I'm not pursuing a degree
+   - I'm working on [a corpus of analyses for NES soundtracks](https://github.com/vpavlenko/chiptheory)
+   - I give [lectures](https://t.me/keetezh/945) on music theory in Tbilisi
+- I'd be very glad to mentor students willing to do research in music theory
 
-I encourage these ways of working on the topics:
-- aim for web demos that show progress early on
-- make web demos rich in audio examples and visual explanations
-- anti-perfectionism: release as soon as there's something to play with and show to others to get early feedback
-- work in extremely small iterations, limit the scope of the very first steps, make a humble MVP on the week one and iterate from there
-- publish research code in open source repositories with clear setup structure to help others with forking and reproducibility
+
+# Work principles
+
+- present the discoveries through web demos rich in audio examples and visual explanations
+- anti-perfectionism: release as soon as there's something to play with
+- work in extremely small iterations. one week is great, one day is even better
+- limit the scope of the very first steps, make a humble MVP on the week one and iterate from there
+- help others with forking and reproducibility: publish the research code in open source repositories with clear setup instructions
 - consider making something publishable in real music theory journals like Music Theory Online
 - however, optimize for teaching your friends on what you've discovered
 - listen to the type of music you're researching, even if it's outside of your comfort zone
@@ -21,6 +32,8 @@ For the research and DS/ML, you may use any available ML tools and libraries. Fo
 The ideal student has some background in music theory. You most likely have one if you've learned to play some instrument before. It's probably enough if you have an idea of what chords are, what's major/minor, what's an octave and a fifth, and can potentially play some songs given the chords - maybe on piano, guitar, ukulele or in the DAW. Or at least if you understand how others do that.
 
 The curve to learn other useful concepts like Roman numerals, seventh chords, cadences and modulation can be steep. However, I'm very happy to navigate you through learning it as you proceed with your research.
+
+# Topics
 
 Below I give topics which I care about. I'm happy to work out any other research topics based on your personal interests. It's way better if you scratch your own itch and tackle the questions you can't stand being unanswered anymore. Let's make music structure uncovered, understood and clearly visualized, one question at a time.
 
