@@ -128,6 +128,7 @@ On the other hand, we have a lot of datasets of chords for the long tail of rock
 - Can we use these datasets to generalize our model to other countries / rock bands?
 - Can we show that a harmonic complexity grows as the band gets older?
 - Can we show trends in using certain chord progressions over times and countries?
+- Can we draw state machines for chords for certain bands to compare harmonic languages?
 
 ## Video game music
 
@@ -146,14 +147,15 @@ Film music has one certain [feature](https://alpof.wordpress.com/2021/10/09/neo-
 
 ## Barbershop quartets
 
-Barbershop is a culture that nearly died at the start of the 20th century and then was semi-artificially preserved. Much like the spoken Hebrew language. It has The Book: "Barbershop Arranging Manual" (1980). Moreover, this is the culture driven by competition with clear rules of [contest judging](https://www.barbershop.org/files/documents/contestandjudging/C&J%20Handbook.pdf).
+[Barbershop](https://www.youtube.com/watch?v=7CBlPJE7Sew) [is](https://www.youtube.com/watch?v=jUffPtS3-7A) [a](https://www.youtube.com/shorts/yyHdDsP9iDU) [culture](https://www.youtube.com/watch?v=_W1CvQG01Q4) that nearly died at the start of the 20th century and then was semi-artificially preserved. Much like the spoken Hebrew language. It has The Book: "Barbershop Arranging Manual" (1980). Moreover, this is the culture driven by competition with clear rules of [contest judging](https://www.barbershop.org/files/documents/contestandjudging/C&J%20Handbook.pdf).
 
 - Can we build a transcription pipeline that yields four barbershop voices?
    - Can we fine-tuning existing splitters/transcribers?
    - Can we improve its accuracy by exploiting the knowledge of these rules?
 - How does The Manual and The Judging Handbook influence modern arrangers?
 - Is the "lock and ring" really visible on the spectrogram? Can we measure the amount of it?
-- 
+- Do arrangers have their fingerprints by which we can identify them?
+- Can we measure the interestingness of the arrangement?
 
 ## Balkan music
 
@@ -161,8 +163,14 @@ Barbershop is a culture that nearly died at the start of the 20th century and th
 
 ## Adhans
 
+Adhan is the Islamic call to prayer recited from the mosque five times daily. It's either recorded of performed live by a trained muezzin. It's in a maqam tradition and can be described an a vocal improvisation in a certain scale.
+
 ## Persian music
+
+Persian traditional radif improvisation is usually described as follows: a musician trained by a certain master glues motives from a radif together. Given an audio performance, can we highlight the certain radif chunks in it?
 
 ## Gamelan
 
+Gamelan music is performed on an orchestra of xylophones and gongs. This culture is mostly about preservation of cultural heritage across centuries, and not about the creativeness of individual performers. The rich soundscape is created by many instruments rendering a rather simple melody by rigid rules. 
 
+As the rules are known, and multitracks are unavailable, can we build an unsupervised splitter of a mix into different tracks? Once this problem is solved, can we make automatic models for elaborating instruments like gender barung (in the style of Impro-Visor)?
