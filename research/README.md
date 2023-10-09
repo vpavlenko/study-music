@@ -49,9 +49,9 @@ Browse topics below. Pick one or design your own. [Reach out to me](https://t.me
 - Present the discoveries through web demos rich in audio examples and visual explanations
 - Anti-perfectionism: release and demo as soon as there's something to play with
 - Work in extremely small iterations. one week is great, one day is even better
-- Limit the scope of the very first steps, make a humble MVP on the week one and iterate from there
+- Limit the scope of the very first steps, make a humble [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) on the week one and iterate from there
 - Help others with forking and reproducibility: publish the research code in open source repositories with clear setup instructions
-- Consider making something publishable in real music theory journals like Music Theory Online
+- Consider making something publishable in real music theory journals like [Music Theory Online](https://www.mtosmt.org/issues/issues.php)
 - However, optimize for teaching your friends on what you've discovered
 - Listen to the type of music you're researching, even if it's outside of your comfort zone
 - However, optimize for working on music that you deeply care about
