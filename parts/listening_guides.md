@@ -30,3 +30,5 @@ Listening guides
 - [🎥 Craig Wright. Listening to Music (Yale Course)](https://www.youtube.com/watch?v=5_yOVARO2Oc&list=PL9LXrs9vCXK56qtyK4qcqwHrbf0em_81r)
 
 - [orsaymusic, guides d'écoute](https://www.youtube.com/playlist?list=PLNLwxt7jMzDE6MPMH6rRsaziT2yoCxE2u)
+
+- Henry Martin, Keith Waters. Essential Jazz: The First 100 Years
