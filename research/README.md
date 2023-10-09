@@ -36,7 +36,10 @@ The questions I ask:
 
 I care about [all musical cultures](https://github.com/vpavlenko/study-music): not only the classics and not only Western. For me, music theory is 95% theoretical linguistics and 5% mathematics.
 
-I don't care about black box automatic music generation.
+Things I don't care about:
+- black box automatic music generation
+- rhythm and drumming (for now)
+- atonal music
 
 # How to start?
 
