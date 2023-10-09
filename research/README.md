@@ -38,7 +38,7 @@ I care about [all tonal musical cultures](https://github.com/vpavlenko/study-mus
 
 Things I don't care about:
 - black box automatic music generation
-- rhythm and drumming (for now)
+- rhythm and drumming
 - atonal music
 
 # How to start?
