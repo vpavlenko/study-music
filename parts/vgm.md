@@ -24,6 +24,7 @@ And Famicom From 1988-1992](https://www.christopherjhopkins.com/chiptune-dissert
 - https://github.com/chrisdonahue/nesmdb
 - https://arxiv.org/abs/2211.07131
 
+- https://mtosmt.org/issues/mto.23.29.3/mto.23.29.3.cook.html
 
 <img width="849" alt="Screenshot 2023-03-26 at 11 06 16" src="https://user-images.githubusercontent.com/1491908/227760822-d2caf346-e820-4bb1-a6c4-33ecc1396c40.png">
 <img width="780" alt="Screenshot 2023-03-26 at 11 06 39" src="https://user-images.githubusercontent.com/1491908/227760833-ec9d3f43-0163-486e-868d-61f7c0686526.png">
