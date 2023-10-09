@@ -12,7 +12,7 @@
      - [Digital Technologies at a high school](https://sites.google.com/site/vpavlenkoinf/)
      - [web development](https://github.com/vpavlenko/web-programming) and [Java](https://www.youtube.com/playlist?list=PLzQrZe3EemP7hx6NKGA26yr3HJ-RF4iwT) at MIPT
      - intro to programming, algorithms and data structures - at MIPT, ЛКШ, three high schools and other places
-   - I've mentored teams doing tech and startup projects at two Russian universities
+   - I've mentored teams doing tech and startup projects at MIPT and HSE SPb
    - I've also worked at WhatsApp, [ASAP](https://asaptaste.com/getasap) and [Jetway](https://www.linkedin.com/pulse/how-i-launched-subsequently-messed-up-marketplace-igor-grigoriev/)
 - Now:
    - I live in Tbilisi, Georgia 🇬🇪
