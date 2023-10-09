@@ -34,7 +34,7 @@ The questions I ask:
 - Do listeners actually know and hear that?
 - Do sequences of notes, chords, motives and form structures represent genres and styles? How?
 
-I care about [all musical cultures](https://github.com/vpavlenko/study-music): not only the classics and not only Western. For me, music theory is 95% theoretical linguistics and 5% mathematics.
+I care about [all tonal musical cultures](https://github.com/vpavlenko/study-music): not only the classics and not only Western. For me, music theory is 95% theoretical linguistics and 5% mathematics.
 
 Things I don't care about:
 - black box automatic music generation
