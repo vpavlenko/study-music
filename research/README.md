@@ -161,7 +161,7 @@ Film music has one certain [feature](https://alpof.wordpress.com/2021/10/09/neo-
    - Can we fine-tuning existing splitters/transcribers?
    - Can we improve its accuracy by exploiting the knowledge of these rules?
 - How does The Manual and The Judging Handbook influence modern arrangers?
-- Is the "lock and ring" really visible on the spectrogram? Can we measure the amount of it?
+- Is the "lock and ring" really visible on the spectrogram? Can we measure the amount of it? Is it absent on [multitracks](https://www.barbershoptags.com/tag-6020-Macho-Jack)?
 - Do arrangers have their fingerprints by which we can identify them?
 - Can we measure the interestingness of the arrangement?
 
