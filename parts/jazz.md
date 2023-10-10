@@ -41,6 +41,13 @@ Rhythm
 ---
 - [Christian Dittmar, Martin Pfleiderer, Stefan Balke, and Meinard Müller. A Swingogram Representation for Tracking Microrhythmic Variations in Jazz Performances](https://www.audiolabs-erlangen.de/resources/MIR/2017-JNMR-SwingRatio)
 
+Jazz Arrangement
+---
+
+- [Fred Sturm. Changes Over Time: The Evolution of Jazz Arranging](https://www.dropbox.com/scl/fi/ossk6mrg2bj8y2z7qggp1/kupdf.net_the-evolution-of-jazz-arrangingpdf.pdf?rlkey=16itjrxjjr8zp235z3oers95b&dl=0)
+- [John Wriggle. Blue Rhythm Fantasy: Big Band Jazz Arranging in the Swing Era](https://academic.oup.com/illinois-scholarship-online/book/30525)
+
+
 Misc
 ---
 
@@ -52,4 +59,3 @@ Misc
 - Ron Miller. Modal Jazz Composition & Harmony
 - [Михаил Митропольский. Краткая история джаза для начинающих](https://www.jazz.ru/library/jazz-history-for-beginners/)
 - Greg Fishman. The Lobster Theory
-- [Fred Sturm. Changes Over Time: The Evolution of Jazz Arranging](https://www.dropbox.com/scl/fi/ossk6mrg2bj8y2z7qggp1/kupdf.net_the-evolution-of-jazz-arrangingpdf.pdf?rlkey=16itjrxjjr8zp235z3oers95b&dl=0)
