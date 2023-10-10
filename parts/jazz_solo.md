@@ -75,4 +75,5 @@ More
 9. Jamey Aebersold (130 volumes?)
 10. Jerry Coker
 15. https://www.jeffcoffin.com/ctd
+1. David Kahn Feurzeig. Making the Right Mistakes: James P. Johnson, Thelonious Monk, and the Trickster Aesthetic
 
