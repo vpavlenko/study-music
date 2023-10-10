@@ -52,3 +52,4 @@ Misc
 - Ron Miller. Modal Jazz Composition & Harmony
 - [Михаил Митропольский. Краткая история джаза для начинающих](https://www.jazz.ru/library/jazz-history-for-beginners/)
 - Greg Fishman. The Lobster Theory
+- [Fred Sturm. Changes Over Time: The Evolution of Jazz Arranging](https://www.dropbox.com/scl/fi/ossk6mrg2bj8y2z7qggp1/kupdf.net_the-evolution-of-jazz-arrangingpdf.pdf?rlkey=16itjrxjjr8zp235z3oers95b&dl=0)
