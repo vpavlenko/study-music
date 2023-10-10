@@ -14,6 +14,7 @@ YouTube channels
 трёхчасовые стримы по записи и сведению треков, введение в теорию музыки на клавишах.
 - [Gianmaria Griglio](https://www.youtube.com/@ggriglio/videos) - composer's analyses
 - [How to teach music notation to 3 yo kids](https://www.youtube.com/watch?v=zJDLG7AqPh0)
+- [Deciphering Guitar and Music Theory](https://www.youtube.com/@decipheringguitarmusictheory/playlists)
 
 Podcasts
 ---
