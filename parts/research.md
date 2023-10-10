@@ -84,6 +84,7 @@ Expressive performance
 - [Dorottya Fabian, Renee Timmers, and Emery Schubert. Expressiveness in music performance: Empirical approaches across styles and cultures](https://amzn.to/34XbpMk)
 - https://touchpianist.com/
 - See how Beethoven's MIDI sequences of [Bernd Krueger](http://www.piano-midi.de/beeth.htm) use the tempo track. [Web MIDI editor](https://signal.vercel.app/)
+- Alison Hood. Interpreting Chopin. Analysis and Performance
 
 
 Interactive harmonic analysis
