@@ -81,7 +81,7 @@ Jazz harmony is often pretty regular. Chords can be grouped into [blocks](https:
 
 Jazz music is constantly being developed: new composers compose new tunes. Every tune is usually represented as a lead sheet: chords + melody. Chords on a lead sheet help musicians to render a tune. However, they somewhat obscure the original composer's idea, and there may be better way to represent [the harmonic structure](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf).
 
-- Can we trace birth and death of certain lego blocks across history?
+- Can we trace birth and death of certain lego blocks across history? (We can [trace](https://www.mtosmt.org/issues/mto.23.29.2/mto.23.29.2.martin.html) certain chords, for instance)
 - Do composers and subgenres of jazz have certain preferences of lego blocks?
 - Can we visualize harmony of all jazz standards at a single page to uncover patterns?
 - Can the knowledge of lego blocks improve automatic lead sheet [generation](https://github.com/chrisdonahue/sheetsage)?
