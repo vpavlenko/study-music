@@ -44,7 +44,8 @@ Advanced harmony
 - Ludmila Ulehla. Contemporary Harmony: Romanticism Through the Twelve-Tone Row
 - [Dmitri Tymoczko. Local Harmonic Grammar in Western Classical Music](https://dmitri.mycpanel.princeton.edu/mozart.pdf) - the harmonic syntax of Western classical music can be captured by a simple maplike grammar without recursive generative rules. Also see his other [books and papers](https://dmitri.mycpanel.princeton.edu/geometry-of-music.html)
 - 🎥 Alan Belkin. [Applied Harmony](https://www.youtube.com/watch?v=jffTBei6mxY&list=PLSntcNF64SVVBtDnYIfoLlvM4gPJw_i6R), [Modern Harmony](https://www.youtube.com/watch?v=kRb63Oy9ssI&list=PLSntcNF64SVXzsZiYybBTVcpKCiOEqH_m) and [his books](https://alanbelkinmusic.com/site/en/index.php/introduction/)
-- Daniel Harrison. Harmonic Function in Chromatic Music
+- Daniel Harrison. Harmonic Function in Chromatic Music (*may be [Schenkerian](schenkerian_analysis.md)*)
+- Daniel Harrison. Pieces of Tradition: An Analysis of Contemporary Tonal Music
 
 Advanced form
 ---
