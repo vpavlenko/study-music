@@ -49,6 +49,8 @@ Craft
 
 - Books by Bert Ligon, eg. "Connecting Chords with Linear Harmony"
 
+- [John Mehegan](https://www.amazon.com/Books-John-Mehegan/s?rh=n%3A283155%2Cp_27%3AJohn+Mehegan), Jazz Improvisation in four volumes, proceeding historically
+
 Research
 ---
 
@@ -72,6 +74,5 @@ More
 6. Patterns for Jazz (similar to Jerry Bergonzi?)
 9. Jamey Aebersold (130 volumes?)
 10. Jerry Coker
-14. [John Mehegan](https://www.amazon.com/Books-John-Mehegan/s?rh=n%3A283155%2Cp_27%3AJohn+Mehegan)
 15. https://www.jeffcoffin.com/ctd
 
