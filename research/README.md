@@ -155,7 +155,7 @@ Film music has one certain [feature](https://alpof.wordpress.com/2021/10/09/neo-
 
 ## Barbershop quartets
 
-[Barbershop](https://www.youtube.com/watch?v=7CBlPJE7Sew) [is](https://www.youtube.com/watch?v=jUffPtS3-7A) [a](https://www.youtube.com/shorts/yyHdDsP9iDU) [culture](https://www.youtube.com/watch?v=_W1CvQG01Q4) that nearly died at the start of the 20th century and then was semi-artificially preserved. Much like [the spoken Hebrew language](https://en.wikipedia.org/wiki/Revival_of_the_Hebrew_language). It has The Book: ["Barbershop Arranging Manual" (1980)](https://www.dropbox.com/scl/fi/6tckdjyu4xe503ucu7bmh/barbershop_arranging_manual.pdf?rlkey=c2cvbhujywkihd0zc22xc3uwj&dl=0). Moreover, this is the culture driven by competition with clear rules of [contest judging](https://www.barbershop.org/files/documents/contestandjudging/C&J%20Handbook.pdf).
+[Barbershop](https://www.youtube.com/watch?v=7CBlPJE7Sew) [is](https://www.youtube.com/watch?v=jUffPtS3-7A) [a](https://www.youtube.com/shorts/yyHdDsP9iDU) [culture](https://www.youtube.com/watch?v=_W1CvQG01Q4) that nearly died at the start of the 20th century and then was semi-artificially preserved. It has The Book: ["Barbershop Arranging Manual" (1980)](https://www.dropbox.com/scl/fi/6tckdjyu4xe503ucu7bmh/barbershop_arranging_manual.pdf?rlkey=c2cvbhujywkihd0zc22xc3uwj&dl=0). Moreover, this is the culture driven by competition with clear rules of [contest judging](https://www.barbershop.org/files/documents/contestandjudging/C&J%20Handbook.pdf).
 
 - Can we build a transcription pipeline that yields four barbershop voices?
    - Can we fine-tuning existing splitters/transcribers?
