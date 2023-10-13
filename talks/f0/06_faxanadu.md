@@ -3,6 +3,7 @@
 # Faxanadu
 
 - сначала [thomas renoldner - don't know what](https://vimeo.com/412906856)
+- и идея про доминанты из Kayano Chino
 - [The article in MTO](https://mtosmt.org/issues/mto.23.29.3/mto.23.29.3.cook.html)
 - [Playthrough](https://www.youtube.com/watch?v=p4B2ZuY1fmY)
 - [Chiptheory](https://vpavlenko.github.io/chiptheory/browse/Nintendo/Faxanadu?subtune=1)
