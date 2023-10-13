@@ -20,6 +20,7 @@
    - I'm working on [a corpus of analyses for NES soundtracks](https://github.com/vpavlenko/chiptheory)
    - I give [lectures](https://t.me/keetezh/945) on music theory in Tbilisi
 - I'd be very glad to mentor students willing to do research in computational music theory 👩‍🔬🔬🧑‍🎓
+- [t.me/vitalypavlenko](https://t.me/vitalypavlenko)
 
 # What is music theory?
 
