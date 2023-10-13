@@ -1,3 +1,5 @@
+# [bit.ly/gmaj](https://bit.ly/gmaj)
+
 # Faxanadu
 
 - сначала [thomas renoldner - don't know what](https://vimeo.com/412906856)
