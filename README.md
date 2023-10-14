@@ -90,7 +90,7 @@ The gradient of families is (roughly speaking):
 - [**Balkan languages**](parts/balkan.md)
 - [**Maqam languages**](parts/maqam_languages.md)
 - [**Indian music**](parts/indian.md)
-- [**Gamelan**](parts/gamelan.md) and [**piphat**](parts/piphat.md) (are they somehow related or similar?)
+- [**Gamelan**](parts/gamelan.md), [**piphat**](parts/piphat.md) and other gong chime languages
 - many other traditions
 
 [**Broad overview on non-Western languages**](parts/non_western_languages.md)
