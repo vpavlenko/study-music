@@ -79,3 +79,7 @@ More
 - https://www.angelfire.com/fl4/moneychords/classicrocklwsson.html
 
 - [Peter van der Merwe. Origins of the Popular Style: The Antecedents of Twentieth-Century Popular Music](https://archive.org/details/originsofpopular0000vand)
+
+<img width="699" alt="Screenshot 2023-10-14 at 08 15 41" src="https://github.com/vpavlenko/study-music/assets/1491908/49382a70-682e-4ca3-8321-f8d18c5666ff">
+
+([source](https://www.midside.com/presentations/declercq_2018_scsmt_slides.pdf))
