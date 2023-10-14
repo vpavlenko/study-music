@@ -25,6 +25,8 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - 🎥 https://www.youtube.com/@EarlyMusicSources
 - Vincenzo Borghetti, Tim Shephard (eds). The Museum of Renaissance Music. A History in 100 Exhibits
 - http://digitalduchemin.org/
+- The Cambridge History of Fifteenth-Century Music
+- Jesse Rodin. Josquin's Rome
 
 
 
