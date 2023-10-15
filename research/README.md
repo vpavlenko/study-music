@@ -44,7 +44,7 @@ I care about [all tonal musical cultures](https://github.com/vpavlenko/study-mus
 Things I don't care about:
 - black box automatic music generation
 - rhythm and drumming
-- atonal music and other avant-garde experience if they don't create a local language or don't reuse a global language
+- atonal music and other avant-garde experiments if they don't either create an audible local language or don't reuse a global language
 
 # How to start?
 
