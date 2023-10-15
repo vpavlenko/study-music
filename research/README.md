@@ -24,6 +24,10 @@
 
 # What is music theory?
 
+> "music theory is the study of how music makes meaning through its structure"
+> 
+> *Claire Boge, quoted in "Teaching Music Theory" by Jennifer Snodgrass*
+
 Music theory is our knowledge of what musicians and composers do and do not. Also, it's about what listeners hear.
 
 Music can be roughly split into notes (what keys does a pianist press?) and sound (how producers combine effects to create timbres?). I focus on the notes.
