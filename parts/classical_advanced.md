@@ -17,6 +17,8 @@ Advanced materials on classical music
 
 - [Edwin Gordon. Learning Sequences in Music: A Contemporary Music Learning Theory](https://amzn.to/3rMsl0U)
 
+- Jan LaRue. Guidelines for Style Analysis
+
 
 Post-tonal theory
 ---
