@@ -37,6 +37,8 @@ Bass lines
 
 - [Joshua Wayne Skinner. A Comparative Analysis of Three Jazz Bassists’ Walking Bass Lines](https://digscholarship.unco.edu/dissertations/329/)
 
+- John Goldsby. The Jazz Bass Book: Technique and Tradition
+
 Rhythm
 ---
 - [Christian Dittmar, Martin Pfleiderer, Stefan Balke, and Meinard Müller. A Swingogram Representation for Tracking Microrhythmic Variations in Jazz Performances](https://www.audiolabs-erlangen.de/resources/MIR/2017-JNMR-SwingRatio)
