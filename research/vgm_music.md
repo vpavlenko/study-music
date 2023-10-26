@@ -4,6 +4,8 @@ VGM OSTs from 2000s onwards do use modes other than the standard minor and major
 
 Context: Western music is mostly written either in major or in minor mode (natural+harmonic). Maybe 90%. But the other 10% are written in other keys (scales, modes): phrygian, dorian, mixolydian, pentatonic, blues. The mode is an easy theoretical concept to train yourself to hear in a piece of music. It contributes a lot to the vibe of the track and its extra-musical connotations. It may convey emotions (if music can convey any).
 
+Historically, medieval music was written in modes way more often than now. From 17th century onwards modes are used rarely. Their usage is higher in some traditional Western cultures like Celtic music. This may reinforce composers to exploit modes to portray a certain game setting.
+
 First approach: let's learn to recognize modes on VGM soundtracks.
 
 # Pipeline
