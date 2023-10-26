@@ -11,7 +11,7 @@ First approach: let's learn to recognize modes on VGM soundtracks.
 4. Check by listening if that's really the case.
 
 # First tasks
-1. Listen to some Youtube videos explaining dorian / phrygian scales. Also [Hooktheory](https://book-two.hooktheory.com/section/dorian-mode). Also [Ch](https://vpavlenko.github.io/chiptheory/search/scale/phrygian)[ip](https://vpavlenko.github.io/chiptheory/search/scale/dorian)[the](https://vpavlenko.github.io/chiptheory/search/harmony/dorian_shuttle)[ory](https://vpavlenko.github.io/chiptheory/search/harmony/phrygian_shuttle)
+1. Listen to some Youtube videos explaining dorian / phrygian scales. Also [Hooktheory](https://book-two.hooktheory.com/section/dorian-mode). Also Chiptheory: [1](https://vpavlenko.github.io/chiptheory/search/scale/phrygian) [2](https://vpavlenko.github.io/chiptheory/search/scale/dorian) [3](https://vpavlenko.github.io/chiptheory/search/harmony/dorian_shuttle) [4](https://vpavlenko.github.io/chiptheory/search/harmony/phrygian_shuttle)
 2. Choose a soundtrack and download its audio.
 3. Run basic-pitch (web version or standalone). Maybe run demucs beforehand. It's best to work on small chunks, 1 to 5 minutes long. Btw check my write-up on [transcription](https://github.com/vpavlenko/study-music/blob/main/parts/transcription.md)
 4. Browse the midi output using either [signal](https://signal.vercel.app/) or any DAW or Musescore. Think how to write a script that determines modes considering this noisy output.
