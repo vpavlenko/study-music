@@ -26,4 +26,5 @@ The script may be the hardest part. Consult papers, ask GPT4 vigorously and use 
 2. Write a simpler script that determines the parts of midi that are in minor vs. in major. How well is this thing defined? Search for algorithms that detect minor or major keys. There's Krumhansl-Schmuckler key-finding model - find modern citations of their article, try to understand the SOTA approach if an audio source is given.
 
 # Literature
-https://www.google.com/search?q=neural+network+determine+key+of+audio
+- [Albrecht 2014: A Statistical Approach to Tracing the Historical Development of Major and Minor Pitch Distributions, 1400-1750](https://www.dropbox.com/scl/fi/qiybsaymwg1dm4eg8ktmh/albrecht2014.pdf?rlkey=wp0yuxl118ztfbuf7rj1ehux7&dl=0)
+- https://www.google.com/search?q=neural+network+determine+key+of+audio
