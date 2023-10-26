@@ -20,3 +20,6 @@ First approach: let's learn to recognize modes on VGM soundtracks.
 The script may be the hardest part. Consult papers, ask GPT4 vigorously and use the following ways to simplify the task:
 1. Try to find any dorian modes in [the corpus of Irish tunes](http://www.oldmusicproject.com/oneils1.html). How well is the distinction between dorian and natural minor defined?
 2. Write a simpler script that determines the parts of midi that are in minor vs. in major. How well is this thing defined? Search for algorithms that detect minor or major keys. There's Krumhansl-Schmuckler key-finding model - find modern citations of their article, try to understand the SOTA approach if an audio source is given.
+
+# Literature
+https://www.google.com/search?q=neural+network+determine+key+of+audio
