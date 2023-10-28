@@ -27,4 +27,5 @@ The script may be the hardest part. Consult papers, ask GPT4 vigorously and use 
 
 # Literature
 - [Albrecht 2014: A Statistical Approach to Tracing the Historical Development of Major and Minor Pitch Distributions, 1400-1750](https://www.dropbox.com/scl/fi/qiybsaymwg1dm4eg8ktmh/albrecht2014.pdf?rlkey=wp0yuxl118ztfbuf7rj1ehux7&dl=0)
+- https://mtosmt.org/issues/mto.18.24.2/mto.18.24.2.white.html
 - https://www.google.com/search?q=neural+network+determine+key+of+audio
