@@ -25,6 +25,7 @@ And Famicom From 1988-1992](https://www.christopherjhopkins.com/chiptune-dissert
 - [Eunjin Choi et al. YM2413-MDB: A Multi-Instrumental FM Video Game Music Dataset with Emotion Annotations](https://arxiv.org/abs/2211.07131)
 - [Karen M. Cook. 8-Bit Affordances: Jun Chikuma’s Soundtrack to Faxanadu](https://mtosmt.org/issues/mto.23.29.3/mto.23.29.3.cook.html)
 - [Richard Evans. Analyzing and Designing DMSs for Games](https://etheses.whiterose.ac.uk/27365/1/Thesis%20-%20Open%20Me.html)
+- [Sean E. Atkinson. Soaring Through the Sky: Topics and Tropes in Video Game Music](https://mtosmt.org/issues/mto.19.25.2/mto.19.25.2.atkinson.html)
 
 
 <img width="849" alt="Screenshot 2023-03-26 at 11 06 16" src="https://user-images.githubusercontent.com/1491908/227760822-d2caf346-e820-4bb1-a6c4-33ecc1396c40.png">
