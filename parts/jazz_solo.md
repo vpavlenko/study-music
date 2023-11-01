@@ -51,6 +51,8 @@ Craft
 
 - [John Mehegan](https://www.amazon.com/Books-John-Mehegan/s?rh=n%3A283155%2Cp_27%3AJohn+Mehegan), Jazz Improvisation in four volumes, proceeding historically
 
+- David Liebman. How to Approach Standards Chromatically
+
 Research
 ---
 
