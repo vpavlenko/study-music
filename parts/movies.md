@@ -29,4 +29,5 @@ More
 - https://www.amazon.co.uk/Film-Sound-Theory-Practice-Weis/dp/0231056370/
 - https://www.amazon.co.uk/Practical-Art-Motion-Picture-Sound/dp/0240808657/
 - https://www.amazon.com/Sound-Systems-Optimization-Techniques-Alignment/dp/0240521560/
-- https://archive.org/search?query=creator%3A%22Bill+Wrobel%22, including analysis for three cartoons of late Carl W. Stalling. Also see "Tunes for 'Toones"
+- http://www.filmscorerundowns.net/
+- "Tunes for 'Toones"
