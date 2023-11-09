@@ -16,4 +16,6 @@ horn call
 
 # Erno Rapee "Motion Picture Moods"
 
+- Aeroplance:
+   - [Rondo Capriccioso](https://youtu.be/CoVUoAUhocs?si=bHnW-dUiNmlKJ7ka&t=144)
 - Horror: [Per Gynt Abduction](https://www.youtube.com/watch?v=bYm529DcpDM)
