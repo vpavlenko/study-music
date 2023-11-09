@@ -16,6 +16,9 @@ horn call
 
 # Erno Rapee "Motion Picture Moods"
 
+Концепция подготовки к лекции: готовим отрезки из Erno Rapee
+
 - Aeroplance:
    - [Rondo Capriccioso](https://youtu.be/CoVUoAUhocs?si=bHnW-dUiNmlKJ7ka&t=144)
+   - [Scherzo](https://www.youtube.com/watch?v=w7Ag4mzpf04)
 - Horror: [Per Gynt Abduction](https://www.youtube.com/watch?v=bYm529DcpDM)
