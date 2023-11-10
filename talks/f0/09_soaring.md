@@ -22,7 +22,7 @@ motives:
 - Hunting:
    - [Schumann. Jagdlied](https://youtu.be/gSUUI3_W4eQ?si=BmWyXrTefbAflqpY&t=837)
    - [Reinhold. Jagd-Fanfare](https://www.youtube.com/watch?v=t-0s_j2oDic)
-   - 
+   - [Jägerliedchen](https://www.youtube.com/watch?v=j-g3_A4-AIc)
    - [natural horn call in NES](https://vpavlenko.github.io/chiptheory/search/motive/natural_horn_call)
 
 # Looney Tunes
