@@ -21,6 +21,9 @@ motives:
 - Battle:
    - [Moonlight Sonata, 3rd movement](https://www.youtube.com/watch?v=BV7RkEL6oRc)
    - [Pathetique](https://youtu.be/91MTUXla-lE?si=fLiYP2jTYqbeaDd_&t=103)
+- Birds:
+   - [Papillon](https://www.youtube.com/watch?v=7eR5avWJStQ)
+   - [Vöglein](https://www.youtube.com/watch?v=TYXiJvYs3bk)
 - Horror: [Per Gynt Abduction](https://www.youtube.com/watch?v=bYm529DcpDM)
 - Hunting:
    - [Schumann. Jagdlied](https://youtu.be/gSUUI3_W4eQ?si=BmWyXrTefbAflqpY&t=837)
