@@ -24,6 +24,14 @@ motives:
 - Birds:
    - [Papillon](https://www.youtube.com/watch?v=7eR5avWJStQ)
    - [Vöglein](https://www.youtube.com/watch?v=TYXiJvYs3bk)
+- Chatter
+   - [Beethoven sonata 6, 3rd movement](https://youtu.be/FjmzBuRnIHk?si=3h8wLfMG0sqlT6c4&t=674)
+   - [Tarantella](https://www.youtube.com/watch?v=TkMPZ9-SVvA)
+- Funeral
+   - [Chopin](https://www.youtube.com/watch?v=7-9wXQpzESo)   
+   - [Mendelssohn](https://www.youtube.com/watch?v=p59PEje1QIU)
+- Grotesque
+   - [Grieg](https://www.youtube.com/watch?v=OjTA61-kv2w)
 - Horror: [Per Gynt Abduction](https://www.youtube.com/watch?v=bYm529DcpDM)
 - Hunting:
    - [Schumann. Jagdlied](https://youtu.be/gSUUI3_W4eQ?si=BmWyXrTefbAflqpY&t=837)
