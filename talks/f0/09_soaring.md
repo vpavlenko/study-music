@@ -5,7 +5,8 @@
 - ex. 6: download
 
 [Megan Lavengood and Evan Williams. The Common Cold: Using Computational Musicology to Define the Winter Topic in Video Game Music](https://www.mtosmt.org/issues/mto.23.29.1/mto.23.29.1.lavengoodwilliams.html)
- 
+
+ https://online.ucpress.edu/jsmg/article/1/4/1/111972/Exploring-the-Narrative-Implications-of-Emerging
 
 # Erno Rapee "Motion Picture Moods"
 
