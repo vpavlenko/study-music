@@ -1,10 +1,12 @@
+# bit.ly/gmaj
+
 # Two articles on topics
 
 [Atkinson. Soaring Through the Sky](https://mtosmt.org/issues/mto.19.25.2/mto.19.25.2.atkinson.html)
 - ex. 5 harry potter https://youtu.be/UowG3JGOsa8?si=xYb3IloehMTbg3RQ
 - ex. 6: download
 
-[Megan Lavengood and Evan Williams. The Common Cold: Using Computational Musicology to Define the Winter Topic in Video Game Music](https://www.mtosmt.org/issues/mto.23.29.1/mto.23.29.1.lavengoodwilliams.html)
+[Megan Lavengood and Evan Williams. The Common Cold: Using Computational Musicology to Define the Winter Topic in Video Game Music](https://www.mtosmt.org/issues/mto.23.29.1/mto.23.29.1.lavengoodwilliams.html), [data](https://github.com/likethebourbon/winter-git/blob/main/data/raw/winter-data_220308.csv)
 
  https://online.ucpress.edu/jsmg/article/1/4/1/111972/Exploring-the-Narrative-Implications-of-Emerging
 
