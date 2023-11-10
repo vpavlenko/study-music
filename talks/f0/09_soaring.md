@@ -38,6 +38,12 @@ motives:
    - [Reinhold. Jagd-Fanfare](https://www.youtube.com/watch?v=t-0s_j2oDic)
    - [Jägerliedchen](https://www.youtube.com/watch?v=j-g3_A4-AIc)
    - [natural horn call in NES](https://vpavlenko.github.io/chiptheory/search/motive/natural_horn_call)
+- Humorous:
+   - [Tchaikovsky](https://www.youtube.com/watch?v=61nHYONLk7g)
+   - [Heller](https://www.youtube.com/watch?v=1Pl_kWeuZxs)
+   - [Grieg op. 6 no. 3](https://youtu.be/fzvpHQsgRCQ?si=yH8TZ2qrT_COx9bx&t=340)
+   - [Grieg op. 17 no. 18](https://youtu.be/HrmZMPhKj78?si=NgDuykF33O0Gy-fP&t=1355)
+   - [Le Coucou](https://www.youtube.com/watch?v=_PfRRTQeXxY)
 
 # Looney Tunes
 
