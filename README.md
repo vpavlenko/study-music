@@ -110,6 +110,7 @@ Topics
 - [**Ear training**](parts/ear_training.md)
 - [**Piano**](parts/piano.md)
 - [**Rhythm**](parts/rhythm.md)
+- [**Tropes**](parts/meaning.md)
 - [**Pseudoscience**](parts/pseudoscience.md)
 - [**Improvisation**](parts/improvisation.md)
 - [**Neural networks**](parts/llms.md)
