@@ -1,16 +1,11 @@
+# Two articles on topics
+
 [Atkinson. Soaring Through the Sky](https://mtosmt.org/issues/mto.19.25.2/mto.19.25.2.atkinson.html)
 - ex. 5 harry potter https://youtu.be/UowG3JGOsa8?si=xYb3IloehMTbg3RQ
 - ex. 6: download
 
-
-motives:
-- [bringer of war](https://tvtropes.org/pmwiki/pmwiki.php/Main/BringerOfWarMusic)
-- [oriental riff](https://en.wikipedia.org/wiki/Oriental_riff)
-   - https://chat.openai.com/share/072da371-d9fb-4761-9f84-5fe0fd0dfa63
-- [arabian riff](https://en.wikipedia.org/wiki/Arabian_riff)
-   - The Lost Vikings: [SNES](https://youtu.be/jcqziDlhhRI?si=Z7_1LDBy83Zq0x43&t=2425), [Genesis](https://youtu.be/pqhzbxltZY0?si=XZK0kX7CZvgIuzHX&t=3407)
-- https://tvtropes.org/pmwiki/pmwiki.php/Main/RegionalRiff 
-
+[Megan Lavengood and Evan Williams. The Common Cold: Using Computational Musicology to Define the Winter Topic in Video Game Music](https://www.mtosmt.org/issues/mto.23.29.1/mto.23.29.1.lavengoodwilliams.html)
+ 
 
 # Erno Rapee "Motion Picture Moods"
 
@@ -45,6 +40,15 @@ motives:
    - [Grieg op. 6 no. 3](https://youtu.be/fzvpHQsgRCQ?si=yH8TZ2qrT_COx9bx&t=340)
    - [Grieg op. 17 no. 18](https://youtu.be/HrmZMPhKj78?si=NgDuykF33O0Gy-fP&t=1355)
    - [Le Coucou](https://www.youtube.com/watch?v=_PfRRTQeXxY)
+
+# Tropes
+
+- [bringer of war](https://tvtropes.org/pmwiki/pmwiki.php/Main/BringerOfWarMusic)
+- [oriental riff](https://en.wikipedia.org/wiki/Oriental_riff)
+   - https://chat.openai.com/share/072da371-d9fb-4761-9f84-5fe0fd0dfa63
+- [arabian riff](https://en.wikipedia.org/wiki/Arabian_riff)
+   - The Lost Vikings: [SNES](https://youtu.be/jcqziDlhhRI?si=Z7_1LDBy83Zq0x43&t=2425), [Genesis](https://youtu.be/pqhzbxltZY0?si=XZK0kX7CZvgIuzHX&t=3407)
+- https://tvtropes.org/pmwiki/pmwiki.php/Main/RegionalRiff
 
 # Looney Tunes
 
