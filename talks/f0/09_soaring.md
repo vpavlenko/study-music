@@ -10,7 +10,7 @@
 
 # Erno Rapee "Motion Picture Moods"
 
-Концепция подготовки к лекции: готовим отрезки из Erno Rapee
+Концепция подготовки к лекции: готовим отрезки из [Erno Rapee](https://www.sfsma.org/ARK/22915/motion-picture-moods/)
 
 - Aeroplance:
    - [Rondo Capriccioso](https://youtu.be/CoVUoAUhocs?si=bHnW-dUiNmlKJ7ka&t=144)
