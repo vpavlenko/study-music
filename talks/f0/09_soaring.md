@@ -20,6 +20,7 @@ motives:
    - [Scherzo](https://www.youtube.com/watch?v=w7Ag4mzpf04)
 - Battle:
    - [Moonlight Sonata, 3rd movement](https://www.youtube.com/watch?v=BV7RkEL6oRc)
+   - [Pathetique](https://youtu.be/91MTUXla-lE?si=fLiYP2jTYqbeaDd_&t=103)
 - Horror: [Per Gynt Abduction](https://www.youtube.com/watch?v=bYm529DcpDM)
 - Hunting:
    - [Schumann. Jagdlied](https://youtu.be/gSUUI3_W4eQ?si=BmWyXrTefbAflqpY&t=837)
