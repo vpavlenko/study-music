@@ -48,6 +48,7 @@
    - https://chat.openai.com/share/072da371-d9fb-4761-9f84-5fe0fd0dfa63
 - [arabian riff](https://en.wikipedia.org/wiki/Arabian_riff)
    - The Lost Vikings: [SNES](https://youtu.be/jcqziDlhhRI?si=Z7_1LDBy83Zq0x43&t=2425), [Genesis](https://youtu.be/pqhzbxltZY0?si=XZK0kX7CZvgIuzHX&t=3407)
+   - [PDQ Bach Fugue](https://youtu.be/baUHfb9EIzg?si=w8QtL53YpYOAcjhb&t=384)
 - https://tvtropes.org/pmwiki/pmwiki.php/Main/RegionalRiff
 
 # Looney Tunes
