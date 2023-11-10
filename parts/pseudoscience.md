@@ -18,12 +18,7 @@ Also see [this](https://www.laits.utexas.edu/wagner/ringtonalstructure/ringtonal
 
 <img width="595" alt="Screenshot 2023-04-28 at 21 53 20" src="https://user-images.githubusercontent.com/1491908/235219030-a1fe544b-d301-4fb7-8834-40f8b8c0d171.png">
 
-- [Кудряшов А.Ю. Теория музыкального содержания](https://www.ozon.ru/product/teoriya-muzykalnogo-soderzhaniya-2632207/)
-
-<img width="600" alt="Screenshot 2022-01-21 at 3 22 56 PM" src="https://user-images.githubusercontent.com/1491908/150526425-0f5618af-acb1-4377-80ea-31e06715cf15.png">
-
 - [David Huron. What is a Musical Feature? Forte’s Analysis of Brahms’s Opus 51, No. 1, Revisited](https://www.mtosmt.org/issues/mto.01.7.4/mto.01.7.4.huron.html) - An example of a statistical disproof of someone's theoretical claim
-
 
 - Explanations of why we build chords the way we build them. Eg. [undertone series](https://en.wikipedia.org/wiki/Undertone_series)
 
@@ -38,6 +33,13 @@ Also see [this](https://www.laits.utexas.edu/wagner/ringtonalstructure/ringtonal
 - [The Lydian Theory by Brett Clement](https://www.zappa-analysis.com/brett-clement.htm) - I've just found this discussion, I don't have my own opinion yet
 
 - Studies that claim that different keys employ different features in composers - I'm not sure that's 100% true. See [Steven Bradley Yan. Aspects of Mozart's Music in G Minor](https://etheses.whiterose.ac.uk/279/1/uk_bl_ethos_254655.pdf) and think for yourself
+
+Теория музыкального содержания
+---
+
+- [Кудряшов А.Ю. Теория музыкального содержания](https://www.ozon.ru/product/teoriya-muzykalnogo-soderzhaniya-2632207/)
+
+<img width="600" alt="Screenshot 2022-01-21 at 3 22 56 PM" src="https://user-images.githubusercontent.com/1491908/150526425-0f5618af-acb1-4377-80ea-31e06715cf15.png">
 
 
 Post-tonal theory
