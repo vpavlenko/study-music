@@ -53,3 +53,7 @@
 # Looney Tunes
 
 https://www.youtube.com/watch?v=Trnbv4d-JBs
+
+и всё это можно зашлифовать PDQ Bach'ом
+
+или раскидать на несколько встреч
