@@ -27,7 +27,7 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - http://digitalduchemin.org/
 - The Cambridge History of Fifteenth-Century Music
 - Jesse Rodin. Josquin's Rome
-
+- https://www.earlymusicsources.com/
 
 
 Baroque music
