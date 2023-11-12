@@ -26,6 +26,10 @@ Online platforms for music visualization
 - https://dcmlab.github.io/midiVERTO/ draws wavescapes (these are new keyscapes)
 
 
+Alternative music notations
+---
+- [Review on Chromatone](https://chromatone.center/theory/notes/alternative/)
+- [Tantacrul. Notation Must Die](https://www.youtube.com/watch?v=Eq3bUFgEcb4)
 
 More
 ---
@@ -33,7 +37,7 @@ More
 - IEEE 1599: [the website](https://ieee1599.lim.di.unimi.it/music_collection.php), [the book](https://ieeexplore.ieee.org/book/6497235), [screenshots from the book](https://t.me/keetezh/715)
 - Chapter 24 in [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
 - [SeeGroove2](https://t.me/keetezh/739) - groove visualizations
-- [Alternative music notations: Review on Chromatone](https://chromatone.center/theory/notes/alternative/)
+
 - [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - https://www.musicprocessing.net/features/analysis/
 - Roberto De Prisco, Delfina Malandrino, Donato Pirozzi, Gianluca Zaccagnino and Rocco Zaccagnino. Understanding the structure of musical compositions: Is visualization an effective approach?
