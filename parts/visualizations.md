@@ -31,6 +31,7 @@ Alternative music notations
 - [Review on Chromatone](https://chromatone.center/theory/notes/alternative/)
 - [Tantacrul. Notation Must Die](https://www.youtube.com/watch?v=Eq3bUFgEcb4)
 - [Timeline of music notation](https://silpayamanant.wordpress.com/timeline-of-music-notation/)
+- https://figurenotes.org/
 
 More
 ---
