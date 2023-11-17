@@ -4,7 +4,7 @@ Adamo - Affida una lacrima al vento
 
 # План занятий 
 
-24.11: лекция по form/harmony/arrangement (очередная демонстрация моей тулы)
+24.11: лекция по form/harmony/arrangement in midi (очередная демонстрация моей тулы)
 
 1.12: практика аналитическая (не композиторская). Дать всем три часа покопаться в миди-файлах в библиотеке и поразбирать form/harmony/arrangement.
 
