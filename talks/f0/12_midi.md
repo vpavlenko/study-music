@@ -13,3 +13,5 @@ Adamo - Affida una lacrima al vento
 15.12: теория: Drew Nobile "Form as Harmony in Rock Music"
 
 22.12: практика: сочиняем используя знания из книжки
+
+затем бессрочные каникулы (поиск нового материала)
