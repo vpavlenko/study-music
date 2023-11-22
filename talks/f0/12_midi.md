@@ -15,3 +15,7 @@ Adamo - Affida una lacrima al vento
 22.12: практика: сочиняем используя знания из книжки
 
 затем бессрочные каникулы (поиск нового материала)
+
+# 24.11 Order
+
+rawl.rocks/browse/MIDI/Bette%20Midler?song=Wind+Beneath+My+Wings.mid - easy enough, three voices, one applied
