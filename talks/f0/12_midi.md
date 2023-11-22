@@ -19,3 +19,4 @@ Adamo - Affida una lacrima al vento
 # 24.11 Order
 
 http://rawl.rocks/browse/MIDI/Bette%20Midler?song=Wind+Beneath+My+Wings.mid - easy enough, three voices, one applied
+http://rawl.rocks/browse/MIDI/Bobby%20Goldsboro?song=Honey.mid - also easy
