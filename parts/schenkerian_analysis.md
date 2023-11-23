@@ -13,6 +13,7 @@ Schenkerian analysis (critique only)
 8. https://academic.udayton.edu/PhillipMagnuson/soundpatterns/ is Schenkerian
 9. [Narmour "Beyond Schenkerism"](https://archive.org/details/beyondschenkeris0000narm_c5d8/) - the author promotes his "implication-realization model" instead, which isn't popular
 10. [Leslie David Blasius. Schenker's Argument and the Claims of Music Theory](https://www.amazon.com/Schenkers-Argument-Cambridge-Studies-Analysis/dp/0521550858) - Probably not a critique, but at least some fresh examination
+11. Drew Nobile is Schenkerian *in a good way*, see his introduction
 
 Misc
 ---
