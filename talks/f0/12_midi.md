@@ -26,3 +26,5 @@ Lemon Tree
 
 https://rawl.rocks/browse/MIDI/George%20Benson?song=This+Masquerade.mid
 
+first hour: show the power of visual harmonic analysis. I-IV, I-IV-V, vi, ii, iii, three songs each
+
