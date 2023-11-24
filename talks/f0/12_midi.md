@@ -54,6 +54,7 @@ Natural minor:
 - Dune. I can't stop raving (no tonic)
 - Bad Boys Blue
 - Celentano. Susanna
+- https://rawl.rocks/browse/MIDI/Lavinia%20Jones?song=Sing+It+to+You.mid
 
 Mix:
 - Brenton Wood
