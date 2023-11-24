@@ -29,8 +29,8 @@ https://rawl.rocks/browse/MIDI/George%20Benson?song=This+Masquerade.mid
 first hour: show the power of visual harmonic analysis. I-IV, I-IV-V, vi, ii, iii, three songs each
 
 
-Part 1. Visual harmonic analysis
----
+## Part 1. Visual harmonic analysis
+
 
 1. Adamo: Affida (verse)
 2. Adamo: Lei - IV
@@ -43,17 +43,24 @@ Part 1. Visual harmonic analysis
 11. Bad English: show modulation
 5. Adamo: Non mi tenere: iii
 6. Christie: Yellow river: iii
-7. Adamo: Sans toi V7/IV
+7. Bob Dylan: Hurricane
+8. Adamo: Sans toi V7/IV
 1. Adamo: Mis manos: iii, IV, ii
 2. Adamo: Aline (progression with #III)
+
+Complex major:
+- Bonnie Raitt - triads on pentatonic
 
 
 Natural minor:
 - Dune. Hardcore vibes (v, VII)
 - Dune. I can't stop raving (no tonic)
 - Bad Boys Blue
+- Celentano. Susanna
+
+Mix:
+- Brenton Wood
 
 
-Part 2. Arrangement
----
+## Part 2. Arrangement
 
