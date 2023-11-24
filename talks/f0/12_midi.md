@@ -28,3 +28,20 @@ https://rawl.rocks/browse/MIDI/George%20Benson?song=This+Masquerade.mid
 
 first hour: show the power of visual harmonic analysis. I-IV, I-IV-V, vi, ii, iii, three songs each
 
+
+Part 1. Visual harmonic analysis
+---
+
+1. Adamo: Affida (verse)
+2. Adamo: Lei - IV
+3. Adamo: Una ciocca - IV, V7
+6. Adamo: Non sei tu: vi
+5. Adamo: Non mi tenere: iii
+6. Adamo: Sans toi V7/IV
+1. Adamo: Mis manos: iii, IV, ii
+2. Adamo: Aline (progression with #III)
+
+
+Part 2. Arrangement
+---
+
