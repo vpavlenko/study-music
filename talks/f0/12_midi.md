@@ -13,6 +13,8 @@
 
 затем бессрочные каникулы (поиск нового материала)
 
+простая тема на выход из каникул: R&B
+
 # 24.11 Order
 
 http://rawl.rocks/browse/MIDI/Bette%20Midler?song=Wind+Beneath+My+Wings.mid - easy enough, three voices, one applied
