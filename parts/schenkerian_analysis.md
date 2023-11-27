@@ -19,7 +19,7 @@ Misc
 ---
 
 
-- [A Generative Theory of Tonal Music](https://en.wikipedia.org/wiki/Generative_theory_of_tonal_music) - An attempt to build a generative grammar for common-practice (pre-20-century) music. This work is also continued in [the essay](https://en.wikipedia.org/wiki/Cognitive_Constraints_on_Compositional_Systems), [the second book](https://amzn.to/3FRzPn1) where the switch from generative grammar to preference rules occurs, and the path is reflected in [the third one](https://amzn.to/3fJCm8p).
+- [A Generative Theory of Tonal Music](https://en.wikipedia.org/wiki/Generative_theory_of_tonal_music) - An attempt to build a generative grammar for common-practice (pre-20-century) music. This work is also continued in [the essay](https://en.wikipedia.org/wiki/Cognitive_Constraints_on_Compositional_Systems), [the second book](https://amzn.to/3FRzPn1) where the switch from generative grammar to preference rules occurs, and the path is reflected in [the third one](https://amzn.to/3fJCm8p). [Tymoczko's critical review](https://mtosmt.org/issues/mto.20.26.1/mto.20.26.1.tymoczko.html)
 
 <img width="736" alt="Screenshot 2022-01-22 at 3 31 26 PM" src="https://user-images.githubusercontent.com/1491908/150638638-9a578b1b-092b-4c6f-a623-7351cdb131c8.png">
 
