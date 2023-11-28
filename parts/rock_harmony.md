@@ -84,5 +84,7 @@ More
 
 ([source](https://www.midside.com/presentations/declercq_2018_scsmt_slides.pdf))
 
+- [Stephen Hazel. Math Rock Essentials Guide](https://lets-talk-about-math-rock.myshopify.com/) for advanced guitar players. Also his Youtube channel: https://youtube.com/@LetsTalkAboutMathRock
+
 
 - [Kayano Chino. Japanese Music Harmony: The Fundamental Theory of Key Fluctuation](https://www.amazon.com/Japanese-Music-Harmony-Fundamental-Fluctuation-ebook/dp/B08513234C) - weak and unfinished, nothing said pretty much
