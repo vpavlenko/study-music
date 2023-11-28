@@ -15,3 +15,5 @@ Tracks in Rawl:
 - https://rawl.rocks/browse/MIDI/Wham!?song=Wake+Me+Up+Before+You+Go+Go.mid
 - https://rawl.rocks/browse/MIDI/Little%20Eva?song=Locomotion.mid
 - https://rawl.rocks/browse/MIDI/The%20Rolling%20Stones?song=As+Tears+Go+By.mid (wt)
+- https://rawl.rocks/browse/MIDI/The%20Beatles?song=A+Hard+Day%27s+Night.mid
+- 
