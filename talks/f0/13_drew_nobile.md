@@ -17,3 +17,6 @@ Tracks in Rawl:
 - https://rawl.rocks/browse/MIDI/The%20Rolling%20Stones?song=As+Tears+Go+By.mid (wt)
 - https://rawl.rocks/browse/MIDI/The%20Beatles?song=A+Hard+Day%27s+Night.mid
 - https://rawl.rocks/browse/MIDI/Kingsmen?song=Louie+Louie.mid
+
+Ch. 2
+- https://rawl.rocks/browse/MIDI/Billy%20Joel?song=Piano+Man.8.mid
