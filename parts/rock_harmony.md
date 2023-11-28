@@ -6,7 +6,7 @@ Rock harmony
 - [HookTheory](https://hooktheory.com/affiliate/275-0-3-2.html) - A database of many rock songs and some jazz songs and game tunes focused at harmonic analysis. Comes with a melody-harmony online editor [HookPad](https://hooktheory.com/affiliate/275-3-3-3.html) and [two must-read online books](https://hooktheory.com/affiliate/275-2-3-1.html) on pop/rock harmony which explain Roman numeral analysis, secondary chords and modes. **You should probably start with those books** unless you already have a college degree in music. You can read them in two weeks if you focus enough.
   - [Dave Carlton. I analyzed the chords of 1300 popular songs for patterns. This is what I found](https://www.hooktheory.com/blog/i-analyzed-the-chords-of-1300-popular-songs-for-patterns-this-is-what-i-found/) - a series of posts
 
-
+- [Drew Nobile. Form as Harmony in Rock Music](https://global.oup.com/academic/product/form-as-harmony-in-rock-music-9780190948351?cc=us&lang=en&) - A great coverage of harmony and form. The Caplin of rock.
 
 - [David Temperley. The Musical Language of Rock](https://amzn.to/3nK9eSO) - A book that summarizes [a corpus study](http://rockcorpus.midside.com/) of aspects like harmony, melody, rhythm, timbre and form on 200 rock songs. [Also his papers](http://davidtemperley.com/papers/). Also his other books: [The Cognition of Basic Musical Structures](https://amzn.to/3IvaS2I), [Music and Probability](https://amzn.to/3FXBWWu)
 
@@ -24,7 +24,7 @@ Rock harmony
 
 
 
-- [Kayano Chino. Japanese Music Harmony: The Fundamental Theory of Key Fluctuation](https://www.amazon.com/Japanese-Music-Harmony-Fundamental-Fluctuation-ebook/dp/B08513234C)
+
 
 - [🎥 Four harmonic analyses by Augusto (Björk and Billie Eilish)](https://www.youtube.com/@augusto7681/search?query=harmonic)
 
@@ -55,7 +55,7 @@ Progressive rock
 More
 ---
 
-- [Drew Nobile. Form as Harmony in Rock Music](https://global.oup.com/academic/product/form-as-harmony-in-rock-music-9780190948351?cc=us&lang=en&)
+
 - [Brett Clement. Rock Tonality Amplified](https://www.routledge.com/Rock-Tonality-Amplified-A-Theory-of-Modality-Harmonic-Function-and-Tonal/Clement/p/book/9781032291444), [also see this](https://www.zappa-analysis.com/brett-clement.htm)
 - A lot of rock music is transcribed by transcribers like Andy Aledort, Paul Pappas, Addi Booth, some of it for Hal Leonard publisher.
 - ["Introduction to Harmonic Schemas in Pop Music". In Open Music Theory](https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-pop-schemas/)
@@ -83,3 +83,6 @@ More
 <img width="699" alt="Screenshot 2023-10-14 at 08 15 41" src="https://github.com/vpavlenko/study-music/assets/1491908/49382a70-682e-4ca3-8321-f8d18c5666ff">
 
 ([source](https://www.midside.com/presentations/declercq_2018_scsmt_slides.pdf))
+
+
+- [Kayano Chino. Japanese Music Harmony: The Fundamental Theory of Key Fluctuation](https://www.amazon.com/Japanese-Music-Harmony-Fundamental-Fluctuation-ebook/dp/B08513234C) - weak and unfinished, nothing said pretty much
