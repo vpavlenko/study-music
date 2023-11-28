@@ -2,7 +2,7 @@
 
 [Playlists for Apple Music and Spotify](https://global.oup.com/us/companion.websites/9780190948368/ch1/)
 
-Tracks in Rawl:
+Ch. 1:
 
 - https://rawl.rocks/browse/MIDI/The%20Beatles?song=Nowhere+Man.1.mid
 - https://rawl.rocks/browse/MIDI/Madonna?song=Like+A+Virgin.1.mid
@@ -20,3 +20,4 @@ Tracks in Rawl:
 
 Ch. 2
 - https://rawl.rocks/browse/MIDI/Billy%20Joel?song=Piano+Man.8.mid
+- https://rawl.rocks/browse/MIDI/The%20Monkees?song=Daydream+Believer.1.mid
