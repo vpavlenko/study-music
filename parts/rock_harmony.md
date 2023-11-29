@@ -72,6 +72,9 @@ More
 
 - The Bloomsbury Handbook of Rock Music Research
 
+- Allan F. Moore. Song Means: Analysing and Interpreting Recorded Popular Song - A broad overview on music theory and musicology
+
+
 - [Chord progressions of 5000 songs from Hooktheory](https://www.amitkohli.com/chord-progressions-of-5-000-songs/)
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/77ad3ff5-365f-4459-a296-474835215f30)
@@ -85,6 +88,4 @@ More
 ([source](https://www.midside.com/presentations/declercq_2018_scsmt_slides.pdf))
 
 - [Stephen Hazel. Math Rock Essentials Guide](https://lets-talk-about-math-rock.myshopify.com/) for advanced guitar players. Also his Youtube channel: https://youtube.com/@LetsTalkAboutMathRock
-
-
-- [Kayano Chino. Japanese Music Harmony: The Fundamental Theory of Key Fluctuation](https://www.amazon.com/Japanese-Music-Harmony-Fundamental-Fluctuation-ebook/dp/B08513234C) - weak and unfinished, nothing said pretty much
+ 
