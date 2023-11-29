@@ -23,6 +23,14 @@ All red-circled notes are not random. They are all classified, and we can [annot
 
 ![image](https://user-images.githubusercontent.com/1491908/216248115-cea16e59-9f29-46a5-9cb6-af617aabeac1.png)
 
+Or in [even more classes](https://lukedahn.wordpress.com/2011/06/30/expressively-charged-tones-a-color-coded-analysis-of-bachs-db-major-prelude-wtc2/):
+
+<img width="782" alt="Screenshot 2023-11-29 at 17 52 02" src="https://github.com/vpavlenko/study-music/assets/1491908/340c7bea-fb68-4276-a473-d348444aa4c7">
+
+![image](https://github.com/vpavlenko/study-music/assets/1491908/74601942-4a5b-4773-82eb-e21690646c3b)
+
+
+
 Alternatively, for every given chord [we can assign](https://musescore.com/user/39031562/scores/9034154) twelve colors to all pitch classes relative to it (eg. in a rainbow order). We hope to see more of [0, 4, 7] colors for major chords (red, bright green, blue) and [0, 3, 7] colors (red, yellow, blue) for minor chords:
 
 <img width="789" alt="Screenshot 2023-02-02 at 10 37 15" src="https://user-images.githubusercontent.com/1491908/216250123-3cbf4d84-8237-4951-a621-d20684415067.png">
