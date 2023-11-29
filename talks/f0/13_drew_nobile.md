@@ -24,5 +24,6 @@ Ch. 2
 - https://rawl.rocks/browse/MIDI/The%20Monkees?song=Daydream+Believer.1.mid
 - https://rawl.rocks/browse/MIDI/Creedence%20Clearwater%20Revival?song=Lookin%27+Out+My+Back+Door.mid
 - https://rawl.rocks/browse/MIDI/Don%20McLean?song=Vincent.mid
+- https://rawl.rocks/browse/MIDI/Eagles?song=Tequila+Sunrise.2.mid
 
 [Periods in Caplin](http://www.music.mcgill.ca/acf/example3-1.php)
