@@ -25,5 +25,7 @@ Ch. 2
 - https://rawl.rocks/browse/MIDI/Creedence%20Clearwater%20Revival?song=Lookin%27+Out+My+Back+Door.mid
 - https://rawl.rocks/browse/MIDI/Don%20McLean?song=Vincent.mid
 - https://rawl.rocks/browse/MIDI/Eagles?song=Tequila+Sunrise.2.mid
+- https://rawl.rocks/browse/MIDI/Eagles?song=Lyin%27+Eyes.1.mid
+- https://rawl.rocks/browse/MIDI/Elton%20John?song=Your+Song.5.mid
 
 [Periods in Caplin](http://www.music.mcgill.ca/acf/example3-1.php)
