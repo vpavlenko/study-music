@@ -30,5 +30,7 @@ Ch. 2
 - https://rawl.rocks/browse/MIDI/The%20Beatles?song=All+You+Need+Is+Love.mid
 - https://rawl.rocks/browse/MIDI/The%20Police?song=Every+Breath+You+Take.mid
 - https://rawl.rocks/browse/MIDI/The%20Beatles?song=From+Me+to+You.mid
+- https://rawl.rocks/browse/MIDI/The%20Beatles?song=Come+and+Get+It.mid (missing last **a**, wrong harmony in **b**)
+- https://rawl.rocks/browse/MIDI/Don%20McLean?song=American+Pie.2.mid (from m. 32)
 
 [Periods in Caplin](http://www.music.mcgill.ca/acf/example3-1.php)
