@@ -22,5 +22,6 @@ Ch. 1:
 Ch. 2
 - https://rawl.rocks/browse/MIDI/Billy%20Joel?song=Piano+Man.8.mid
 - https://rawl.rocks/browse/MIDI/The%20Monkees?song=Daydream+Believer.1.mid
+- https://rawl.rocks/browse/MIDI/Creedence%20Clearwater%20Revival?song=Lookin%27+Out+My+Back+Door.mid
 
 [Periods in Caplin](http://www.music.mcgill.ca/acf/example3-1.php)
