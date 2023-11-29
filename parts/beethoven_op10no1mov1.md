@@ -189,6 +189,7 @@ Articles
 - [Melanie Spanswick](https://melaniespanswick.com/2013/10/30/rhythmic-precision-in-the-first-movement-of-beethovens-sonata-in-c-minor-op-10-no-1/)
 - [Cem Erçelik](http://carsafblog.blogspot.com/2012/07/beethoven-sonata-in-c-minor-op-10-no-1.html)
 - [Tonic Chord](https://tonic-chord.com/beethoven-piano-sonata-no-5-in-c-minor-analysis/)
+- [Color coding](https://lvbandmore.blogspot.com/p/color-coded-analysis-of-beethovens-music.html)
 
 Lectures
 ---
