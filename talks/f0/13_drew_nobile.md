@@ -11,7 +11,7 @@ Ch. 1:
 - https://rawl.rocks/browse/MIDI/Creedence%20Clearwater%20Revival?song=Proud+Mary.mid
 - https://rawl.rocks/browse/MIDI/Bon%20Jovi?song=You+Give+Love+a+Bad+Name.mid
 - https://rawl.rocks/browse/MIDI/Foreigner?song=Feels+Like+the+First+Time.mid
-- https://rawl.rocks/browse/MIDI/Van%20Halen?song=Panama.1.mid (wrong tonic)
+- https://rawl.rocks/browse/MIDI/Van%20Halen?song=Panama.mid (wrong tonic)
 - https://rawl.rocks/browse/MIDI/The%20Beatles?song=Misery.2.mid (wt)
 - https://rawl.rocks/browse/MIDI/Wham!?song=Wake+Me+Up+Before+You+Go+Go.mid
 - https://rawl.rocks/browse/MIDI/Little%20Eva?song=Locomotion.mid
