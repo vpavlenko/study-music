@@ -58,6 +58,7 @@ Meta lists:
 - [Tegridy](https://github.com/asigalov61/Tegridy-MIDI-Dataset)
 - [awesome](https://github.com/albertmeronyo/awesome-midi-sources)
 - [virtualphilharmonic](http://www.virtualphilharmonic.co.uk/MIDIlinks.htm)
+- [audio content analysis](https://www.audiocontentanalysis.org/datasets.html)
 
 Individual datasets:
 - [Yale–Classical Archives Corpus](https://ycac.yale.edu/)
