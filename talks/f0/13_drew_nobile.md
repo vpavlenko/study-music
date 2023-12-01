@@ -34,3 +34,9 @@ Ch. 2
 - https://rawl.rocks/browse/MIDI/Don%20McLean?song=American+Pie.2.mid (from m. 32)
 
 [Periods in Caplin](http://www.music.mcgill.ca/acf/example3-1.php)
+
+
+А что потом?
+- либо анализировать по этой теоретической рамке свою любимую музыку (на след встрече)
+- либо сочинять
+  
