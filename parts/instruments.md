@@ -22,3 +22,4 @@ Computer-based
 - [Plink](https://plink.in/) - pentatonic real-time collaborative jam
 - [WebAudio Drum Machine](https://webaudiodemos.appspot.com/MIDIDrums/index.html)
 - https://itch.io/tools/tag-music, https://itch.io/tools/tag-midi
+- https://chrisdonahue.com/piano-genie/
