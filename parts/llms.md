@@ -1,5 +1,6 @@
 - [Paper Digest: Recent Papers on AI for Music](https://www.paperdigest.org/2020/07/recent-papers-on-ai-for-music/)
 - https://github.com/affige/genmusic_demo_list
+- https://github.com/Natooz/MidiTok
 
 LLMs for music theory
 ---
