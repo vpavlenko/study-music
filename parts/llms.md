@@ -1,4 +1,5 @@
-[Paper Digest: Recent Papers on AI for Music](https://www.paperdigest.org/2020/07/recent-papers-on-ai-for-music/)
+- [Paper Digest: Recent Papers on AI for Music](https://www.paperdigest.org/2020/07/recent-papers-on-ai-for-music/)
+- https://github.com/affige/genmusic_demo_list
 
 LLMs for music theory
 ---
@@ -13,22 +14,18 @@ Articles that excite me:
 - https://github.com/zharry29/drums-with-llm
 - https://arxiv.org/search/cs?searchtype=author&query=Donahue%2C+C
 - https://www.semanticscholar.org/paper/LakhNES%3A-Improving-Multi-instrumental-Music-with-Donahue-Mao/24a70db0bbb5f486126477e32a6a44ab917a4b11#citing-papers
-- MidiBERT, MusicBERT, Museformer
+- MidiBERT, MusicBERT
 - https://github.com/tripathiarpan20/midiformers
-- https://github.com/slSeanWU/jazz_transformer
 - https://github.com/asigalov61/Los-Angeles-Music-Composer
 
 Other NN approaches for related things (GAN, VAE, RNNs, LSTMs)
 ---
 
 - https://github.com/gudgud96/magenta-in-pytorch and his ISMIR reviews in his blog on DDSP
-- PianoTree VAE
 - https://epub.jku.at/obvulihs/download/pdf/8503579?originalFilename=true
 - https://liuhaumin.github.io/LeadsheetArrangement/
-- https://salu133445.github.io/projects
-- https://slseanwu.github.io/site-musemorphose/
 - https://github.com/affige/DeepMIR
-- https://github.com/affige/genmusic_demo_list
+
 
 More
 ----
