@@ -27,6 +27,8 @@ Other NN approaches for related things (GAN, VAE, RNNs, LSTMs)
 - https://liuhaumin.github.io/LeadsheetArrangement/
 - https://salu133445.github.io/projects
 - https://slseanwu.github.io/site-musemorphose/
+- https://github.com/affige/DeepMIR
+- https://github.com/affige/genmusic_demo_list
 
 More
 ----
