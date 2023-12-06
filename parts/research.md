@@ -18,6 +18,7 @@ Corpus studies
 13. [Omer Raz, Dror Chawin, Uri B. Rom. The Mozart Expositional Punctuation Corpus: A Dataset of Interthematic Cadences in Mozart's Sonata-Allegro Exposition](https://emusicology.org/index.php/EMR/article/view/7648/6273)
 14. EMR had two special issues on corpus studies: [Vol. 11 No. 1](https://emusicology.org/index.php/EMR/issue/view/166), [Vol. 11 No. 2](https://emusicology.org/index.php/EMR/issue/view/168)
 15. [CompMusic](https://compmusic.upf.edu/corpora)
+16. [Chord analysis on Hooktheory's Theorytab](https://salu133445.github.io/pdf/chord_progression_analysis_report.pdf)
 
 
 General thoughts
