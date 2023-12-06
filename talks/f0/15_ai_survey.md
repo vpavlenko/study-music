@@ -4,6 +4,8 @@ LLark
 
 https://github.com/affige/DeepMIR, https://github.com/affige/genmusic_demo_list
 
-MidiTok
+MidiTok, REMI
 
 See all citations of MusicBERT
+
+See FIGARO for direction-to-seq (also 2023)
