@@ -9,3 +9,5 @@ MidiTok, REMI
 See all citations of MusicBERT
 
 See FIGARO for direction-to-seq (also 2023)
+
+Harmory
