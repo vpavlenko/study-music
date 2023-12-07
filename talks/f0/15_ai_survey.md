@@ -11,3 +11,5 @@ See all citations of MusicBERT
 See FIGARO for direction-to-seq (also 2023)
 
 Harmory
+
+[ISMIR 2023](https://ismir2023.ismir.net/papers/)
