@@ -8,6 +8,10 @@ Rock
 
 - [Drew Nobile. Form as Harmony in Rock Music](https://global.oup.com/academic/product/form-as-harmony-in-rock-music-9780190948351?cc=us&lang=en&) - A great coverage of harmony and form. The Caplin of rock.
 
+
+<img width="700" src="https://github.com/vpavlenko/study-music/assets/1491908/05ba7084-78be-4541-b4ab-5390b44ff721">
+
+
 - [David Temperley. The Musical Language of Rock](https://amzn.to/3nK9eSO) - A book that summarizes [a corpus study](http://rockcorpus.midside.com/) of aspects like harmony, melody, rhythm, timbre and form on 200 rock songs. [Also his papers](http://davidtemperley.com/papers/). Also his other books: [The Cognition of Basic Musical Structures](https://amzn.to/3IvaS2I), [Music and Probability](https://amzn.to/3FXBWWu)
 
 
