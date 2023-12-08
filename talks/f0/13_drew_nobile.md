@@ -40,3 +40,10 @@ Ch. 2
 - либо анализировать по этой теоретической рамке свою любимую музыку (на след встрече)
 - либо сочинять
   
+
+
+## Form visualization
+
+Self-similarity matrix, non-negative matrix factorization
+- [A Wankhammer. Automatic Detection of the Musical Structure within Pieces of Music](https://phaidra.kug.ac.at/detail/o:11129.pdf)
+- 
