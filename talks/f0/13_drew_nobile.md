@@ -46,4 +46,4 @@ Ch. 2
 
 Self-similarity matrix, non-negative matrix factorization
 - [A Wankhammer. Automatic Detection of the Musical Structure within Pieces of Music](https://phaidra.kug.ac.at/detail/o:11129.pdf)
-- 
+- [morphological filters](https://hal.science/hal-03641511/document)
