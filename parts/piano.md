@@ -34,6 +34,8 @@ Misc
 
 - [**On interpretations**](beethoven_op10no1mov1.md)
 
+- [**On expressive performance**](research.md#expressive-performance) 
+
 - [Thomas Mark. What Every Pianist Needs to Know About the Body](https://amzn.to/36ev1fx) - how to gain fluidity without injuries
  - and other biomechanics: https://files.eric.ed.gov/fulltext/EJ1000256.pdf
 
