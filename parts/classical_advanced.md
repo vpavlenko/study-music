@@ -48,6 +48,7 @@ Advanced harmony
 - 🎥 Alan Belkin. [Applied Harmony](https://www.youtube.com/watch?v=jffTBei6mxY&list=PLSntcNF64SVVBtDnYIfoLlvM4gPJw_i6R), [Modern Harmony](https://www.youtube.com/watch?v=kRb63Oy9ssI&list=PLSntcNF64SVXzsZiYybBTVcpKCiOEqH_m) and [his books](https://alanbelkinmusic.com/site/en/index.php/introduction/)
 - Daniel Harrison. Harmonic Function in Chromatic Music *(may be [**Schenkerian**](schenkerian_analysis.md))*
 - Daniel Harrison. Pieces of Tradition: An Analysis of Contemporary Tonal Music
+- Tonfeldtheorie
 
 Advanced form
 ---
