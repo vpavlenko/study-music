@@ -20,7 +20,7 @@ GPT-4's tiktoken has around 100k tokens - English words, common chunks from prog
 
 Sentences in a natural language are positionally akin to non-metrical improvisation. Periods can come after an arbitrary amount of tokens. Music, however, is very regular in time. Should every note have a metrical position embedding ("fourth beat", "third measure of a formal function") in addition to standard transformer's positional embeddings?
 
-Should we infer tonic at the tokenization stage and transpose everything to C? Not doing that would be disastrous and akin to feeding an English-language transformer equal parts of standard English, its rot13 version and all other alphabet rotations. 
+Should we infer tonic at the tokenization stage and transpose everything to C? Not doing that would be disastrous and akin to feeding an English-language transformer equal parts of standard English, its rot13 version and all other alphabet rotations. Another analogy: imagine a world in which we notate vowels differently depending on absolute pitch with which they were pronounced by an author of every text.
 
 ## Single-modal
 
