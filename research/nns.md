@@ -11,7 +11,13 @@ Music theory is more about texts written by people about pieces and genre (books
 
 ## Tokenization
 
-GPT-4's tiktoken has around 100k tokens - English words, common chunks from programming languages, chops of Russian words, integers and other unicode characters. This preprocessing allows the transformer to extract patterns on a higher level. What's the good tokenization for MIDI, can we improve REMI+? Should we have a separate token for Vsus4-V(7), Iadd6 (in many voicings), should we decompose progressions from voicings (learn ii-IV-V simultaneously for power chords, triads, diatonic seventh chords and dominant seventh chords)? Should we tokenize repetitions and have a direct token for "verse 2 = verse 1"? How do we tokenize an exact repetition a semitone up, harmonic or melodic? Should we infer tonic at the tokenization stage and transpose everything to C? 
+GPT-4's tiktoken has around 100k tokens - English words, common chunks from programming languages, chops of Russian words, integers and other unicode characters. This preprocessing allows the transformer to extract patterns on a higher level. What's the good tokenization for MIDI, can we improve REMI+? 
+- Should we have a separate token for Vsus4-V(7), Iadd6 (in many voicings)
+- should we decompose progressions from voicings (learn ii-IV-V simultaneously for power chords, triads, diatonic seventh chords and dominant seventh chords)?
+- Should we tokenize repetitions and have a direct token for "verse 2 = verse 1"?
+- How do we tokenize an exact repetition a semitone up, harmonic or melodic?
+- Should we infer tonic at the tokenization stage and transpose everything to C? 
+- Should we decompose rhythm from note content and have tokens for rhythmic repetiton/reference in a new phrase? Should we have a token for 3+3+2?
 
 Sentences in a natural language are positionally akin to non-metrical improvisation. Periods can come after an arbitrary amount of tokens. Music, however, is very regular in time. Should every note have a metrical position embedding ("fourth beat", "third measure of a formal function") in addition to standard transformer's positional embeddings?
 
