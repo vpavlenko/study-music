@@ -20,3 +20,5 @@ Sentences in a natural language are positionally akin to non-metrical improvisat
 Transformers are [widely fed](https://github.com/affige/genmusic_demo_list) on corpora of MIDI. And maybe they learn/extract all theoretical concepts along the way: keys, chords, voicings, voice-leading rules, formal structures, composers/genres. This information can't be extracted directly from the music generation setting, as transformers per se simply generate the next MIDI symbol. The corpus itself doesn't have any annotation on structures that we're interested in.
 
 The very interesting question is whether the transformer itself can mine new structures overlooked by researchers yet, akin to a [tonic added-sixth chord](https://www.mtosmt.org/issues/mto.23.29.2/mto.23.29.2.martin.html)
+
+One interesting thing we can readily extract from a transformer architecture is distribution of surprises and uncertainties in the next events. "Show me the weirdest place in this song", "generate a more expected measure"
