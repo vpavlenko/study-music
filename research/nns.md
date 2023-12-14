@@ -21,4 +21,4 @@ Transformers are [widely fed](https://github.com/affige/genmusic_demo_list) on c
 
 The very interesting question is whether the transformer itself can mine new structures overlooked by researchers yet, akin to a [tonic added-sixth chord](https://www.mtosmt.org/issues/mto.23.29.2/mto.23.29.2.martin.html)
 
-One interesting thing we can readily extract from a transformer architecture is distribution of surprises and uncertainties in the next events. "Show me the weirdest place in this song", "generate a more expected measure"
+One interesting thing we can readily extract from a transformer architecture is distribution of [expectation](https://mitpress.mit.edu/9780262582780/sweet-anticipation/), surprises and uncertainties in the next events. "Show me the weirdest place in this song", "generate a more expected measure"
