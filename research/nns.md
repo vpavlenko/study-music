@@ -11,7 +11,7 @@ Music theory is more about texts written by people about pieces and genre (books
 
 ## Tokenization
 
-GPT-4's tiktoken has around 100k tokens - English words, common chunks from programming languages, chops of Russian words, integers and other unicode characters. This preprocessing allows the transformer to extract patterns on a higher level. What's the good tokenization for MIDI, can we improve REMI+? 
+GPT-4's tiktoken has around 100k tokens - English words, common chunks from programming languages, chops of Russian words, integers and other unicode characters. This preprocessing allows the transformer to extract patterns on a higher level. What's the good tokenization for MIDI, can we improve [REMI+](https://arxiv.org/pdf/2201.10936.pdf)? 
 - Should we have a separate token for Vsus4-V(7), Iadd6 (in many voicings)
 - should we decompose progressions from voicings (learn ii-IV-V simultaneously for power chords, triads, diatonic seventh chords and dominant seventh chords)?
 - Should we tokenize repetitions and have a direct token for "verse 2 = verse 1"?
