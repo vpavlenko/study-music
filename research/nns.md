@@ -13,9 +13,9 @@ Music theory is more about texts written by people about pieces and genre (books
 
 GPT-4's tiktoken has around 100k tokens - English words, common chunks from programming languages, chops of Russian words, integers and other unicode characters. This preprocessing allows the transformer to extract patterns on a higher level. What's the good tokenization for MIDI, can we improve REMI+? Should we have a separate token for Vsus4-V(7), Iadd6 (in many voicings), should we decompose progressions from voicings (learn ii-IV-V simultaneously for power chords, triads, diatonic seventh chords and dominant seventh chords)? Should we tokenize repetitions and have a direct token for "verse 2 = verse 1"? How do we tokenize an exact repetition a semitone up, harmonic or melodic? Should we infer tonic at the tokenization stage and transpose everything to C? 
 
+Sentences in a natural language are positionally akin to non-metrical improvisation. Periods can come after an arbitrary amount of tokens. Music, however, is very regular in time. Should every note have a metrical position embedding ("fourth beat", "third measure of a formal function") in addition to standard transformer's positional embeddings?
 
-
-# Single-modal
+## Single-modal
 
 Transformers are [widely fed](https://github.com/affige/genmusic_demo_list) on corpora of MIDI. And maybe they learn/extract all theoretical concepts along the way: keys, chords, voicings, voice-leading rules, formal structures, composers/genres. This information can't be extracted directly from the music generation setting, as transformers per se simply generate the next MIDI symbol. The corpus itself doesn't have any annotation on structures that we're interested in.
 
