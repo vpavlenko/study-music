@@ -7,3 +7,4 @@ Sociology of music
 - [Edited By Kevin Holm-Hudson. Progressive Rock Reconsidered](https://www.routledge.com/Progressive-Rock-Reconsidered/Holm-Hudson/p/book/9780815337157)
 - Lydia Goehr. The Imaginary Museum of Musical Works: An Essay in the Philosophy of Music
 - [Tami Gadir. Understanding Agency from the Decks to the Dance Floor](https://mtosmt.org/issues/mto.18.24.3/mto.18.24.3.gadir.html)
+- [Luis Manuel Garcia-Mispireta. Together, Somehow. Music, Affect, and Intimacy on the Dancefloor ](https://www.dukeupress.edu/together-somehow)
