@@ -2,3 +2,4 @@
 - https://mhte.music.unt.edu/sites/default/files/HARMONIA%202013-14.pdf (Ensign)
 - https://www.mtosmt.org/issues/mto.05.11.4/mto.05.11.4.garcia.html
 - https://mtosmt.org/issues/mto.21.27.2/mto.21.27.2.smith.html
+- https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html
