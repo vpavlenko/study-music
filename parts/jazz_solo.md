@@ -78,4 +78,5 @@ More
 10. Jerry Coker
 15. https://www.jeffcoffin.com/ctd
 1. David Kahn Feurzeig. Making the Right Mistakes: James P. Johnson, Thelonious Monk, and the Trickster Aesthetic
+2. McCoy Tyner https://taju.uniarts.fi/bitstream/handle/10024/6819/302684_Sami_Linna_McCoyTynerModalJazzandtheDominantChord_verkkoversio.pdf?sequence=1&isAllowed=y
 
