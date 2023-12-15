@@ -78,6 +78,7 @@ The languages are (roughly speaking):
 - [**Barbershop**](parts/barbershop.md)
 - [**Movies**](parts/movies.md)
 - [**Video games**](parts/vgm.md)
+- [**EDM**](parts/edm.md)
 - Other genres like R&B, country, dance electronic, gospel
 - Western regional traditions (eg. [Latin](https://www.halleonard.com/menu/562/latin))
 
