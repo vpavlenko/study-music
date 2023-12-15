@@ -12,6 +12,7 @@ Psychology of music
 
 
 - https://en.wikipedia.org/wiki/John_Sloboda
+- http://www.elizabethmargulis.com/on-repeat
 
 Music education
 ---
