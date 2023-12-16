@@ -13,6 +13,7 @@ Psychology of music
 
 - https://en.wikipedia.org/wiki/John_Sloboda
 - http://www.elizabethmargulis.com/on-repeat
+- The Psychology of Music, edited by Diana Deutsch
 
 Music education
 ---
