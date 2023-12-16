@@ -109,7 +109,7 @@ Topics
 - [**Maps of genres**](parts/maps_of_genres.md)
 - [**Listening guides**](parts/listening_guides.md) - how to enjoy classical music without a deep commitment to learn theory
 - [**Ear training**](parts/ear_training.md)
-- [**Piano**](parts/piano.md)
+- [**Piano**](parts/piano.md), [**guitar**](parts/guitar.md)
 - [**Rhythm**](parts/rhythm.md)
 - [**Topics, tropes, meaning**](parts/meaning.md)
 - [**Pseudoscience**](parts/pseudoscience.md)
