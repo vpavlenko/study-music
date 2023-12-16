@@ -5,3 +5,4 @@
 - https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html
 - https://www.mtosmt.org/issues/mto.01.7.6/mto.01.7.6.butler.html
 - https://www.tandfonline.com/doi/full/10.1080/20551940.2015.1079072
+- [Daniel Gómez Marín. Similarity and Style in Electronic Dance Music Drum Rhythms](https://www.tdx.cat/bitstream/handle/10803/543841/tdgm.pdf?sequence=1)
