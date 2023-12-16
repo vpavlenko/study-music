@@ -26,6 +26,12 @@ In contrast, not everything from MIDI should be preserved with great care. As in
 
 The tracks in a MIDI file should also be curated. In some MIDI files, several tracks double each other purely for timbral effects, fully or partially. Doubling should probably be removed to reduce number of tokens used. Also, [GM](https://en.wikipedia.org/wiki/General_MIDI) has 128 instruments, whereas semantically there are way less categories - bass, chords, vocal, vocal dubbing, ornamentation, instrumental solo.
 
+Hypermetrical placement of chords can help inferring the right tonic, see [David Temperley. Communicative Pressure and the Evolution of
+Musical Styles](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2fef2324caaf826d07c277612abf88a1f5103ea2):
+
+<img width="600" alt="Screenshot 2023-12-16 at 20 18 24" src="https://github.com/vpavlenko/study-music/assets/1491908/abf3f280-caae-4e22-a263-6bf05d1586eb">
+<img width="600" alt="Screenshot 2023-12-16 at 20 18 43" src="https://github.com/vpavlenko/study-music/assets/1491908/ed3d9675-2384-4aa0-b810-d291d79814b7">
+
 ## Single-modal
 
 Transformers are [widely fed](https://github.com/affige/genmusic_demo_list) on corpora of MIDI. And maybe they learn/extract all theoretical concepts along the way: keys, chords, voicings, voice-leading rules, formal structures, composers/genres. This information can't be extracted directly from the music generation setting, as transformers per se simply generate the next MIDI symbol. The corpus itself doesn't have any annotation on structures that we're interested in.
