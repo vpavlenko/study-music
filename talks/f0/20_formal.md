@@ -6,4 +6,8 @@ Matthew Kolar](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - Languages: Everett, Biamonte, Temperley on blue notes
 - Jeremy M. Robins on Phrase Structure, see References
 - Double-Tonic Complexes
+  - https://www.esm.rochester.edu/integral/35-2022/ferrandino/
 - Brad Osborn
+- Hypermeter
+  - https://core.ac.uk/download/pdf/84118984.pdf
+  - [terminally climactic forms](https://kuscholarworks.ku.edu/bitstream/handle/1808/19147/OSBORN_paradigm2013_AFD.pdf?sequence=1&isAllowed=y)
