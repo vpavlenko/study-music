@@ -36,4 +36,4 @@ One interesting thing we can readily extract from a transformer architecture is 
 
 ## Inspiration
 
-David Temperley has [an article](https://www.annualreviews.org/doi/full/10.1146/annurev-linguistics-031220-121126) on parallels and differences between music and language
+David Temperley has [an article](https://www.annualreviews.org/doi/full/10.1146/annurev-linguistics-031220-121126) on parallels and differences between music and language. [Also](https://www.academia.edu/162993/Language_and_Music_as_Cognitive_Systems)
