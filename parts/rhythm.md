@@ -10,4 +10,4 @@ Rhythm
 - [Jonathan Foote. The Beat Spectrum: a New Approach To Rhythm Analysis](http://www.rotorbrain.com/foote/papers/icme2001/icmehtml.htm)
 - [Daniel Gómez Marín. Similarity and Style in Electronic Dance Music Drum Rhythms](https://www.tdx.cat/bitstream/handle/10803/543841/tdgm.pdf?sequence=1)
 - Studies on syncopation by David Temperley
-  
+- Brad Osborn. Beats that Commute: Algebraic and Kinesthetic Models for MathRock Grooves
