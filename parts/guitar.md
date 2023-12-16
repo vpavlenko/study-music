@@ -1,0 +1,1 @@
+- Nicholas Shea. “Guitar thinking” and “Genre thinking” among an Online Community of Guitarists
