@@ -48,5 +48,6 @@ Also, historically there was a number of environments to do sound synthesis with
 10. https://www.mattmontag.com/auralization/
 11. https://www.mattmontag.com/binauralization/
 12. https://wavesurfer-js.org/examples/?vowels.js
+13. https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/index.html#0
 
 
