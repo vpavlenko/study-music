@@ -22,7 +22,7 @@ Sentences in a natural language are positionally akin to non-metrical improvisat
 
 Should we infer tonic at the tokenization stage and transpose everything to C? Not doing that would be disastrous and akin to feeding an English-language transformer equal parts of standard English, its rot13 version and all other alphabet rotations. Another analogy: imagine a world in which we notate vowels differently depending on absolute pitch with which they were pronounced by an author of every text.
 
-In contrast, not everything from MIDI should be preserved with great care. As in a natural language, we don't notate intonation in writing. So, note onsets as conveying rhythm are very important, but note durations/offsets - less so and can probably be omitted at all (?). Same with onsets are shifted a notch to compensate for MIDI attack of a particular instrument (which font rendering is likely not the one that the file author optimized for).
+In contrast, not everything from MIDI should be preserved with great care. As in a natural language, we don't notate intonation in writing. So, note onsets as conveying rhythm are very important, but note durations/offsets - less so and can probably be omitted at all (?). Same with onsets are shifted a notch to compensate for MIDI attack of a particular instrument (which font rendering is likely not the one that the file author optimized for). This is a difference between tokenization for generation and tokenization for theory, similar to speech synthesis where a system without intonation would produce a very robotic and unpleasant sound, whereas no word-contour intonation is needed for GPT-4.
 
 ## Single-modal
 
