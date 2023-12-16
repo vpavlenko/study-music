@@ -13,7 +13,7 @@ Music theory is more about texts written by people about pieces and genre (books
 
 GPT-4's [tiktoken](https://github.com/openai/tiktoken) has around 100k tokens - English words, common chunks from programming languages, chops of Russian words, integers and other unicode characters. This preprocessing allows the transformer to extract patterns on a higher level. What's the good tokenization for MIDI, can we improve [REMI+](https://arxiv.org/pdf/2201.10936.pdf)? 
 - Should we have a separate token for Vsus4-V(7), Iadd6 (in many voicings)
-- should we decompose progressions from voicings (learn ii-IV-V simultaneously for power chords, triads, diatonic seventh chords and dominant seventh chords)?
+- Should we decompose progressions from voicings (learn ii-IV-V simultaneously for power chords, triads, diatonic seventh chords and dominant seventh chords)?
 - Should we tokenize repetitions and have a direct token for "verse 2 = verse 1", "m.5 = m.1"?
 - How do we tokenize an exact repetition transposed a semitone up, harmonic or melodic?
 - Should we decompose rhythm from note content and have tokens for rhythmic repetiton/reference in a new phrase? Should we have a token for 3+3+2?
@@ -24,6 +24,8 @@ Should we infer tonic at the tokenization stage and transpose everything to C? N
 
 In contrast, not everything from MIDI should be preserved with great care. As in a natural language, we don't notate intonation in writing. So, note onsets as conveying rhythm are very important, but note durations/offsets - less so and can probably be omitted at all (?). Same with onsets are shifted a notch to compensate for MIDI attack of a particular instrument (which font rendering is likely not the one that the file author optimized for). This is a difference between tokenization for generation and tokenization for theory, similar to speech synthesis where a system without intonation would produce a very robotic and unpleasant sound, whereas no word-contour intonation is needed for GPT-4.
 
+The tracks in a MIDI file should also be curated. In some MIDI files, several tracks double each other purely for timbral effects, fully or partially. Doubling should probably be removed to reduce number of tokens used. Also, [GM](https://en.wikipedia.org/wiki/General_MIDI) has 128 instruments, whereas semantically there are way less categories - bass, chords, vocal, vocal dubbing, ornamentation, instrumental solo.
+
 ## Single-modal
 
 Transformers are [widely fed](https://github.com/affige/genmusic_demo_list) on corpora of MIDI. And maybe they learn/extract all theoretical concepts along the way: keys, chords, voicings, voice-leading rules, formal structures, composers/genres. This information can't be extracted directly from the music generation setting, as transformers per se simply generate the next MIDI symbol. The corpus itself doesn't have any annotation on structures that we're interested in.
@@ -31,3 +33,7 @@ Transformers are [widely fed](https://github.com/affige/genmusic_demo_list) on c
 The very interesting question is whether the transformer itself can mine new structures overlooked by researchers yet, akin to a [tonic added-sixth chord](https://www.mtosmt.org/issues/mto.23.29.2/mto.23.29.2.martin.html)
 
 One interesting thing we can readily extract from a transformer architecture is distribution of [expectation](https://mitpress.mit.edu/9780262582780/sweet-anticipation/), surprises and uncertainties in the next events. "Show me the weirdest place in this song", "generate a more expected measure"
+
+## Inspiration
+
+David Temperley has [an article](https://www.annualreviews.org/doi/full/10.1146/annurev-linguistics-031220-121126) on parallels and differences between music and language
