@@ -11,3 +11,9 @@ https://www.ethanhein.com/wp/2012/song-structures/
 https://www.hooktheory.com/theorytab/view/aerosmith/cryin
 
 <img width="540" alt="Screenshot 2023-12-17 at 16 52 46" src="https://github.com/vpavlenko/study-music/assets/1491908/f22ff4b0-b00e-4c54-b128-f1b5a06af273">
+
+Антон Маскелиаде. Твой первый трек:
+
+<img width="800" alt="Screenshot 2022-01-21 at 2 07 44 PM" src="https://user-images.githubusercontent.com/1491908/150516896-ce75b545-7864-4d3b-b235-453608ec10ca.png">
+
+
