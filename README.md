@@ -47,7 +47,7 @@ Where to start
 1. [📚 Hooktheory 📚](https://hooktheory.com/affiliate/275-2-3-1.html) - interactive books on pop harmony. A must-read for anyone
 1. [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/pdf/en-us/the-whole-enchilada-set.pdf) 
 1. Dig into the structure of [Beethoven's sonata #5 movement #1](https://rawl.vercel.app/edit?a=beethoven_op10no1mov1), also see what we as a society [**know about it**](parts/beethoven_op10no1mov1.md).
-17. Visualizations: [**classical**](parts/classical_visualizations.md), [**jazz harmony**](parts/jazz_harmony_visualizations.md) and [**jazz solos**](parts/jazz_solo_visualizations.md)
+17. Visualizations: [**classical**](parts/classical_visualizations.md), [**jazz harmony**](parts/jazz_harmony_visualizations.md), [**jazz solos**](parts/jazz_solo_visualizations.md), [**rock**](parts/rock_visualizations.md)
 
 
 **Sing**
@@ -72,7 +72,7 @@ Music languages can be divided into a number of families. Historically, the most
 - any of the 12 notes can be a tonic
 
 The languages are (roughly speaking):
-- [**Rock**](parts/rock_harmony.md) - probably worth exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts. By the way, pop music (structure-wise) it a super-genre combining bits of rock, jazz and other stuff
+- [**Rock**](parts/rock.md) - probably worth exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts. By the way, pop music (structure-wise) it a super-genre combining bits of rock, jazz and other stuff
 - [**Classical**](parts/classical.md) - the biggest chapter here, as it's the main focus of all research and teaching (despite its unpopularity according to [streaming stats](https://headphonesaddict.com/music-genre-statistics/) and [decolonization ideas](https://engagingstudentsmusic.org/index.php/engagingstudents/article/view/7359/5713)). Subtopics: [**pre-classical**](parts/pre_classical.md), [**advanced**](parts/classical_advanced.md), [**Bach chorales**](parts/bach_chorales.md)
 - [**Jazz**](parts/jazz.md). Subtopics: [**harmony**](parts/jazz_harmony.md), [**lego**](parts/lego.md), [**solo**](parts/jazz_solo.md)
 - [**Barbershop**](parts/barbershop.md)
