@@ -16,7 +16,7 @@ https://www.hooktheory.com/theorytab/view/aerosmith/cryin
 
 <img width="800" alt="Screenshot 2022-01-21 at 2 07 44 PM" src="https://user-images.githubusercontent.com/1491908/150516896-ce75b545-7864-4d3b-b235-453608ec10ca.png">
 
-From Edward Tufte:
+https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000OQ 
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/937f4160-2238-46ef-b8d1-2cb172365584)
 
