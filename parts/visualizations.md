@@ -6,6 +6,7 @@ This repo
 - [**Common practice**](classical_visualizations.md)
 - [**Jazz harmony**](jazz_harmony_visualizations.md)
 - [**Jazz solo**](jazz_solo_visualizations.md)
+- [**Rock**](rock_visualizations.md)
 - [**Expressive performance**](https://github.com/vpavlenko/study-music/blob/main/parts/research.md#expressive-performance)
 
 Online platforms for music visualization
