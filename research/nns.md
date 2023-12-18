@@ -9,6 +9,14 @@ Eg. all MIDI files, all sheet music, all spotify audio.
 
 Music theory is more about texts written by people about pieces and genre (books, papers) than coding tools ready to be crossed. So a similar system for music theory can be an English-language LLM fine-tuned on chunks of music theory books and [journals](https://www.mtosmt.org/docs/index-author.php) along with examples discussed in particular passages fed in some symbolic form (eg. [MidiTok](https://github.com/Natooz/MidiTok)).
 
+## Single-modal
+
+Transformers are [widely fed](https://github.com/affige/genmusic_demo_list) on corpora of MIDI. And maybe they learn/extract all theoretical concepts along the way: keys, chords, voicings, voice-leading rules, formal structures, composers/genres. This information can't be extracted directly from the music generation setting, as transformers per se simply generate the next MIDI symbol. The corpus itself doesn't have any annotation on structures that we're interested in.
+
+The very interesting question is whether the transformer itself can mine new structures overlooked by researchers yet, akin to a [tonic added-sixth chord](https://www.mtosmt.org/issues/mto.23.29.2/mto.23.29.2.martin.html)
+
+One interesting thing we can readily extract from a transformer architecture is distribution of [expectation](https://mitpress.mit.edu/9780262582780/sweet-anticipation/), surprises and uncertainties in the next events. "Show me the weirdest place in this song", "generate a more expected measure"
+
 ## Tokenization
 
 GPT-4's [tiktoken](https://github.com/openai/tiktoken) has around 100k tokens - English words, common chunks from programming languages, chops of Russian words, integers and other unicode characters. This preprocessing allows the transformer to extract patterns on a higher level. What's the good tokenization for MIDI, can we improve [REMI+](https://arxiv.org/pdf/2201.10936.pdf)? 
@@ -32,13 +40,7 @@ Musical Styles](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2
 <img width="600" alt="Screenshot 2023-12-16 at 20 18 24" src="https://github.com/vpavlenko/study-music/assets/1491908/abf3f280-caae-4e22-a263-6bf05d1586eb">
 <img width="600" alt="Screenshot 2023-12-16 at 20 18 43" src="https://github.com/vpavlenko/study-music/assets/1491908/ed3d9675-2384-4aa0-b810-d291d79814b7">
 
-## Single-modal
 
-Transformers are [widely fed](https://github.com/affige/genmusic_demo_list) on corpora of MIDI. And maybe they learn/extract all theoretical concepts along the way: keys, chords, voicings, voice-leading rules, formal structures, composers/genres. This information can't be extracted directly from the music generation setting, as transformers per se simply generate the next MIDI symbol. The corpus itself doesn't have any annotation on structures that we're interested in.
-
-The very interesting question is whether the transformer itself can mine new structures overlooked by researchers yet, akin to a [tonic added-sixth chord](https://www.mtosmt.org/issues/mto.23.29.2/mto.23.29.2.martin.html)
-
-One interesting thing we can readily extract from a transformer architecture is distribution of [expectation](https://mitpress.mit.edu/9780262582780/sweet-anticipation/), surprises and uncertainties in the next events. "Show me the weirdest place in this song", "generate a more expected measure"
 
 ## Inspiration
 
