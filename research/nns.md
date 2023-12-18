@@ -42,6 +42,7 @@ Musical Styles](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2
 
 See also:
 - [Adarsh Kumar1 and Pedro Sarmento. From Words to Music: A Study of Subword Tokenization Techniques in Symbolic Music Generation](https://arxiv.org/pdf/2304.08953.pdf)
+- [Research of Nathan Fradet](https://scholar.google.com/citations?user=YdSSbXoAAAAJ&hl=fr)
 
 ## Inspiration
 
