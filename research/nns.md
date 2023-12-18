@@ -40,7 +40,8 @@ Musical Styles](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2
 <img width="600" alt="Screenshot 2023-12-16 at 20 18 24" src="https://github.com/vpavlenko/study-music/assets/1491908/abf3f280-caae-4e22-a263-6bf05d1586eb">
 <img width="600" alt="Screenshot 2023-12-16 at 20 18 43" src="https://github.com/vpavlenko/study-music/assets/1491908/ed3d9675-2384-4aa0-b810-d291d79814b7">
 
-
+See also:
+- [Adarsh Kumar1 and Pedro Sarmento. From Words to Music: A Study of Subword Tokenization Techniques in Symbolic Music Generation](https://arxiv.org/pdf/2304.08953.pdf)
 
 ## Inspiration
 
