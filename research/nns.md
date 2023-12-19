@@ -21,7 +21,7 @@ One interesting thing we can readily extract from a transformer architecture is 
 
 GPT-4's [tiktoken](https://github.com/openai/tiktoken) has around 100k tokens - English words, common chunks from programming languages, chops of Russian words, integers and other unicode characters. This preprocessing allows the transformer to extract patterns on a higher level. 
 
-[Here's what MidiTok supports.](https://miditok.readthedocs.io/en/latest/tokenizations.html) Is there room for improvement?
+[Here's what MidiTok supports.](https://miditok.readthedocs.io/en/latest/tokenizations.html) And here's [MidiTok BPE paper](https://arxiv.org/pdf/2301.11975.pdf). Is there room for improvement?
 
 - Should we have a separate token for Vsus4-V(7), Iadd6 (in many voicings)
 - Should we decompose progressions from voicings (learn ii-IV-V simultaneously for power chords, triads, diatonic seventh chords and dominant seventh chords)?
