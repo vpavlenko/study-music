@@ -52,7 +52,7 @@ Labs
 - https://www.epfl.ch/labs/dcml/
 
 
-MIDI datasets
+Datasets
 ---
 
 Meta lists:
@@ -60,6 +60,7 @@ Meta lists:
 - [awesome](https://github.com/albertmeronyo/awesome-midi-sources)
 - [virtualphilharmonic](http://www.virtualphilharmonic.co.uk/MIDIlinks.htm)
 - [audio content analysis](https://www.audiocontentanalysis.org/datasets.html)
+- https://github.com/Yuan-ManX/ai-audio-datasets-list
 
 Individual datasets:
 - [Yale–Classical Archives Corpus](https://ycac.yale.edu/)
