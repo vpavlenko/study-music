@@ -8,6 +8,10 @@ Repetitive:
 - https://rawl.rocks/browse/MIDI/Warren%20G?song=Regulate.mid
 
 
+
+Simple harmony:
+- https://rawl.rocks/browse/MIDI/Wet%20Willie?song=Keep+on+Smiling.mid
+
 Tricky harmony:
 - https://rawl.rocks/browse/MIDI/Warren?song=The+More+I+See+You.mid
 
