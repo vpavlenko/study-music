@@ -1,7 +1,9 @@
+# Neural Networks for Music
+
 - [Paper Digest: Recent Papers on AI for Music](https://www.paperdigest.org/2020/07/recent-papers-on-ai-for-music/)
 - https://github.com/affige/genmusic_demo_list
-- https://github.com/Natooz/MidiTok
-- [**Types of NNs**](../research/nns.md)
+- [**Types of NNs and tokenization**](../research/nns.md)
+- https://github.com/affige/DeepMIR
 - Ross Greer, Shlomo Dubnov. Deep and Shallow: Machine Learning in Music and Audio
 
 LLMs for music theory
@@ -24,7 +26,7 @@ Other NN approaches for related things (GAN, VAE, RNNs, LSTMs)
 - https://github.com/gudgud96/magenta-in-pytorch and his ISMIR reviews in his blog on DDSP
 - https://epub.jku.at/obvulihs/download/pdf/8503579?originalFilename=true
 - https://liuhaumin.github.io/LeadsheetArrangement/
-- https://github.com/affige/DeepMIR
+
 
 
 More
