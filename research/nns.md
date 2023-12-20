@@ -1,3 +1,7 @@
+> In many respects, the differences between music and language are so great that it is difficult to know how to compare them. Both are systems of human communication, and both are universal across cultures. Beyond this, it is not obvious how to proceed.
+> 
+> [David Temperley. Music and Language](http://davidtemperley.com/wp-content/uploads/2022/02/temperley-arl22.pdf)
+
 # Types of NNs for music theory
 
 There's a lot of music produced. I want it to be organized into searchable and annotated corpora. 
