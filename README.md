@@ -115,7 +115,7 @@ Topics
 - [**Topics, tropes, meaning**](parts/meaning.md)
 - [**Pseudoscience**](parts/pseudoscience.md)
 - [**Improvisation**](parts/improvisation.md)
-- [**Neural networks**](parts/nn.md)
+- [**Neural networks**](parts/nn.md), [**🦾 tokenization**](research/nns.md)
 - [**Sociology**](parts/sociology.md)
 - [**Psychology**](parts/psychology.md)
 - [**YouTube, podcasts and lists of resources**](parts/youtube_and_podcasts.md)
