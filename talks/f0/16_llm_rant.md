@@ -15,3 +15,5 @@ Tricky harmony:
 Constant modulation:
 - browse/MIDI/Vicki%20Sue%20Robinson?song=Never+Gonna+Let+You+Go.mid
   
+Modulation at the end:
+- /browse/MIDI/Vicki%20Brown?song=Stay+With+Me+%27Till+the+Morning.mid
