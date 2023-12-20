@@ -51,7 +51,8 @@ See also:
 
 1. **Determine measures and beats**
 
-I'm not sure it's very important as long as the drum track is encoded very semantically.
+I'm not sure it's very important as long as the drum track is encoded very semantically. Measures and beats in current MIDI tracks have [various issues](https://docs.google.com/document/d/1sW_XU2OW2UK0WWu_rW49XYA9pC_hgmp4bNtTo8ze6hE/edit)
+
 
 2. **Determine local tonic and modulation regions**
 
@@ -59,7 +60,14 @@ This should be done using a LLM that is fine-tuned for this task. Therefore, our
 
 3. **Determine harmonies for every measure/beat**
 
-4. 
+It's unclear how should we encode a harmony: i, i5, I5, i7, i7(9), i7(9)/3 etc.
+
+4. **Encode tracks**
+
+For every track and every measure, one of several encoding strategies may be picked:
+- Encode relative to the harmony
+- Encode relative to the key. May be good for melodies. A key - a pitch class collection - should be additionally inferred and stored
+- Encode relative to previous content. This may be both as "verbatim repeat" and also as a "sequence" relative either to key or to harmony
 
 ## Inspiration
 
