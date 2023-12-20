@@ -81,6 +81,7 @@ For every track and every measure, one of several encoding strategies may be pic
 - Encode relative to the harmony
 - Encode relative to the key. May be good for melodies. A key - a pitch class collection - should be additionally inferred and stored
 - Encode relative to previous content. This may be both as "verbatim repeat" and also as a "sequence" relative either to key or to harmony
+- Encode using some sort of a per-file BPE strategies (i.e. with a dictionary local to a specific MIDI-file)
 
 ## Inspiration
 
