@@ -10,3 +10,8 @@ Repetitive:
 
 Tricky harmony:
 - https://rawl.rocks/browse/MIDI/Warren?song=The+More+I+See+You.mid
+
+
+Constant modulation:
+- browse/MIDI/Vicki%20Sue%20Robinson?song=Never+Gonna+Let+You+Go.mid
+  
