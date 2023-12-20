@@ -22,4 +22,5 @@ Constant modulation:
   
 Modulation at the end:
 - /browse/MIDI/Vicki%20Brown?song=Stay+With+Me+%27Till+the+Morning.mid
+- browse/MIDI/Vanilla%20Fudge?song=You+Keep+Me+Hangin%27+On.mid
 - browse/MIDI/Vaughan%20Sarah?song=Fever.mid
