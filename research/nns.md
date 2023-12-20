@@ -47,6 +47,20 @@ See also:
 - [Adarsh Kumar1 and Pedro Sarmento. From Words to Music: A Study of Subword Tokenization Techniques in Symbolic Music Generation](https://arxiv.org/pdf/2304.08953.pdf)
 - [Research of Nathan Fradet](https://scholar.google.com/citations?user=YdSSbXoAAAAJ&hl=fr)
 
+## Music theory aware tokenization algorithm
+
+1. **Determine measures and beats**
+
+I'm not sure it's very important as long as the drum track is encoded very semantically.
+
+2. **Determine local tonic and modulation regions**
+
+This should be done using a LLM that is fine-tuned for this task. Therefore, our algorithm is bootstrapping: we use some simpler (theory-agnostic) tokenizer to determine tonics as a part of another tokenization process.
+
+3. **Determine harmonies for every measure/beat**
+
+4. 
+
 ## Inspiration
 
 David Temperley has [an article](https://www.annualreviews.org/doi/full/10.1146/annurev-linguistics-031220-121126) on parallels and differences between music and language. [Also](https://www.academia.edu/162993/Language_and_Music_as_Cognitive_Systems)
