@@ -58,6 +58,15 @@ I'm not sure it's very important as long as the drum track is encoded very seman
 
 This should be done using a LLM that is fine-tuned for this task. Therefore, our algorithm is bootstrapping: we use some simpler (theory-agnostic) tokenizer to determine tonics as a part of another tokenization process.
 
+Where to get a corpus for it:
+- RS200 (De Clercq - Temperley)
+- GiantSteps
+- Spotify API provides a key which can then be mapped to MetaMIDI
+- MIDI files where key signature is present and is not C major
+- [rawl tonics](https://github.com/vpavlenko/rawl/blob/master/src/corpus/tonics.json) for Lakh files
+
+To fine-tune an LLM, transpose the dataset to all 12 pitch classes
+
 3. **Determine harmonies for every measure/beat**
 
 It's unclear how should we encode a harmony: i, i5, I5, i7, i7(9), i7(9)/3 etc.
