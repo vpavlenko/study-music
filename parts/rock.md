@@ -92,4 +92,5 @@ More
 ([source](https://www.midside.com/presentations/declercq_2018_scsmt_slides.pdf))
 
 - [Stephen Hazel. Math Rock Essentials Guide](https://lets-talk-about-math-rock.myshopify.com/) for advanced guitar players. Also his Youtube channel: https://youtube.com/@LetsTalkAboutMathRock
- 
+
+- https://www.top40theory.com/blog
