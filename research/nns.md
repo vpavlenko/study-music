@@ -89,7 +89,7 @@ For every track and every measure, one of several encoding strategies may be pic
 ### In another terms
 
 Possibly, the better way to tokenize MIDI-files is first to try to write programs that generate those MIDI files. Probably, music theory is exactly the condensed knowledge of
-how to structure computer programs generating MIDI files so that a program to generate each individual file is pretty small.
+how to structure computer programs generating MIDI files so that a program to generate each individual file is pretty small. So, interpretation is inferring a DSL from a MIDI file (which is possibly the mental model of composer/transcriber) and we should probably train NNs on DSLs rather than on direct MIDI files. I.e. we probably shouldn't wait until NN learns music theory, because it may forget to tell us about it afterwards.
 
 ## Inspiration
 
