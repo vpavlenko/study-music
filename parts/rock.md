@@ -95,4 +95,4 @@ More
 
 - https://www.top40theory.com/blog
 
-- [papers](../talks/f0/20_advanced_rock.md)
+- [**papers**](../talks/f0/20_advanced_rock.md)
