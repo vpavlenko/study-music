@@ -1,3 +1,5 @@
+# Advanced concept in rock music analysis
+
 - [Redefining Ornamentation as Formal Functions in 21
 Redefining Ornamentation as Formal Functions in 21st st-Century -Century
 Popular Music Popular Music
