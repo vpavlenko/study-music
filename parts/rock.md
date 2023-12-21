@@ -94,3 +94,5 @@ More
 - [Stephen Hazel. Math Rock Essentials Guide](https://lets-talk-about-math-rock.myshopify.com/) for advanced guitar players. Also his Youtube channel: https://youtube.com/@LetsTalkAboutMathRock
 
 - https://www.top40theory.com/blog
+
+- [papers](../talks/f0/20_advanced_rock.md)
