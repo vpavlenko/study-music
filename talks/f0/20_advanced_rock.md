@@ -20,3 +20,4 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - [Steingold, Marissa Leigh. Journey to the Flat Side: dualism, subdominants, stacked fourths, pentatonics, and the ‘musical left’
 ](https://escholarship.org/uc/item/3s41640v)
 - [Moore, A. (1992). Patterns of harmony](https://sci-hub.se/https://doi.org/10.1017/S0261143000004852)
+- Wagner, Naphtali. 2003. “‘Domestication’ of Blue Notes in the Beatles’ Songs.” Music Theory Spectrum 25 (2): 353–65. https://doi.org/10.1525/mts.2003.25.2.353.
