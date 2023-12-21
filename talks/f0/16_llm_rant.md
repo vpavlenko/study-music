@@ -4,9 +4,10 @@
 
 ## Relevant MIDI LLMs
 
-- https://jeffreyjohnens.github.io/MMM/
+- MMM (Transformer; ens20arxiv): https://jeffreyjohnens.github.io/MMM/
 - https://arxiv.org/pdf/2311.12257.pdf
 - https://openai.com/research/musenet
+- Anticipatory Music Transformer (; thickstun23arxiv): https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html
 
 ## MIDI examples
 
