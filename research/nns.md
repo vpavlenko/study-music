@@ -53,6 +53,8 @@ See also:
 
 ## Music theory aware tokenization algorithm
 
+
+
 1. **Determine measures and beats**
 
 I'm not sure it's very important as long as the drum track is encoded very semantically. Measures and beats in current MIDI tracks have [various issues](https://docs.google.com/document/d/1sW_XU2OW2UK0WWu_rW49XYA9pC_hgmp4bNtTo8ze6hE/edit)
@@ -83,6 +85,11 @@ For every track and every measure, one of several encoding strategies may be pic
 - Encode relative to previous content. This may be both as "verbatim repeat" and also as a "sequence" relative either to key or to harmony
 - Encode relative to a simultaneous content in another track. There's a lot of doubling in MIDI-files
 - Encode using some sort of a per-file BPE strategies (i.e. with a dictionary local to a specific MIDI-file)
+
+### In another terms
+
+Possibly, the better way to tokenize MIDI-files is first to try to write programs that generate those MIDI files. Probably, music theory is exactly the condensed knowledge of
+how to structure computer programs generating MIDI files so that a program to generate each individual file is pretty small.
 
 ## Inspiration
 
