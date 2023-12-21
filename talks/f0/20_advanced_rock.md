@@ -15,3 +15,4 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - [Melodic-harmonic divorce](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-pm07.pdf)
   - https://www.mtosmt.org/issues/mto.22.28.2/mto.22.28.2.reed.html
 - [John Covach. Analyzing Texture in Rock](https://d-nb.info/1216144591/34)
+- [Allan Moore. The so called "flattened seventh" in rock](https://sci-hub.se/10.2307/853399)
