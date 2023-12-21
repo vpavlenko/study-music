@@ -17,3 +17,5 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - [John Covach. Analyzing Texture in Rock](https://d-nb.info/1216144591/34)
 - [Allan Moore. The so called "flattened seventh" in rock](https://sci-hub.se/10.2307/853399)
 - [Ruth Dockwray and Allan F. Moore. Configuring the sound-box 1965–1972](https://sci-hub.se/10.1017/S0261143010000024)
+- [Steingold, Marissa Leigh. Journey to the Flat Side: dualism, subdominants, stacked fourths, pentatonics, and the ‘musical left’
+](https://escholarship.org/uc/item/3s41640v)
