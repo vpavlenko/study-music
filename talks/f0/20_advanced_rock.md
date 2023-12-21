@@ -19,3 +19,4 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - [Ruth Dockwray and Allan F. Moore. Configuring the sound-box 1965–1972](https://sci-hub.se/10.1017/S0261143010000024)
 - [Steingold, Marissa Leigh. Journey to the Flat Side: dualism, subdominants, stacked fourths, pentatonics, and the ‘musical left’
 ](https://escholarship.org/uc/item/3s41640v)
+- [Moore, A. (1992). Patterns of harmony](https://sci-hub.se/https://doi.org/10.1017/S0261143000004852)
