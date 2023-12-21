@@ -6,7 +6,7 @@
 
 - https://jeffreyjohnens.github.io/MMM/
 - https://arxiv.org/pdf/2311.12257.pdf
-- 
+- https://openai.com/research/musenet
 
 ## MIDI examples
 
