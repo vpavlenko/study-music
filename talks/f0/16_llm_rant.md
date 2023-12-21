@@ -2,6 +2,13 @@
 
 - https://rot13.com/
 
+## Relevant MIDI LLMs
+
+- https://jeffreyjohnens.github.io/MMM/
+- 
+
+## MIDI examples
+
 Repetitive:
 - https://rawl.rocks/browse/MIDI/Van%20Halen?song=%28Oh%29+Pretty+Woman.mid
 - https://rawl.rocks/browse/MIDI/Valens%20Ritchie?song=La+Bamba.mid
