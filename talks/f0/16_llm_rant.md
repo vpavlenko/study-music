@@ -1,4 +1,4 @@
-# [bit.ly/gmaj](bit.ly/gmaj)
+# [bit.ly/gmaj](https://bit.ly/gmaj)
 
 ## LLM
 
