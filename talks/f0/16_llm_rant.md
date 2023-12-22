@@ -5,9 +5,12 @@
 ## Relevant MIDI LLMs
 
 - MMM (Transformer; ens20arxiv): https://jeffreyjohnens.github.io/MMM/
+- LakhNES (Transformer; donahue19ismir): https://chrisdonahue.com/LakhNES/
 - https://arxiv.org/pdf/2311.12257.pdf
 - https://openai.com/research/musenet
 - Anticipatory Music Transformer (; thickstun23arxiv): https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html
+- AudioLM (Transformer; borsos22arxiv): https://google-research.github.io/seanet/audiolm/examples/ (for general sounds)
+
 
 ## MIDI examples
 
