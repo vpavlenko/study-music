@@ -5,6 +5,7 @@
 - https://bbycroft.net/llm
 - https://platform.openai.com/tokenizer
 - https://github.com/vpavlenko/study-music/blob/main/research/nns.md
+- [BPE Jurafsky](https://youtu.be/tOMjTCO0htA?si=lDCmD9NxyQp8Khho&t=197)
 - https://rot13.com/
 
 <img width="1216" alt="Screenshot 2023-12-22 at 15 04 36" src="https://github.com/vpavlenko/study-music/assets/1491908/0b461c88-f59a-46fe-8769-dae74cdaf694">
