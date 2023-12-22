@@ -9,6 +9,7 @@
 
 <img width="918" alt="Screenshot 2023-12-22 at 15 50 30" src="https://github.com/vpavlenko/study-music/assets/1491908/90b0261d-6f36-4a4b-a7be-a5032600cf91">
 
+<img width="703" alt="Screenshot 2023-12-22 at 16 30 49" src="https://github.com/vpavlenko/study-music/assets/1491908/7c0b0044-210c-4d14-b7fe-abd1cf9d3aa4">
 
 ## Relevant MIDI LLMs
 
