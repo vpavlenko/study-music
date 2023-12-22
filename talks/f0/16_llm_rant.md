@@ -18,6 +18,7 @@
 - https://arxiv.org/pdf/2311.12257.pdf
 - https://openai.com/research/musenet
 - Anticipatory Music Transformer (; thickstun23arxiv): https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html
+- SymphonyNet (Transformer; liu22ismir): https://symphonynet.github.io/
 - FIGARO (Transformer; rütte22arxiv): https://github.com/dvruette/figaro
 - MMT-GI (transformer; xu23arxiv): https://goatlazy.github.io/MUSICAI/
 - AudioLM (Transformer; borsos22arxiv): https://google-research.github.io/seanet/audiolm/examples/ (for general sounds)
@@ -62,3 +63,7 @@ Modulation at the end:
 - https://rawl.rocks/browse/MIDI/Vaughan%20Sarah?song=Fever.mid
 - https://rawl.rocks/browse/MIDI/U.S.A.%20for%20Africa?song=We+Are+the+World.mid
 
+
+## Image backup
+
+- https://arxiv.org/pdf/1802.05751.pdf
