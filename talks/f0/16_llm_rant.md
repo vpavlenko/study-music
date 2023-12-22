@@ -4,6 +4,8 @@
 - https://platform.openai.com/tokenizer
 - https://rot13.com/
 
+<img width="1216" alt="Screenshot 2023-12-22 at 15 04 36" src="https://github.com/vpavlenko/study-music/assets/1491908/0b461c88-f59a-46fe-8769-dae74cdaf694">
+
 ## Relevant MIDI LLMs
 
 - MMM (Transformer; ens20arxiv): https://jeffreyjohnens.github.io/MMM/
@@ -12,8 +14,12 @@
 - https://openai.com/research/musenet
 - Anticipatory Music Transformer (; thickstun23arxiv): https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html
 - FIGARO (Transformer; rütte22arxiv): https://github.com/dvruette/figaro
+- MMT-GI (transformer; xu23arxiv): https://goatlazy.github.io/MUSICAI/
 - AudioLM (Transformer; borsos22arxiv): https://google-research.github.io/seanet/audiolm/examples/ (for general sounds)
 
+# Other stuff 
+
+- https://github.com/vpavlenko/study-music/blob/main/research/nns.md
 
 ## MIDI examples
 
