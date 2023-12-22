@@ -14,6 +14,8 @@
 
 ## Relevant MIDI LLMs
 
+- https://github.com/affige/genmusic_demo_list
+- https://natooz.github.io/BPE-Symbolic-Music/
 - MMM (Transformer; ens20arxiv): https://jeffreyjohnens.github.io/MMM/
 - LakhNES (Transformer; donahue19ismir): https://chrisdonahue.com/LakhNES/
 - https://arxiv.org/pdf/2311.12257.pdf
