@@ -1,5 +1,7 @@
+## LLM
 
-
+- https://bbycroft.net/llm
+- https://platform.openai.com/tokenizer
 - https://rot13.com/
 
 ## Relevant MIDI LLMs
