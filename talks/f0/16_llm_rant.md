@@ -2,9 +2,13 @@
 
 - https://bbycroft.net/llm
 - https://platform.openai.com/tokenizer
+- https://github.com/vpavlenko/study-music/blob/main/research/nns.md
 - https://rot13.com/
 
 <img width="1216" alt="Screenshot 2023-12-22 at 15 04 36" src="https://github.com/vpavlenko/study-music/assets/1491908/0b461c88-f59a-46fe-8769-dae74cdaf694">
+
+<img width="918" alt="Screenshot 2023-12-22 at 15 50 30" src="https://github.com/vpavlenko/study-music/assets/1491908/90b0261d-6f36-4a4b-a7be-a5032600cf91">
+
 
 ## Relevant MIDI LLMs
 
@@ -17,9 +21,7 @@
 - MMT-GI (transformer; xu23arxiv): https://goatlazy.github.io/MUSICAI/
 - AudioLM (Transformer; borsos22arxiv): https://google-research.github.io/seanet/audiolm/examples/ (for general sounds)
 
-# Other stuff 
 
-- https://github.com/vpavlenko/study-music/blob/main/research/nns.md
 
 ## MIDI examples
 
