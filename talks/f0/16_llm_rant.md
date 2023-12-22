@@ -1,3 +1,5 @@
+# [bit.ly/gmaj](bit.ly/gmaj)
+
 ## LLM
 
 - https://bbycroft.net/llm
