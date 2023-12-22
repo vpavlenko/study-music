@@ -9,6 +9,7 @@
 - https://arxiv.org/pdf/2311.12257.pdf
 - https://openai.com/research/musenet
 - Anticipatory Music Transformer (; thickstun23arxiv): https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html
+- FIGARO (Transformer; rütte22arxiv): https://github.com/dvruette/figaro
 - AudioLM (Transformer; borsos22arxiv): https://google-research.github.io/seanet/audiolm/examples/ (for general sounds)
 
 
