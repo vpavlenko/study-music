@@ -9,8 +9,8 @@
 These are eight basic types of strokes in Chinese. All characters are built using those strokes.
 
 As an analogy, current attempts to train transformers for music generation (Chinese text generation, in this analogy) are made of these assumptions:
-- Chinese language is best modeled if we feed Chinese characters tokenized as a sequence of strokes. It's cool that there are only eight strokes. (Pitch classes, no tonal context)
-- However, strokes written by different people should be different strokes for our tokenizer. That's not an issue, since the transformer Will Figure It Out. (Velocities)
+- Chinese language is best modeled if we feed Chinese characters tokenized as a sequence of strokes. It's cool that there are only eight strokes. (Ignore chords, riffs and any structures, at all. Especially the repetition.)
+- However, strokes written by different people should be different strokes for our tokenizer. That's not an issue, since the transformer Will Figure It Out. (Velocities should be preserved at all cost.)
 - Texts rotated 5%-10%-20%-50% left are all different texts, albeit in the same language. No need to align them on a preprocessing stage. Instead, let's augment the dataset by rotating each image in 12 different angles. (No tonic inference before tokenization stage)
 - Chinese language is complex and we don't need to know anything about its structure. There are people who speak Chinese, we'll only use them at the evaluation stage by politely showing our generated music and ask them to review. (Music theory doesn't exist and should not be studied, at all.)
 
