@@ -2,6 +2,19 @@
 > 
 > [David Temperley. Music and Language](http://davidtemperley.com/wp-content/uploads/2022/02/temperley-arl22.pdf)
 
+# I'm angry
+
+![image](https://github.com/vpavlenko/study-music/assets/1491908/91162d50-fc17-41e2-b516-9780cc051f7a)
+
+These are eight basic types of strokes in Chinese. All characters are built using those strokes.
+
+As an analogy, current attempts to train transformers for music generation (Chinese text generation, in this analogy) are made of these assumptions:
+- Chinese language is best modeled if we feed Chinese characters tokenized as a sequence of strokes. It's cool that there are only eight strokes. (Pitch classes, no tonal context)
+- However, strokes written by different people should be different strokes for our tokenizer. That's not an issue, since the transformer Will Figure It Out. (Velocities)
+- Texts rotated 5%-10%-20%-50% left are all different texts, albeit in the same language. No need to align them on a preprocessing stage. Instead, let's augment the dataset by rotating each image in 12 different angles. (No tonic inference before tokenization stage)
+- Chinese language is complex and we don't need to know anything about its structure. There are people who speak Chinese, we'll only use them at the evaluation stage by politely showing our generated music and ask them to review. (Music theory doesn't exist and should not be studied, at all.)
+
+
 # Types of NNs for music theory
 
 There's a lot of music produced. I want it to be organized into searchable and annotated corpora. 
