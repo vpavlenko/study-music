@@ -27,9 +27,10 @@ GPT-4's [tiktoken](https://github.com/openai/tiktoken) has around 100k tokens - 
 
 [Here's what MidiTok supports.](https://miditok.readthedocs.io/en/latest/tokenizations.html) And here's [MidiTok BPE paper](https://arxiv.org/pdf/2301.11975.pdf). Is there room for improvement?
 
+- Should we have a separate token for a power chord in all popular durations?
 - Should we have a separate token for Vsus4-V(7), Iadd6 (in many voicings)
 - Should we decompose progressions from voicings (learn ii-IV-V simultaneously for power chords, triads, diatonic seventh chords and dominant seventh chords)?
-- Should we tokenize repetitions and have a direct token for "verse 2 = verse 1", "m.5 = m.1"?
+- Should we tokenize repetitions and have a direct token for "verse 2 = verse 1", "m.5 = m.1", "repeat last chord transposed -2 down"?
 - How do we tokenize an exact repetition transposed a semitone up, harmonic or melodic?
 - Should we decompose rhythm from note content and have tokens for rhythmic repetiton/reference in a new phrase? Should we have a token for 3+3+2?
 
