@@ -16,6 +16,8 @@ As an analogy, current attempts to train transformers for music generation (Chin
 
 Engineers are treating this subject in a very colonial way. Remember what Andrej Karpathy put in the first place: ["Become one with the data"](https://karpathy.github.io/2019/04/25/recipe/).
 
+One inspiring example: [Museformer](https://ai-muzic.github.io/museformer/) handles hypermeter in a nice way by attending to the 4th/8th/16th bar in the past. They did this by looking at the data.
+
 # Types of NNs for music theory
 
 There's a lot of music produced. I want it to be organized into searchable and annotated corpora. 
