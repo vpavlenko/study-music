@@ -14,7 +14,7 @@ As an analogy, current attempts to train transformers for music generation (Chin
 - Texts rotated 5%-10%-20%-50% to the left are all different texts, albeit in the same language. No need to align them on a preprocessing stage. Instead, let's augment the dataset by rotating each image in 12 different angles. (No tonic inference and transposing to C before tokenization stage.)
 - Chinese language is very flexible, many sequences of characters sound good, it doesn't have any meaning, and we don't need to know anything about its structure. There are people who speak Chinese, we'll only use them at the evaluation stage by politely showing our generated music and asking them to review. (Music theory doesn't exist and should not be studied, at all.)
 
-Engineers are treating this subjects in a very colonial way.
+Engineers are treating this subject in a very colonial way.
 
 # Types of NNs for music theory
 
