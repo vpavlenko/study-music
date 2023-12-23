@@ -4,7 +4,7 @@
 
 # I'm angry
 
-![image](https://github.com/vpavlenko/study-music/assets/1491908/91162d50-fc17-41e2-b516-9780cc051f7a)
+<img src="https://github.com/vpavlenko/study-music/assets/1491908/91162d50-fc17-41e2-b516-9780cc051f7a" width="400px">
 
 These are eight basic types of strokes in Chinese. All characters are built using those strokes.
 
