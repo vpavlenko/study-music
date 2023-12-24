@@ -71,7 +71,7 @@ Advanced form
 Books on individual composers and pieces
 ---
 
-- [Cambridge Music Handbooks](https://www.cambridge.org/core/series/cambridge-music-handbooks/)
+- [Cambridge Music Handbooks](https://www.cambridge.org/core/series/cambridge-music-handbooks/2CBC1457EDA4B9D6FB4DF6A988E6D538)
 - Pauline Fairclough. A Soviet Credo: Shostakovich's Fourth Symphony
 - James Webster. Haydn's "Farewell"
 - Robert S. Hatten for Beethoven
