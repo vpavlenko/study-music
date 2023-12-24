@@ -2,7 +2,11 @@
 > 
 > [David Temperley. Music and Language](http://davidtemperley.com/wp-content/uploads/2022/02/temperley-arl22.pdf)
 
-# I'm angry
+> Every time I fire a linguist, the performance of the speech recognizer goes up.
+> 
+> Frederick Jelinek
+
+# Angry rant
 
 <img src="https://github.com/vpavlenko/study-music/assets/1491908/91162d50-fc17-41e2-b516-9780cc051f7a" width="400px">
 
@@ -17,6 +21,8 @@ As an analogy, current attempts to train transformers for music generation (Chin
 Engineers are treating this subject in a very colonial way. Remember what Andrej Karpathy put in the first place: ["Become one with the data"](https://karpathy.github.io/2019/04/25/recipe/).
 
 One inspiring example: [Museformer](https://ai-muzic.github.io/museformer/) handles hypermeter in a nice way by attending to the 4th/8th/16th bar in the past. They did this by looking at the data.
+
+However, beware of [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 # Types of NNs for music theory
 
