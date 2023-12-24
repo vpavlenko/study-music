@@ -114,6 +114,13 @@ For every track and every measure, one of several encoding strategies may be pic
 Possibly, the better way to tokenize MIDI-files is first to try to write programs that generate those MIDI files. Probably, music theory is exactly the condensed knowledge of
 how to structure computer programs generating MIDI files so that a program to generate each individual file is pretty small. So, interpretation is inferring a DSL from a MIDI file (which is possibly the mental model of composer/transcriber) and we should probably train NNs on DSLs rather than on direct MIDI files. I.e. we probably shouldn't wait until NN learns music theory, because it may forget to tell us about it afterwards.
 
+## Very general method
+
+If all of this sounds very sophisticated and failing to let the AI figure out all the data dependencies on their own, consider adding just a single set of tokens: "repeat Xth previous measure in this channel".
+
+<img width="1700" alt="Screenshot 2023-12-25 at 00 42 26" src="https://github.com/vpavlenko/study-music/assets/1491908/cddf4109-9177-4114-bea1-3679fd6a22f4">
+
+
 ## Inspiration
 
 David Temperley has [an article](https://www.annualreviews.org/doi/full/10.1146/annurev-linguistics-031220-121126) on parallels and differences between music and language. [Also](https://www.academia.edu/162993/Language_and_Music_as_Cognitive_Systems)
