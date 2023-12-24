@@ -10,7 +10,7 @@
 
 <img src="https://github.com/vpavlenko/study-music/assets/1491908/91162d50-fc17-41e2-b516-9780cc051f7a" width="400px">
 
-These are eight basic types of strokes in Chinese. All characters are built using those strokes.
+These are eight basic types of strokes in Chinese. All characters are built using those strokes. (A rude oversimplification.)
 
 As an analogy, current attempts to train transformers for music generation (Chinese text generation, in this analogy) are made of these assumptions:
 - Chinese language is best modeled if we feed Chinese characters tokenized as a sequence of strokes. It's cool that there are only eight strokes. (Ignore octave equivalence, scales, chords, riffs and any structures, at all. Especially the repetition.)
