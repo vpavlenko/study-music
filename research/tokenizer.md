@@ -1,6 +1,6 @@
 Here's a refined algorithm for tokenizing a Lakh-flavoured pop music MIDI file for music theory processing.
 
-Suppose we generate measure 20. Suppose it's identical to measure 16. We encode this with a token "repeat_m_4", where 4 is a relative distance back. At all times choose the closest measure to reference back (exception: if you can repeat "repeat_m_i", repeat it).
+Suppose we generate measure 20. Suppose it's identical to measure 16. We encode this with a token "repeat_m_4", where 4 is a relative distance back. At all times choose the closest measure to reference back (exception: if you can repeat "repeat_m_i" many times, simply repeat it).
 
 0. If you can calculate measure adjustments (incomplete measures, measure shifts) or a total modulation, emit it. It's hard computationally, though.
 0. Only tokenize note onsets. Drop durations (assume full legato), velocities, pitch bends, instrument changes. Ideally sort-group-map tracks to semantic ones. Consider quantizing onsets to nearest 32nd. For string pad tracks with onsets slightly before measure starts (as calculated by histogram of onset positions) offset a track to the right to compensate (since this is timbral and not semantical).
