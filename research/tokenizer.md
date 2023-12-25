@@ -2,7 +2,7 @@ Here's a refined algorithm for tokenizing a Lakh-flavoured pop music MIDI file f
 
 Suppose we generate measure 20. Suppose it's identical to measure 16. We encode this with a token "repeat_m_4", where 4 is a relative distance back. At all times choose the closest measure to reference back (exception: if you can repeat "repeat_m_i", repeat it).
 
--1. If you can calculate measure adjustments (incomplete measures, measure shifts) or a total modulation, emit it. It's hard computationally, though.
+0. If you can calculate measure adjustments (incomplete measures, measure shifts) or a total modulation, emit it. It's hard computationally, though.
 0. Only tokenize note onsets. Drop durations (assume full legato), velocities, pitch bends, instrument changes. Ideally sort-group-map tracks to semantic ones. Consider quantizing onsets to nearest 32nd.
 1. Tokenizer works measure by measure. (This is a dubious tradeoff, alternatively we can encode many measures of repetitions in a single track simultaneously to leverage BPE on it, at the risk of not giving enough local context for other tracks on what's going on).
 2. Emit "repeat_m_i" if there was a measure back in time with exactly the same content. (Optimize for an efficient merge of several such references in a corpus-wise BPE for chorus repetitions.)
