@@ -21,4 +21,5 @@ Suppose we generate measure 20. Suppose it's identical to measure 16. We encode 
     - So, a power chord as a first note in the measure after a 5/16 rest is encoded as "time_shift_5/16" "relative_pitch_0" "relative_pitch_7" "relative_pitch_12"
     - If there wasn't any pitch in this track before, input a relative MIDI pitch to the lowest note of a previous chord in this generation.
     - If it's the very first pitch in this file, emit absolute pitch.
+    - A time shift emitted without a relative pitch is a last note/chord repetition.
     - Important: relative pitch for a first note in a chord starts from the *lowest note* of the previous chord, relative pitch for other notes in a chord is relative to notes below it.
