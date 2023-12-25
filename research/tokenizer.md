@@ -31,3 +31,5 @@ Suppose we generate measure 20. Suppose it's identical to measure 16. We encode 
 One expected consequence of relative pitch encoding is that a prior tonic estimation isn't necessary, at all, whereas the NN trained on this tokenization will probably be useful in inferring the tonic afterwards.
 
 The next question is how to leverage basic-pitch recognition on Spotify data to further increase the model. I suspect that there are easier and harder genres, and we might start with easier ones.
+
+Not all MIDI files are equal. First, focus on narrowing a dataset by excluding classical music, solo piano works and jazz.
