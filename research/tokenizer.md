@@ -14,4 +14,10 @@ Suppose we generate measure 20. Suppose it's identical to measure 16. We encode 
 9. Emit "repeat_track_L_m_0" if this track's content is doubling some other track in this very measure that's already encoded.
 10. Silently skip encoding tracks that don't have any onsets in this measure.
 98. Maybe mix repetitions + adding manual notes: optimize track sorting to leverage this.
-99. If all else fails, emit "manual_track_N" and encode measure note by note in two tokens: MIDI pitch and a time shift from measure start or the last onset in this measure. MIDI pitch can be relative to the last known pitch in this track. Emit time shift only once per chord. So, a power chord as a first note in the measure after a 5/16 rest is encoded as "time_shift_5/16" "relative_pitch_0" "relative_pitch_7" "relative_pitch_12". If there wasn't any pitch in this track before, input an absolute MIDI pitch. Important: relative pitch for a first note in a chord starts from the *lowest note* of the previous chord, relative pitch for other notes in a chord is relative to notes below it.
+99. If all else fails, emit "manual_track_N" and encode measure note by note in two tokens: MIDI pitch and a time shift from measure start or the last onset in this measure.
+- MIDI pitch can be relative to the last known pitch in this track
+- Emit time shift only once per chord
+- So, a power chord as a first note in the measure after a 5/16 rest is encoded as "time_shift_5/16" "relative_pitch_0" "relative_pitch_7" "relative_pitch_12"
+- If there wasn't any pitch in this track before, input a relative MIDI pitch to the lowest note of a previous chord in this generation.
+- If it's the very first pitch in this file, emit absolute pitch.
+- Important: relative pitch for a first note in a chord starts from the *lowest note* of the previous chord, relative pitch for other notes in a chord is relative to notes below it.
