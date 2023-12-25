@@ -26,3 +26,5 @@ Suppose we generate measure 20. Suppose it's identical to measure 16. We encode 
     - Important: relative pitch for a first note in a chord starts from the *lowest note* of the previous chord, relative pitch for other notes in a chord is relative to notes below it.
     - Drum track pitches should probably be absolute or even somehow available for semantic extraction of bass drum / snare / hi-hat in case of variation in the data set.
     
+
+One expected consequence of relative pitch encoding is that a prior tonic estimation isn't necessary, at all, whereas the NN trained on this tokenization will probably be useful in inferring the tonic afterwards.
