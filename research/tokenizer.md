@@ -53,7 +53,7 @@ for measure in measures:
 In the first pass, it transforms raw MIDI onsets into the intermediate representation (IR). In the second pass, it works on IR and tries to replace as much of it as possible with reference tokens marking repetition/doubling/transposition/reuse of ideas of any sort.
 
 
-## First pass: MIDI -> IR
+## First pass: cell-wise MIDI -> IR
 
 The main idea: strumming patterns, drum patterns and melodic patterns should be referenced inside a song using special reference tokens. In order to do that, every instance of a pattern should be decoupled into a bag of notes and a pattern skeleton. A bag of notes is several MIDI numbers of notes. Inside a skeleton, they are referenced via a local numbering as n_0, n_1, n_2... from lowest to highest.
 
@@ -61,10 +61,10 @@ Ideally, this decoupling should happen on units of harmonic rhythm (for chord tr
 
 ### Bag of notes
 
-A
+In Western pop songs, there is usually a bass track that has a good informational reference for other tracks to refer to. Also, this track is usually monophonic. So, I propose to encode bass notes from left to right throughout the entire track by relative references. This way the typical patterns like 2-5-1-6, chromatic descending, diatonic descending etc. will all naturally be visible, even though we don't make any tonic inference preprocessing.
 
 ### Pattern
 
 
-## Second pass: IR -> IR with references
+## Second pass: IR -> IR with repetitions tokenized
 
