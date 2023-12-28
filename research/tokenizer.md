@@ -57,7 +57,7 @@ In the first pass, it transforms raw MIDI onsets into the intermediate represent
 
 ## First pass: cell-wise MIDI -> IR
 
-The main idea: strumming patterns, drum patterns and melodic patterns should be referenced inside a song using special reference tokens. In order to do that, every instance of a pattern should be decoupled into a bag of notes and a pattern skeleton. A bag of notes is several MIDI numbers of notes. Inside a skeleton, they are referenced via a local numbering as n_0, n_1, n_2... from lowest to highest.
+The main idea: strumming patterns, drum patterns and melodic patterns should be referenced inside a song using special reference tokens. In order to do that, every instance of a pattern should be decoupled into a bag of notes and a pattern skeleton. A bag of notes is several MIDI numbers of notes. Inside a skeleton, they are referenced via a local numbering as s_0, s_1, s_2... from lowest to highest. 
 
 Ideally, this decoupling should happen on units of harmonic rhythm (for chord tracks) and most common melodic lengths (for melodic tracks). For a slower harmonic/phrase rhythm, it shouldn't be an issue due to the second pass.
 
@@ -76,7 +76,7 @@ In most MIDI files we have a good grid of measures and beats that is constructed
 
 For better pattern extraction it's probably better to work with time shifts between two onsets rather than with absolute times within a measure. 
 
-A major scale in 8ths will look like this: `n_0 t_0.00 n_1 t_0.50 n_2 t_0.50 n_3 0.50 n_4 0.50 ...`, assuming its bag of words is something like `oct_2 rel_0 rel_2 rel_4 rel_5 rel_7 ...`. A `t_0.00` is an absolute coordinate for a first onset inside a measure. (Is there a better way to unify `t_` and `ts_`?)
+A major scale in 8ths will look like this: `s_0 t_0.00 n_+1 t_0.50 n_+1 t_0.50 n_+1 0.50 n_+1 0.50 ...`, assuming its bag of words is something like `oct_2 rel_0 rel_2 rel_4 rel_5 rel_7 ...`. A `s_0`/`s_1`/etc. tells which note from the bag of notes starts the pattern. Then notes in a pattern are references relative to their order within the bag of notes as `n±1`, `n±2` etc.  A `t_0.00` is an absolute coordinate for a first onset inside a measure. (Is there a better way to unify `t_` and `ts_`?) 
 
 Two shorthands are used:
 - simultaneous notes (a chord) are grouped together under a single time shift that's put after the notes
