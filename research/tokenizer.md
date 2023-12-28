@@ -96,4 +96,5 @@ Again, the outer loop goes over measures, the inner loop goes over channels (in 
 
 If this particular cell is already a part of a large repetition found and encoded previously, we skip it. Otherwise, we try to find the best strategy to encode its most probable semantic relation to the content seen before (in previous measures + in cells below this one in the same measure). There's a semantic hierarchy on repetitions:
 
-1. 
+1. Find a longest sequence of previous cells such that the sequence starting from the current one is equal to them. Let it start D measures ago and be of length L. Intuitively, if L is large, than larger Ds have semantic value. Whereas it's not feasible to refer to a single chord 50 measures ago just because it's the same. Emit `repeat_D_L`.
+
