@@ -57,7 +57,13 @@ In the first pass, it transforms raw MIDI onsets into the intermediate represent
 
 The main idea: strumming patterns, drum patterns and melodic patterns should be referenced inside a song using special reference tokens. In order to do that, every instance of a pattern should be decoupled into a bag of notes and a pattern skeleton. A bag of notes is several MIDI numbers of notes. Inside a skeleton, they are referenced via a local numbering as n_0, n_1, n_2... from lowest to highest.
 
-Ideally, this decoupling should happen on units of harmonic rhythm (for chord tracks) and most common melodic lengths (for melodic tracks).
+Ideally, this decoupling should happen on units of harmonic rhythm (for chord tracks) and most common melodic lengths (for melodic tracks). For a slower harmonic/phrase rhythm, it shouldn't be an issue due to the second pass.
+
+### Bag of notes
+
+A
+
+### Pattern
 
 
 ## Second pass: IR -> IR with references
