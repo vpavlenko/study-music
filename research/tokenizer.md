@@ -1,3 +1,5 @@
+# V1
+
 Here's a refined algorithm for tokenizing a Lakh-flavoured pop music MIDI file for music theory processing.
 
 Suppose we generate measure 20. Suppose it's identical to measure 16. We encode this with a token "repeat_m_4", where 4 is a relative distance back. At all times choose the closest measure to reference back (exception: if you can repeat "repeat_m_i" many times, simply repeat it).
@@ -34,3 +36,14 @@ One expected consequence of relative pitch encoding is that a prior tonic estima
 The next question is how to leverage basic-pitch recognition on Spotify data to further increase the model. I suspect that there are easier and harder genres, and we might start with easier ones.
 
 Not all MIDI files are equal. First, focus on narrowing a dataset by excluding classical music, solo piano works and jazz.
+
+# V2
+
+After some experiments, I'm trying to write up a better tokenizer.
+
+A tokenizer makes two passes. In the first pass, it transforms raw MIDI onsets into the intermediate representation (IR). In the second pass, it works on IR and tries to replace as much of it as possible with reference tokens marking repetition/doubling/transposition/reuse of ideas of any sort.
+
+## First pass: MIDI -> IR
+
+## Second pass: IR -> IR with references
+
