@@ -41,9 +41,24 @@ Not all MIDI files are equal. First, focus on narrowing a dataset by excluding c
 
 After some experiments, I'm trying to write up a better tokenizer.
 
-A tokenizer makes two passes. In the first pass, it transforms raw MIDI onsets into the intermediate representation (IR). In the second pass, it works on IR and tries to replace as much of it as possible with reference tokens marking repetition/doubling/transposition/reuse of ideas of any sort.
+A tokenizer works on a grid of measures and channels. A cell is a measure+channel pair as a bunch of onsets. Eg. cell m.20 ch.3.
+
+A tokenizer makes two passes through all cells via two nested loops:
+```
+for measure in measures:
+    for channel in channels:
+        cells[measure][channel] = encode(cells[measure][channel], ...context)
+```
+    
+In the first pass, it transforms raw MIDI onsets into the intermediate representation (IR). In the second pass, it works on IR and tries to replace as much of it as possible with reference tokens marking repetition/doubling/transposition/reuse of ideas of any sort.
+
 
 ## First pass: MIDI -> IR
+
+The main idea: strumming patterns, drum patterns and melodic patterns should be referenced inside a song using special reference tokens. In order to do that, every instance of a pattern should be decoupled into a bag of notes and a pattern skeleton. A bag of notes is several MIDI numbers of notes. Inside a skeleton, they are referenced via a local numbering as n_0, n_1, n_2... from lowest to highest.
+
+
+
 
 ## Second pass: IR -> IR with references
 
