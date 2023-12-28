@@ -96,5 +96,9 @@ Again, the outer loop goes over measures, the inner loop goes over channels (in 
 
 If this particular cell is already a part of a large repetition found and encoded previously, we skip it. Otherwise, we try to find the best strategy to encode its most probable semantic relation to the content seen before (in previous measures + in cells below this one in the same measure). There's a semantic hierarchy on repetitions:
 
-1. Find a longest sequence of previous cells such that the sequence starting from the current one is equal to them. Let it start D measures ago and be of length L. Intuitively, if L is large, than larger Ds have semantic value. Whereas it's not feasible to refer to a single chord 50 measures ago just because it's the same. Emit `repeat_D_L`.
+(Whenever we encode that a target sequence of cells partly repeats a source sequence of cells, we assume that they don't overlap.)
+
+1. Find a longest sequence of previous cells in this channel such that the sequence starting from the current one is equal to them. Let it start D measures ago and be of length L. Intuitively, if L is large, than larger Ds have semantic value. Whereas it's not feasible to refer to a single chord 50 measures ago just because it's the same. Emit `repeat_D_L`.
+2. Find a longest sequence of cells in another channel C starting just below such that the the sequence of equal length L starting from the current cell is an exact doubling up to an octave transposition. Emit `double_C_L`.
+3. Find a longest sequence of previous cells in this channel such that the sequence starting from the current one is their transposition to an interval N. This may be the case after a modulation. However, a sequence of IV chords after a sequence of I chords can also be recognized as such. (Which we should probably avoid.) Let's probably consider the length of at least 4, idk. Emit `transpose_D_L_N`. (This is a general case of 1. with N = 0. However, my gut feeling is that a diagnosed doubling, especially of longer length, is more important than a transposition.)
 
