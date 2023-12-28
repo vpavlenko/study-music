@@ -108,6 +108,7 @@ Intuitively, encoding a pattern is more important because a pattern is more like
 
 4. If a pattern of this cell isn't covered by any previous multi-cell pattern repetition token, find a longest sequence of previous patterns ... and emit `pattern_D_L`. Probably not very important for very short patterns (of 1 or 2 notes) 50 measures ago.
 5. Similarly, for a bag of words, find and emit `harmony_D_L`.
+6. And only then, if either part of the information about the cell isn't covered, we emit it verbatim in the IR form.
 
 What else can now be reused? Some partial repetitions of notes between two measures. Although this is harder to tokenize with a room for generalization: we'll need to remove and add arbitrary notes, and the transformer should be very confused on the small dataset like the one we have.
 
