@@ -1,4 +1,4 @@
-Scroll down to V2 before. V1 is very poorly written.
+Scroll down to V2 below. V1 is very poorly written.
 
 # V1
 
