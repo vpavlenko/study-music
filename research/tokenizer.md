@@ -43,7 +43,7 @@ Not all MIDI files are equal. First, focus on narrowing a dataset by excluding c
 
 After some experiments, I'm trying to write up a better tokenizer.
 
-A tokenizer works on a grid of measures and channels. A cell is a measure+channel pair as a bunch of onsets. Eg. cell m.20 ch.3.
+A tokenizer works on a grid of measures and channels (aka tracks aka voices). A cell is a measure+channel pair as a bunch of onsets. Eg. cell m.20 ch.3.
 
 A tokenizer makes two passes through all cells via two nested loops:
 ```
