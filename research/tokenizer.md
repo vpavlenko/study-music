@@ -65,7 +65,13 @@ Ideally, this decoupling should happen on units of harmonic rhythm (for chord tr
 
 In Western pop songs, there is usually a bass track that has a good informational reference for other tracks to refer to. Also, this track is usually monophonic. So, I propose to encode bass notes from left to right throughout the entire track by relative references. This way the typical patterns like 2-5-1-6, chromatic descending, diatonic descending etc. will all naturally be visible, even though we don't make any tonic inference preprocessing.
 
+Then a key assumption is that all other tracks get the most useful information for pattern extraction by referring to the first bass note in the same measure. 
+(An exception to that is an anticipation bass note which started in a previous measure but is hearable through the measure start.)
+
+Let's encode a bag of notes for any cell above the bass. Let's find a **pivot** MIDI number - a lowest transposition of a first bass note (+0, +12, +24, ...) such that it's either in a bag of notes or the bag of notes is as close to it as possible. Then this pivot is encoded as `oct_0`/`oct_1`/`oct_2` etc., and the bag of notes is encoded as `rel_-5`, `rel_0`, `rel_4` - this example is for a major chord in second inversion.
+
 ### Pattern
+
 
 
 ## Second pass: IR -> IR with repetitions tokenized
