@@ -1,3 +1,5 @@
+Scroll down to V2 before. V1 is very poorly written.
+
 # V1
 
 Here's a refined algorithm for tokenizing a Lakh-flavoured pop music MIDI file for music theory processing.
