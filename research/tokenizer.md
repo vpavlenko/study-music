@@ -76,7 +76,13 @@ In most MIDI files we have a good grid of measures and beats that is constructed
 
 For better pattern extraction it's probably better to work with time shifts between two onsets rather than with absolute times within a measure. 
 
-A major scale in 8ths will look like this: `n_0 t_0.00 n_1 t_0.50 n_2 t_1.00 n_3 1.50 n_4 2.00 ...`, assuming its bag of words is something like `oct_2 rel_0 rel_2 rel_4 rel_5 rel_7 ...`.
+A major scale in 8ths will look like this: `n_0 t_0.00 n_1 t_0.50 n_2 t_0.50 n_3 0.50 n_4 0.50 ...`, assuming its bag of words is something like `oct_2 rel_0 rel_2 rel_4 rel_5 rel_7 ...`. A `t_0.00` is an absolute coordinate for a first onset inside a measure. (Is there a better way to unify `t_` and `ts_`?)
+
+Two shorthands are used:
+- simultaneous notes (a chord) are grouped together under a single time shift that's put after the notes
+- if a chord is repeated several times, we don't repeat its notes and just add a new time shift
+
+A swing eights strumming will look like this: `n_0 n_1 n_2 t_0.00 ts_0.67 ts_0.33 ts_0.67 ts_0.33 ...`. 
 
 
 ## Second pass: IR -> IR with repetitions tokenized
