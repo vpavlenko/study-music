@@ -105,3 +105,8 @@ If this particular cell is already a part of a large repetition found and encode
 Here comes the coolest part. Three previous steps couldn't help us encoding a transposed melody or a repeated strumming on a different chord quality *within a key*. This is because our tokenizer has no notion of scales. To find it, we try to encode a pattern and a bag of words separately.
 
 Intuitively, encoding a pattern is more important because a pattern is more likely a uniquely used in this piece, whereas a harmony (a bag of notes) can more likely be generalized when processing a large corpus. (Although this is probably not relevant.)
+
+4. If a pattern of this cell isn't covered by any previous multi-cell pattern repetition token, find a longest sequence of previous patterns ... and emit `pattern_D_L`. Probably not very important for very short patterns (of 1 or 2 notes) 50 measures ago.
+5. Similarly, for a bag of words, find and emit `harmony_D_L`.
+
+   
