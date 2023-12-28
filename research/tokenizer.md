@@ -68,10 +68,15 @@ In Western pop songs, there is usually a bass track that has a good informationa
 Then a key assumption is that all other tracks get the most useful information for pattern extraction by referring to the first bass note in the same measure. 
 (An exception to that is an anticipation bass note which started in a previous measure but is hearable through the measure start.)
 
-Let's encode a bag of notes for any cell above the bass. Let's find a **pivot** MIDI number - a lowest transposition of a first bass note (+0, +12, +24, ...) such that it's either in a bag of notes or the bag of notes is as close to it as possible. Then this pivot is encoded as `oct_0`/`oct_1`/`oct_2` etc., and the bag of notes is encoded as `rel_-5`, `rel_0`, `rel_4` - this example is for a major chord in second inversion.
+Let's encode a bag of notes for any cell above the bass. Let's find a **pivot** MIDI number - a lowest transposition of a first bass note (+0, +12, +24, ...) such that it's either in a bag of notes or the bag of notes is as close to it as possible. Then this pivot is encoded as `oct_0`/`oct_1`/`oct_2` etc., and the bag of notes is encoded as `rel_-5`, `rel_0`, `rel_4` - this example is for a major chord in second inversion. (An alternative encoding could be to encode notes relative to one another - exposing intervals rather than chord degrees.)
 
 ### Pattern
 
+In most MIDI files we have a good grid of measures and beats that is constructed from time signature and BPM events. Therefore, every onset can be encoded as `beat.subdivision`.
+
+For better pattern extraction it's probably better to work with time shifts between two onsets rather than with absolute times within a measure. 
+
+A major scale in 8ths will look like this: `n_0 t_0.00 n_1 t_0.50 n_2 t_1.00 n_3 1.50 n_4 2.00 ...`, assuming its bag of words is something like `oct_2 rel_0 rel_2 rel_4 rel_5 rel_7 ...`.
 
 
 ## Second pass: IR -> IR with repetitions tokenized
