@@ -111,4 +111,4 @@ Intuitively, encoding a pattern is more important because a pattern is more like
 
 What else can now be reused? Some partial repetitions of notes between two measures. Although this is harder to tokenize with a room for generalization: we'll need to remove and add arbitrary notes, and the transformer should be very confused on the small dataset like the one we have.
 
-Also, we don't encode diagonal repetitions - which start some time ago in a different channel. We don't know how common it is.
+Also, we don't encode diagonal repetitions - which start some time ago in a different channel. We don't know how common it is - it's certainly common in classical orchestral music.
