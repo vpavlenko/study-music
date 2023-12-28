@@ -92,3 +92,8 @@ For now we can encode them as `drum_35 t_0.00 ts_2.00 drum_42 t_1.00 ts_3.00 ...
 
 ## Second pass: IR -> IR with repetitions tokenized
 
+Again, the outer loop goes over measures, the inner loop goes over channels (in order from lowest to highest average channel pitch), assuming all previous cells are already encoded.
+
+If this particular cell is already a part of a large repetition found and encoded previously, we skip it. Otherwise, we try to find the best strategy to encode its most probable semantic relation to the content seen before (in previous measures + in cells below this one in the same measure). There's a semantic hierarchy on repetitions:
+
+1. 
