@@ -84,6 +84,11 @@ Two shorthands are used:
 
 A swing eights strumming will look like this: `n_0 n_1 n_2 t_0.00 ts_0.67 ts_0.33 ts_0.67 ts_0.33 ...`. 
 
+### Drums
+
+Drums are unlike notes. Kick, snare and hi-hats have somewhat independent patterns that can be stacked on top of each other. On the other hand, all three hi-hat events are maybe connected.
+
+For now we can encode them as `drum_35 t_0.00 ts_2.00 drum_42 t_1.00 ts_3.00 ...`.
 
 ## Second pass: IR -> IR with repetitions tokenized
 
