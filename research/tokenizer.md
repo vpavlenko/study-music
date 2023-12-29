@@ -98,9 +98,11 @@ If this particular cell is already a part of a large repetition found and encode
 
 (Whenever we encode that a target sequence of cells partly repeats a source sequence of cells, we assume that they don't overlap.)
 
+
 1. Find a longest sequence of previous cells in this channel such that the sequence starting from the current one is equal to them. Let it start D measures ago and be of length L. Intuitively, if L is large, than larger Ds have semantic value. Whereas it's not feasible to refer to a single chord 50 measures ago just because it's the same. Emit `repeat_D_L`.
-2. Find a longest sequence of cells in another channel C starting just below such that the the sequence of equal length L starting from the current cell is an exact doubling up to an octave transposition. Emit `double_C_L`.
-3. Find a longest sequence of previous cells in this channel such that the sequence starting from the current one is their transposition to an interval N. This may be the case after a modulation. However, a sequence of IV chords after a sequence of I chords can also be recognized as such. (Which we should probably avoid.) Let's probably consider the length of at least 4, idk. Emit `transpose_D_L_N`. (This is a general case of 1. with N = 0. However, my gut feeling is that a diagnosed doubling, especially of longer length, is more important than a transposition.)
+3. Find a longest sequence of cells in another channel C starting just below such that the the sequence of equal length L starting from the current cell is an exact doubling up to an octave transposition. Emit `double_C_L`.
+2. Find if this cell is identical to previous one in absolute note content (not relative to the bass), check if that's a riff that continues to N more cells. Emit `riff_N`.
+5. Find a longest sequence of previous cells in this channel such that the sequence starting from the current one is their transposition to an interval N. This may be the case after a modulation. However, a sequence of IV chords after a sequence of I chords can also be recognized as such. (Which we should probably avoid.) Let's probably consider the length of at least 4, idk. Emit `transpose_D_L_N`. (A `repeat_D_L` is a special case of transposition with N = 0. My gut feeling is that a diagnosed doubling, especially of longer length, is more important than a transposition.)
 
 Here comes the coolest part. Three previous steps couldn't help us encoding a transposed melody or a repeated strumming on a different chord quality *within a key*. This is because our tokenizer has no notion of scales. To find it, we try to encode a pattern and a bag of words separately.
 
