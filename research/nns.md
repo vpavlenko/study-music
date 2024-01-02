@@ -24,7 +24,7 @@ One inspiring example: [Museformer](https://ai-muzic.github.io/museformer/) hand
 
 However, beware of [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
-See [**tokenizer.md**](tokenizer.md) for a very poorly written proposal of a better tokenizer. Or see a brainstorming below.
+See [**tokenizer.md**](tokenizer.md) for a very poorly written proposal of a better tokenizer. Or see a brainstorming below. [Or see the bat 🦇](https://github.com/vpavlenko/bat)
 
 # Types of NNs for music theory
 
