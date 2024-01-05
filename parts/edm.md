@@ -7,3 +7,4 @@
 - https://www.tandfonline.com/doi/full/10.1080/20551940.2015.1079072
 - [Daniel Gómez Marín. Similarity and Style in Electronic Dance Music Drum Rhythms](https://www.tdx.cat/bitstream/handle/10803/543841/tdgm.pdf?sequence=1)
 - Ragnhild Torvanger Solberg. “Waiting for the Bass to Drop”: Correlations Between Intense Emotional Experiences and Production Techniques in Build-up and Drop Sections of Electronic Dance Music, with links to Fikentscher 2000; Butler 2006; Montano 2009; Snoman 2009; Zeiner-Henriksen 2010; Garcia 2011
+- edm dubstep
