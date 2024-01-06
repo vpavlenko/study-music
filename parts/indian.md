@@ -11,5 +11,4 @@ Indian Classical Music
 - Nazir Ali Jairazbhoy. The Rags of North Indian Music: Their Structure and Evolution
 - [Vishwaas Narasinh, Senthil Raja G. Sequential Pitch Distributions for Raga Detection](https://www.paperdigest.org/paper/?paper_id=arxiv-2308.16421)
 - [compIAM (computational analysis of Indian Art Music)](https://github.com/MTG/compIAM)
-- Chakraborty S., Mazzola G., Patra M., Tewari S. Computational musicology in Hindustani music
-
+- Chakraborty S., Mazzola G., Patra M., Tewari S. Computational musicology in Hindustani music. _(I'm afraid of Mazzola, specifically)_
