@@ -28,9 +28,6 @@ Advanced harmony
 - Schoenberg. "Structural functions of harmony"
 - https://musictheoryexamples.com/ and "Bending the Rules of Music Theory" and https://stefanieacevedo.com/musical-examples-db/
 - [Vincent Persichetti. Twentieth-Century Harmony](https://amzn.to/3AgQgbk) - A book from 1960. [Audio examples on YouTube](https://www.youtube.com/playlist?list=PLwRgeNTZ2i6_BA9H4as1srtNKBAzPPjns)
-
-<img width="685" alt="Screenshot 2022-02-15 at 4 37 05 PM" src="https://user-images.githubusercontent.com/1491908/154072861-dd63242e-7510-45c9-9216-5d14452de71e.png">
-
 - Wilfrid Dunwell. The evolution of twentieth-century harmony
 - Ludmila Ulehla. Contemporary Harmony: Romanticism Through the Twelve-Tone Row
 - [Dmitri Tymoczko. Local Harmonic Grammar in Western Classical Music](https://dmitri.mycpanel.princeton.edu/mozart.pdf) - the harmonic syntax of Western classical music can be captured by a simple maplike grammar without recursive generative rules. Also see his other [books and papers](https://dmitri.mycpanel.princeton.edu/geometry-of-music.html)
