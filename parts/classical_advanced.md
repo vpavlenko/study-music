@@ -20,15 +20,6 @@ Advanced materials on classical music
 - Jan LaRue. Guidelines for Style Analysis
 
 
-Post-tonal theory
----
-
-1. Joseph N. Straus. Introduction to Post-Tonal Theory
-2. [Artusi](https://www.artusimusic.com/curriculum/) has post-tonal exercises
-3. [Integrated Music Theory](https://intmus.github.io/inttheory22-23/23-intro-to-post-tonal/a1-ex-pcintnotation.html) 
-4. Dariusz Terefenko. Jazz Theory. Chapter 27 "Post-Tonal Jazz"
-5. [Miguel A. Roig-Francolí. Understanding Post-Tonal Music](https://www.taylorfrancis.com/books/mono/10.4324/9780429340123/understanding-post-tonal-music-miguel-roig-francol%C3%AD)
-6. [**Pseudoscience**](pseudoscience.md#post-tonal-theory)
 
 
 Advanced harmony
@@ -49,6 +40,8 @@ Advanced harmony
 - Daniel Harrison. Harmonic Function in Chromatic Music *(may be [**Schenkerian**](schenkerian_analysis.md))*
 - Daniel Harrison. Pieces of Tradition: An Analysis of Contemporary Tonal Music
 - Tonfeldtheorie
+- Kyle Hutchinson. Chromatically Altered Diminished-Seventh Chords: Reframing Function through Dissonance Resolution in Late Nineteenth-Century Tonality
+
 
 Advanced form
 ---
@@ -100,3 +93,15 @@ Notable analyses
 ---
 - [Five analyses on Musescore](https://musescore.com/user/50070/sheetmusic)
 - [Steve's YouTube analyses (colored waveforms)](https://www.youtube.com/@corksmusic1/videos)
+
+
+Post-tonal theory
+---
+
+1. Joseph N. Straus. Introduction to Post-Tonal Theory
+2. [Artusi](https://www.artusimusic.com/curriculum/) has post-tonal exercises
+3. [Integrated Music Theory](https://intmus.github.io/inttheory22-23/23-intro-to-post-tonal/a1-ex-pcintnotation.html) 
+4. Dariusz Terefenko. Jazz Theory. Chapter 27 "Post-Tonal Jazz"
+5. [Miguel A. Roig-Francolí. Understanding Post-Tonal Music](https://www.taylorfrancis.com/books/mono/10.4324/9780429340123/understanding-post-tonal-music-miguel-roig-francol%C3%AD)
+6. [**Pseudoscience**](pseudoscience.md#post-tonal-theory)
+
