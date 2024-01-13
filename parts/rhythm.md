@@ -11,3 +11,4 @@ Rhythm
 - [Daniel Gómez Marín. Similarity and Style in Electronic Dance Music Drum Rhythms](https://www.tdx.cat/bitstream/handle/10803/543841/tdgm.pdf?sequence=1)
 - Studies on syncopation by David Temperley
 - Brad Osborn. Beats that Commute: Algebraic and Kinesthetic Models for MathRock Grooves
+- https://www.mtosmt.org/issues/mto.01.7.6/mto.01.7.6.butler.html Beat in EDM
