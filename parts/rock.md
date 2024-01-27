@@ -14,7 +14,7 @@ Rock
 
 - [David Temperley. The Musical Language of Rock](https://amzn.to/3nK9eSO) - A book that summarizes [a corpus study](http://rockcorpus.midside.com/) of aspects like harmony, melody, rhythm, timbre and form on 200 rock songs. [Also his papers](http://davidtemperley.com/papers/). Also his other books: [The Cognition of Basic Musical Structures](https://amzn.to/3IvaS2I), [Music and Probability](https://amzn.to/3FXBWWu)
 
-
+- [Brett Clement. Rock Tonality Amplified. A Theory of Modality, Harmonic Function, and Tonal Hierarchy](https://www.routledge.com/Rock-Tonality-Amplified-A-Theory-of-Modality-Harmonic-Function-and-Tonal/Clement/p/book/9781032291444)
 
 - [David Tagg. Everyday Tonality II](http://tagg.org/mmmsp/EverydayTonalityInfo.htm) - The author proves that applying classical harmony framework to all of modern popular Western music gives poor results, and that one must accept the wide existence of music in different modes, scales and non-tertian chord structures on our TV and radio.
 
