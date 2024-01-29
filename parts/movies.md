@@ -14,6 +14,7 @@ with [audio resources](https://global.oup.com/us/companion.websites/978019060640
 - [Neo-Riemannian examples in music: YouTube videos](https://alpof.wordpress.com/2021/10/09/neo-riemannian-examples-in-music/)
 
 - https://youtu.be/6Q3HJNiD5bA
+- https://youtube.com/playlist?list=PLRqx5UIhvD3xLQE4L9nEp1yCnFsC-4ED4&si=XwpJYInJHYbdLyIM
 
 - [A discussion in "Empirical Musicology: An Interview with David Huron Part II by Daniel Shanahan](https://emusicology.org/article/view/8103/6032)
 
