@@ -5,6 +5,7 @@
 - [**Types of NNs and tokenization**](../research/nns.md)
 - https://github.com/affige/DeepMIR
 - Ross Greer, Shlomo Dubnov. Deep and Shallow: Machine Learning in Music and Audio
+- [Handbook of Artificial Intelligence for Music](https://link.springer.com/book/10.1007/978-3-030-72116-9)
 
 LLMs for music theory
 ---
