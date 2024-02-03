@@ -9,6 +9,8 @@ Mixing
 
 <img width="400" alt="Screenshot 2023-04-29 at 12 04 31" src="https://user-images.githubusercontent.com/1491908/235291987-4135c0df-f622-49c2-b9f1-ff030ba9eb4f.png">
 
+- Virgil Moorefield. The Producer as Composer. Shaping the Sounds of Popular Music
+
 - [Mike Senior. Mixing Secrets for the Small Studio](https://amzn.to/3BlQY7P)
 
 - [Books by Bobby Owsinski](https://www.amazon.com/Bobby-Owsinski/e/B001K8A8F8%3Fref=dbs_a_mng_rwt_scns_share)
