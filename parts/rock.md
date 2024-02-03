@@ -55,6 +55,9 @@ Progressive rock
 - [Martin Quinn. The Development of the Role of the Keyboard in Progressive Rock from 1968 to 1980](https://eprints.hud.ac.uk/id/eprint/34986/1/FINAL%20THESIS%20-%20QUINN,%20MJ.pdf)
 - [Edited By Kevin Holm-Hudson. Progressive Rock Reconsidered](https://www.routledge.com/Progressive-Rock-Reconsidered/Holm-Hudson/p/book/9780815337157)
 - [Gregory Richard McCandless. Rhythm and Meter in the Music of Dream Theater](https://diginole.lib.fsu.edu/islandora/object/fsu:180880/datastream/PDF/view.)
+- [Brett G. Clement. Scale Systems and Large-Scale Form in the Music of Yes](https://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.clement.html)
+
+
 
 More
 ---
