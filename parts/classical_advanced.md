@@ -45,7 +45,9 @@ Advanced form
 - https://mtosmt.org/issues/mto.15.21.4/mto.15.21.4.aziz.html
 - Charles Rosen. Sonata Forms
 - [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (is this actually about form, or is it vaguely musicological?)
-- Danuta Mirka, Julian Horton, Michael Klein etc. 
+- Danuta Mirka, Julian Horton, Michael Klein etc.
+- Yoel Greenberg. How Sonata Forms. A Bottom-Up Approach to Musical Form. - he has corpus studies on evolution of recapitulation
+
 
 
 Books on individual composers and pieces
