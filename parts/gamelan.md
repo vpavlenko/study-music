@@ -96,3 +96,5 @@ Free gamelan samples
 - https://wiki.laptop.org/go/Free_sound_samples
 
 <img width="854" alt="Screenshot 2023-10-02 at 05 26 15" src="https://github.com/vpavlenko/study-music/assets/1491908/a3037558-ac1e-442e-bb6c-44e594b9ccef">
+
+<img width="1728" alt="kebogiro_spectrum" src="https://github.com/vpavlenko/study-music/assets/1491908/e8d77302-a144-4643-83c0-184c7528a815">
