@@ -20,6 +20,10 @@ Craft
 
 <img width="800" alt="Screenshot 2022-07-11 at 21 34 59" src="https://user-images.githubusercontent.com/1491908/178301639-4ce596c7-94ee-4ab7-8247-be0d41c8e0f5.png">
 
+- Analyses by Forrest Wernick, eg.:
+   - https://www.jazzadvice.com/lessons/tune-up-3-legendary-solos/
+   - https://www.jazzadvice.com/lessons/joe-henderson-plays-recorda-me/
+
 - [Impro-Visor](https://www.cs.hmc.edu/~keller/jazz/improvisor/) - an educational tool for creating and playing a lead sheet, with a particular orientation toward representing jazz solos
 
 <img width="900" alt="Screenshot 2023-05-08 at 07 48 11" src="https://user-images.githubusercontent.com/1491908/236729570-d0329f8e-bf71-4615-868f-c3d6a7b45420.png">
