@@ -1,3 +1,13 @@
+seventh chords
+===
+- https://pressbooks.pub/harmonyandmusicianshipwithsolfege/chapter/diatonic-seventh-chords/
+- https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords
+- Mulholland&Hojnacki Ch. 1: https://www.hooktheory.com/hookpad/view/kygznrABgKB
+
+videos on jazz
+===
+- Just Friends (quartet) https://www.youtube.com/watch?v=DOfOzU8wD4I
+
 three groups of standards
 ===
 
@@ -13,6 +23,11 @@ line-up
 - Blue Bossa
 - Tune-Up
 - Solar
+
+
+Only cadences, but long ones:
+- Alone Together
+- All The Things You Are
 
 
 
