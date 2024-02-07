@@ -27,6 +27,14 @@ line-up
 - Blue Bossa
 - What's New (minor cadences)
 
+Then dropback:
+- Perdido
+- I'll Remember April
+- Star Eyes
+
+- Autumn Leaves
+- Love For Sale
+
 Order: "Insights" p. 11
 
 
