@@ -20,9 +20,14 @@ three groups of standards
 line-up
 ===
 
-- Blue Bossa
+
 - Tune-Up
 - Solar
+- Recorda Me
+- Blue Bossa
+- What's New (minor cadences)
+
+Order: "Insights" p. 11
 
 
 Only cadences, but long ones:
