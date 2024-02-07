@@ -13,3 +13,23 @@ line-up
 - Blue Bossa
 - Tune-Up
 - Solar
+
+
+
+Carey Bunks plots
+--- 
+
+<img width="764" alt="Screenshot 2024-02-07 at 21 08 23" src="https://github.com/vpavlenko/study-music/assets/1491908/1d74f5d6-6ce8-422c-b248-67f5c1ff950d">
+
+<img width="787" alt="Screenshot 2024-02-07 at 21 08 32" src="https://github.com/vpavlenko/study-music/assets/1491908/d2f1e104-28b4-4c99-b252-33721f2f6885">
+
+<img width="933" alt="Screenshot 2024-02-07 at 21 09 54" src="https://github.com/vpavlenko/study-music/assets/1491908/f35e7559-9a8d-48a1-b961-86e1b83233ef">
+
+
+<img width="930" alt="Screenshot 2024-02-07 at 21 10 07" src="https://github.com/vpavlenko/study-music/assets/1491908/c31959a3-20f0-4776-9634-e851aef5d8bc">
+
+
+<img width="1014" alt="Screenshot 2024-02-07 at 21 10 28" src="https://github.com/vpavlenko/study-music/assets/1491908/36f94570-cd84-4d76-a448-9f971690b7e4">
+
+
+<img width="643" alt="Screenshot 2024-02-07 at 21 10 48" src="https://github.com/vpavlenko/study-music/assets/1491908/aa8e417b-7eb2-419c-a1fd-a5edb345a7af">
