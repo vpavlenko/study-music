@@ -93,5 +93,5 @@ Exceptions
 - Night In Tunisia
 - Moanin'
 - Well You Needn't
-- 12-bar blues
-- Modal jazz: So What, Cantaloupe Island
+- 12-bar blues: https://www.learnjazzstandards.com/blog/28-jazz-blues-heads-you-need-to-know/
+- Modal jazz: So What, Cantaloupe Island https://www.jazzstandards.com/theory/modal-jazz.htm
