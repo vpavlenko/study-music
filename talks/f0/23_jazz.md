@@ -4,9 +4,6 @@ seventh chords
 - https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords
 - Mulholland&Hojnacki Ch. 1: https://www.hooktheory.com/hookpad/view/kygznrABgKB
 
-videos on jazz
-===
-- Just Friends (quartet) https://www.youtube.com/watch?v=DOfOzU8wD4I
 
 three groups of standards
 ===
@@ -68,6 +65,10 @@ Don't talk about tritone sub, not enough time.
 
 Carey Bunks plots
 --- 
+
+other:
+- https://github.com/vpavlenko/study-music/blob/main/parts/jazz_harmony_visualizations.md 
+- https://github.com/DCMLab/JazzHarmonyTreebank/blob/master/tree-plots.md
 
 <img width="764" alt="Screenshot 2024-02-07 at 21 08 23" src="https://github.com/vpavlenko/study-music/assets/1491908/1d74f5d6-6ce8-422c-b248-67f5c1ff950d">
 
