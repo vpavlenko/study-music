@@ -21,7 +21,7 @@ line-up
 ===
 
 
-- Tune-Up
+- Tune-Up: https://www.youtube.com/watch?v=yeGmEEW5JA8
 - Recorda Me
 - Solar
 - Blue Bossa
@@ -40,8 +40,10 @@ line-up
 - Afternoon in Paris
 - "rainbow"
 - "starlight"
-- Groovin' High
-- Take Five
+- backup:
+  - Groovin' High
+  - Take Five
+  - Just Friends
 
 Order: "Insights" p. 11
 
