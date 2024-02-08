@@ -40,6 +40,8 @@ line-up
 - Afternoon in Paris
 - "rainbow"
 - "starlight"
+- Groovin' High
+- Take Five
 
 Order: "Insights" p. 11
 
@@ -79,3 +81,15 @@ Carey Bunks plots
 
 
 <img width="643" alt="Screenshot 2024-02-07 at 21 10 48" src="https://github.com/vpavlenko/study-music/assets/1491908/aa8e417b-7eb2-419c-a1fd-a5edb345a7af">
+
+
+Exceptions
+===
+
+- Caravan
+- Nardis
+- Night In Tunisia
+- Moanin'
+- Well You Needn't
+- 12-bar blues
+- Modal jazz: So What, Cantaloupe Island
