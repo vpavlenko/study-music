@@ -19,7 +19,8 @@ line-up
 
 
 - Tune-Up: https://www.youtube.com/watch?v=yeGmEEW5JA8
-- Recorda Me
+- Just Friends 
+- Ceora https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html
 - Solar
 - Blue Bossa
 - All The Things You Are, show Carey Bunks's diagram
@@ -39,6 +40,7 @@ line-up
 - "starlight"
 - backup:
   - Groovin' High
+  - Recorda Me
   - Take Five
   - Just Friends
 
