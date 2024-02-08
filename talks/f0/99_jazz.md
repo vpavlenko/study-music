@@ -22,19 +22,23 @@ line-up
 
 
 - Tune-Up
-- Solar
 - Recorda Me
+- Solar
 - Blue Bossa
-- What's New (minor cadences)
-
-Then dropback:
-
 - Perdido
 - I'll Remember April
 - Star Eyes
-
+- Sweet Georgia Brown
 - Autumn Leaves
-- Love For Sale
+  - I Fall In Love Too Easily
+  - Love For Sale
+  - Alice In Wonderland
+- I've Got Rhythm, https://en.wikipedia.org/wiki/Rhythm_changes
+- What's New
+- Satin Doll
+- Afternoon in Paris
+- "rainbow"
+- "starlight"
 
 Order: "Insights" p. 11
 
