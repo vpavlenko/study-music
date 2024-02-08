@@ -28,6 +28,7 @@ line-up
 - What's New (minor cadences)
 
 Then dropback:
+
 - Perdido
 - I'll Remember April
 - Star Eyes
@@ -42,6 +43,18 @@ Only cadences, but long ones:
 - Alone Together
 - All The Things You Are
 
+
+Main lego-blocks to talk about:
+- major ii-V7-I
+- minor ii-V7-i
+- chain of dominants V7-V7
+- to-minor I-i
+- dropback ii-V7-iii-VI7-ii-V7-I
+- pullback ii-V7-I-VI7-ii-V7-I
+
+Can possibly be formulated without minor cadence (to save time).
+
+Don't talk about tritone sub, not enough time.
 
 
 Carey Bunks plots
