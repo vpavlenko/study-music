@@ -25,6 +25,7 @@ line-up
 - Recorda Me
 - Solar
 - Blue Bossa
+- All The Things You Are, show Carey Bunks's diagram
 - Perdido
 - I'll Remember April
 - Star Eyes
