@@ -22,9 +22,10 @@ line-up
 - Just Friends
    - three note voicings https://youtu.be/H7S_PI8B-Js
 - Ceora https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html
+- Giant Steps https://youtu.be/2kotK9FNEYU?si=rJyNDLbYueq6rAy4
 - Solar
 - Blue Bossa
-- All The Things You Are, show Carey Bunks's diagram
+- All The Things You Are, show Carey Bunks's diagram below
 - Perdido
 - I'll Remember April
 - Star Eyes
