@@ -46,11 +46,11 @@ Only cadences, but long ones:
 
 Main lego-blocks to talk about:
 - major ii-V7-I
-- minor ii-V7-i
 - chain of dominants V7-V7
 - to-minor I-i
 - dropback ii-V7-iii-VI7-ii-V7-I
 - pullback ii-V7-I-VI7-ii-V7-I
+- minor ii-V7-i
 
 Can possibly be formulated without minor cadence (to save time).
 
