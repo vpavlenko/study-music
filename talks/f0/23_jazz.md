@@ -19,7 +19,8 @@ line-up
 
 
 - Tune-Up: https://www.youtube.com/watch?v=yeGmEEW5JA8
-- Just Friends 
+- Just Friends
+   - three note voicings https://youtu.be/H7S_PI8B-Js
 - Ceora https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html
 - Solar
 - Blue Bossa
