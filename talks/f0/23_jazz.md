@@ -6,8 +6,7 @@ seventh chords
 - https://pressbooks.pub/harmonyandmusicianshipwithsolfege/chapter/diatonic-seventh-chords/
 - [triads](https://book-one.hooktheory.com/section/chords), [sevents](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
 - Mulholland&Hojnacki Ch. 1: https://www.hooktheory.com/hookpad/view/kygznrABgKB
-
-
+- [turnaround solo ideas](https://www.youtube.com/watch?v=57r-M-oXpsc)
 
 
 
@@ -52,9 +51,10 @@ Order: "Insights" p. 11
 
 Only cadences, but long ones:
 - Alone Together
-- All The Things You Are
+- All The Things You Are https://www.hooktheory.com/theorytab/view/jerome-kern/all-the-things-you-are
 - Take the "A" Train https://www.hooktheory.com/theorytab/view/duke-ellington/take-the-a-train
-
+- Cry Me a River https://www.hooktheory.com/theorytab/view/julie-london/cry-me-a-river
+- https://www.hooktheory.com/theorytab/view/jerome-kern/smoke-gets-in-your-eyes
 
 Main lego-blocks to talk about:
 - major ii-V7-I
@@ -101,6 +101,7 @@ Exceptions
 - Vashkar
 - Nardis
 - Night In Tunisia
+- Afro Blues
 - 12-bar blues: https://www.learnjazzstandards.com/blog/28-jazz-blues-heads-you-need-to-know/
 - Modal jazz: So What, Cantaloupe Island https://www.jazzstandards.com/theory/modal-jazz.htm
 
