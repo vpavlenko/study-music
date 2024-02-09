@@ -18,17 +18,21 @@ tonal jazz (1940..1965)
 - Just Friends
    - three note voicings https://youtu.be/H7S_PI8B-Js
    - https://www.youtube.com/watch?v=tQ5iY-pdaPc
-- Ceora
-   - https://www.youtube.com/watch?v=bAI8djQ--hQ 
-   - https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html
 - Giant Steps
    - https://youtu.be/2kotK9FNEYU?si=nEljQnIYQKaXVDCs&t=9
    - https://www.hooktheory.com/theorytab/view/john-coltrane/giant-steps
+- Ceora
+   - https://www.youtube.com/watch?v=bAI8djQ--hQ 
+   - https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html
 - Solar
+   - https://www.youtube.com/watch?v=JvpJEMVGijQ
+   - https://pressbooks.pub/harmonyandmusicianshipwithsolfege/chapter/diatonic-seventh-chords/ 
 - Blue Bossa
 - All The Things You Are
+   - https://www.youtube.com/watch?v=OPapxr8GvGA 
    - show Carey Bunks's diagram below
    - https://www.hooktheory.com/theorytab/view/jerome-kern/all-the-things-you-are
+   - All of Me scat https://www.youtube.com/watch?v=tHsGqxqxTio
 - Perdido https://www.hooktheory.com/theorytab/view/duke-ellington/perdido
 - I'll Remember April
 - Star Eyes
