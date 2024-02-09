@@ -1,3 +1,6 @@
+[bit.ly/gmaj](https://bit.ly/fmaj)
+===
+
 seventh chords
 ===
 - https://pressbooks.pub/harmonyandmusicianshipwithsolfege/chapter/diatonic-seventh-chords/
@@ -30,6 +33,7 @@ tonal jazz (1940..1965)
   - I Fall In Love Too Easily
   - Love For Sale
   - Alice In Wonderland
+- Yardbird Suite https://www.hooktheory.com/theorytab/view/charlie-parker/yardbird-suite
 - I've Got Rhythm, https://en.wikipedia.org/wiki/Rhythm_changes
 - What's New
 - Satin Doll https://www.hooktheory.com/theorytab/view/duke-ellington/satin-doll
