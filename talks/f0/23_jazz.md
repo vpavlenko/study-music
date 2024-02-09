@@ -23,7 +23,9 @@ tonal jazz (1940..1965)
    - https://www.hooktheory.com/theorytab/view/john-coltrane/giant-steps
 - Solar
 - Blue Bossa
-- All The Things You Are, show Carey Bunks's diagram below
+- All The Things You Are
+   - show Carey Bunks's diagram below
+   - https://www.hooktheory.com/theorytab/view/jerome-kern/all-the-things-you-are
 - Perdido https://www.hooktheory.com/theorytab/view/duke-ellington/perdido
 - I'll Remember April
 - Star Eyes
@@ -51,7 +53,6 @@ Order: "Insights" p. 11
 
 Only cadences, but long ones:
 - Alone Together
-- All The Things You Are https://www.hooktheory.com/theorytab/view/jerome-kern/all-the-things-you-are
 - Take the "A" Train https://www.hooktheory.com/theorytab/view/duke-ellington/take-the-a-train
 - Cry Me a River https://www.hooktheory.com/theorytab/view/julie-london/cry-me-a-river
 - https://www.hooktheory.com/theorytab/view/jerome-kern/smoke-gets-in-your-eyes
