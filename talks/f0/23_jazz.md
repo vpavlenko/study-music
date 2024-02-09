@@ -1,4 +1,4 @@
-[bit.ly/gmaj](https://bit.ly/fmaj)
+[bit.ly/gmaj](https://bit.ly/gmaj)
 ===
 
 seventh chords
