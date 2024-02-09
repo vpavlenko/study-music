@@ -16,7 +16,7 @@ tonal jazz (1940..1965)
 
 - Tune-Up: https://www.youtube.com/watch?v=yeGmEEW5JA8
 - Just Friends
-   - three note voicings https://youtu.be/H7S_PI8B-Js
+   - three note voicings https://youtu.be/H7S_PI8B-Js?si=XA-sZYcf_a92PTW8&t=19
    - https://www.youtube.com/watch?v=tQ5iY-pdaPc
 - Giant Steps
    - https://youtu.be/2kotK9FNEYU?si=nEljQnIYQKaXVDCs&t=9
