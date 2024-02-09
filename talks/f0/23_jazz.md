@@ -101,3 +101,14 @@ Exceptions
 - Night In Tunisia
 - 12-bar blues: https://www.learnjazzstandards.com/blog/28-jazz-blues-heads-you-need-to-know/
 - Modal jazz: So What, Cantaloupe Island https://www.jazzstandards.com/theory/modal-jazz.htm
+
+
+References
+===
+
+1. [John Elliott. Insights In Jazz](https://dropback.co.uk/overview-of-the-iij-book/)
+4. [Bob Keller. Roadmaps Produced by Impro-Visor version 5.03 for “Insights in Jazz” Leadsheets](https://www.cs.hmc.edu/~keller/jazz/InsightsRoadmapsConsolidated.pdf)
+7. [Phil Clark. Book of Lego](https://www.cs.hmc.edu/~keller/jazz/BookOfLegoPhilClark.pdf)
+5. [mDecks. The Jazz Standards Progressions Book](https://mdecks.com/jazzstandards.phtml)
+6. [Jazz Harmony Treebank](https://github.com/DCMLab/JazzHarmonyTreebank)
+8. [C. Bunks, T. Weyde, A. Slingsby, J. Wood. Visualization of Tonal Harmony for Jazz Lead Sheets](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf)
