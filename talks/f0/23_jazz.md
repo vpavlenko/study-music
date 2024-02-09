@@ -3,8 +3,8 @@
 
 seventh chords
 ===
-- https://pressbooks.pub/harmonyandmusicianshipwithsolfege/chapter/diatonic-seventh-chords/
-- [triads](https://book-one.hooktheory.com/section/chords), [sevents](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
+
+- [chords in Hooktheory](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
 - Mulholland&Hojnacki Ch. 1: https://www.hooktheory.com/hookpad/view/kygznrABgKB
 - [turnaround solo ideas](https://www.youtube.com/watch?v=57r-M-oXpsc)
 
