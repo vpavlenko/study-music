@@ -1,20 +1,14 @@
 seventh chords
 ===
 - https://pressbooks.pub/harmonyandmusicianshipwithsolfege/chapter/diatonic-seventh-chords/
-- https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords
+- [triads](https://book-one.hooktheory.com/section/chords), [sevents](https://book-two.hooktheory.com/section/seventh-chords-extending-the-basic-chords)
 - Mulholland&Hojnacki Ch. 1: https://www.hooktheory.com/hookpad/view/kygznrABgKB
 
 
-three groups of standards
-===
-
-1. blues
-2. rhythm changes
-3. modulation whole step down (chain of to-minors Imaj7->im7=iim7): Tune Up, Solar, O Barquinho, Afternoon in Paris, Cherokee, Joy Spring, One Note Samba, How High The Moon, All The Things You Are, Ornithology (https://youtu.be/nGAZd1mx5xU?si=Zv-WYzAdt0EsQPZq), or in minor: Night in Tunisia, Alone Together, Recorda Me
 
 
 
-line-up
+tonal jazz (1940..1965)
 ===
 
 
@@ -22,11 +16,13 @@ line-up
 - Just Friends
    - three note voicings https://youtu.be/H7S_PI8B-Js
 - Ceora https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html
-- Giant Steps https://youtu.be/2kotK9FNEYU?si=rJyNDLbYueq6rAy4
+- Giant Steps
+   - https://youtu.be/2kotK9FNEYU?si=rJyNDLbYueq6rAy4
+   - https://www.hooktheory.com/theorytab/view/john-coltrane/giant-steps
 - Solar
 - Blue Bossa
 - All The Things You Are, show Carey Bunks's diagram below
-- Perdido
+- Perdido https://www.hooktheory.com/theorytab/view/duke-ellington/perdido
 - I'll Remember April
 - Star Eyes
 - Sweet Georgia Brown
@@ -36,7 +32,7 @@ line-up
   - Alice In Wonderland
 - I've Got Rhythm, https://en.wikipedia.org/wiki/Rhythm_changes
 - What's New
-- Satin Doll
+- Satin Doll https://www.hooktheory.com/theorytab/view/duke-ellington/satin-doll
 - Afternoon in Paris
 - "rainbow"
 - "starlight"
@@ -45,6 +41,7 @@ line-up
   - Recorda Me
   - Take Five
   - Just Friends
+- credits: smth arr. by Hey Rim Jeon
 
 Order: "Insights" p. 11
 
@@ -52,6 +49,7 @@ Order: "Insights" p. 11
 Only cadences, but long ones:
 - Alone Together
 - All The Things You Are
+- Take the "A" Train https://www.hooktheory.com/theorytab/view/duke-ellington/take-the-a-train
 
 
 Main lego-blocks to talk about:
@@ -101,6 +99,14 @@ Exceptions
 - Night In Tunisia
 - 12-bar blues: https://www.learnjazzstandards.com/blog/28-jazz-blues-heads-you-need-to-know/
 - Modal jazz: So What, Cantaloupe Island https://www.jazzstandards.com/theory/modal-jazz.htm
+
+
+Backup
+===
+
+1. blues
+2. rhythm changes
+3. modulation whole step down (chain of to-minors Imaj7->im7=iim7): Tune Up, Solar, O Barquinho, Afternoon in Paris, Cherokee, Joy Spring, One Note Samba, How High The Moon, All The Things You Are, Ornithology (https://youtu.be/nGAZd1mx5xU?si=Zv-WYzAdt0EsQPZq), or in minor: Night in Tunisia, Alone Together, Recorda Me
 
 
 References
