@@ -17,7 +17,10 @@ tonal jazz (1940..1965)
 - Tune-Up: https://www.youtube.com/watch?v=yeGmEEW5JA8
 - Just Friends
    - three note voicings https://youtu.be/H7S_PI8B-Js
-- Ceora https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html
+   - https://www.youtube.com/watch?v=tQ5iY-pdaPc
+- Ceora
+   - https://www.youtube.com/watch?v=bAI8djQ--hQ 
+   - https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html
 - Giant Steps
    - https://youtu.be/2kotK9FNEYU?si=rJyNDLbYueq6rAy4
    - https://www.hooktheory.com/theorytab/view/john-coltrane/giant-steps
