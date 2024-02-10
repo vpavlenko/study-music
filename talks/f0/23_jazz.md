@@ -1,5 +1,3 @@
-[bit.ly/gmaj](https://bit.ly/gmaj)
-===
 
 seventh chords
 ===
