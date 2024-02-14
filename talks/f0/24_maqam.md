@@ -35,6 +35,7 @@
    - oud with score https://www.youtube.com/watch?v=_XdFFeuSsfY
    - virtual https://www.youtube.com/watch?v=1sulY0m1Fjc
    - oud https://www.youtube.com/watch?v=RFBNlsa0ryw
+10. мб в след раз семинар по анализу арабской музыки
 
 
 [StyleBot CSS gist for maqamlessons.com](https://gist.github.com/vpavlenko/ab453e0c96087c1056e60038f30293fd)
