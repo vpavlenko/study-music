@@ -14,7 +14,16 @@
    - violin https://www.youtube.com/watch?v=HNabDmuh_Ok
    - digital notes https://www.youtube.com/watch?v=BRB_Ict061g
    - https://maqamlessons.com/analysis/beginnertrack.html
+2. Theory: sayr of maqam rast
+   - https://maqamlessons.com/playground/010_01_MaqamRast.html 
 
 
+
+[StyleBot CSS gist for maqamlessons.com](https://gist.github.com/vpavlenko/ab453e0c96087c1056e60038f30293fd)
+
+
+
+TODO
+---
 http://levioloniste.epizy.com/ - cкачать
 тж tarak766
