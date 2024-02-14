@@ -7,8 +7,10 @@
       - https://www.youtube.com/watch?v=-NJ0htJtn8c
    - kanun https://www.youtube.com/watch?v=nJWAz9WGvhs
    - virtual piano https://www.youtube.com/watch?v=EjpHIrGzUyo
-   - kid, digital piano https://www.youtube.com/watch?v=w42vbcIdOlE
-   - adult, digital piano https://www.youtube.com/watch?v=7isb_s842ZU
+   - digital piano
+      - kid https://www.youtube.com/watch?v=w42vbcIdOlE
+      - adult https://www.youtube.com/watch?v=7isb_s842ZU
+      - quartertones zoomed in https://www.youtube.com/watch?v=qDjc6BR0hD4
    - violin https://www.youtube.com/watch?v=HNabDmuh_Ok
    - digital notes https://www.youtube.com/watch?v=BRB_Ict061g
    - https://maqamlessons.com/analysis/beginnertrack.html
