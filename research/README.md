@@ -97,7 +97,7 @@ Another key aspect of jazz is solo: a [chain](https://youtu.be/lu5AV2hXDJc?si=sp
 
 - Can [Frieler's models](https://github.com/vpavlenko/study-music/blob/main/parts/jazz_solo_visualizations.md) (or any models from [Impro-visor](https://github.com/Impro-Visor/Impro-Visor/tree/master/grammars)) improve jazz solo transcription?
 - Can Frieler's models help us build a real-time imrpovisation instrument that's fun to use? (Touch screen instruments? [Music Mouse](https://teropa.info/musicmouse/)-like?)
-
+- What use can we make of [Doug McKenzie's dataset](https://bushgrafts.com/video/) of recorded and annotated solos?
 
 ## Bass lines
 
