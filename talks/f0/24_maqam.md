@@ -18,6 +18,13 @@
    - https://maqamlessons.com/analysis/beginnertrack.html
 2. Theory: sayr of maqam rast
    - https://maqamlessons.com/playground/010_01_MaqamRast.html
+3. Gameel Gamaal
+   - original video https://www.youtube.com/watch?v=UfOR8iTTbfA, [lyrics](http://www.shira.net/music/lyrics/gamil-gamal.htm)
+   - https://maqamlessons.com/analysis/gameelgamaal.html
+   - digital notes https://www.youtube.com/watch?v=SckeReGca_w
+   - virtual piano https://www.youtube.com/watch?v=EQvPgT7918A
+   - oud lesson with maqam nawa athar https://youtu.be/Tv7jVCv16g0?si=QBuGmzDrKoS0UTuT&t=99
+   - https://www.dropbox.com/scl/fi/5ke9lyfrn0xfs5mhsnyw2/Gamul-Gamal.pdf?rlkey=w55xh0ewmi3uwi94k3ta5uvcf&dl=0
 3. Lissa Fakir
    - scrolling notes https://www.youtube.com/watch?v=277r2-g7qaY
    - score https://www.dropbox.com/scl/fi/r0wgff819jporo7my8a16/lissa_fakir.pdf?rlkey=gi5lnkzuchd3ec7cs0y3zfns6&dl=0
