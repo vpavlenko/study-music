@@ -23,7 +23,9 @@ Arabic music
 
 - [Some videos on YouTube](https://www.youtube.com/results?search_query=maqam+analysis)
 
-- [Animated Sheet Music](https://www.youtube.com/playlist?app=desktop&list=PLVYuHa4XDhHffBF4uHFss45yCTIn9UnEe)
+- Animated Sheet Music:
+   - https://www.youtube.com/playlist?app=desktop&list=PLVYuHa4XDhHffBF4uHFss45yCTIn9UnEe
+   - https://www.youtube.com/@YoussryElwrdany/videos
 
 - [Darbuka Rhythms on several simultaneous instruments visualized](https://www.youtube.com/watch?v=gG5e893sbvY&list=PLGifnNEER0cJyAV2HsQTPA_CizVEH1zFO&index=2)
 
