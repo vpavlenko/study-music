@@ -15,7 +15,9 @@
    - digital notes https://www.youtube.com/watch?v=BRB_Ict061g
    - https://maqamlessons.com/analysis/beginnertrack.html
 2. Theory: sayr of maqam rast
-   - https://maqamlessons.com/playground/010_01_MaqamRast.html 
+   - https://maqamlessons.com/playground/010_01_MaqamRast.html
+3. Lissa Fakir
+   - scrolling notes https://www.youtube.com/watch?v=277r2-g7qaY
 9. Marmar Zamani
    - oud with score https://www.youtube.com/watch?v=_XdFFeuSsfY
    - virtual https://www.youtube.com/watch?v=1sulY0m1Fjc
