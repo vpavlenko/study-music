@@ -12,7 +12,9 @@
       - adult https://www.youtube.com/watch?v=7isb_s842ZU
       - quartertones zoomed in https://www.youtube.com/watch?v=qDjc6BR0hD4
    - violin https://www.youtube.com/watch?v=HNabDmuh_Ok
-   - digital notes https://www.youtube.com/watch?v=BRB_Ict061g
+   - digital notes
+      - https://www.youtube.com/watch?v=BRB_Ict061g
+      - https://www.youtube.com/watch?v=NNG2KwKa44M
    - https://maqamlessons.com/analysis/beginnertrack.html
 2. Theory: sayr of maqam rast
    - https://maqamlessons.com/playground/010_01_MaqamRast.html
