@@ -1,6 +1,14 @@
 
 1. Ghannili Shwayya Shwayya
    - http://levioloniste.epizy.com/oumkalthoum/ghanni_li_chouya_chouya.pdf
+   - modern recording: https://youtu.be/DXlioKD9Hk4?si=WrElzrVjFl7IlmJA
+   - oud with scrolling notes
+      - https://www.youtube.com/watch?v=5t9X7O1vsR8
+      - https://www.youtube.com/watch?v=-NJ0htJtn8c
+   - kanun https://www.youtube.com/watch?v=nJWAz9WGvhs
+   - virtual piano https://www.youtube.com/watch?v=EjpHIrGzUyo
+   - kid, digital piano https://www.youtube.com/watch?v=w42vbcIdOlE
+   - digital notes https://www.youtube.com/watch?v=BRB_Ict061g
    - https://maqamlessons.com/analysis/beginnertrack.html
 
 
