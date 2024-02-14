@@ -21,6 +21,7 @@
 3. Lissa Fakir
    - scrolling notes https://www.youtube.com/watch?v=277r2-g7qaY
    - score https://www.dropbox.com/scl/fi/r0wgff819jporo7my8a16/lissa_fakir.pdf?rlkey=gi5lnkzuchd3ec7cs0y3zfns6&dl=0
+   - https://maqamlessons.com/analysis/lissafakir.html
 9. Marmar Zamani
    - oud with score https://www.youtube.com/watch?v=_XdFFeuSsfY
    - virtual https://www.youtube.com/watch?v=1sulY0m1Fjc
