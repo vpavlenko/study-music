@@ -16,7 +16,10 @@
    - https://maqamlessons.com/analysis/beginnertrack.html
 2. Theory: sayr of maqam rast
    - https://maqamlessons.com/playground/010_01_MaqamRast.html 
-
+9. Marmar Zamani
+   - oud with score https://www.youtube.com/watch?v=_XdFFeuSsfY
+   - virtual https://www.youtube.com/watch?v=1sulY0m1Fjc
+   - oud https://www.youtube.com/watch?v=RFBNlsa0ryw
 
 
 [StyleBot CSS gist for maqamlessons.com](https://gist.github.com/vpavlenko/ab453e0c96087c1056e60038f30293fd)
