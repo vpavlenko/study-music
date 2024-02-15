@@ -57,7 +57,11 @@ Progressive rock
 - [Gregory Richard McCandless. Rhythm and Meter in the Music of Dream Theater](https://diginole.lib.fsu.edu/islandora/object/fsu:180880/datastream/PDF/view.)
 - [Brett G. Clement. Scale Systems and Large-Scale Form in the Music of Yes](https://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.clement.html)
 
+Metal
+---
 
+- Esa Lilja. Theory and Analysis of Classic Heavy Metal Harmony
+- works of James Boddington Jordan and Jan-Peter Herbst
 
 More
 ---
