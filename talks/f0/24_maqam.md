@@ -43,7 +43,9 @@
 backup
 ---
 
-- tashriq https://www.youtube.com/results?search_query=%D8%AA%D8%B4%D8%B1%D9%8A%D9%82
+- tuning
+   - tashriq https://www.youtube.com/results?search_query=%D8%AA%D8%B4%D8%B1%D9%8A%D9%82
+   - https://maqamlessons.com/analysis/media/PPerform_019_2007-02-02.mp3
 - https://www.youtube.com/@YoussryElwrdany/videos
 
 скачать
