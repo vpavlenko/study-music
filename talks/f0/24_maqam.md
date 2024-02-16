@@ -35,7 +35,7 @@
    - oud with score https://www.youtube.com/watch?v=_XdFFeuSsfY
    - virtual https://www.youtube.com/watch?v=1sulY0m1Fjc
    - oud https://www.youtube.com/watch?v=RFBNlsa0ryw
-   - with taqsim at the star https://youtu.be/Yn2rqPmM1F0?si=iQj2Mq-FFvdP8avs
+   - with taqsim at the start https://youtu.be/Yn2rqPmM1F0?si=iQj2Mq-FFvdP8avs
 10. мб в след раз семинар по анализу арабской музыки
 
 
