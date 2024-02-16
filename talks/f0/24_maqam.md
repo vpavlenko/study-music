@@ -1,4 +1,9 @@
 
+1. Marmar Zamani
+   - oud with score https://www.youtube.com/watch?v=_XdFFeuSsfY
+   - virtual https://www.youtube.com/watch?v=1sulY0m1Fjc
+   - oud https://www.youtube.com/watch?v=RFBNlsa0ryw
+   - with taqsim at the start https://youtu.be/Yn2rqPmM1F0?si=iQj2Mq-FFvdP8avs
 1. Ghannili Shwayya Shwayya
    - http://levioloniste.epizy.com/oumkalthoum/ghanni_li_chouya_chouya.pdf
    - modern recording: https://youtu.be/DXlioKD9Hk4?si=WrElzrVjFl7IlmJA
@@ -31,11 +36,6 @@
    - scrolling notes https://www.youtube.com/watch?v=277r2-g7qaY
    - score https://www.dropbox.com/scl/fi/r0wgff819jporo7my8a16/lissa_fakir.pdf?rlkey=gi5lnkzuchd3ec7cs0y3zfns6&dl=0
    - https://maqamlessons.com/analysis/lissafakir.html
-9. Marmar Zamani
-   - oud with score https://www.youtube.com/watch?v=_XdFFeuSsfY
-   - virtual https://www.youtube.com/watch?v=1sulY0m1Fjc
-   - oud https://www.youtube.com/watch?v=RFBNlsa0ryw
-   - with taqsim at the start https://youtu.be/Yn2rqPmM1F0?si=iQj2Mq-FFvdP8avs
 10. мб в след раз семинар по анализу арабской музыки
 
 
