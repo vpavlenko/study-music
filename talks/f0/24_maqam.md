@@ -37,6 +37,7 @@
 4. Harramt Ahibbak
    - https://maqamlessons.com/analysis/harramtahibbak.html
    - synth https://youtu.be/TW5dzSvZ65A
+   - arrangement score (+1300ms audio delay) https://www.youtube.com/watch?v=gHKMjl5MBk0
 10. мб в след раз семинар по анализу арабской музыки
 
 
