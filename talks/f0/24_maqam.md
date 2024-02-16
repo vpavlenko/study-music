@@ -26,6 +26,8 @@
 3. Theory: sayr of maqam rast
    - https://maqamlessons.com/playground/010_01_MaqamRast.html
    - maqam scales playlist https://www.youtube.com/playlist?list=PLVMIkhC-T3fDUdAEoSJX0yKvx_0hoay2y
+4. Rhythm: Maqsum and its other 4/4 variations
+   - https://www.maqamworld.com/en/iqaa/maqsum.php
 4. Gameel Gamaal
    - original video https://www.youtube.com/watch?v=UfOR8iTTbfA, [lyrics](http://www.shira.net/music/lyrics/gamil-gamal.htm)
    - https://maqamlessons.com/analysis/gameelgamaal.html
