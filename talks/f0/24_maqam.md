@@ -35,11 +35,8 @@
    - https://www.dropbox.com/scl/fi/5ke9lyfrn0xfs5mhsnyw2/Gamul-Gamal.pdf?rlkey=w55xh0ewmi3uwi94k3ta5uvcf&dl=0
    - [taqsim nawa athar](https://youtu.be/RU8x1fuudho)
 4. Harramt Ahibbak
+   - https://maqamlessons.com/analysis/harramtahibbak.html
    - synth https://youtu.be/TW5dzSvZ65A
-3. Lissa Fakir
-   - scrolling notes https://www.youtube.com/watch?v=277r2-g7qaY
-   - score https://www.dropbox.com/scl/fi/r0wgff819jporo7my8a16/lissa_fakir.pdf?rlkey=gi5lnkzuchd3ec7cs0y3zfns6&dl=0
-   - https://maqamlessons.com/analysis/lissafakir.html
 10. мб в след раз семинар по анализу арабской музыки
 
 
