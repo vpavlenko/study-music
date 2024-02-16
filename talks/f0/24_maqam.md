@@ -51,7 +51,8 @@
 quartertones
 ---
 
- danske vokaler analogy
+ - danske vokaler analogy
+ - https://www.maqamlessons.com/analysis/media/FuzzyBoundaries_MaqamIntonation2009.pdf
 
 backup
 ---
