@@ -38,6 +38,7 @@
    - https://www.dropbox.com/scl/fi/5ke9lyfrn0xfs5mhsnyw2/Gamul-Gamal.pdf?rlkey=w55xh0ewmi3uwi94k3ta5uvcf&dl=0
    - [taqsim nawa athar](https://youtu.be/RU8x1fuudho)
 4. Harramt Ahibbak
+   - https://youtu.be/JG7fhlJO3X4
    - https://maqamlessons.com/analysis/harramtahibbak.html
    - synth https://youtu.be/TW5dzSvZ65A
    - arrangement score (+1300ms audio delay) https://www.youtube.com/watch?v=gHKMjl5MBk0
