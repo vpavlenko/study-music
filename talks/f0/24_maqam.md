@@ -1,10 +1,10 @@
 
 1. Marmar Zamani
    - Fairouz https://youtu.be/QUxl2C-NvtM
+   - with taqsim at the start https://youtu.be/Yn2rqPmM1F0?si=iQj2Mq-FFvdP8avs
    - oud with score https://www.youtube.com/watch?v=_XdFFeuSsfY
    - virtual https://www.youtube.com/watch?v=1sulY0m1Fjc
    - oud https://www.youtube.com/watch?v=RFBNlsa0ryw
-   - with taqsim at the start https://youtu.be/Yn2rqPmM1F0?si=iQj2Mq-FFvdP8avs
 1. Ghannili Shwayya Shwayya
    - original video https://youtu.be/wfxSZRebNOA
    - http://levioloniste.epizy.com/oumkalthoum/ghanni_li_chouya_chouya.pdf
