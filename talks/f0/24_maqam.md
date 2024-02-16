@@ -8,6 +8,7 @@
    - original video https://youtu.be/wfxSZRebNOA
    - http://levioloniste.epizy.com/oumkalthoum/ghanni_li_chouya_chouya.pdf
    - modern recording: https://youtu.be/DXlioKD9Hk4?si=WrElzrVjFl7IlmJA
+   - mbc the voice kids https://youtu.be/dgWF9vpVHPU?feature=shared
    - oud with scrolling notes
       - https://www.youtube.com/watch?v=5t9X7O1vsR8
       - https://www.youtube.com/watch?v=-NJ0htJtn8c
