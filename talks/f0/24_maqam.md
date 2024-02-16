@@ -42,6 +42,7 @@
    - https://maqamlessons.com/analysis/harramtahibbak.html
    - synth https://youtu.be/TW5dzSvZ65A
    - arrangement score (+1300ms audio delay) https://www.youtube.com/watch?v=gHKMjl5MBk0
+2. Fairouz "Ya Ana", composer Walid al-Milhi, ca. 1788 https://www.youtube.com/watch?v=BTICpPmf1yA&t=29s
 10. мб в след раз семинар по анализу арабской музыки
 
 
