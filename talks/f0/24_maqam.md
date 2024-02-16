@@ -1,10 +1,12 @@
 
 1. Marmar Zamani
+   - Fairouz https://youtu.be/QUxl2C-NvtM
    - oud with score https://www.youtube.com/watch?v=_XdFFeuSsfY
    - virtual https://www.youtube.com/watch?v=1sulY0m1Fjc
    - oud https://www.youtube.com/watch?v=RFBNlsa0ryw
    - with taqsim at the start https://youtu.be/Yn2rqPmM1F0?si=iQj2Mq-FFvdP8avs
 1. Ghannili Shwayya Shwayya
+   - original video https://youtu.be/wfxSZRebNOA
    - http://levioloniste.epizy.com/oumkalthoum/ghanni_li_chouya_chouya.pdf
    - modern recording: https://youtu.be/DXlioKD9Hk4?si=WrElzrVjFl7IlmJA
    - oud with scrolling notes
@@ -21,10 +23,10 @@
       - https://www.youtube.com/watch?v=BRB_Ict061g
       - https://www.youtube.com/watch?v=NNG2KwKa44M
    - https://maqamlessons.com/analysis/beginnertrack.html
-2. Theory: sayr of maqam rast
+3. Theory: sayr of maqam rast
    - https://maqamlessons.com/playground/010_01_MaqamRast.html
    - maqam scales playlist https://www.youtube.com/playlist?list=PLVMIkhC-T3fDUdAEoSJX0yKvx_0hoay2y
-3. Gameel Gamaal
+4. Gameel Gamaal
    - original video https://www.youtube.com/watch?v=UfOR8iTTbfA, [lyrics](http://www.shira.net/music/lyrics/gamil-gamal.htm)
    - https://maqamlessons.com/analysis/gameelgamaal.html
    - digital notes https://www.youtube.com/watch?v=SckeReGca_w
