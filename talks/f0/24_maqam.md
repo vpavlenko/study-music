@@ -1,5 +1,3 @@
-# [https://bit.ly/gmaj](https://bit.ly/gmaj)
-
 1. Marmar Zamani
    - Fairouz https://youtu.be/QUxl2C-NvtM
    - with taqsim at the start https://youtu.be/Yn2rqPmM1F0?si=iQj2Mq-FFvdP8avs
