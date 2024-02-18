@@ -16,6 +16,9 @@ Craft
 
 - [Charlie Parker Omnibook (wiki)](https://en.wikipedia.org/wiki/Charlie_Parker_Omnibook) - [pattern explorer by Jazzomat](https://jazzomat.hfm-weimar.de/pattern_explorer/), [progressions analyzed by mDecks](https://mdecks.com/bebopstandards.phtml)
 
+- [Wynton Marsalis Omnibook](https://wyntonmarsalis.org/books/title/wynton-marsalis-omnibook) has an intro article describing his solo language, maybe other omnibooks also do that
+![image](https://user-images.githubusercontent.com/1491908/235591439-38e5949d-70c6-4a58-a524-6ab5ac84148f.png)
+
 - [Doug McKenzie's Jazz Piano videos](https://bushgrafts.com/) and [MIDI solos](https://bushgrafts.com/midi/)
 
 <img width="800" alt="Screenshot 2022-07-11 at 21 34 59" src="https://user-images.githubusercontent.com/1491908/178301639-4ce596c7-94ee-4ab7-8247-be0d41c8e0f5.png">
