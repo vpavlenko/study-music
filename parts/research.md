@@ -35,10 +35,8 @@ Journals
 ---
 
 - [Music Theory Online](https://www.mtosmt.org/)
-- [Empirical Musicology Review](https://emusicology.org/)
-- [Intégral](https://www.esm.rochester.edu/integral/)
-- [SMT award](https://societymusictheory.org/archives/awards/publications)
-
+- https://www.mtosmt.org/mto_links.html
+  
 Conferences
 ---
 
