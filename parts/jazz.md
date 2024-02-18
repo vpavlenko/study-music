@@ -39,6 +39,8 @@ Bass lines
 
 - John Goldsby. The Jazz Bass Book: Technique and Tradition
 
+- [Xavier Riley, Simon Dixon. FiloBass: A Dataset and Corpus Based Study of Jazz Basslines](https://arxiv.org/abs/2311.02023)
+
 Rhythm
 ---
 - [Christian Dittmar, Martin Pfleiderer, Stefan Balke, and Meinard Müller. A Swingogram Representation for Tracking Microrhythmic Variations in Jazz Performances](https://www.audiolabs-erlangen.de/resources/MIR/2017-JNMR-SwingRatio)
