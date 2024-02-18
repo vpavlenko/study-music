@@ -8,6 +8,7 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - Jeremy M. Robins on Phrase Structure, see References
 - Double-Tonic Complexes
   - https://www.esm.rochester.edu/integral/35-2022/ferrandino/
+  - https://mtosmt.org/issues/mto.17.23.2/mto.17.23.2.spicer.html
 - Brad Osborn
 - Hypermeter
   - https://core.ac.uk/download/pdf/84118984.pdf
