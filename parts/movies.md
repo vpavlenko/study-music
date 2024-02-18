@@ -31,4 +31,5 @@ More
 - https://www.amazon.co.uk/Practical-Art-Motion-Picture-Sound/dp/0240808657/
 - https://www.amazon.com/Sound-Systems-Optimization-Techniques-Alignment/dp/0240521560/
 - http://www.filmscorerundowns.net/
+- https://mtosmt.org/issues/mto.16.22.1/mto.16.22.1.richards.html
 - "Tunes for 'Toones"
