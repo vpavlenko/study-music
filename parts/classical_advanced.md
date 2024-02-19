@@ -29,6 +29,7 @@ Advanced harmony
 - Daniel Harrison. Pieces of Tradition: An Analysis of Contemporary Tonal Music
 - Tonfeldtheorie
 - Kyle Hutchinson. Chromatically Altered Diminished-Seventh Chords: Reframing Function through Dissonance Resolution in Late Nineteenth-Century Tonality
+- Yosef Goldenberg.	Prolongation of Seventh Chords in Tonal Music
 
 
 Advanced form
