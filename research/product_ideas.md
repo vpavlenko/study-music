@@ -7,3 +7,5 @@
 - 12-coloring of sheet music and sheet music videos using OMR. Maybe using peachnote dataset
 
 - Drum patterns from MIDI: exploration
+
+- Endless carpet for Sega Genesis: how to make an instrument from the entire corpus
