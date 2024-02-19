@@ -27,8 +27,9 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - https://doi.org/10.1093/mts/mtv020
 - https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.doll.html
 - [Scott J. Hanenberg. Rock Modulation and Narrative](https://mtosmt.org/issues/mto.16.22.2/mto.16.22.2.hanenberg.html)
-
-
+- https://mtosmt.org/issues/mto.20.26.1/mto.20.26.1.heetderks.html
+- https://mtosmt.org/issues/mto.12.18.2/mto.12.18.2.blake.html
+  
 # Form
 
 - [ambiguity](https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.de_clercq.html)
