@@ -64,6 +64,10 @@ Metal
 - works of James Boddington Jordan and Jan-Peter Herbst
 - https://www.youtube.com/@metalmusictheory5401
 - https://mtosmt.org/issues/mto.21.27.1/mto.21.27.1.garza.html
+- https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.osborn.html
+- https://mtosmt.org/issues/mto.13.19.2/mto.13.19.2.mccandless.html
+- https://mtosmt.org/issues/mto.21.27.4/mto.21.27.4.lucas.html
+- https://mtosmt.org/issues/mto.21.27.1/mto.21.27.1.hudson.html
 - Capuzzo, Guy. 2018. “Rhythmic Deviance in the Music of Meshuggah.”
 
 More
