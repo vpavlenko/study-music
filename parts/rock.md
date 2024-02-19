@@ -70,6 +70,7 @@ Metal
 - https://mtosmt.org/issues/mto.22.28.1/mto.22.28.1.hannan.html
 - https://mtosmt.org/issues/mto.21.27.1/mto.21.27.1.hudson.html
 - Capuzzo, Guy. 2018. “Rhythmic Deviance in the Music of Meshuggah.”
+- Scotto, Ciro. 2017. “The Structural Role of Distortion in Hard Rock and Heavy Metal.”
 
 More
 ---
