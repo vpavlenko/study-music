@@ -26,6 +26,8 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - [Kyle Hutchinson. Retrospective Time and the Subdominant Past: Tonal Hermeneutics in Contemporary Broadway Megamusicals](https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.hutchinson.html)
 - https://doi.org/10.1093/mts/mtv020
 - https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.doll.html
+- [Scott J. Hanenberg. Rock Modulation and Narrative](https://mtosmt.org/issues/mto.16.22.2/mto.16.22.2.hanenberg.html)
+
 
 # Form
 
