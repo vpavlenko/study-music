@@ -68,4 +68,5 @@ Counterpoint can be of 16th century (which is Renaissance) or 18th century (whic
 - Скребков. Полифонический анализ - про ХТК
 - Kurt-Jürgen Sachs, Carl Dahlhaus. "Counterpoint" - an article in New Grove Music Dictionary
 - https://doc.verovio.humdrum.org/filter/dissonant/
+- https://mtosmt.org/issues/mto.23.29.4/mto.23.29.4.daly.html
 
