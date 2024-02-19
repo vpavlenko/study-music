@@ -57,7 +57,7 @@ Where to start
 
 
 **Лекции**
-- [🎥 Есть мои видеолекции](https://t.me/keetezh/945)
+- [🎥 Есть мои видеолекции](https://t.me/keetezh/1055)
 
 Western music languages
 ---
