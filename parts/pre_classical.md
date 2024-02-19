@@ -70,4 +70,4 @@ Counterpoint can be of 16th century (which is Renaissance) or 18th century (whic
 - https://doc.verovio.humdrum.org/filter/dissonant/
 - https://mtosmt.org/issues/mto.23.29.4/mto.23.29.4.daly.html
 - https://mtosmt.org/issues/mto.20.26.4/mto.20.26.4.desmond.html
-
+- https://mtosmt.org/issues/mto.13.19.3/mto.13.19.3.dineen.html
