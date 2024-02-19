@@ -47,6 +47,7 @@ Advanced form
 - [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (is this actually about form, or is it vaguely musicological?)
 - Danuta Mirka, Julian Horton, Michael Klein etc.
 - Yoel Greenberg. How Sonata Forms. A Bottom-Up Approach to Musical Form. - he has corpus studies on evolution of recapitulation
+- [Yosef Goldenberg. Continuous Question-Answer Pairs](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.goldenberg.html)
 
 
 
