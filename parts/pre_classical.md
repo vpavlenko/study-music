@@ -28,6 +28,7 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - The Cambridge History of Fifteenth-Century Music
 - Jesse Rodin. Josquin's Rome
 - https://www.earlymusicsources.com/
+- Charles M. Atkinson, The Critical Nexus: Tone-System, Mode, and Notation in Early Medieval Music
 
 
 Baroque music
