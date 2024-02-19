@@ -27,3 +27,5 @@ Mixing
 - [🎥 "Recreate" videos by Doctor Mix](https://www.youtube.com/@Doctormix/search?query=Recreate)
 
 - https://mixwiththemasters.com/
+
+- https://mtosmt.org/issues/mto.22.28.4/mto.22.28.4.duguay.html
