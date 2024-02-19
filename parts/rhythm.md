@@ -12,3 +12,4 @@ Rhythm
 - Studies on syncopation by David Temperley
 - Brad Osborn. Beats that Commute: Algebraic and Kinesthetic Models for MathRock Grooves
 - https://www.mtosmt.org/issues/mto.01.7.6/mto.01.7.6.butler.html Beat in EDM
+- https://mtosmt.org/issues/mto.16.22.3/mto.16.22.3.declercq.html
