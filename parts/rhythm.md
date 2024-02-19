@@ -15,3 +15,4 @@ Rhythm
 - https://mtosmt.org/issues/mto.16.22.3/mto.16.22.3.declercq.html
 - [blast beat in extreme hardcore punk](https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.pearson.html)
 - Capuzzo, Guy. 2018. “Rhythmic Deviance in the Music of Meshuggah.”
+- Godfried Toussaint. The Geometry of Musical Rhythm: What Makes a “Good” Rhythm Good?
