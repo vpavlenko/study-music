@@ -62,6 +62,9 @@ Metal
 
 - Esa Lilja. Theory and Analysis of Classic Heavy Metal Harmony
 - works of James Boddington Jordan and Jan-Peter Herbst
+- https://www.youtube.com/@metalmusictheory5401
+- https://mtosmt.org/issues/mto.21.27.1/mto.21.27.1.garza.html
+- Capuzzo, Guy. 2018. “Rhythmic Deviance in the Music of Meshuggah.”
 
 More
 ---
