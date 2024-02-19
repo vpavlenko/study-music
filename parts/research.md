@@ -88,6 +88,7 @@ Expressive performance
 - Alison Hood. Interpreting Chopin. Analysis and Performance
 - [Ilya Borovik](https://scholar.google.com/citations?user=F9BpdRMAAAAJ&hl=ru)
 - John Paul Ito, Focal Impulse Theory: Musical Expression, Meter, and the Body
+- https://mtosmt.org/issues/mto.12.18.1/mto.12.18.1.dodson.html
 
 Interactive harmonic analysis
 ---
