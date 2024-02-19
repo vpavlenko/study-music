@@ -1,1 +1,2 @@
 - Nicholas Shea. “Guitar thinking” and “Genre thinking” among an Online Community of Guitarists
+- https://mtosmt.org/issues/mto.22.28.3/mto.22.28.3.gardnershea.html
