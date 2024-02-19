@@ -87,7 +87,7 @@ Expressive performance
 - See how Beethoven's MIDI sequences of [Bernd Krueger](http://www.piano-midi.de/beeth.htm) use the tempo track. [Web MIDI editor](https://signal.vercel.app/)
 - Alison Hood. Interpreting Chopin. Analysis and Performance
 - [Ilya Borovik](https://scholar.google.com/citations?user=F9BpdRMAAAAJ&hl=ru)
-
+- John Paul Ito, Focal Impulse Theory: Musical Expression, Meter, and the Body
 
 Interactive harmonic analysis
 ---
