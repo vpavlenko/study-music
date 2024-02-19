@@ -29,5 +29,6 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 
 # Form
 
-- https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.de_clercq.html
-- riffs in punk rock: https://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.easley.html
+- [ambiguity](https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.de_clercq.html)
+- [riffs in punk rock](https://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.easley.html)
+- [bridge (interverse) in U2](https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.endrinal.html)
