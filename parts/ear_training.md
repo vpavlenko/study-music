@@ -24,6 +24,8 @@ Ear training
 - [Theta Music Trainer](https://trainer.thetamusic.com/)
 
 - https://listen-sing.com/, [a podcast](https://www.youtube.com/watch?v=ssNOFaaYn2E), [harmonic singing](https://www.listen-sing.com/harmonic-listening)
+  
+- https://mtosmt.org/issues/mto.21.27.2/mto.21.27.2.chenette.html
 
 Sight Singing
 ---
