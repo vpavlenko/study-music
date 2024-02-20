@@ -5,21 +5,13 @@ Neo-Riemannian theory
 ---
 
 - [A Wikipedia article has a nice list of books](https://en.wikipedia.org/wiki/Neo-Riemannian_theory)
-
 - Edward Gollin and Alexander Rehding, eds., The Oxford Handbook of Neo-Riemannian Theories
-
 - [Frank Lehman. Hollywood Harmony: Musical Wonder and the Sound of Cinema](https://www.amazon.com/Hollywood-Harmony-Musical-Wonder-Cinema/dp/0190606401)
 with [audio resources](https://global.oup.com/us/companion.websites/9780190606404/resources/)
-
 - [Neo-Riemannian examples in music: YouTube videos](https://alpof.wordpress.com/2021/10/09/neo-riemannian-examples-in-music/)
-
 - https://youtu.be/6Q3HJNiD5bA
 - https://youtube.com/playlist?list=PLRqx5UIhvD3xLQE4L9nEp1yCnFsC-4ED4&si=XwpJYInJHYbdLyIM
-
 - [A discussion in "Empirical Musicology: An Interview with David Huron Part II by Daniel Shanahan](https://emusicology.org/article/view/8103/6032)
-
-<img width="841" alt="Screenshot 2023-02-22 at 11 34 35" src="https://user-images.githubusercontent.com/1491908/220553202-d859e19d-6428-4659-bda1-b1825ef06208.png">
-
 - https://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.forrest.html
 
 More
