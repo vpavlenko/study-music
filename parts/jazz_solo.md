@@ -14,7 +14,7 @@ Craft
 
 - [🎥 Stijn Wauters. Jazz Piano Practice Session - Major II V I & Turn Around Licks](https://www.youtube.com/watch?v=57r-M-oXpsc) - Introduction into solo building strategies
 
-- [Charlie Parker Omnibook (wiki)](https://en.wikipedia.org/wiki/Charlie_Parker_Omnibook) - [pattern explorer by Jazzomat](https://jazzomat.hfm-weimar.de/pattern_explorer/), [progressions analyzed by mDecks](https://mdecks.com/bebopstandards.phtml)
+- [Charlie Parker Omnibook (wiki)](https://en.wikipedia.org/wiki/Charlie_Parker_Omnibook) - [pattern explorer by Jazzomat](https://jazzomat.hfm-weimar.de/pattern_explorer/), [progressions analyzed by mDecks](https://mdecks.com/bebopstandards.phtml), Thomas Owens's thesis, [Henry Martin's paper](https://mtosmt.org/issues/mto.12.18.3/mto.12.18.3.martin.html)
 
 - [Wynton Marsalis Omnibook](https://wyntonmarsalis.org/books/title/wynton-marsalis-omnibook) has an intro article describing his solo language, maybe other omnibooks also do that
 ![image](https://user-images.githubusercontent.com/1491908/235591439-38e5949d-70c6-4a58-a524-6ab5ac84148f.png)
