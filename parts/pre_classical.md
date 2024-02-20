@@ -29,6 +29,7 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - Jesse Rodin. Josquin's Rome
 - https://www.earlymusicsources.com/
 - Charles M. Atkinson, The Critical Nexus: Tone-System, Mode, and Notation in Early Medieval Music
+- [Julie E. Cumming. Renaissance Improvisation and Musicology](https://mtosmt.org/issues/mto.13.19.2/mto.13.19.2.cumming.html)
 
 
 Baroque music
