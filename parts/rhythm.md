@@ -19,3 +19,4 @@ Rhythm
 - Godfried Toussaint. The Geometry of Musical Rhythm: What Makes a “Good” Rhythm Good?
 - [Scott James Hanenberg. Unpopular Meters. Irregular Grooves and Drumbeats in the Songs of Tori Amos, Radiohead, and Tool](https://tspace.library.utoronto.ca/bitstream/1807/91968/4/Hanenberg_Scott_201811_PhD_thesis.pdf)
 - https://mtosmt.org/issues/mto.22.28.1/mto.22.28.1.cairns.html
+- https://mtosmt.org/issues/mto.20.26.1/mto.20.26.1.clayton.html
