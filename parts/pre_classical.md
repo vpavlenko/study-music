@@ -21,6 +21,7 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - [Karen Desmond, Emily Hopkins, Samuel Howes, Julie E. Cumming. Computer-aided Analysis of Sonority in the French Motet Repertory, ca. 1300–1350](https://www.mtosmt.org/issues/mto.20.26.4/mto.20.26.4.desmond.php)
 - Eric Chafe. Monteverdi's Tonal Language
 - https://www.routledge.com/Upper-Voice-Structures-and-Compositional-Process-in-the-Ars-Nova-Motet/Zayaruznaya/p/book/9780367590758
+   - Anna Zayaruznaya. The Monstrous New Art: Divided Forms in the Late Medieval Motet, [review](https://mtosmt.org/issues/mto.16.22.2/mto.16.22.2.lavacek.html)
 - Polyphony in medieval Paris: The art of composing with plainchant
 - 🎥 https://www.youtube.com/@EarlyMusicSources
 - Vincenzo Borghetti, Tim Shephard (eds). The Museum of Renaissance Music. A History in 100 Exhibits
