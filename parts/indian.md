@@ -13,3 +13,4 @@ Indian Classical Music
 - [compIAM (computational analysis of Indian Art Music)](https://github.com/MTG/compIAM)
 - Chakraborty S., Mazzola G., Patra M., Tewari S. Computational musicology in Hindustani music. _(I'm afraid of Mazzola, specifically)_
 - https://puretones.sadharani.com/
+- https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.clarke.html
