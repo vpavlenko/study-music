@@ -32,6 +32,8 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - https://www.mtosmt.org/issues/mto.19.25.3/mto.19.25.3.conklin.html
 - https://www.mtosmt.org/issues/mto.00.6.3/mto.00.6.3.kaminsky.html
 - [Megan L. Lavengood. The Cultural Significance of Timbre Analysis: A Case Study in 1980s Pop Music, Texture, and Narrative](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.lavengood.html)
+- https://www.mtosmt.org/issues/mto.10.16.1/mto.10.16.1.malawey.html
+
   
 # Form
 
