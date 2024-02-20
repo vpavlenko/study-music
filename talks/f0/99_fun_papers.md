@@ -7,3 +7,4 @@
 - [Brian Edward Jarvis. Prioritizing Narrative Structure in Large-Scale Film-Music Analysis: A Case Study of Dramatic Irony in Barton Fink](https://www.mtosmt.org/issues/mto.23.29.1/mto.23.29.1.jarvis.html)
 - [Shersten Johnson. Notational Systems and Conceptualizing Music: A Case Study of Print and Braille Notation](https://www.mtosmt.org/issues/mto.09.15.3/mto.09.15.3.johnson.html)
 - [Elizabeth Medina-Gray. Analyzing Modular Smoothness in Video Game Music](https://www.mtosmt.org/issues/mto.19.25.3/mto.19.25.3.medina.gray.html)
+- https://mtosmt.org/issues/mto.22.28.1/mto.22.28.1.murphy.html
