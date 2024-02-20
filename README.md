@@ -80,7 +80,7 @@ The languages are (roughly speaking):
 - [**Movies (neo-Riemannian)**](parts/movies.md)
 - [**Video games**](parts/vgm.md)
 - [**EDM**](parts/edm.md)
-- Other genres like R&B, country, dance electronic, gospel
+- Other genres like R&B, country, gospel, funk, rap
 - Western regional traditions (eg. [Latin](https://www.halleonard.com/menu/562/latin))
 
 Non-Western music languages
