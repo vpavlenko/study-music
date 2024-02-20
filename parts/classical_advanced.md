@@ -30,6 +30,7 @@ Advanced harmony
 - Tonfeldtheorie
 - Kyle Hutchinson. Chromatically Altered Diminished-Seventh Chords: Reframing Function through Dissonance Resolution in Late Nineteenth-Century Tonality
 - Yosef Goldenberg.	Prolongation of Seventh Chords in Tonal Music
+- https://mtosmt.org/issues/mto.09.15.2/mto.09.15.2.mcfarland.html
 
 
 Advanced form
