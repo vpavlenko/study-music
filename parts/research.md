@@ -92,6 +92,7 @@ Expressive performance
 - https://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.fabian.html
 - https://mtosmt.org/issues/mto.14.20.4/mto.14.20.4.kopp.html
 - https://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.martens.html
+- search https://www.mtosmt.org/docs/index-author.php on "performance"
 
 Interactive harmonic analysis
 ---
