@@ -90,6 +90,7 @@ Expressive performance
 - John Paul Ito, Focal Impulse Theory: Musical Expression, Meter, and the Body
 - https://mtosmt.org/issues/mto.12.18.1/mto.12.18.1.dodson.html
 - https://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.fabian.html
+- https://mtosmt.org/issues/mto.14.20.4/mto.14.20.4.kopp.html
 
 Interactive harmonic analysis
 ---
