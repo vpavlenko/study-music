@@ -1,5 +1,3 @@
-<img width="743" alt="Screenshot 2022-03-29 at 18 22 38" src="https://user-images.githubusercontent.com/1491908/160610249-94f4dc74-c595-4cd9-b996-6bf157422464.png">
-
 Movie music
 ===
 
