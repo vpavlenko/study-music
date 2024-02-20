@@ -89,3 +89,4 @@ More
 3. Lester Young https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=5097&=&context=doctoral&=
 4. [Stefan C. Love. “Possible Paths”: Schemata of Phrasing and Melody in Charlie Parker’s Blues](https://mtosmt.org/issues/mto.12.18.3/mto.12.18.3.love.html)
 5. https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.miller.html
+6. https://www.mtosmt.org/issues/mto.19.25.3/mto.19.25.3.michaelsen.html
