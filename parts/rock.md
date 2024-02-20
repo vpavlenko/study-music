@@ -56,6 +56,7 @@ Progressive rock
 - [Edited By Kevin Holm-Hudson. Progressive Rock Reconsidered](https://www.routledge.com/Progressive-Rock-Reconsidered/Holm-Hudson/p/book/9780815337157)
 - [Gregory Richard McCandless. Rhythm and Meter in the Music of Dream Theater](https://diginole.lib.fsu.edu/islandora/object/fsu:180880/datastream/PDF/view.)
 - [Brett G. Clement. Scale Systems and Large-Scale Form in the Music of Yes](https://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.clement.html)
+- [Mattias Lundberg. “To Let it Be Without Pretense”: Canon, Fugue, and Imitation in Progressive Rock 1968–1979](https://www.mtosmt.org/issues/mto.14.20.3/mto.14.20.3.lundberg.html)
 
 Metal
 ---
