@@ -88,3 +88,4 @@ More
 2. McCoy Tyner https://taju.uniarts.fi/bitstream/handle/10024/6819/302684_Sami_Linna_McCoyTynerModalJazzandtheDominantChord_verkkoversio.pdf?sequence=1&isAllowed=y
 3. Lester Young https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=5097&=&context=doctoral&=
 4. [Stefan C. Love. “Possible Paths”: Schemata of Phrasing and Melody in Charlie Parker’s Blues](https://mtosmt.org/issues/mto.12.18.3/mto.12.18.3.love.html)
+5. https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.miller.html
