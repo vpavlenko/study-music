@@ -27,3 +27,4 @@ More
 - https://mtosmt.org/issues/mto.16.22.1/mto.16.22.1.richards.html
 - "Tunes for 'Toones"
 - [Brian Edward Jarvis. Prioritizing Narrative Structure in Large-Scale Film-Music Analysis: A Case Study of Dramatic Irony in _Barton Fink_](https://www.mtosmt.org/issues/mto.23.29.1/mto.23.29.1.jarvis.html)
+- [Frank Lehman. Hollywood Cadences: Music and the Structure of Cinematic Expectation](https://mtosmt.org/issues/mto.13.19.4/mto.13.19.4.lehman.html)
