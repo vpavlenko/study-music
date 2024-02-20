@@ -29,6 +29,7 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - [Scott J. Hanenberg. Rock Modulation and Narrative](https://mtosmt.org/issues/mto.16.22.2/mto.16.22.2.hanenberg.html)
 - https://mtosmt.org/issues/mto.20.26.1/mto.20.26.1.heetderks.html
 - https://mtosmt.org/issues/mto.12.18.2/mto.12.18.2.blake.html
+- https://www.mtosmt.org/issues/mto.19.25.3/mto.19.25.3.conklin.html
   
 # Form
 
