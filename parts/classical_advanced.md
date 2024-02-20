@@ -9,7 +9,7 @@ Advanced materials on classical music
 - [David Fuentes. Figuring Out Melody](https://figuringoutmelody.com/fom-ebook/) - At some point I was googling whether there's a book specifically on a melody line
 - [Edwin Gordon. Learning Sequences in Music: A Contemporary Music Learning Theory](https://amzn.to/3rMsl0U)
 - Jan LaRue. Guidelines for Style Analysis
-
+- [Stefan Caris Love. Historical Hypermetrical Hearing: Cycles and Schemas in the String-Quartet Minuet](https://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.love.html)
 
 
 
