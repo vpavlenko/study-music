@@ -35,7 +35,8 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
   
 # Form
 
-- [ambiguity](https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.de_clercq.html)
-- [riffs in punk rock](https://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.easley.html)
-- [bridge (interverse) in U2](https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.endrinal.html)
-- https://mtosmt.org/issues/mto.21.27.4/mto.21.27.4.carter.html
+- [Trevor de Clercq. Embracing Ambiguity in the Analysis of Form in Pop/Rock Music, 1982–1991](https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.de_clercq.html)
+- [David B. Easley. Riff Schemes, Form, and the Genre of Early American Hardcore Punk (1978–83)](https://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.easley.html)
+- [Christopher Endrinal. Burning Bridges: Defining the Interverse in the Music of U2](https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.endrinal.html)
+- [David S. Carter. Generic Norms, Irony, and Authenticity in the AABA Songs of the Rolling Stones, 1963–1971](https://mtosmt.org/issues/mto.21.27.4/mto.21.27.4.carter.html)
+- [Victoria Malawey. Strophic Modification in Songs by Amy Beach](https://www.mtosmt.org/issues/mto.14.20.4/mto.14.20.4.malawey.html)
