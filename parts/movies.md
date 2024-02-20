@@ -13,6 +13,7 @@ with [audio resources](https://global.oup.com/us/companion.websites/978019060640
 - https://youtube.com/playlist?list=PLRqx5UIhvD3xLQE4L9nEp1yCnFsC-4ED4&si=XwpJYInJHYbdLyIM
 - [A discussion in "Empirical Musicology: An Interview with David Huron Part II by Daniel Shanahan](https://emusicology.org/article/view/8103/6032)
 - https://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.forrest.html
+- https://mtosmt.org/issues/mto.06.12.2/mto.06.12.2.murphy.html
 
 More
 ---
