@@ -9,3 +9,4 @@ Sociology of music
 - [Tami Gadir. Understanding Agency from the Decks to the Dance Floor](https://mtosmt.org/issues/mto.18.24.3/mto.18.24.3.gadir.html)
 - [Luis Manuel Garcia-Mispireta. Together, Somehow. Music, Affect, and Intimacy on the Dancefloor ](https://www.dukeupress.edu/together-somehow)
 - https://mtosmt.org/issues/mto.18.24.4/mto.18.24.4.canonne.html
+- https://mtosmt.org/issues/mto.01.7.2/mto.01.7.2.cook.html
