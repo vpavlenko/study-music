@@ -1,1 +1,3 @@
 - https://mtosmt.org/issues/mto.02.8.4/mto.02.8.4.leydon.html
+- https://mtosmt.org/issues/mto.11.17.1/mto.11.17.1.atkinson.html
+- https://d-scholarship.pitt.edu/24864/1/Harmonic_Centricity_in_Philip_Glass%E2%80%99_%E2%80%9CThe_Grid%E2%80%9D_and_%E2%80%9CCowboy_Rock%E2%80%99n%E2%80%99Roll_USA%2C%E2%80%9D_an_original_composition_4-21-15_1.pdf
