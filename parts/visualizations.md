@@ -33,6 +33,7 @@ Alternative music notations
 - [Tantacrul. Notation Must Die](https://www.youtube.com/watch?v=Eq3bUFgEcb4)
 - [Timeline of music notation](https://silpayamanant.wordpress.com/timeline-of-music-notation/)
 - https://figurenotes.org/
+- [Shersten Johnson. Notational Systems and Conceptualizing Music: A Case Study of Print and Braille Notation](https://www.mtosmt.org/issues/mto.09.15.3/mto.09.15.3.johnson.html)
 
 More
 ---
