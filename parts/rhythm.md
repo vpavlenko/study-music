@@ -7,6 +7,8 @@ Rhythm
 - https://www.ericrosenbaum.com/#/musical-gears/
 - https://observablehq.com/@toja/euclidean-rhythms
 - https://www.youtube.com/@rainerpolak8435/videos
+   - https://www.mtosmt.org/issues/mto.10.16.4/mto.10.16.4.polak.html
+   - https://mtosmt.org/issues/mto.14.20.1/mto.14.20.1.polak-london.html
 - [Jonathan Foote. The Beat Spectrum: a New Approach To Rhythm Analysis](http://www.rotorbrain.com/foote/papers/icme2001/icmehtml.htm)
 - [Daniel Gómez Marín. Similarity and Style in Electronic Dance Music Drum Rhythms](https://www.tdx.cat/bitstream/handle/10803/543841/tdgm.pdf?sequence=1)
 - Studies on syncopation by David Temperley
