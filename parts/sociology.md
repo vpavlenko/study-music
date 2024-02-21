@@ -10,4 +10,5 @@ Sociology of music
 - [Luis Manuel Garcia-Mispireta. Together, Somehow. Music, Affect, and Intimacy on the Dancefloor ](https://www.dukeupress.edu/together-somehow)
 - https://mtosmt.org/issues/mto.18.24.4/mto.18.24.4.canonne.html
 - https://mtosmt.org/issues/mto.01.7.2/mto.01.7.2.cook.html
+- https://www.mtosmt.org/issues/mto.08.14.3/mto.08.14.3.osborn.html
 - [Marc Lafrance and Lori Burns. Finding Love in Hopeless Places: Complex Relationality and Impossible Heterosexuality in Popular Music Videos by Pink and Rihanna](https://mtosmt.org/issues/mto.17.23.2/mto.17.23.2.lafrance_burns.html)
