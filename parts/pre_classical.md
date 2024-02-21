@@ -44,6 +44,7 @@ Baroque music
 - https://partimenti.org/partimenti/about_parti/index.html
 - https://www.amazon.com/Continuo-Playing-According-Handel-Exercises/dp/0193184338
 - Job Ijzerman. Harmony, Counterpoint, Partimento
+   - https://www.mtosmt.org/issues/mto.19.25.4/mto.19.25.4.nicolas.html
 - [Derek Remeš. Compendium of Voice-Leading Patterns from the 17th and 18th Centuries to Play, Sing, and Transpose at the Keyboard](https://derekremes.com/wp-content/uploads/compendium_english.pdf)
 - [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) 
   - [The podcast](https://www.artofcomposing.com/aoc-011-partimenti-and-the-secrets-of-the-greatest-composers-an-interview-with-robert-gjerdingen)
