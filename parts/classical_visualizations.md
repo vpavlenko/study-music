@@ -99,6 +99,11 @@ If we are dissatisfied with an ambiguity and fuzziness when defining high level 
 
 <img width="1416" alt="Screenshot 2023-02-02 at 12 16 33" src="https://user-images.githubusercontent.com/1491908/216268873-f1590c73-cb6f-4339-b0bc-9350d2a6b50c.png">
 
+https://mtosmt.org/issues/mto.22.28.1/mto.22.28.1.reenan.html
+
+![image](https://github.com/vpavlenko/study-music/assets/1491908/583a2e00-d95b-4726-b062-00a1b3e41a8c)
+
+
 
 ## Modulation
 
