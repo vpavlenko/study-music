@@ -8,3 +8,5 @@
 - [Shersten Johnson. Notational Systems and Conceptualizing Music: A Case Study of Print and Braille Notation](https://www.mtosmt.org/issues/mto.09.15.3/mto.09.15.3.johnson.html)
 - [Elizabeth Medina-Gray. Analyzing Modular Smoothness in Video Game Music](https://www.mtosmt.org/issues/mto.19.25.3/mto.19.25.3.medina.gray.html)
 - https://mtosmt.org/issues/mto.22.28.1/mto.22.28.1.murphy.html
+- https://mtosmt.org/issues/mto.22.28.4/mto.22.28.4.ng.html
+- 
