@@ -22,5 +22,6 @@ Rhythm
 - https://mtosmt.org/issues/mto.20.26.1/mto.20.26.1.clayton.html
 - https://mtosmt.org/issues/mto.16.22.2/mto.16.22.2.cohn.html
 - https://mtosmt.org/issues/mto.16.22.3/mto.16.22.3.murphy.html
+- https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.pearson.html
 - search "aksak theory"
 - https://sites.tufts.edu/yewevu/
