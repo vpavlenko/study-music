@@ -4,7 +4,11 @@ Advanced materials on classical music
 - [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
 - [The Future of Music: Towards a Computational Musical Theory of Everything](https://books.google.ru/books?id=YTzYDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
 - [Ю. Тюлин. Учение о музыкальной фактуре и мелодической фигурации (два тома теории, ещё задачник и ещё решебник)](https://archive.org/details/tiulin_muz_factura_1). [Глава 2 с привязанными примерами](https://kuregyan.vercel.app/books/tyulin/)
-- Music humor - eg. [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet), [Victor Borge](https://en.wikipedia.org/wiki/Victor_Borge)
+- Music humor
+   - [Huron on PDQ Bach](http://www.jessicagrahn.com/uploads/6/0/8/5/6085172/huronhumourpdq2004.pdf), [wiki on PDQ Bach](https://wikipdq.fandom.com/wiki/Quodlibet)
+   - [Victor Borge](https://en.wikipedia.org/wiki/Victor_Borge)
+   - https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.palmer.html
+   - [R. Anderson Sutton. Humor, Mischief, and Aesthetics in Javanese Gamelan Music](https://www.jstor.org/stable/763917) and other articles
 - [Wallace Berry](https://en.wikipedia.org/wiki/Wallace_Berry)
 - [David Fuentes. Figuring Out Melody](https://figuringoutmelody.com/fom-ebook/) - At some point I was googling whether there's a book specifically on a melody line
 - [Edwin Gordon. Learning Sequences in Music: A Contemporary Music Learning Theory](https://amzn.to/3rMsl0U)
