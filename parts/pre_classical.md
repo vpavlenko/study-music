@@ -1,8 +1,8 @@
-Pre-classical music
-===
+# Pre-classical music
 
-Early (pre-Baroque) music theory
----
+
+## Early (pre-Baroque) music theory
+
 
 Rough evolution: monophonic Gregorian chants -> polyphony of various rules and centuries -> homophony
 
@@ -38,8 +38,8 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - https://www.mtosmt.org/issues/mto.06.12.3/mto.06.12.3.pack.html
 
 
-Baroque music
----
+## Baroque music
+
 
 - [**Bach's Chorales**](bach_chorales.md)
 - [**Bach's Fugues**](bach_fugues.md)
@@ -48,11 +48,6 @@ Baroque music
 - Job Ijzerman. Harmony, Counterpoint, Partimento
    - https://www.mtosmt.org/issues/mto.19.25.4/mto.19.25.4.nicolas.html
 - [Derek Remeš. Compendium of Voice-Leading Patterns from the 17th and 18th Centuries to Play, Sing, and Transpose at the Keyboard](https://derekremes.com/wp-content/uploads/compendium_english.pdf)
-- [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) 
-  - [The podcast](https://www.artofcomposing.com/aoc-011-partimenti-and-the-secrets-of-the-greatest-composers-an-interview-with-robert-gjerdingen)
-  - [Wikipedia on Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata)
-  - [Partimento and Continuo Playing in Theory and in Practice](https://www.amazon.com/Partimento-Continuo-Practice-Collected-Institute/dp/9058678288)
-  - [Robert Gjerdingen. Child Composers in the Old Conservatories: How Orphans Became Elite Musicians](https://www.amazon.com/Child-Composers-Old-Conservatories-Musicians/dp/0190653590)
 - [Daniel Heartz. Music in European Capitals](https://amzn.to/34U1qXY)
 - [L. Poundie Burstein. Journeys Through Galant Expositions](https://amzn.to/3gNdYmJ)
 - [🎥 Michael Koch. En blanc et noir: Baroque-style Piano Improvisations](https://www.youtube.com/@enblancetnoir7516/videos)
@@ -61,16 +56,26 @@ Baroque music
 - [🎥 Josep Castanyer Alonso. "Angry Birds" but it's a three voice fugal invention](https://www.youtube.com/watch?v=H7NRVbTIDKw) - visualizes of the structure
 
 
-Counterpoint
----
+
+## Partimento
+
+- John J. Mortensen. The Pianist's Guide to Historic Improvisation
+- John J. Mortensen. Improvising Fugue
+- https://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.rabinovitch.html
+- https://www.youtube.com/user/nikhilhogan85
+- [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) 
+  - [The podcast](https://www.artofcomposing.com/aoc-011-partimenti-and-the-secrets-of-the-greatest-composers-an-interview-with-robert-gjerdingen)
+  - [Wikipedia on Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata)
+  - [Partimento and Continuo Playing in Theory and in Practice](https://www.amazon.com/Partimento-Continuo-Practice-Collected-Institute/dp/9058678288)
+  - [Robert Gjerdingen. Child Composers in the Old Conservatories: How Orphans Became Elite Musicians](https://www.amazon.com/Child-Composers-Old-Conservatories-Musicians/dp/0190653590)
+
+## Counterpoint
 
 Counterpoint can be of 16th century (which is Renaissance) or 18th century (which is Baroque). Of course, there's modern counterpoint as well.
 
 - Beth Denisch. Contemporary Counterpoint: Theory & Application
 - Евдокимова Ю. К., Дубравская Т. Н., Протопопов В. В. История полифонии. В 6 вып. М., 1983-1996
 - Т. Н. Дубравская. Полифония
-- John J. Mortensen. The Pianist's Guide to Historic Improvisation
-- John J. Mortensen. Improvising Fugue
 - Schoenberg on counterpoint
 - Hindemith on counterpoint
 - [Alan Belkin. Applied Counterpoint](https://www.youtube.com/watch?v=yPHC9Zf9s04&list=PLSntcNF64SVW2hG6S7j78_cXg_13ZWN0q)
