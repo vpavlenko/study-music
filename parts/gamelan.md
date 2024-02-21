@@ -64,6 +64,8 @@ Misc
 
 - [E-gamelan Android App](https://www.youtube.com/results?search_query=e-gamelan)
 
+- https://music.arts.uci.edu/abauer/148_2018/
+
 Sundanese gamelan
 ---
 
