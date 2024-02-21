@@ -61,7 +61,7 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 
 - John J. Mortensen. The Pianist's Guide to Historic Improvisation
 - John J. Mortensen. Improvising Fugue
-- https://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.rabinovitch.html
+- [papers by Gilad Rabinovitch](https://scholar.google.com/citations?user=nRN3r-wAAAAJ&hl=en)
 - https://www.youtube.com/user/nikhilhogan85
 - [Robert Gjerdingen. Music in the Galant Style](https://amzn.to/3LwcdIC) 
   - [The podcast](https://www.artofcomposing.com/aoc-011-partimenti-and-the-secrets-of-the-greatest-composers-an-interview-with-robert-gjerdingen)
