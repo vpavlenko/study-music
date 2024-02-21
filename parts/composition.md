@@ -75,3 +75,10 @@ Autobiographies
 
 - Н. А. Римский-Корсаков. Летопись моей музыкальной жизни
 - Samuel Adler. Building Bridges With Music: Stories from a Composer's Life
+
+
+Conducting
+---
+
+- https://www.mtosmt.org/issues/mto.97.3.3/mto.97.3.3.pople.html
+- 
