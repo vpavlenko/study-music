@@ -44,3 +44,4 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - [Christopher Endrinal. Burning Bridges: Defining the Interverse in the Music of U2](https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.endrinal.html)
 - [David S. Carter. Generic Norms, Irony, and Authenticity in the AABA Songs of the Rolling Stones, 1963–1971](https://mtosmt.org/issues/mto.21.27.4/mto.21.27.4.carter.html)
 - [Victoria Malawey. Strophic Modification in Songs by Amy Beach](https://www.mtosmt.org/issues/mto.14.20.4/mto.14.20.4.malawey.html)
+- https://mtosmt.org/issues/mto.22.28.3/mto.22.28.3.nobile.html
