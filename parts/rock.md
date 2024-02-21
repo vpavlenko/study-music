@@ -113,4 +113,4 @@ More
 
 - https://www.top40theory.com/blog
 
-- [**papers**](20_advanced_rock.md)
+- [**advanced**](advanced_rock.md)
