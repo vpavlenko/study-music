@@ -40,3 +40,5 @@ There are many ways to paint chorale scores to reveal their harmony:
 - [Martin Rohrmeier, Ian Cross. Statistical Properties of Tonal Harmony in Bach’s Chorales](https://www.researchgate.net/profile/Ian-Cross-8/publication/267400941_Statistical_Properties_of_Tonal_Harmony_in_Bach's_Chorales/links/5450c6c70cf201441e93d922/Statistical-Properties-of-Tonal-Harmony-in-Bachs-Chorales.pdf)
 
 - https://partwriter.com/
+
+- https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.remes.html
