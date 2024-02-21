@@ -35,6 +35,7 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
 - Ruth I. DeFord, Tactus, Mensuration, and Rhythm in Renaissance Music
 - https://mtosmt.org/issues/mto.98.4.3/mto.98.4.3.mengozzi.html
 - https://mtosmt.org/issues/mto.23.29.4/mto.23.29.4.ovenden.html
+- https://www.mtosmt.org/issues/mto.06.12.3/mto.06.12.3.pack.html
 
 
 Baroque music
