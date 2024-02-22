@@ -10,6 +10,7 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
   - https://www.esm.rochester.edu/integral/35-2022/ferrandino/
   - https://mtosmt.org/issues/mto.17.23.2/mto.17.23.2.spicer.html
   - https://www.mtosmt.org/issues/mto.19.25.4/mto.19.25.4.duinker.html
+  - https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.richards.html
 - Brad Osborn
 - Hypermeter
   - https://core.ac.uk/download/pdf/84118984.pdf
