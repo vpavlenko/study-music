@@ -34,6 +34,8 @@ Also see [this](https://www.laits.utexas.edu/wagner/ringtonalstructure/ringtonal
 
 - Studies that claim that different keys employ different features in composers - I'm not sure that's 100% true. See [Steven Bradley Yan. Aspects of Mozart's Music in G Minor](https://etheses.whiterose.ac.uk/279/1/uk_bl_ethos_254655.pdf) and think for yourself
 
+- [A review](https://mtosmt.org/issues/mto.00.6.1/mto.00.6.1.rawlins.html) of Matt Levine's formulation of a chord/scale theory
+
 Теория музыкального содержания
 ---
 
