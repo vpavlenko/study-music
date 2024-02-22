@@ -2,3 +2,4 @@
 - https://mtosmt.org/issues/mto.13.19.3/mto.13.19.3.callahan.html
 - [Frank Lehman. Hollywood Cadences: Music and the Structure of Cinematic Expectation](https://mtosmt.org/issues/mto.13.19.4/mto.13.19.4.lehman.html)
 - https://maxsteinerinstitute.org/
+- Mark Brownrigg. Film Music and Film Genre
