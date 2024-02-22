@@ -26,6 +26,7 @@ tonal jazz (1940..1965)
    - https://www.youtube.com/watch?v=JvpJEMVGijQ
    - https://pressbooks.pub/harmonyandmusicianshipwithsolfege/chapter/diatonic-seventh-chords/ 
 - Blue Bossa
+- Laura
 - Afternoon in Paris
 - All The Things You Are
    - https://www.youtube.com/watch?v=OPapxr8GvGA 
