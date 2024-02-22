@@ -12,7 +12,7 @@ Main topics on jazz are:
 Jazz piano
 ---
 
-- [Mark Levine. The Jazz Piano Book](https://amzn.to/3uQwd2Q) and also [Mark Levine. The Jazz Theory Book](https://amzn.to/3uVHVt1)
+- [Mark Levine. The Jazz Piano Book](https://amzn.to/3uQwd2Q) and also [Mark Levine. The Jazz Theory Book](https://amzn.to/3uVHVt1), see [a review](https://mtosmt.org/issues/mto.00.6.1/mto.00.6.1.rawlins.html)
 - [Oscar Peterson. Jazz Exercises, Minuets, Etudes & Pieces for Piano](https://amzn.to/3GQFDOe)
 - [Charlie Banacos](https://en.wikipedia.org/wiki/Charlie_Banacos)
 - John Valerio. Post-bop
