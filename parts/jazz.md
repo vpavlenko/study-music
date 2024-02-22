@@ -23,6 +23,7 @@ Jazz composers
 
 - [Andrew Lilley. The Artistry of Bheki Mseleku](https://www.africanminds.co.za/wp-content/uploads/2020/06/Bheki-Mseleku-music-book-22Jun1200-Web-s.pdf)
 - [Henry Martin. Charlie Parker, Composer](https://www.amazon.com/Charlie-Parker-Composer-Henry-Martin/dp/0190923385)
+   - [Juha Henriksson. Chasing the Bird. Functional Harmony in Charlie Parker’s Bebop Themes](https://www.musiikkiarkisto.fi/oa/_tiedostot/julkaisut/chasing-the-bird.pdf)
 - [Peter Freeman. The Music of Antonio Carlos Jobim](https://www.amazon.com/Music-Antonio-Carlos-Jobim/dp/1783209372)
 - [Kasper Sloots. Frank Zappa's musical language](https://www.zappa-analysis.com/)
 
