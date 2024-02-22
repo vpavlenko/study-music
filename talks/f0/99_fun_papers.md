@@ -11,3 +11,4 @@
 - https://mtosmt.org/issues/mto.22.28.4/mto.22.28.4.ng.html
 - https://mtosmt.org/issues/mto.22.28.3/mto.22.28.3.ohara.html
 - https://mtosmt.org/issues/mto.21.27.1/mto.21.27.1.maler.html
+- https://mtosmt.org/issues/mto.13.19.4/mto.13.19.4.rings.html
