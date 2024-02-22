@@ -61,3 +61,4 @@ Misc
 - [Михаил Митропольский. Краткая история джаза для начинающих](https://www.jazz.ru/library/jazz-history-for-beginners/)
 - Greg Fishman. The Lobster Theory
 - [Benjamin Givan. Rethinking Interaction in Jazz Improvisation](https://mtosmt.org/issues/mto.16.22.3/mto.16.22.3.givan.html)
+- Henry Martin, Keith Waters. Jazz: The First 100 Years
