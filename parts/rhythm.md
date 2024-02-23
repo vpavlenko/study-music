@@ -27,3 +27,4 @@ Rhythm
 - https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.pearson.html
 - search "aksak theory"
 - https://sites.tufts.edu/yewevu/
+- Garrett Michaelsen. Groove Topics in Improvised Jazz
