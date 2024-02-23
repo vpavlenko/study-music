@@ -36,6 +36,7 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - https://www.mtosmt.org/issues/mto.10.16.1/mto.10.16.1.malawey.html
 - https://mtosmt.org/issues/mto.05.11.4/mto.05.11.4.moore.html
 - https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.nobile.html
+- https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1171&context=gamut
 
   
 ## Form
