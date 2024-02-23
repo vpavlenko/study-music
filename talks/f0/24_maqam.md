@@ -65,3 +65,12 @@ backup
 - http://levioloniste.epizy.com/
 - tarak766
 - https://scholarworks.wm.edu/memea_sheetmusic/
+
+
+seminar
+---
+
+- канал: https://www.youtube.com/@YoussryElwrdany/videos
+
+- [main ajnas](https://en.wikipedia.org/wiki/Arabic_maqam):
+<img width="1135" alt="Screenshot 2024-02-23 at 17 05 09" src="https://github.com/vpavlenko/study-music/assets/1491908/35323356-6698-40a9-88de-53349359e04c">
