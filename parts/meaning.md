@@ -6,5 +6,5 @@
 - [Musical Meaning and Interpretation](https://www.prestomusic.com/books/series/154/browse) - a book series by Indiana University Press
 - [Bibliography by Robert Hatten](https://intranet.music.indiana.edu/departments/academic/music-theory/course-topics/t658_s04_hatten.html), also check his own books
 - The Oxford Handbook of Topic Theory
-
+- Garrett Michaelsen. Groove Topics in Improvised Jazz
 - [**Теория музыкального содержания**](pseudoscience.md#теория-музыкального-содержания)
