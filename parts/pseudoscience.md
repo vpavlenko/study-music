@@ -55,3 +55,20 @@ Post-tonal theory
 
 
 - [Joseph Nathan Straus is also Fortean](https://www.mtosmt.org/issues/mto.00.6.1/mto.00.6.1.perry.html)
+
+Neo-Riemannian theory / transformational theory
+---
+
+It's great that theorists seek more tools to capture and describe the structure of music. It's like mathematicians trying to help physisists. Still, we should keep in mind that ultimately not all of the models will be useful or fruitful. While neo-Riemannian theory is pretty developed, for me it's currently on the edge of that. There's a lot of tools developed. Have we derived breakthrough understanding through it?
+
+See the discussion on neo-Riemannian theory in [Daniel Shanahan. Empirical Musicology: An Interview with David Huron, Part II](https://emusicology.org/index.php/EMR/article/view/8103/6032#:~:text=Riemannian)
+
+- [search for neo-Riemannian in MTO](https://cse.google.com/cse?cx=013708290434383557582%3Ahil9i0cwk5i&ie=UTF-8&q=neo-riemannian&sa=Search)
+
+Fourier tranform
+---
+
+Same for above. A search for better models is great, but we need to question whether we got something from them so far.
+
+- [Matt Chiu. Putting the Math in Math Rock](https://arts.unco.edu/music/rocky-mountain-society-music-theory/2020_conference_chiu.pdf)
+- [Cédric Viaccoz, Daniel Harasim, Martin Rohrmeier. Wavescapes: A visual hierarchical analysis of tonality using the discrete Fourier transform](https://journals.sagepub.com/doi/full/10.1177/10298649211034906)
