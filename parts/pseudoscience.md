@@ -68,7 +68,7 @@ See the discussion on neo-Riemannian theory in [Daniel Shanahan. Empirical Music
 Fourier tranform
 ---
 
-Same for above. A search for better models is great, but we need to question whether we got something from them so far.
+Same as a previous paragraph. A search for better models is great, but we need to question whether we got something from them so far.
 
 - [Matt Chiu. Putting the Math in Math Rock](https://arts.unco.edu/music/rocky-mountain-society-music-theory/2020_conference_chiu.pdf)
 - [Cédric Viaccoz, Daniel Harasim, Martin Rohrmeier. Wavescapes: A visual hierarchical analysis of tonality using the discrete Fourier transform](https://journals.sagepub.com/doi/full/10.1177/10298649211034906)
