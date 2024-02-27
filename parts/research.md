@@ -59,6 +59,7 @@ Meta lists:
 - [virtualphilharmonic](http://www.virtualphilharmonic.co.uk/MIDIlinks.htm)
 - [audio content analysis](https://www.audiocontentanalysis.org/datasets.html)
 - https://github.com/Yuan-ManX/ai-audio-datasets-list
+- https://www.metacreation.net/corpora/
 
 Individual datasets:
 - [Yale–Classical Archives Corpus](https://ycac.yale.edu/)
