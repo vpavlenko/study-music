@@ -81,7 +81,9 @@ The languages are (roughly speaking):
 - [**Video games**](parts/vgm.md)
 - [**EDM**](parts/edm.md)
 - Other genres like R&B, country, gospel, contemporary worship music, funk, rap
-- Western regional traditions (eg. [Latin](https://www.halleonard.com/menu/562/latin))
+- Western regional traditions (eg. [Latin](https://www.halleonard.com/menu/562/latin), flamenco?)
+
+Somewhat related to that are church chants: Gregorian, Byzantine, Armenian, Znamenny
 
 Non-Western music languages
 ---
