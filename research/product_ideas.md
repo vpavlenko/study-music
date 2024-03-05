@@ -11,3 +11,7 @@
 - Endless carpet for Sega Genesis: how to make an instrument from the entire corpus
 
 - Show grammar for a user's uploaded playlist: eg. a 2d embedding of harmony
+
+- Colorful synsthesia
+
+- MuseScore and UltimateGuitar Chrome plugins
