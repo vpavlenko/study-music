@@ -13,3 +13,6 @@ Lead sheets:
 - https://rawl.rocks/browse/MIDI/Henry%20Butler?song=Butler%27s+Boogie.mid
 - https://rawl.rocks/browse/MIDI/Duke%20Ellington?song=Jeep%27s+Blues.mid
 - https://rawl.rocks/browse/MIDI/B.B.%20King?song=Why+I+Sing+the+Blues.mid
+
+Backup:
+- https://musescore.com/user/27668870 (Straight No Chaser solos)
