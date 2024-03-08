@@ -6,7 +6,7 @@ Walk That Bass
 
 chord = blue, non-chord = red
 
-- [🎥 Analysing a Jazz Solo - Straight, No Chaser (Davis, Coltrane, Adderley, Garland, Chambers)](https://www.youtube.com/watch?v=qo_A5W-Lzvk) - Analysis of notable solos of the time
+- [🎥 Analysing a Jazz Solo - Straight, No Chaser (Davis, Coltrane, Adderley, Garland, Chambers)](https://www.youtube.com/watch?v=qo_A5W-Lzvk) - Analysis of notable solos of the time, [MuseScore](https://musescore.com/user/27668870)
 
 <img width="763" alt="Screenshot 2023-04-30 at 00 49 38" src="https://user-images.githubusercontent.com/1491908/235323676-3760c8b3-c861-4826-9679-872fcb0a3f2e.png">
 
