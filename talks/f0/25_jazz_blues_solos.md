@@ -4,6 +4,9 @@ A rant on demoing solos from easy to tricky ones
 
 Lead sheets:
 - https://rawl.rocks/browse/static/blues_heads?song=Bags_Groove__Lead_sheet_.mid
+- https://rawl.rocks/browse/static/blues_heads?song=Billie_s_Bounce_Billies_Bounce.mid
+- https://rawl.rocks/browse/static/blues_heads?song=Blues_for_Alice.mid
+- https://rawl.rocks/browse/static/blues_heads?song=Sandu.mid
 
 12 bar blues in Rawl:
 - https://rawl.rocks/browse/MIDI/Morton%20Jelly%20Roll?song=Beale+Street+Blues.mid
