@@ -12,6 +12,8 @@
 - i-VII-VI-V
   - https://rawl.rocks/browse/static/musescore_manual?song=Carol_of_the_Bells.mid
 
+- natural minor
+   - https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid <- good start
 
 Major
 ---
@@ -22,6 +24,9 @@ Major
 
 - I-IV-V
    - https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid
+ 
+- IV-iii-ii-I
+   - https://rawl.rocks/browse/static/musescore_manual?song=Legend_of_Zelda_Great_Fairy_Fountain.mid
 
 
 Rest
@@ -29,3 +34,5 @@ Rest
 
 - major, complex voicings, borrowed chords: https://rawl.rocks/browse/static/musescore_manual?song=Fallen_Down_Undertale.mid
 - major, chromatic passing chords: https://rawl.rocks/browse/static/musescore_manual?song=Jingle_Bell_Rock.mid
+- shuttle, seventh chords, mixture: https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid
+- borrowed bVII: https://rawl.rocks/browse/static/musescore_manual?song=Wet_Hands_Minecraft.mid
