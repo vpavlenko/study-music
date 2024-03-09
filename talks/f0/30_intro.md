@@ -14,6 +14,7 @@
 
 - natural minor
    - https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid <- good start
+   - mostly, with V https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid 
 
 Major
 ---
