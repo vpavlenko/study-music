@@ -36,3 +36,4 @@ Rest
 - major, chromatic passing chords: https://rawl.rocks/browse/static/musescore_manual?song=Jingle_Bell_Rock.mid
 - shuttle, seventh chords, mixture: https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid
 - borrowed bVII: https://rawl.rocks/browse/static/musescore_manual?song=Wet_Hands_Minecraft.mid
+- lots of applied chords: https://rawl.rocks/browse/static/musescore_manual?song=Moon_River_Breakfast_at_Tiffanys.mid
