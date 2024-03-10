@@ -34,8 +34,10 @@ Minor
    - double-tonic:
       - https://rawl.rocks/browse/static/musescore_manual?song=River_Flows_In_You.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Another_Love__-_Tom_Odell_Professional.mid
-- harmonic minor with modulations (common-practice-like):
+- Beethoven (modulations):
    - https://rawl.rocks/browse/static/musescore_manual?song=Fr_Elise.mid
+   - https://rawl.rocks/browse/static/musescore_manual?song=Sonate_No._14_Moonlight_1st_Movement.mid
+   - https://rawl.rocks/browse/static/musescore_manual?song=Sonate_No._14_Moonlight_3rd_Movement.mid
 
 Major
 ---
@@ -43,6 +45,7 @@ Major
 - simple major
    - I-vi-IV-V
       - https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid
+      - https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid reordered <- good start
       - https://rawl.rocks/browse/static/musescore_manual?song=Summer_Joe_Hisaishi.mid (V/V), melody in octaves, power chords, show modulation with a verbatim repeat
       - https://rawl.rocks/browse/static/musescore_manual?song=Hallelujah.mid functional, V/vi, double-tonic
       - complex: https://rawl.rocks/browse/static/musescore_manual?song=Sadness_and_Sorrow.mid
@@ -61,6 +64,10 @@ Major
       - https://rawl.rocks/browse/static/musescore_manual?song=One_Summers_Day_Spirited_Away.mid (bug: annotation isn't saved)
    - https://rawl.rocks/browse/static/musescore_manual?song=Chopin_-_Nocturne_Op_9_No_2_E_Flat_Major.mid
 
+Ambiguous
+---
+
+- progression https://rawl.rocks/browse/static/musescore_manual?song=Sweden_Minecraft.mid
 
 
 Rest
@@ -72,5 +79,9 @@ Rest
 - borrowed bVII: https://rawl.rocks/browse/static/musescore_manual?song=Wet_Hands_Minecraft.mid
 - lots of applied chords: https://rawl.rocks/browse/static/musescore_manual?song=Moon_River_Breakfast_at_Tiffanys.mid
 - mixed, unclear, borrowed: https://rawl.rocks/browse/static/musescore_manual?song=Zeldas_Lullaby.mid
-- dorian: https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid
+- dorian
+   - https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid
+ 
+- blues, chromatic: https://rawl.rocks/browse/static/musescore_manual?song=Undertale_-_Megalovania_Piano_ver._3.mid
+   
 
