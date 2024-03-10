@@ -90,8 +90,9 @@ Major
       - https://rawl.rocks/browse/static/musescore_manual?song=Dawn_Pride_and_Prejudice.mid diatonic chords with chromatic tones in melody
       - https://rawl.rocks/browse/static/musescore_manual?song=Liebestraum_No._3_in_A_Major.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=tude_S._1413_in_G_Minor_La_Campanella__Liszt.mid
-   - jazz: parallel minor
-      - https://rawl.rocks/browse/static/musescore_manual?song=Fly_Me_to_the_Moon.mid
+   - jazz
+      - https://rawl.rocks/browse/static/musescore_manual?song=Fly_Me_to_the_Moon.mid parallel minor
+      - https://rawl.rocks/browse/static/musescore_manual?song=Dream_a_little_dream_of_me.mid io7 (CTo7), iv
 
 Ambiguous
 ---
