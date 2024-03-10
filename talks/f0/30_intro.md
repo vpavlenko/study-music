@@ -22,6 +22,7 @@ Minor
   - https://rawl.rocks/browse/static/musescore_manual?song=Carol_of_the_Bells.mid
 - rich harmonic minor (with VII-III):
    - https://rawl.rocks/browse/static/musescore_manual?song=Pirates_of_the_Caribbean_-_Hes_a_Pirate.mid
+   - https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid (slipped measures)
    - https://rawl.rocks/browse/static/musescore_manual?song=Schindlers_List.mid with Fr (end: show i)
    - https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid
 - natural minor
@@ -32,6 +33,7 @@ Minor
       - https://rawl.rocks/browse/static/musescore_manual?song=Je_Te_Laisserai_Des_Mots_-_Patrick_Watson.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Game_of_Thrones_Easy_piano.mid Picardy third
    - double-tonic:
+      - [All_Of_Me_-_John_Legend_Piano_Cover](https://rawl.rocks/browse/static/musescore_manual?song=All_Of_Me_-_John_Legend_Piano_Cover_-_ReiK.mid) - melody in a separate instrument
       - https://rawl.rocks/browse/static/musescore_manual?song=River_Flows_In_You.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Another_Love__-_Tom_Odell_Professional.mid
 - Beethoven (modulations):
@@ -69,12 +71,16 @@ Major
    - romantic
       - https://rawl.rocks/browse/static/musescore_manual?song=Clair_de_Lune__Debussy.mid (end: show I)
       - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid shuttle, seventh chords, mixture
+      - https://rawl.rocks/browse/static/musescore_manual?song=Dawn_Pride_and_Prejudice.mid diatonic chords with chromatic tones in melody
+   - jazz: parallel minor
+      - https://rawl.rocks/browse/static/musescore_manual?song=Fly_Me_to_the_Moon.mid
 
 Ambiguous
 ---
 
 - progression https://rawl.rocks/browse/static/musescore_manual?song=Sweden_Minecraft.mid
 - mixed, unclear, borrowed: https://rawl.rocks/browse/static/musescore_manual?song=Zeldas_Lullaby.mid
+- fifth ambiguous via V7/IV: https://rawl.rocks/browse/static/musescore_manual?song=Disney_Pixar_Up_Theme.mid
 
 Rest
 ---
@@ -84,5 +90,7 @@ Rest
 - dorian
    - https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid
 - blues, chromatic: https://rawl.rocks/browse/static/musescore_manual?song=Undertale_-_Megalovania_Piano_ver._3.mid
+- lots of modulations:
+   - https://rawl.rocks/browse/static/musescore_manual?song=Attack_on_Titan_Shinzou_wo_Sasageyo.mid
    
 
