@@ -61,6 +61,7 @@ Major
       - https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid
 - complex major
    - applied chords
+      - https://rawl.rocks/browse/static/musescore_manual?song=Kiss_The_Rain_-_Yiruma_-_10th_Anniversary_Version_Piano_Updated_2019.mid ii/-V/iii, functional, up at the end
       - https://rawl.rocks/browse/static/musescore_manual?song=All_I_Want_for_Christmas_is_You.mid (iv, V/vi, V/iii)
       - https://rawl.rocks/browse/static/musescore_manual?song=Moon_River_Breakfast_at_Tiffanys.mid
    - flat/sharp
@@ -90,7 +91,9 @@ Rest
 - major, chromatic passing chords: https://rawl.rocks/browse/static/musescore_manual?song=Jingle_Bell_Rock.mid
 - dorian
    - https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid
-- blues, chromatic: https://rawl.rocks/browse/static/musescore_manual?song=Undertale_-_Megalovania_Piano_ver._3.mid
+- blues, chromatic
+   - https://rawl.rocks/browse/static/musescore_manual?song=Undertale_-_Megalovania_Piano_ver._3.mid
+   - https://rawl.rocks/browse/static/musescore_manual?song=Jojo_s_Bizarre_Adventure_Golden_Wind_Giornos_Theme_Ver_2.mid
 - lots of modulations:
    - https://rawl.rocks/browse/static/musescore_manual?song=Attack_on_Titan_Shinzou_wo_Sasageyo.mid
    
