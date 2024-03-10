@@ -81,7 +81,6 @@ Rest
 - mixed, unclear, borrowed: https://rawl.rocks/browse/static/musescore_manual?song=Zeldas_Lullaby.mid
 - dorian
    - https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid
- 
 - blues, chromatic: https://rawl.rocks/browse/static/musescore_manual?song=Undertale_-_Megalovania_Piano_ver._3.mid
    
 
