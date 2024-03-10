@@ -25,7 +25,9 @@ Minor
    - https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid (slipped measures)
    - https://rawl.rocks/browse/static/musescore_manual?song=My_War_Attack_on_Titan.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Schindlers_List.mid with Fr (end: show i)
+   - https://rawl.rocks/browse/static/musescore_manual?song=Pokemon_Theme_Song.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid
+   - https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid complex rhythms, riff/polyphonic vibes
 - natural minor
    - https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid <- good start
    - https://rawl.rocks/browse/static/musescore_manual?song=Interstellar.mid (end: show i)
@@ -60,6 +62,7 @@ Major
       - https://rawl.rocks/browse/static/musescore_manual?song=Legend_of_Zelda_Great_Fairy_Fountain.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Golden_Hour__JVKE_Updated_Ver..mid (maj7, iv)
    - iii
+      - https://rawl.rocks/browse/static/musescore_manual?song=Someone_Like_You_easy_piano.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid
 - complex major
    - applied chords
@@ -82,6 +85,7 @@ Major
       - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid shuttle, seventh chords, mixture
       - https://rawl.rocks/browse/static/musescore_manual?song=Dawn_Pride_and_Prejudice.mid diatonic chords with chromatic tones in melody
       - https://rawl.rocks/browse/static/musescore_manual?song=Liebestraum_No._3_in_A_Major.mid
+      - https://rawl.rocks/browse/static/musescore_manual?song=tude_S._1413_in_G_Minor_La_Campanella__Liszt.mid
    - jazz: parallel minor
       - https://rawl.rocks/browse/static/musescore_manual?song=Fly_Me_to_the_Moon.mid
 
@@ -99,6 +103,7 @@ Rest
 - dorian
    - https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid
 - blues, chromatic
+   - https://rawl.rocks/browse/static/musescore_manual?song=Pink_Panther.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Undertale_-_Megalovania_Piano_ver._3.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Jojo_s_Bizarre_Adventure_Golden_Wind_Giornos_Theme_Ver_2.mid
 - lots of modulations:
