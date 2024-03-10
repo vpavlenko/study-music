@@ -7,6 +7,7 @@ Minor
 - i-VI-V
    - https://rawl.rocks/browse/static/musescore_manual?song=Believer_-_Imagine_Dragons.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Requiem_for_a_Dream.mid <- maybe start here
+   - https://rawl.rocks/browse/static/musescore_manual?song=Love_Store_Francis_Lai.mid - simple, Picardy third, V7/V
 - i-VII-VI-V
   - https://rawl.rocks/browse/static/musescore_manual?song=Carol_of_the_Bells.mid
 - rich harmonic minor (with VII-III):
