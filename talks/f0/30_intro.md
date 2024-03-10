@@ -13,9 +13,11 @@ Minor
 ---
 
 - i-iv-V
-   - https://rawl.rocks/browse/static/musescore_manual?song=Bella_Ciao.mid 
+   - https://rawl.rocks/browse/static/musescore_manual?song=Billie_Eilish_Bad_Guy.mid 
+   - https://rawl.rocks/browse/static/musescore_manual?song=Bella_Ciao.mid melodic minor
 - i-VI-V
    - https://rawl.rocks/browse/static/musescore_manual?song=Believer_-_Imagine_Dragons.mid
+   - https://rawl.rocks/browse/static/musescore_manual?song=Sweet_Dreams.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Requiem_for_a_Dream.mid <- maybe start here
    - https://rawl.rocks/browse/static/musescore_manual?song=Love_Store_Francis_Lai.mid - simple, Picardy third, V7/V
 - i-VII-VI-V
@@ -57,6 +59,7 @@ Major
       - https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid riff, chords above the bass <- good start
       - https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid reordered <- good start
+      - https://rawl.rocks/browse/static/musescore_manual?song=Avril_14_Aphex_Twin.mid progression, unclear chords
       - https://rawl.rocks/browse/static/musescore_manual?song=Summer_Joe_Hisaishi.mid (V/V), melody in octaves, power chords, show modulation with a verbatim repeat
       - https://rawl.rocks/browse/static/musescore_manual?song=Hallelujah.mid functional, V/vi, double-tonic
       - complex: https://rawl.rocks/browse/static/musescore_manual?song=Sadness_and_Sorrow.mid
