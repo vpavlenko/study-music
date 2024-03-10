@@ -64,6 +64,9 @@ Major
       - https://rawl.rocks/browse/static/musescore_manual?song=Kiss_The_Rain_-_Yiruma_-_10th_Anniversary_Version_Piano_Updated_2019.mid ii/-V/iii, functional, up at the end
       - https://rawl.rocks/browse/static/musescore_manual?song=All_I_Want_for_Christmas_is_You.mid (iv, V/vi, V/iii)
       - https://rawl.rocks/browse/static/musescore_manual?song=Moon_River_Breakfast_at_Tiffanys.mid
+      - https://rawl.rocks/browse/static/musescore_manual?song=Love_Like_You_Steven_Universe.mid V/V/V, applied, iv
+      - https://rawl.rocks/browse/static/musescore_manual?song=Michael_Giaccino_Married_Life.mid Vsus4|, V+, V/V
+         - https://rawl.rocks/browse/static/musescore_manual?song=Disney_Pixar_Up_Theme.mid variation 
    - flat/sharp
       - borrowed bVII: https://rawl.rocks/browse/static/musescore_manual?song=Wet_Hands_Minecraft.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Main_Theme.mid
@@ -83,7 +86,6 @@ Ambiguous
 
 - progression https://rawl.rocks/browse/static/musescore_manual?song=Sweden_Minecraft.mid
 - mixed, unclear, borrowed: https://rawl.rocks/browse/static/musescore_manual?song=Zeldas_Lullaby.mid
-- fifth ambiguous via V7/IV: https://rawl.rocks/browse/static/musescore_manual?song=Disney_Pixar_Up_Theme.mid
 
 Rest
 ---
