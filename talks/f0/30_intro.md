@@ -32,6 +32,7 @@ Minor
    - https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Shape_of_you.mid progression, power chords
    - https://rawl.rocks/browse/static/musescore_manual?song=Despacito.mid progression, no chords
    - https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid <- good start
+   - https://rawl.rocks/browse/static/musescore_manual?song=TheFatRat_Monody.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Interstellar.mid (end: show i)
    - mostly, with V
       - https://rawl.rocks/browse/static/musescore_manual?song=Gravity_Falls_Opening.mid VII-V
