@@ -2,7 +2,6 @@
 Minor
 ---
 
-
 - i-iv-V
    - https://rawl.rocks/browse/static/musescore_manual?song=Bella_Ciao.mid 
 - i-VI-V
@@ -17,17 +16,21 @@ Minor
    - https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid <- good start
    - mostly, with V https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid
 
-
 Major
 ---
 
-- I-vi-IV-V
-   - https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid
-   - complex: https://rawl.rocks/browse/static/musescore_manual?song=Sadness_and_Sorrow.mid
-- I-IV-V
-   - https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid
-- IV-iii-ii-I
-   - https://rawl.rocks/browse/static/musescore_manual?song=Legend_of_Zelda_Great_Fairy_Fountain.mid
+- simple major
+   - I-vi-IV-V
+      - https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid
+      - https://rawl.rocks/browse/static/musescore_manual?song=Summer_Joe_Hisaishi.mid (V/V), melody in octaves, power chords, show modulation with a verbatim repeat
+      - complex: https://rawl.rocks/browse/static/musescore_manual?song=Sadness_and_Sorrow.mid
+   - I-IV-V
+      - https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid
+   - IV-iii-ii-I
+      - https://rawl.rocks/browse/static/musescore_manual?song=Legend_of_Zelda_Great_Fairy_Fountain.mid
+- complex major
+   - flat/sharp https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Main_Theme.mid
+
 
 
 Rest
@@ -39,3 +42,4 @@ Rest
 - borrowed bVII: https://rawl.rocks/browse/static/musescore_manual?song=Wet_Hands_Minecraft.mid
 - lots of applied chords: https://rawl.rocks/browse/static/musescore_manual?song=Moon_River_Breakfast_at_Tiffanys.mid
 - mixed, unclear, borrowed: https://rawl.rocks/browse/static/musescore_manual?song=Zeldas_Lullaby.mid
+
