@@ -57,28 +57,30 @@ Major
    - iii
       - https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid
 - complex major
-   - https://rawl.rocks/browse/static/musescore_manual?song=Clair_de_Lune__Debussy.mid (end: show I)
+   - applied chords
+      - https://rawl.rocks/browse/static/musescore_manual?song=All_I_Want_for_Christmas_is_You.mid (iv, V/vi, V/iii)
+      - https://rawl.rocks/browse/static/musescore_manual?song=Moon_River_Breakfast_at_Tiffanys.mid
    - flat/sharp
+      - borrowed bVII: https://rawl.rocks/browse/static/musescore_manual?song=Wet_Hands_Minecraft.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Main_Theme.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid (maj7)
-      - https://rawl.rocks/browse/static/musescore_manual?song=One_Summers_Day_Spirited_Away.mid (bug: annotation isn't saved)
+      - https://rawl.rocks/browse/static/musescore_manual?song=One_Summers_Day_Spirited_Away.mid (bug: annotation isn't saved)   
    - https://rawl.rocks/browse/static/musescore_manual?song=Chopin_-_Nocturne_Op_9_No_2_E_Flat_Major.mid
+   - romantic
+      - https://rawl.rocks/browse/static/musescore_manual?song=Clair_de_Lune__Debussy.mid (end: show I)
+      - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid shuttle, seventh chords, mixture
 
 Ambiguous
 ---
 
 - progression https://rawl.rocks/browse/static/musescore_manual?song=Sweden_Minecraft.mid
-
+- mixed, unclear, borrowed: https://rawl.rocks/browse/static/musescore_manual?song=Zeldas_Lullaby.mid
 
 Rest
 ---
 
 - major, complex voicings, borrowed chords: https://rawl.rocks/browse/static/musescore_manual?song=Fallen_Down_Undertale.mid
 - major, chromatic passing chords: https://rawl.rocks/browse/static/musescore_manual?song=Jingle_Bell_Rock.mid
-- shuttle, seventh chords, mixture: https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid
-- borrowed bVII: https://rawl.rocks/browse/static/musescore_manual?song=Wet_Hands_Minecraft.mid
-- lots of applied chords: https://rawl.rocks/browse/static/musescore_manual?song=Moon_River_Breakfast_at_Tiffanys.mid
-- mixed, unclear, borrowed: https://rawl.rocks/browse/static/musescore_manual?song=Zeldas_Lullaby.mid
 - dorian
    - https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid
 - blues, chromatic: https://rawl.rocks/browse/static/musescore_manual?song=Undertale_-_Megalovania_Piano_ver._3.mid
