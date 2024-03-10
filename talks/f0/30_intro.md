@@ -29,6 +29,8 @@ Minor
    - https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid complex rhythms, riff/polyphonic vibes
 - natural minor
+   - https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Shape_of_you.mid progression, power chords
+   - https://rawl.rocks/browse/static/musescore_manual?song=Despacito.mid progression, no chords
    - https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid <- good start
    - https://rawl.rocks/browse/static/musescore_manual?song=Interstellar.mid (end: show i)
    - mostly, with V
@@ -51,6 +53,7 @@ Major
 
 - simple major
    - I-vi-IV-V
+      - https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid riff, chords above the bass <- good start
       - https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid reordered <- good start
       - https://rawl.rocks/browse/static/musescore_manual?song=Summer_Joe_Hisaishi.mid (V/V), melody in octaves, power chords, show modulation with a verbatim repeat
@@ -75,6 +78,7 @@ Major
          - https://rawl.rocks/browse/static/musescore_manual?song=Disney_Pixar_Up_Theme.mid variation 
    - flat/sharp
       - borrowed bVII: https://rawl.rocks/browse/static/musescore_manual?song=Wet_Hands_Minecraft.mid
+      - https://rawl.rocks/browse/static/musescore_manual?song=Axel_F_Beverly_Hills_Cop_III.mid Picardy third, Mario cadence
       - https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Main_Theme.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid (maj7)
       - https://rawl.rocks/browse/static/musescore_manual?song=One_Summers_Day_Spirited_Away.mid (bug: annotation isn't saved)   
