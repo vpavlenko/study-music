@@ -25,7 +25,7 @@ Minor
    - https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid (slipped measures)
    - https://rawl.rocks/browse/static/musescore_manual?song=My_War_Attack_on_Titan.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Schindlers_List.mid with Fr (end: show i)
-   - https://rawl.rocks/browse/static/musescore_manual?song=Pokemon_Theme_Song.mid
+   - https://rawl.rocks/browse/static/musescore_manual?song=Pokemon_Theme_Song.mid [RENAME]
    - https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid complex rhythms, riff/polyphonic vibes
 - natural minor
