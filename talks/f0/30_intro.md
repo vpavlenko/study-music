@@ -23,6 +23,7 @@ Minor
 - rich harmonic minor (with VII-III):
    - https://rawl.rocks/browse/static/musescore_manual?song=Pirates_of_the_Caribbean_-_Hes_a_Pirate.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid (slipped measures)
+   - https://rawl.rocks/browse/static/musescore_manual?song=My_War_Attack_on_Titan.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Schindlers_List.mid with Fr (end: show i)
    - https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid
 - natural minor
@@ -32,6 +33,7 @@ Minor
       - https://rawl.rocks/browse/static/musescore_manual?song=Gravity_Falls_Opening.mid VII-V
       - https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Je_Te_Laisserai_Des_Mots_-_Patrick_Watson.mid
+      - https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Game_of_Thrones_Easy_piano.mid Picardy third
    - double-tonic:
       - [All_Of_Me_-_John_Legend_Piano_Cover](https://rawl.rocks/browse/static/musescore_manual?song=All_Of_Me_-_John_Legend_Piano_Cover_-_ReiK.mid) - melody in a separate instrument
@@ -61,6 +63,7 @@ Major
       - https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid
 - complex major
    - applied chords
+      - https://rawl.rocks/browse/static/musescore_manual?song=Test_Drive_How_to_Train_Your_Dragon.mid V/V, otherwise easy, but with modulations
       - https://rawl.rocks/browse/static/musescore_manual?song=Kiss_The_Rain_-_Yiruma_-_10th_Anniversary_Version_Piano_Updated_2019.mid ii/-V/iii, functional, up at the end
       - https://rawl.rocks/browse/static/musescore_manual?song=All_I_Want_for_Christmas_is_You.mid (iv, V/vi, V/iii)
       - https://rawl.rocks/browse/static/musescore_manual?song=Moon_River_Breakfast_at_Tiffanys.mid
@@ -74,6 +77,7 @@ Major
       - https://rawl.rocks/browse/static/musescore_manual?song=One_Summers_Day_Spirited_Away.mid (bug: annotation isn't saved)   
    - https://rawl.rocks/browse/static/musescore_manual?song=Chopin_-_Nocturne_Op_9_No_2_E_Flat_Major.mid
    - romantic
+      - https://rawl.rocks/browse/static/musescore_manual?song=Waltz_in_A_MinorChopin.mid parallel V/V
       - https://rawl.rocks/browse/static/musescore_manual?song=Clair_de_Lune__Debussy.mid (end: show I)
       - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid shuttle, seventh chords, mixture
       - https://rawl.rocks/browse/static/musescore_manual?song=Dawn_Pride_and_Prejudice.mid diatonic chords with chromatic tones in melody
