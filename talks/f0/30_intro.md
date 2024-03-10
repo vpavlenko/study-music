@@ -74,6 +74,7 @@ Major
       - https://rawl.rocks/browse/static/musescore_manual?song=Clair_de_Lune__Debussy.mid (end: show I)
       - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid shuttle, seventh chords, mixture
       - https://rawl.rocks/browse/static/musescore_manual?song=Dawn_Pride_and_Prejudice.mid diatonic chords with chromatic tones in melody
+      - https://rawl.rocks/browse/static/musescore_manual?song=Liebestraum_No._3_in_A_Major.mid
    - jazz: parallel minor
       - https://rawl.rocks/browse/static/musescore_manual?song=Fly_Me_to_the_Moon.mid
 
@@ -96,5 +97,6 @@ Rest
    - https://rawl.rocks/browse/static/musescore_manual?song=Jojo_s_Bizarre_Adventure_Golden_Wind_Giornos_Theme_Ver_2.mid
 - lots of modulations:
    - https://rawl.rocks/browse/static/musescore_manual?song=Attack_on_Titan_Shinzou_wo_Sasageyo.mid
+   - https://rawl.rocks/browse/static/musescore_manual?song=Let_It_Go_Disney_Frozen.mid dorian
    
 
