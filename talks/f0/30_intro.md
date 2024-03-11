@@ -41,6 +41,7 @@ Minor
    - https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=TheFatRat_Monody.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Wellerman_Sea_Shanty.mid
+   - https://rawl.rocks/browse/static/musescore_manual?song=Alone_Marshmello.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Never_Gonna_Give_You_Up.mid deferred tonic
    - https://rawl.rocks/browse/static/musescore_manual?song=Johnny_Cash_Hurt.mid power chords, unclear phrase shift
    - https://rawl.rocks/browse/static/musescore_manual?song=Interstellar.mid
@@ -78,6 +79,8 @@ Major
       - https://rawl.rocks/browse/static/musescore_manual?song=Viva_La_Vida_Coldplay.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Good_Bye_Hachiko.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Ophelia.mid V-IV, ambiguous
+      - https://rawl.rocks/browse/static/musescore_manual?song=Cant_Help_Falling_In_Love.mid
+      - https://rawl.rocks/browse/static/musescore_manual?song=A_Thousand_Miles.mid polyphonic
       - parallel minor
          - https://rawl.rocks/browse/static/musescore_manual?song=John_Lennon_Imagine.mid functional
          - https://rawl.rocks/browse/static/musescore_manual?song=Lady_Gaga_Always_remember_us_this_way.mid functional, bVII, phrases
@@ -128,7 +131,9 @@ Ambiguous
 - progression https://rawl.rocks/browse/static/musescore_manual?song=Sweden_Minecraft.mid
 - mixed, unclear, borrowed: https://rawl.rocks/browse/static/musescore_manual?song=Zeldas_Lullaby.mid
 - seventh chords, 6 in the bass or parallel minor https://rawl.rocks/browse/static/musescore_manual?song=Liana_Flores_Rises_the_Moon.mid
-- simple progression, dorian? https://rawl.rocks/browse/static/musescore_manual?song=The_Weeknd_Blinding_Lights.mid
+- dorian?
+   - https://rawl.rocks/browse/static/musescore_manual?song=The_Weeknd_Blinding_Lights.mid
+   - https://rawl.rocks/browse/static/musescore_manual?song=Chris_Isaak_Wicked_Game.mid
 
 Rest
 ---
