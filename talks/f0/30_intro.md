@@ -24,7 +24,7 @@ Minor
   - https://rawl.rocks/browse/static/musescore_manual?song=Carol_of_the_Bells.mid
 - rich harmonic minor (with VII-III):
    - https://rawl.rocks/browse/static/musescore_manual?song=Pirates_of_the_Caribbean_-_Hes_a_Pirate.mid
-   - https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid (slipped measures)
+   - https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=My_War_Attack_on_Titan.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Schindlers_List.mid with Fr (end: show i)
    - https://rawl.rocks/browse/static/musescore_manual?song=Pokemon_Theme_Song.mid [RENAME]
@@ -120,3 +120,8 @@ Rest
    - https://rawl.rocks/browse/static/musescore_manual?song=Let_It_Go_Disney_Frozen.mid dorian
    
 
+Exercises
+---
+
+- Find several arrangements of the same piece in MuseScore. Download MIDIs, open in Rawl, describe the difference.
+- Choose an artist. Find several arrangements of their songs in MIDIs. Describe his harmonic language. Create a "fake song" that's similar to their style.
