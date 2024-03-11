@@ -13,7 +13,7 @@ Minor
 ---
 
 - i-iv-V
-   - [Billie Eilish Bad Guy](https://rawl.rocks/browse/static/musescore_manual?song=Billie_Eilish_Bad_Guy.mid) 
+   - [Billie Eilish Bad Guy](https://rawl.rocks/browse/static/musescore_manual?song=Billie_Eilish_Bad_Guy.mid) power chords
    - [Bella Ciao](https://rawl.rocks/browse/static/musescore_manual?song=Bella_Ciao.mid) melodic minor
    - [Lena Raine Pigstep](https://rawl.rocks/browse/static/musescore_manual?song=Lena_Raine_Pigstep.mid) mostly stasis, chromatic
 - i-VI-V
