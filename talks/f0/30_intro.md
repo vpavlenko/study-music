@@ -24,8 +24,8 @@ Minor
   - https://rawl.rocks/browse/static/musescore_manual?song=Carol_of_the_Bells.mid
 - rich harmonic minor (with VII-III):
    - https://rawl.rocks/browse/static/musescore_manual?song=Pirates_of_the_Caribbean_-_Hes_a_Pirate.mid
-   - https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=My_War_Attack_on_Titan.mid
+   - https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid bII, viio7, up at the end
    - https://rawl.rocks/browse/static/musescore_manual?song=Schindlers_List.mid with Fr (end: show i)
    - https://rawl.rocks/browse/static/musescore_manual?song=Pokemon_Theme_Song.mid [RENAME]
    - https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid
@@ -43,7 +43,7 @@ Minor
       - https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Game_of_Thrones_Easy_piano.mid Picardy third
    - double-tonic:
-      - [All_Of_Me_-_John_Legend_Piano_Cover](https://rawl.rocks/browse/static/musescore_manual?song=All_Of_Me_-_John_Legend_Piano_Cover_-_ReiK.mid) - melody in a separate instrument
+      - https://rawl.rocks/browse/static/musescore_manual?song=All_Of_Me_-_John_Legend_Piano_Cover_-_ReiK.mid melody in a separate instrument
       - https://rawl.rocks/browse/static/musescore_manual?song=River_Flows_In_You.mid
       - https://rawl.rocks/browse/static/musescore_manual?song=Another_Love__-_Tom_Odell_Professional.mid
 - Beethoven (modulations):
