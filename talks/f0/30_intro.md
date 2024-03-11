@@ -31,10 +31,12 @@ Minor
    - https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid complex rhythms, riff/polyphonic vibes
 - natural minor
+   - https://rawl.rocks/browse/static/musescore_manual?song=Coffin_dance.mid VI-VII-i, root
    - https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Shape_of_you.mid progression, power chords
-   - https://rawl.rocks/browse/static/musescore_manual?song=Despacito.mid progression, no chords
-   - https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid <- good start
+   - https://rawl.rocks/browse/static/musescore_manual?song=Despacito.mid progression, root
+   - https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=TheFatRat_Monody.mid
+   - https://rawl.rocks/browse/static/musescore_manual?song=Johnny_Cash_Hurt.mid power chords, unclear phrase shift
    - https://rawl.rocks/browse/static/musescore_manual?song=Interstellar.mid (end: show i)
    - mostly, with V
       - https://rawl.rocks/browse/static/musescore_manual?song=Gravity_Falls_Opening.mid VII-V
@@ -73,6 +75,7 @@ Major
       - https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid
 - complex major
    - applied chords
+      - https://rawl.rocks/browse/static/musescore_manual?song=Happy_Birthday_to_You.mid V7/IV
       - https://rawl.rocks/browse/static/musescore_manual?song=Test_Drive_How_to_Train_Your_Dragon.mid V/V, otherwise easy, but with modulations
       - https://rawl.rocks/browse/static/musescore_manual?song=Kiss_The_Rain_-_Yiruma_-_10th_Anniversary_Version_Piano_Updated_2019.mid ii/-V/iii, functional, up at the end
       - https://rawl.rocks/browse/static/musescore_manual?song=All_I_Want_for_Christmas_is_You.mid (iv, V/vi, V/iii)
