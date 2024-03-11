@@ -33,14 +33,14 @@ Minor
    - [Mariage dAmour](https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid)
    - [We Dont Talk about Bruno](https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid) complex rhythms, riff/polyphonic vibes
 - natural minor
+   - [Yann Tiersen Amelie](https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid)
+   - [Wellerman Sea Shanty](https://rawl.rocks/browse/static/musescore_manual?song=Wellerman_Sea_Shanty.mid)
+   - [Despacito](https://rawl.rocks/browse/static/musescore_manual?song=Despacito.mid) progression, root
+   - [Ed Sheeran Shape of you](https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Shape_of_you.mid) progression, power chords
    - [Coffin dance](https://rawl.rocks/browse/static/musescore_manual?song=Coffin_dance.mid) VI-VII-i, root
    - [Let Her Go Passenger](https://rawl.rocks/browse/static/musescore_manual?song=Let_Her_Go_Passenger.mid) VI-VII-i, power chords
-   - [Ed Sheeran Shape of you](https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Shape_of_you.mid) progression, power chords
-   - [Despacito](https://rawl.rocks/browse/static/musescore_manual?song=Despacito.mid) progression, root
    - [Im Blue Eiffel 65](https://rawl.rocks/browse/static/musescore_manual?song=Im_Blue_Eiffel_65.mid), root progression, with chromatic notes in a bridge
-   - [Yann Tiersen Amelie](https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid)
    - [TheFatRat Monody](https://rawl.rocks/browse/static/musescore_manual?song=TheFatRat_Monody.mid)
-   - [Wellerman Sea Shanty](https://rawl.rocks/browse/static/musescore_manual?song=Wellerman_Sea_Shanty.mid)
    - [Alone Marshmello](https://rawl.rocks/browse/static/musescore_manual?song=Alone_Marshmello.mid)
    - [Never Gonna Give You Up](https://rawl.rocks/browse/static/musescore_manual?song=Never_Gonna_Give_You_Up.mid) deferred tonic
    - [Johnny Cash Hurt](https://rawl.rocks/browse/static/musescore_manual?song=Johnny_Cash_Hurt.mid) power chords, unclear phrase shift
@@ -149,6 +149,9 @@ Rest
 - lots of modulations:
    - [Attack on Titan Shinzou wo Sasageyo](https://rawl.rocks/browse/static/musescore_manual?song=Attack_on_Titan_Shinzou_wo_Sasageyo.mid)
    - [Let It Go Disney Frozen](https://rawl.rocks/browse/static/musescore_manual?song=Let_It_Go_Disney_Frozen.mid) dorian
+
+
+
 
 Exercises
 ---
