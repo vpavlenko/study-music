@@ -22,12 +22,12 @@ Minor
    - [Coffin dance](https://rawl.rocks/browse/static/musescore_manual?song=Coffin_dance.mid) VI-VII-i, root
    - [Let Her Go Passenger](https://rawl.rocks/browse/static/musescore_manual?song=Let_Her_Go_Passenger.mid) VI-VII-i, power chords
    - [Im Blue Eiffel 65](https://rawl.rocks/browse/static/musescore_manual?song=Im_Blue_Eiffel_65.mid), root progression, with chromatic notes in a bridge
-   - [Never Gonna Give You Up](https://rawl.rocks/browse/static/musescore_manual?song=Never_Gonna_Give_You_Up.mid) deferred tonic
    - [Game of Thrones Easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Game_of_Thrones_Easy_piano.mid) Picardy third
+   - [Never Gonna Give You Up](https://rawl.rocks/browse/static/musescore_manual?song=Never_Gonna_Give_You_Up.mid) deferred tonic
    - [TheFatRat Monody](https://rawl.rocks/browse/static/musescore_manual?song=TheFatRat_Monody.mid)
    - [Jolene](https://rawl.rocks/browse/static/musescore_manual?song=Jolene.mid) riff, monotonous, uneven phrases
    - [Lovely Billie Eilish](https://rawl.rocks/browse/static/musescore_manual?song=Lovely_Billie_Eilish.mid) in thirds
-   - [Johnny Cash Hurt](https://rawl.rocks/browse/static/musescore_manual?song=Johnny_Cash_Hurt.mid) power chords, unclear phrase shift
+   - [Johnny Cash Hurt](https://rawl.rocks/browse/static/musescore_manual?song=Johnny_Cash_Hurt.mid) power chords
    - [Interstellar](https://rawl.rocks/browse/static/musescore_manual?song=Interstellar.mid)
    - [Alone Marshmello](https://rawl.rocks/browse/static/musescore_manual?song=Alone_Marshmello.mid)
 - harmonic minor
