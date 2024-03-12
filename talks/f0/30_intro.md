@@ -29,18 +29,18 @@ Minor
    - [Interstellar](https://rawl.rocks/browse/static/musescore_manual?song=Interstellar.mid)
    - [Alone Marshmello](https://rawl.rocks/browse/static/musescore_manual?song=Alone_Marshmello.mid)
 - harmonic minor
-   - i-iv-V
-      - [Billie Eilish Bad Guy](https://rawl.rocks/browse/static/musescore_manual?song=Billie_Eilish_Bad_Guy.mid) power chords
-      - [Bella Ciao](https://rawl.rocks/browse/static/musescore_manual?song=Bella_Ciao.mid) melodic minor
-      - [Lena Raine Pigstep](https://rawl.rocks/browse/static/musescore_manual?song=Lena_Raine_Pigstep.mid) mostly stasis, chromatic
    - i-VI-V
+      - [Requiem for a Dream](https://rawl.rocks/browse/static/musescore_manual?song=Requiem_for_a_Dream.mid)
       - [Believer   Imagine Dragons](https://rawl.rocks/browse/static/musescore_manual?song=Believer_-_Imagine_Dragons.mid)
       - [Sweet Dreams](https://rawl.rocks/browse/static/musescore_manual?song=Sweet_Dreams.mid)
-      - [Requiem for a Dream](https://rawl.rocks/browse/static/musescore_manual?song=Requiem_for_a_Dream.mid) <- maybe start here
       - [Love Store Francis Lai](https://rawl.rocks/browse/static/musescore_manual?song=Love_Store_Francis_Lai.mid) - simple, Picardy third, V7/V
    - i-VII-VI-V
      - [Hit the Road Jack](https://rawl.rocks/browse/static/musescore_manual?song=Hit_the_Road_Jack.mid)
      - [Carol of the Bells](https://rawl.rocks/browse/static/musescore_manual?song=Carol_of_the_Bells.mid) chromatic
+   - i-iv-V
+      - [Billie Eilish Bad Guy](https://rawl.rocks/browse/static/musescore_manual?song=Billie_Eilish_Bad_Guy.mid) power chords
+      - [Bella Ciao](https://rawl.rocks/browse/static/musescore_manual?song=Bella_Ciao.mid) melodic minor
+      - [Lena Raine Pigstep](https://rawl.rocks/browse/static/musescore_manual?song=Lena_Raine_Pigstep.mid) mostly stasis, chromatic
    - rich harmonic minor (with VII-III):
       - [Pirates of the Caribbean   Hes a Pirate](https://rawl.rocks/browse/static/musescore_manual?song=Pirates_of_the_Caribbean_-_Hes_a_Pirate.mid)
       - [My War Attack on Titan](https://rawl.rocks/browse/static/musescore_manual?song=My_War_Attack_on_Titan.mid)
@@ -147,8 +147,6 @@ Rest
 - lots of modulations:
    - [Attack on Titan Shinzou wo Sasageyo](https://rawl.rocks/browse/static/musescore_manual?song=Attack_on_Titan_Shinzou_wo_Sasageyo.mid)
    - [Let It Go Disney Frozen](https://rawl.rocks/browse/static/musescore_manual?song=Let_It_Go_Disney_Frozen.mid) dorian
-
-
 
 
 Exercises
