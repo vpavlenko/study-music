@@ -43,11 +43,11 @@ Minor
       - [Lena Raine Pigstep](https://rawl.rocks/browse/static/musescore_manual?song=Lena_Raine_Pigstep.mid) mostly stasis, chromatic
    - rich harmonic minor (with VII-III):
       - [Pirates of the Caribbean   Hes a Pirate](https://rawl.rocks/browse/static/musescore_manual?song=Pirates_of_the_Caribbean_-_Hes_a_Pirate.mid)
+      - [Pokemon Theme Song](https://rawl.rocks/browse/static/musescore_manual?song=Pokemon_Theme_Song.mid) 
+      - [Mariage dAmour](https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid)
       - [My War Attack on Titan](https://rawl.rocks/browse/static/musescore_manual?song=My_War_Attack_on_Titan.mid)
       - [Godfather](https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid) bII, viio7, up at the end
       - [Schindlers List](https://rawl.rocks/browse/static/musescore_manual?song=Schindlers_List.mid) with Fr (end: show i)
-      - [Pokemon Theme Song](https://rawl.rocks/browse/static/musescore_manual?song=Pokemon_Theme_Song.mid) 
-      - [Mariage dAmour](https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid)
       - [We Dont Talk about Bruno](https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid) complex rhythms, riff/polyphonic vibes
 - mix
    - [Gravity Falls Opening](https://rawl.rocks/browse/static/musescore_manual?song=Gravity_Falls_Opening.mid) VII-V
