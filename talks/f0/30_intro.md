@@ -12,26 +12,6 @@ Preliminary
 Minor
 ---
 
-- i-iv-V
-   - [Billie Eilish Bad Guy](https://rawl.rocks/browse/static/musescore_manual?song=Billie_Eilish_Bad_Guy.mid) power chords
-   - [Bella Ciao](https://rawl.rocks/browse/static/musescore_manual?song=Bella_Ciao.mid) melodic minor
-   - [Lena Raine Pigstep](https://rawl.rocks/browse/static/musescore_manual?song=Lena_Raine_Pigstep.mid) mostly stasis, chromatic
-- i-VI-V
-   - [Believer   Imagine Dragons](https://rawl.rocks/browse/static/musescore_manual?song=Believer_-_Imagine_Dragons.mid)
-   - [Sweet Dreams](https://rawl.rocks/browse/static/musescore_manual?song=Sweet_Dreams.mid)
-   - [Requiem for a Dream](https://rawl.rocks/browse/static/musescore_manual?song=Requiem_for_a_Dream.mid) <- maybe start here
-   - [Love Store Francis Lai](https://rawl.rocks/browse/static/musescore_manual?song=Love_Store_Francis_Lai.mid) - simple, Picardy third, V7/V
-- i-VII-VI-V
-  - [Hit the Road Jack](https://rawl.rocks/browse/static/musescore_manual?song=Hit_the_Road_Jack.mid)
-  - [Carol of the Bells](https://rawl.rocks/browse/static/musescore_manual?song=Carol_of_the_Bells.mid) chromatic
-- rich harmonic minor (with VII-III):
-   - [Pirates of the Caribbean   Hes a Pirate](https://rawl.rocks/browse/static/musescore_manual?song=Pirates_of_the_Caribbean_-_Hes_a_Pirate.mid)
-   - [My War Attack on Titan](https://rawl.rocks/browse/static/musescore_manual?song=My_War_Attack_on_Titan.mid)
-   - [Godfather](https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid) bII, viio7, up at the end
-   - [Schindlers List](https://rawl.rocks/browse/static/musescore_manual?song=Schindlers_List.mid) with Fr (end: show i)
-   - [Pokemon Theme Song](https://rawl.rocks/browse/static/musescore_manual?song=Pokemon_Theme_Song.mid) 
-   - [Mariage dAmour](https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid)
-   - [We Dont Talk about Bruno](https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid) complex rhythms, riff/polyphonic vibes
 - natural minor
    - [Yann Tiersen Amelie](https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid)
    - [Wellerman Sea Shanty](https://rawl.rocks/browse/static/musescore_manual?song=Wellerman_Sea_Shanty.mid)
@@ -41,18 +21,39 @@ Minor
    - [Let Her Go Passenger](https://rawl.rocks/browse/static/musescore_manual?song=Let_Her_Go_Passenger.mid) VI-VII-i, power chords
    - [Im Blue Eiffel 65](https://rawl.rocks/browse/static/musescore_manual?song=Im_Blue_Eiffel_65.mid), root progression, with chromatic notes in a bridge
    - [Never Gonna Give You Up](https://rawl.rocks/browse/static/musescore_manual?song=Never_Gonna_Give_You_Up.mid) deferred tonic
+   - [Game of Thrones Easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Game_of_Thrones_Easy_piano.mid) Picardy third
    - [TheFatRat Monody](https://rawl.rocks/browse/static/musescore_manual?song=TheFatRat_Monody.mid)
    - [Jolene](https://rawl.rocks/browse/static/musescore_manual?song=Jolene.mid) riff, monotonous, uneven phrases
    - [Lovely Billie Eilish](https://rawl.rocks/browse/static/musescore_manual?song=Lovely_Billie_Eilish.mid) in thirds
    - [Johnny Cash Hurt](https://rawl.rocks/browse/static/musescore_manual?song=Johnny_Cash_Hurt.mid) power chords, unclear phrase shift
    - [Interstellar](https://rawl.rocks/browse/static/musescore_manual?song=Interstellar.mid)
    - [Alone Marshmello](https://rawl.rocks/browse/static/musescore_manual?song=Alone_Marshmello.mid)
-   - mostly, with V
-      - [Gravity Falls Opening](https://rawl.rocks/browse/static/musescore_manual?song=Gravity_Falls_Opening.mid) VII-V
-      - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid)
-      - [Je Te Laisserai Des Mots   Patrick Watson](https://rawl.rocks/browse/static/musescore_manual?song=Je_Te_Laisserai_Des_Mots_-_Patrick_Watson.mid)
-      - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid)
-   - [Game of Thrones Easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Game_of_Thrones_Easy_piano.mid) Picardy third
+- harmonic minor
+   - i-iv-V
+      - [Billie Eilish Bad Guy](https://rawl.rocks/browse/static/musescore_manual?song=Billie_Eilish_Bad_Guy.mid) power chords
+      - [Bella Ciao](https://rawl.rocks/browse/static/musescore_manual?song=Bella_Ciao.mid) melodic minor
+      - [Lena Raine Pigstep](https://rawl.rocks/browse/static/musescore_manual?song=Lena_Raine_Pigstep.mid) mostly stasis, chromatic
+   - i-VI-V
+      - [Believer   Imagine Dragons](https://rawl.rocks/browse/static/musescore_manual?song=Believer_-_Imagine_Dragons.mid)
+      - [Sweet Dreams](https://rawl.rocks/browse/static/musescore_manual?song=Sweet_Dreams.mid)
+      - [Requiem for a Dream](https://rawl.rocks/browse/static/musescore_manual?song=Requiem_for_a_Dream.mid) <- maybe start here
+      - [Love Store Francis Lai](https://rawl.rocks/browse/static/musescore_manual?song=Love_Store_Francis_Lai.mid) - simple, Picardy third, V7/V
+   - i-VII-VI-V
+     - [Hit the Road Jack](https://rawl.rocks/browse/static/musescore_manual?song=Hit_the_Road_Jack.mid)
+     - [Carol of the Bells](https://rawl.rocks/browse/static/musescore_manual?song=Carol_of_the_Bells.mid) chromatic
+   - rich harmonic minor (with VII-III):
+      - [Pirates of the Caribbean   Hes a Pirate](https://rawl.rocks/browse/static/musescore_manual?song=Pirates_of_the_Caribbean_-_Hes_a_Pirate.mid)
+      - [My War Attack on Titan](https://rawl.rocks/browse/static/musescore_manual?song=My_War_Attack_on_Titan.mid)
+      - [Godfather](https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid) bII, viio7, up at the end
+      - [Schindlers List](https://rawl.rocks/browse/static/musescore_manual?song=Schindlers_List.mid) with Fr (end: show i)
+      - [Pokemon Theme Song](https://rawl.rocks/browse/static/musescore_manual?song=Pokemon_Theme_Song.mid) 
+      - [Mariage dAmour](https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid)
+      - [We Dont Talk about Bruno](https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid) complex rhythms, riff/polyphonic vibes
+- mix
+   - [Gravity Falls Opening](https://rawl.rocks/browse/static/musescore_manual?song=Gravity_Falls_Opening.mid) VII-V
+   - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid)
+   - [Je Te Laisserai Des Mots   Patrick Watson](https://rawl.rocks/browse/static/musescore_manual?song=Je_Te_Laisserai_Des_Mots_-_Patrick_Watson.mid)
+   - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid)
 - dorian
    - [Mad world Piano](https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid)
    - [TheFatRat Unity](https://rawl.rocks/browse/static/musescore_manual?song=TheFatRat_Unity.mid)
@@ -65,24 +66,23 @@ Major
 ---
 
 - simple major
-   - I-vi-IV-V
-      - [Feliz Navidad](https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid)
-      - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid) riff, chords above the bass
-      - [Ed Sheeran Perfect THE WORST PIANO ARRANGEMENT I HAVE EVER MADE](https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid)
-      - [John Lennon Imagine](https://rawl.rocks/browse/static/musescore_manual?song=John_Lennon_Imagine.mid)
-      - [Canon in D](https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid)
-      - [Someone You Loved](https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid) reordered
-      - [Vangelis Chariots of fire](https://rawl.rocks/browse/static/musescore_manual?song=Vangelis_Chariots_of_fire.mid)
-      - [Someone Like You easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Someone_Like_You_easy_piano.mid)
-      - [Avril 14 Aphex Twin](https://rawl.rocks/browse/static/musescore_manual?song=Avril_14_Aphex_Twin.mid) progression, unclear chords, ambiguous
-      - [Viva La Vida Coldplay](https://rawl.rocks/browse/static/musescore_manual?song=Viva_La_Vida_Coldplay.mid)
-      - [Good Bye Hachiko](https://rawl.rocks/browse/static/musescore_manual?song=Good_Bye_Hachiko.mid)
-      - [Cant Help Falling In Love](https://rawl.rocks/browse/static/musescore_manual?song=Cant_Help_Falling_In_Love.mid)
-      - [A Thousand Miles](https://rawl.rocks/browse/static/musescore_manual?song=A_Thousand_Miles.mid) polyphonic
-      - parallel minor
-         - [Lady Gaga Always remember us this way](https://rawl.rocks/browse/static/musescore_manual?song=Lady_Gaga_Always_remember_us_this_way.mid) functional, bVII, phrases
-         - [Titanic](https://rawl.rocks/browse/static/musescore_manual?song=Titanic.mid) ii, vi7, up at the end
-         - [Photograph Ed Sheeran](https://rawl.rocks/browse/static/musescore_manual?song=Photograph_Ed_Sheeran.mid) inversions
+   - [Feliz Navidad](https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid)
+   - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid) riff, chords above the bass
+   - [Ed Sheeran Perfect THE WORST PIANO ARRANGEMENT I HAVE EVER MADE](https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid)
+   - [John Lennon Imagine](https://rawl.rocks/browse/static/musescore_manual?song=John_Lennon_Imagine.mid)
+   - [Canon in D](https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid)
+   - [Someone You Loved](https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid) reordered
+   - [Vangelis Chariots of fire](https://rawl.rocks/browse/static/musescore_manual?song=Vangelis_Chariots_of_fire.mid)
+   - [Someone Like You easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Someone_Like_You_easy_piano.mid)
+   - [Avril 14 Aphex Twin](https://rawl.rocks/browse/static/musescore_manual?song=Avril_14_Aphex_Twin.mid) progression, unclear chords, ambiguous
+   - [Viva La Vida Coldplay](https://rawl.rocks/browse/static/musescore_manual?song=Viva_La_Vida_Coldplay.mid)
+   - [Good Bye Hachiko](https://rawl.rocks/browse/static/musescore_manual?song=Good_Bye_Hachiko.mid)
+   - [Cant Help Falling In Love](https://rawl.rocks/browse/static/musescore_manual?song=Cant_Help_Falling_In_Love.mid)
+   - [A Thousand Miles](https://rawl.rocks/browse/static/musescore_manual?song=A_Thousand_Miles.mid) polyphonic
+   - parallel minor
+      - [Lady Gaga Always remember us this way](https://rawl.rocks/browse/static/musescore_manual?song=Lady_Gaga_Always_remember_us_this_way.mid) functional, bVII, phrases
+      - [Titanic](https://rawl.rocks/browse/static/musescore_manual?song=Titanic.mid) ii, vi7, up at the end
+      - [Photograph Ed Sheeran](https://rawl.rocks/browse/static/musescore_manual?song=Photograph_Ed_Sheeran.mid) inversions
 - complex major
    - applied chords
       - [Happy Birthday to You](https://rawl.rocks/browse/static/musescore_manual?song=Happy_Birthday_to_You.mid) V7/IV
@@ -103,9 +103,9 @@ Major
       - [One Summers Day Spirited Away](https://rawl.rocks/browse/static/musescore_manual?song=One_Summers_Day_Spirited_Away.mid) (bug: annotation isn't saved)
    - maj7
       - https://rawl.rocks/browse/static/musescore_manual?song=Golden_Hour__JVKE_Updated_Ver..mid (maj7, iv)
-   - [Chopin   Nocturne Op 9 No 2 E Flat Major](https://rawl.rocks/browse/static/musescore_manual?song=Chopin_-_Nocturne_Op_9_No_2_E_Flat_Major.mid)
    - romantic
       - [Waltz in A MinorChopin](https://rawl.rocks/browse/static/musescore_manual?song=Waltz_in_A_MinorChopin.mid) parallel V/V
+      - [Chopin   Nocturne Op 9 No 2 E Flat Major](https://rawl.rocks/browse/static/musescore_manual?song=Chopin_-_Nocturne_Op_9_No_2_E_Flat_Major.mid)
       - [Clair de Lune  Debussy](https://rawl.rocks/browse/static/musescore_manual?song=Clair_de_Lune__Debussy.mid) (end: show I)
       - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid shuttle, seventh chords, mixture
       - [Dawn Pride and Prejudice](https://rawl.rocks/browse/static/musescore_manual?song=Dawn_Pride_and_Prejudice.mid) diatonic chords with chromatic tones in melody
