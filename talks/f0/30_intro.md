@@ -53,10 +53,6 @@ Minor
       - [Je Te Laisserai Des Mots   Patrick Watson](https://rawl.rocks/browse/static/musescore_manual?song=Je_Te_Laisserai_Des_Mots_-_Patrick_Watson.mid)
       - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid)
    - [Game of Thrones Easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Game_of_Thrones_Easy_piano.mid) Picardy third
-   - double-tonic:
-      - [All Of Me   John Legend Piano Cover   ReiK](https://rawl.rocks/browse/static/musescore_manual?song=All_Of_Me_-_John_Legend_Piano_Cover_-_ReiK.mid) melody in a separate instrument
-      - [River Flows In You](https://rawl.rocks/browse/static/musescore_manual?song=River_Flows_In_You.mid)
-      - [Another Love    Tom Odell Professional](https://rawl.rocks/browse/static/musescore_manual?song=Another_Love__-_Tom_Odell_Professional.mid)
 - dorian
    - [Mad world Piano](https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid)
    - [TheFatRat Unity](https://rawl.rocks/browse/static/musescore_manual?song=TheFatRat_Unity.mid)
@@ -73,26 +69,20 @@ Major
       - [Feliz Navidad](https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid)
       - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid) riff, chords above the bass
       - [Ed Sheeran Perfect THE WORST PIANO ARRANGEMENT I HAVE EVER MADE](https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid)
+      - [John Lennon Imagine](https://rawl.rocks/browse/static/musescore_manual?song=John_Lennon_Imagine.mid)
+      - [Canon in D](https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid)
       - [Someone You Loved](https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid) reordered
-      - [Avril 14 Aphex Twin](https://rawl.rocks/browse/static/musescore_manual?song=Avril_14_Aphex_Twin.mid) progression, unclear chords
+      - [Vangelis Chariots of fire](https://rawl.rocks/browse/static/musescore_manual?song=Vangelis_Chariots_of_fire.mid)
+      - [Someone Like You easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Someone_Like_You_easy_piano.mid)
+      - [Avril 14 Aphex Twin](https://rawl.rocks/browse/static/musescore_manual?song=Avril_14_Aphex_Twin.mid) progression, unclear chords, ambiguous
       - [Viva La Vida Coldplay](https://rawl.rocks/browse/static/musescore_manual?song=Viva_La_Vida_Coldplay.mid)
       - [Good Bye Hachiko](https://rawl.rocks/browse/static/musescore_manual?song=Good_Bye_Hachiko.mid)
-      - [Ophelia](https://rawl.rocks/browse/static/musescore_manual?song=Ophelia.mid) V-IV, ambiguous
       - [Cant Help Falling In Love](https://rawl.rocks/browse/static/musescore_manual?song=Cant_Help_Falling_In_Love.mid)
       - [A Thousand Miles](https://rawl.rocks/browse/static/musescore_manual?song=A_Thousand_Miles.mid) polyphonic
       - parallel minor
-         - [John Lennon Imagine](https://rawl.rocks/browse/static/musescore_manual?song=John_Lennon_Imagine.mid) functional
          - [Lady Gaga Always remember us this way](https://rawl.rocks/browse/static/musescore_manual?song=Lady_Gaga_Always_remember_us_this_way.mid) functional, bVII, phrases
          - [Titanic](https://rawl.rocks/browse/static/musescore_manual?song=Titanic.mid) ii, vi7, up at the end
          - [Photograph Ed Sheeran](https://rawl.rocks/browse/static/musescore_manual?song=Photograph_Ed_Sheeran.mid) inversions
-      - complex: [Sadness and Sorrow](https://rawl.rocks/browse/static/musescore_manual?song=Sadness_and_Sorrow.mid)
-   - IV-iii-ii-I
-      - [Legend of Zelda Great Fairy Fountain](https://rawl.rocks/browse/static/musescore_manual?song=Legend_of_Zelda_Great_Fairy_Fountain.mid)
-      - https://rawl.rocks/browse/static/musescore_manual?song=Golden_Hour__JVKE_Updated_Ver..mid (maj7, iv)
-   - iii
-      - [Vangelis Chariots of fire](https://rawl.rocks/browse/static/musescore_manual?song=Vangelis_Chariots_of_fire.mid)
-      - [Someone Like You easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Someone_Like_You_easy_piano.mid)
-      - [Canon in D](https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid)
 - complex major
    - applied chords
       - [Happy Birthday to You](https://rawl.rocks/browse/static/musescore_manual?song=Happy_Birthday_to_You.mid) V7/IV
@@ -110,7 +100,9 @@ Major
       - [Axel F Beverly Hills Cop III](https://rawl.rocks/browse/static/musescore_manual?song=Axel_F_Beverly_Hills_Cop_III.mid) Picardy third, Mario cadence
       - [Super Mario Bros Main Theme](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Main_Theme.mid)
       - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid (maj7)
-      - [One Summers Day Spirited Away](https://rawl.rocks/browse/static/musescore_manual?song=One_Summers_Day_Spirited_Away.mid) (bug: annotation isn't saved)   
+      - [One Summers Day Spirited Away](https://rawl.rocks/browse/static/musescore_manual?song=One_Summers_Day_Spirited_Away.mid) (bug: annotation isn't saved)
+   - maj7
+      - https://rawl.rocks/browse/static/musescore_manual?song=Golden_Hour__JVKE_Updated_Ver..mid (maj7, iv)
    - [Chopin   Nocturne Op 9 No 2 E Flat Major](https://rawl.rocks/browse/static/musescore_manual?song=Chopin_-_Nocturne_Op_9_No_2_E_Flat_Major.mid)
    - romantic
       - [Waltz in A MinorChopin](https://rawl.rocks/browse/static/musescore_manual?song=Waltz_in_A_MinorChopin.mid) parallel V/V
@@ -127,6 +119,13 @@ Major
 Ambiguous
 ---
 
+- double-tonic:
+   - [All Of Me   John Legend Piano Cover   ReiK](https://rawl.rocks/browse/static/musescore_manual?song=All_Of_Me_-_John_Legend_Piano_Cover_-_ReiK.mid) melody in a separate instrument
+   - [Sadness and Sorrow](https://rawl.rocks/browse/static/musescore_manual?song=Sadness_and_Sorrow.mid)
+   - [River Flows In You](https://rawl.rocks/browse/static/musescore_manual?song=River_Flows_In_You.mid)
+   - [Ophelia](https://rawl.rocks/browse/static/musescore_manual?song=Ophelia.mid)
+- [Another Love    Tom Odell Professional](https://rawl.rocks/browse/static/musescore_manual?song=Another_Love__-_Tom_Odell_Professional.mid)
+- [Legend of Zelda Great Fairy Fountain](https://rawl.rocks/browse/static/musescore_manual?song=Legend_of_Zelda_Great_Fairy_Fountain.mid)
 - progression [Sweden Minecraft](https://rawl.rocks/browse/static/musescore_manual?song=Sweden_Minecraft.mid)
 - mixed, unclear, borrowed: [Zeldas Lullaby](https://rawl.rocks/browse/static/musescore_manual?song=Zeldas_Lullaby.mid)
 - seventh chords, 6 in the bass or parallel minor [Liana Flores Rises the Moon](https://rawl.rocks/browse/static/musescore_manual?song=Liana_Flores_Rises_the_Moon.mid)
