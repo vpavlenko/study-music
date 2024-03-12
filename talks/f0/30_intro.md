@@ -69,9 +69,8 @@ Major
 ---
 
 - simple major
-   - I-IV-V
-      - [Feliz Navidad](https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid)
    - I-vi-IV-V
+      - [Feliz Navidad](https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid)
       - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid) riff, chords above the bass
       - [Ed Sheeran Perfect THE WORST PIANO ARRANGEMENT I HAVE EVER MADE](https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid)
       - [Someone You Loved](https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid) reordered
@@ -96,9 +95,9 @@ Major
       - [Canon in D](https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid)
 - complex major
    - applied chords
+      - [Happy Birthday to You](https://rawl.rocks/browse/static/musescore_manual?song=Happy_Birthday_to_You.mid) V7/IV
       - [Summer Joe Hisaishi](https://rawl.rocks/browse/static/musescore_manual?song=Summer_Joe_Hisaishi.mid) (V/V), melody in octaves, power chords, show modulation with a verbatim repeat
       - [Hallelujah](https://rawl.rocks/browse/static/musescore_manual?song=Hallelujah.mid) functional, V/vi, double-tonic
-      - [Happy Birthday to You](https://rawl.rocks/browse/static/musescore_manual?song=Happy_Birthday_to_You.mid) V7/IV
       - [Test Drive How to Train Your Dragon](https://rawl.rocks/browse/static/musescore_manual?song=Test_Drive_How_to_Train_Your_Dragon.mid) V/V, otherwise easy, but with modulations
       - [Kiss The Rain   Yiruma   10th Anniversary Version Piano Updated 2019](https://rawl.rocks/browse/static/musescore_manual?song=Kiss_The_Rain_-_Yiruma_-_10th_Anniversary_Version_Piano_Updated_2019.mid) ii/-V/iii, functional, up at the end
       - [All I Want for Christmas is You](https://rawl.rocks/browse/static/musescore_manual?song=All_I_Want_for_Christmas_is_You.mid) (iv, V/vi, V/iii)
