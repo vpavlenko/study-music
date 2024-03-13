@@ -17,7 +17,7 @@ Major
 - simple major
    - [Feliz Navidad](https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid) increase bpm
    - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid) riff, chords above the bass
-   - [Ed Sheeran Perfect THE WORST PIANO ARRANGEMENT I HAVE EVER MADE](https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid)
+   - [Ed Sheeran Perfect](https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid)
    - [John Lennon Imagine](https://rawl.rocks/browse/static/musescore_manual?song=John_Lennon_Imagine.mid)
    - [Canon in D](https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid) till m. 53
    - [Vangelis Chariots of fire](https://rawl.rocks/browse/static/musescore_manual?song=Vangelis_Chariots_of_fire.mid)
