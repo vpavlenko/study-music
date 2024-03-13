@@ -89,7 +89,6 @@ Minor
       - [We Dont Talk about Bruno](https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid) complex rhythms, riff/polyphonic vibes
 - mix
    - [Gravity Falls Opening](https://rawl.rocks/browse/static/musescore_manual?song=Gravity_Falls_Opening.mid) VII-V
-   - [Je Te Laisserai Des Mots   Patrick Watson](https://rawl.rocks/browse/static/musescore_manual?song=Je_Te_Laisserai_Des_Mots_-_Patrick_Watson.mid)
    - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid) wrong analysis due to extra 2 pitch
 - natural minor
    - [Yann Tiersen Amelie](https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid)
@@ -123,6 +122,7 @@ Ambiguous
 ---
 
 - double-tonic:
+   - [Je Te Laisserai Des Mots   Patrick Watson](https://rawl.rocks/browse/static/musescore_manual?song=Je_Te_Laisserai_Des_Mots_-_Patrick_Watson.mid) ambiguous
    - [All Of Me   John Legend Piano Cover   ReiK](https://rawl.rocks/browse/static/musescore_manual?song=All_Of_Me_-_John_Legend_Piano_Cover_-_ReiK.mid) melody in a separate instrument
    - [Sadness and Sorrow](https://rawl.rocks/browse/static/musescore_manual?song=Sadness_and_Sorrow.mid)
    - [River Flows In You](https://rawl.rocks/browse/static/musescore_manual?song=River_Flows_In_You.mid)
