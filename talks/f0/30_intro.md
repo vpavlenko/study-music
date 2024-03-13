@@ -1,4 +1,4 @@
-[bit.ly/gmaj](https://bit.ly/gmaj)
+[bit.ly/rawl](https://bit.ly/rawl)
 ---
 
 Preliminary
