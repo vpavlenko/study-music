@@ -22,7 +22,6 @@ Major
    - [Vangelis Chariots of fire](https://rawl.rocks/browse/static/musescore_manual?song=Vangelis_Chariots_of_fire.mid)
    - [Someone You Loved](https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid)
    - [Someone Like You easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Someone_Like_You_easy_piano.mid)
-   - [Avril 14 Aphex Twin](https://rawl.rocks/browse/static/musescore_manual?song=Avril_14_Aphex_Twin.mid) progression, unclear chords, ambiguous
    - [Viva La Vida Coldplay](https://rawl.rocks/browse/static/musescore_manual?song=Viva_La_Vida_Coldplay.mid)
    - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid) riff, chords above the bass
    - [Good Bye Hachiko](https://rawl.rocks/browse/static/musescore_manual?song=Good_Bye_Hachiko.mid)
@@ -118,6 +117,7 @@ Ambiguous
 ---
 
 - double-tonic:
+   - [Avril 14 Aphex Twin](https://rawl.rocks/browse/static/musescore_manual?song=Avril_14_Aphex_Twin.mid) progression, unclear chords, ambiguous
    - [Lady Gaga Always remember us this way](https://rawl.rocks/browse/static/musescore_manual?song=Lady_Gaga_Always_remember_us_this_way.mid) functional, bVII, phrases
    - [Titanic](https://rawl.rocks/browse/static/musescore_manual?song=Titanic.mid) ii, vi7, up at the end
    - [Photograph Ed Sheeran](https://rawl.rocks/browse/static/musescore_manual?song=Photograph_Ed_Sheeran.mid) inversions
