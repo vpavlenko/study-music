@@ -89,9 +89,8 @@ Minor
       - [We Dont Talk about Bruno](https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid) complex rhythms, riff/polyphonic vibes
 - mix
    - [Gravity Falls Opening](https://rawl.rocks/browse/static/musescore_manual?song=Gravity_Falls_Opening.mid) VII-V
-   - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid)
    - [Je Te Laisserai Des Mots   Patrick Watson](https://rawl.rocks/browse/static/musescore_manual?song=Je_Te_Laisserai_Des_Mots_-_Patrick_Watson.mid)
-   - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid)
+   - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid) wrong analysis due to extra 2 pitch
 - natural minor
    - [Yann Tiersen Amelie](https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid)
    - [Wellerman Sea Shanty](https://rawl.rocks/browse/static/musescore_manual?song=Wellerman_Sea_Shanty.mid)
