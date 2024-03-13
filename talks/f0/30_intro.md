@@ -112,7 +112,6 @@ Minor
       - [Lady Gaga Always remember us this way](https://rawl.rocks/browse/static/musescore_manual?song=Lady_Gaga_Always_remember_us_this_way.mid) functional, bVII, phrases
       - [Titanic](https://rawl.rocks/browse/static/musescore_manual?song=Titanic.mid) ii, vi7, up at the end
       - [Photograph Ed Sheeran](https://rawl.rocks/browse/static/musescore_manual?song=Photograph_Ed_Sheeran.mid) inversions
-
 - dorian
    - [Mad world Piano](https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid)
    - [TheFatRat Unity](https://rawl.rocks/browse/static/musescore_manual?song=TheFatRat_Unity.mid)
