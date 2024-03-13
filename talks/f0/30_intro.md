@@ -16,7 +16,6 @@ Major
 
 - simple major
    - [Feliz Navidad](https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid) increase bpm
-   - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid) riff, chords above the bass
    - [Ed Sheeran Perfect](https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid)
    - [John Lennon Imagine](https://rawl.rocks/browse/static/musescore_manual?song=John_Lennon_Imagine.mid)
    - [Canon in D](https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid) till m. 53
@@ -25,6 +24,7 @@ Major
    - [Someone Like You easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Someone_Like_You_easy_piano.mid)
    - [Avril 14 Aphex Twin](https://rawl.rocks/browse/static/musescore_manual?song=Avril_14_Aphex_Twin.mid) progression, unclear chords, ambiguous
    - [Viva La Vida Coldplay](https://rawl.rocks/browse/static/musescore_manual?song=Viva_La_Vida_Coldplay.mid)
+   - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid) riff, chords above the bass
    - [Good Bye Hachiko](https://rawl.rocks/browse/static/musescore_manual?song=Good_Bye_Hachiko.mid)
    - [Cant Help Falling In Love](https://rawl.rocks/browse/static/musescore_manual?song=Cant_Help_Falling_In_Love.mid)
    - [A Thousand Miles](https://rawl.rocks/browse/static/musescore_manual?song=A_Thousand_Miles.mid) polyphonic
