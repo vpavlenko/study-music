@@ -20,7 +20,7 @@ Major
    - [John Lennon Imagine](https://rawl.rocks/browse/static/musescore_manual?song=John_Lennon_Imagine.mid)
    - [Canon in D](https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid) till m. 53
    - [Vangelis Chariots of fire](https://rawl.rocks/browse/static/musescore_manual?song=Vangelis_Chariots_of_fire.mid)
-   - [Someone You Loved](https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid) reordered
+   - [Someone You Loved](https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid)
    - [Someone Like You easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Someone_Like_You_easy_piano.mid)
    - [Avril 14 Aphex Twin](https://rawl.rocks/browse/static/musescore_manual?song=Avril_14_Aphex_Twin.mid) progression, unclear chords, ambiguous
    - [Viva La Vida Coldplay](https://rawl.rocks/browse/static/musescore_manual?song=Viva_La_Vida_Coldplay.mid)
