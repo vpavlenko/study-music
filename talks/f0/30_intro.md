@@ -106,10 +106,6 @@ Minor
    - [Johnny Cash Hurt](https://rawl.rocks/browse/static/musescore_manual?song=Johnny_Cash_Hurt.mid) power chords
    - [Interstellar](https://rawl.rocks/browse/static/musescore_manual?song=Interstellar.mid)
    - [Alone Marshmello](https://rawl.rocks/browse/static/musescore_manual?song=Alone_Marshmello.mid)
-   - parallel minor
-      - [Lady Gaga Always remember us this way](https://rawl.rocks/browse/static/musescore_manual?song=Lady_Gaga_Always_remember_us_this_way.mid) functional, bVII, phrases
-      - [Titanic](https://rawl.rocks/browse/static/musescore_manual?song=Titanic.mid) ii, vi7, up at the end
-      - [Photograph Ed Sheeran](https://rawl.rocks/browse/static/musescore_manual?song=Photograph_Ed_Sheeran.mid) inversions
 - dorian
    - [Mad world Piano](https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid)
    - [TheFatRat Unity](https://rawl.rocks/browse/static/musescore_manual?song=TheFatRat_Unity.mid)
@@ -122,6 +118,9 @@ Ambiguous
 ---
 
 - double-tonic:
+   - [Lady Gaga Always remember us this way](https://rawl.rocks/browse/static/musescore_manual?song=Lady_Gaga_Always_remember_us_this_way.mid) functional, bVII, phrases
+   - [Titanic](https://rawl.rocks/browse/static/musescore_manual?song=Titanic.mid) ii, vi7, up at the end
+   - [Photograph Ed Sheeran](https://rawl.rocks/browse/static/musescore_manual?song=Photograph_Ed_Sheeran.mid) inversions
    - [Je Te Laisserai Des Mots   Patrick Watson](https://rawl.rocks/browse/static/musescore_manual?song=Je_Te_Laisserai_Des_Mots_-_Patrick_Watson.mid) ambiguous
    - [All Of Me   John Legend Piano Cover   ReiK](https://rawl.rocks/browse/static/musescore_manual?song=All_Of_Me_-_John_Legend_Piano_Cover_-_ReiK.mid) melody in a separate instrument
    - [Sadness and Sorrow](https://rawl.rocks/browse/static/musescore_manual?song=Sadness_and_Sorrow.mid)
