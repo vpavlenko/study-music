@@ -68,7 +68,7 @@ Major
 ---
 
 - simple major
-   - [Feliz Navidad](https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid)
+   - [Feliz Navidad](https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid) increase bpm
    - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid) riff, chords above the bass
    - [Ed Sheeran Perfect THE WORST PIANO ARRANGEMENT I HAVE EVER MADE](https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid)
    - [John Lennon Imagine](https://rawl.rocks/browse/static/musescore_manual?song=John_Lennon_Imagine.mid)
