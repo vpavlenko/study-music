@@ -147,7 +147,7 @@ Rest
    - [Sweet home Chicago](https://rawl.rocks/browse/static/musescore_manual?song=Sweet_home_Chicago.mid) 12-bar blues
    - [How long blues](https://rawl.rocks/browse/static/musescore_manual?song=How_long_blues.mid) IV7
 - lots of modulations:
-   - [Attack on Titan Shinzou wo Sasageyo](https://rawl.rocks/browse/static/musescore_manual?song=Attack_on_Titan_Shinzou_wo_Sasageyo.mid)
+   - [Attack on Titan Shinzou wo Sasageyo](https://rawl.rocks/browse/static/musescore_manual?song=Attack_on_Titan_Shinzou_wo_Sasageyo.mid) - FINISH HERE
    - [Let It Go Disney Frozen](https://rawl.rocks/browse/static/musescore_manual?song=Let_It_Go_Disney_Frozen.mid) dorian
 
 
