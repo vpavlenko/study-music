@@ -70,6 +70,27 @@ Major
 Minor
 ---
 
+- harmonic minor
+   - i-iv-V
+      - [Billie Eilish Bad Guy](https://rawl.rocks/browse/static/musescore_manual?song=Billie_Eilish_Bad_Guy.mid) power chords
+      - [Bella Ciao](https://rawl.rocks/browse/static/musescore_manual?song=Bella_Ciao.mid) melodic minor
+      - [Lena Raine Pigstep](https://rawl.rocks/browse/static/musescore_manual?song=Lena_Raine_Pigstep.mid) mostly stasis, chromatic
+   - i-VI-V
+      - [Requiem for a Dream](https://rawl.rocks/browse/static/musescore_manual?song=Requiem_for_a_Dream.mid)
+      - [Believer   Imagine Dragons](https://rawl.rocks/browse/static/musescore_manual?song=Believer_-_Imagine_Dragons.mid)
+      - [Sweet Dreams](https://rawl.rocks/browse/static/musescore_manual?song=Sweet_Dreams.mid)
+      - [Love Store Francis Lai](https://rawl.rocks/browse/static/musescore_manual?song=Love_Store_Francis_Lai.mid) - simple, Picardy third, V7/V
+   - i-VII-VI-V
+     - [Hit the Road Jack](https://rawl.rocks/browse/static/musescore_manual?song=Hit_the_Road_Jack.mid)
+     - [Carol of the Bells](https://rawl.rocks/browse/static/musescore_manual?song=Carol_of_the_Bells.mid) chromatic
+   - rich harmonic minor (with VII-III):
+      - [Pirates of the Caribbean   Hes a Pirate](https://rawl.rocks/browse/static/musescore_manual?song=Pirates_of_the_Caribbean_-_Hes_a_Pirate.mid)
+      - [Pokemon Theme Song](https://rawl.rocks/browse/static/musescore_manual?song=Pokemon_Theme_Song.mid) 
+      - [Mariage dAmour](https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid)
+      - [My War Attack on Titan](https://rawl.rocks/browse/static/musescore_manual?song=My_War_Attack_on_Titan.mid)
+      - [Godfather](https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid) bII, viio7, up at the end
+      - [Schindlers List](https://rawl.rocks/browse/static/musescore_manual?song=Schindlers_List.mid) with Fr (end: show i)
+      - [We Dont Talk about Bruno](https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid) complex rhythms, riff/polyphonic vibes
 - natural minor
    - [Yann Tiersen Amelie](https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid)
    - [Wellerman Sea Shanty](https://rawl.rocks/browse/static/musescore_manual?song=Wellerman_Sea_Shanty.mid)
@@ -86,27 +107,6 @@ Minor
    - [Johnny Cash Hurt](https://rawl.rocks/browse/static/musescore_manual?song=Johnny_Cash_Hurt.mid) power chords
    - [Interstellar](https://rawl.rocks/browse/static/musescore_manual?song=Interstellar.mid)
    - [Alone Marshmello](https://rawl.rocks/browse/static/musescore_manual?song=Alone_Marshmello.mid)
-- harmonic minor
-   - i-VI-V
-      - [Requiem for a Dream](https://rawl.rocks/browse/static/musescore_manual?song=Requiem_for_a_Dream.mid)
-      - [Believer   Imagine Dragons](https://rawl.rocks/browse/static/musescore_manual?song=Believer_-_Imagine_Dragons.mid)
-      - [Sweet Dreams](https://rawl.rocks/browse/static/musescore_manual?song=Sweet_Dreams.mid)
-      - [Love Store Francis Lai](https://rawl.rocks/browse/static/musescore_manual?song=Love_Store_Francis_Lai.mid) - simple, Picardy third, V7/V
-   - i-VII-VI-V
-     - [Hit the Road Jack](https://rawl.rocks/browse/static/musescore_manual?song=Hit_the_Road_Jack.mid)
-     - [Carol of the Bells](https://rawl.rocks/browse/static/musescore_manual?song=Carol_of_the_Bells.mid) chromatic
-   - i-iv-V
-      - [Billie Eilish Bad Guy](https://rawl.rocks/browse/static/musescore_manual?song=Billie_Eilish_Bad_Guy.mid) power chords
-      - [Bella Ciao](https://rawl.rocks/browse/static/musescore_manual?song=Bella_Ciao.mid) melodic minor
-      - [Lena Raine Pigstep](https://rawl.rocks/browse/static/musescore_manual?song=Lena_Raine_Pigstep.mid) mostly stasis, chromatic
-   - rich harmonic minor (with VII-III):
-      - [Pirates of the Caribbean   Hes a Pirate](https://rawl.rocks/browse/static/musescore_manual?song=Pirates_of_the_Caribbean_-_Hes_a_Pirate.mid)
-      - [Pokemon Theme Song](https://rawl.rocks/browse/static/musescore_manual?song=Pokemon_Theme_Song.mid) 
-      - [Mariage dAmour](https://rawl.rocks/browse/static/musescore_manual?song=Mariage_dAmour.mid)
-      - [My War Attack on Titan](https://rawl.rocks/browse/static/musescore_manual?song=My_War_Attack_on_Titan.mid)
-      - [Godfather](https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid) bII, viio7, up at the end
-      - [Schindlers List](https://rawl.rocks/browse/static/musescore_manual?song=Schindlers_List.mid) with Fr (end: show i)
-      - [We Dont Talk about Bruno](https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid) complex rhythms, riff/polyphonic vibes
 - mix
    - [Gravity Falls Opening](https://rawl.rocks/browse/static/musescore_manual?song=Gravity_Falls_Opening.mid) VII-V
    - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid)
