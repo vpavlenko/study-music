@@ -11,6 +11,62 @@ Preliminary
    - термионология и аналитический аппарат "аккорды, обращения, функции" vs статистика "в таком-то стиле такая-то гистограмма пар соседних аккордов"
 - деколонизация оптики: https://everynoise.com/
 
+Major
+---
+
+- simple major
+   - [Feliz Navidad](https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid) increase bpm
+   - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid) riff, chords above the bass
+   - [Ed Sheeran Perfect THE WORST PIANO ARRANGEMENT I HAVE EVER MADE](https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid)
+   - [John Lennon Imagine](https://rawl.rocks/browse/static/musescore_manual?song=John_Lennon_Imagine.mid)
+   - [Canon in D](https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid) till m. 53
+   - [Vangelis Chariots of fire](https://rawl.rocks/browse/static/musescore_manual?song=Vangelis_Chariots_of_fire.mid)
+   - [Someone You Loved](https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid) reordered
+   - [Someone Like You easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Someone_Like_You_easy_piano.mid)
+   - [Avril 14 Aphex Twin](https://rawl.rocks/browse/static/musescore_manual?song=Avril_14_Aphex_Twin.mid) progression, unclear chords, ambiguous
+   - [Viva La Vida Coldplay](https://rawl.rocks/browse/static/musescore_manual?song=Viva_La_Vida_Coldplay.mid)
+   - [Good Bye Hachiko](https://rawl.rocks/browse/static/musescore_manual?song=Good_Bye_Hachiko.mid)
+   - [Cant Help Falling In Love](https://rawl.rocks/browse/static/musescore_manual?song=Cant_Help_Falling_In_Love.mid)
+   - [A Thousand Miles](https://rawl.rocks/browse/static/musescore_manual?song=A_Thousand_Miles.mid) polyphonic
+   - parallel minor
+      - [Lady Gaga Always remember us this way](https://rawl.rocks/browse/static/musescore_manual?song=Lady_Gaga_Always_remember_us_this_way.mid) functional, bVII, phrases
+      - [Titanic](https://rawl.rocks/browse/static/musescore_manual?song=Titanic.mid) ii, vi7, up at the end
+      - [Photograph Ed Sheeran](https://rawl.rocks/browse/static/musescore_manual?song=Photograph_Ed_Sheeran.mid) inversions
+- complex major
+   - applied chords
+      - [Happy Birthday to You](https://rawl.rocks/browse/static/musescore_manual?song=Happy_Birthday_to_You.mid) V7/IV
+      - [Summer Joe Hisaishi](https://rawl.rocks/browse/static/musescore_manual?song=Summer_Joe_Hisaishi.mid) (V/V), melody in octaves, power chords, show modulation with a verbatim repeat
+      - [Hallelujah](https://rawl.rocks/browse/static/musescore_manual?song=Hallelujah.mid) functional, V/vi, double-tonic
+      - [Test Drive How to Train Your Dragon](https://rawl.rocks/browse/static/musescore_manual?song=Test_Drive_How_to_Train_Your_Dragon.mid) V/V, otherwise easy, but with modulations
+      - [Kiss The Rain   Yiruma   10th Anniversary Version Piano Updated 2019](https://rawl.rocks/browse/static/musescore_manual?song=Kiss_The_Rain_-_Yiruma_-_10th_Anniversary_Version_Piano_Updated_2019.mid) ii/-V/iii, functional, up at the end
+      - [All I Want for Christmas is You](https://rawl.rocks/browse/static/musescore_manual?song=All_I_Want_for_Christmas_is_You.mid) (iv, V/vi, V/iii)
+      - [Moon River Breakfast at Tiffanys](https://rawl.rocks/browse/static/musescore_manual?song=Moon_River_Breakfast_at_Tiffanys.mid)
+      - [Love Like You Steven Universe](https://rawl.rocks/browse/static/musescore_manual?song=Love_Like_You_Steven_Universe.mid) V/V/V, applied, iv
+      - [Michael Giaccino Married Life](https://rawl.rocks/browse/static/musescore_manual?song=Michael_Giaccino_Married_Life.mid) Vsus4|, V+, V/V
+         - [Disney Pixar Up Theme](https://rawl.rocks/browse/static/musescore_manual?song=Disney_Pixar_Up_Theme.mid) variation 
+   - flat/sharp
+      - borrowed bVII: [Wet Hands Minecraft](https://rawl.rocks/browse/static/musescore_manual?song=Wet_Hands_Minecraft.mid)
+      - [Axel F Beverly Hills Cop III](https://rawl.rocks/browse/static/musescore_manual?song=Axel_F_Beverly_Hills_Cop_III.mid) Picardy third, Mario cadence
+      - [Super Mario Bros Main Theme](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Main_Theme.mid)
+      - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid (maj7)
+      - [One Summers Day Spirited Away](https://rawl.rocks/browse/static/musescore_manual?song=One_Summers_Day_Spirited_Away.mid) (bug: annotation isn't saved)
+   - maj7
+      - https://rawl.rocks/browse/static/musescore_manual?song=Golden_Hour__JVKE_Updated_Ver..mid (maj7, iv)
+   - romantic
+      - [Waltz in A MinorChopin](https://rawl.rocks/browse/static/musescore_manual?song=Waltz_in_A_MinorChopin.mid) parallel V/V
+      - [Chopin   Nocturne Op 9 No 2 E Flat Major](https://rawl.rocks/browse/static/musescore_manual?song=Chopin_-_Nocturne_Op_9_No_2_E_Flat_Major.mid)
+      - [Clair de Lune  Debussy](https://rawl.rocks/browse/static/musescore_manual?song=Clair_de_Lune__Debussy.mid) (end: show I)
+      - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid shuttle, seventh chords, mixture
+      - [Dawn Pride and Prejudice](https://rawl.rocks/browse/static/musescore_manual?song=Dawn_Pride_and_Prejudice.mid) diatonic chords with chromatic tones in melody
+      - https://rawl.rocks/browse/static/musescore_manual?song=Liebestraum_No._3_in_A_Major.mid
+      - https://rawl.rocks/browse/static/musescore_manual?song=tude_S._1413_in_G_Minor_La_Campanella__Liszt.mid
+   - jazz
+      - [Fly Me to the Moon](https://rawl.rocks/browse/static/musescore_manual?song=Fly_Me_to_the_Moon.mid) parallel minor
+      - [Dream a little dream of me](https://rawl.rocks/browse/static/musescore_manual?song=Dream_a_little_dream_of_me.mid) io7 (CTo7), iv
+      - [You ve got a friend in me](https://rawl.rocks/browse/static/musescore_manual?song=You_ve_got_a_friend_in_me.mid) chromatic bass
+
+
+
 Minor
 ---
 
@@ -63,60 +119,6 @@ Minor
    - [Fr Elise](https://rawl.rocks/browse/static/musescore_manual?song=Fr_Elise.mid)
    - https://rawl.rocks/browse/static/musescore_manual?song=Sonate_No._14_Moonlight_1st_Movement.mid
    - https://rawl.rocks/browse/static/musescore_manual?song=Sonate_No._14_Moonlight_3rd_Movement.mid
-
-Major
----
-
-- simple major
-   - [Feliz Navidad](https://rawl.rocks/browse/static/musescore_manual?song=Feliz_Navidad.mid) increase bpm
-   - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid) riff, chords above the bass
-   - [Ed Sheeran Perfect THE WORST PIANO ARRANGEMENT I HAVE EVER MADE](https://rawl.rocks/browse/static/musescore_manual?song=Ed_Sheeran_Perfect_THE_WORST_PIANO_ARRANGEMENT_I_HAVE_EVER_MADE.mid)
-   - [John Lennon Imagine](https://rawl.rocks/browse/static/musescore_manual?song=John_Lennon_Imagine.mid)
-   - [Canon in D](https://rawl.rocks/browse/static/musescore_manual?song=Canon_in_D.mid) till m. 53
-   - [Someone You Loved](https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid) reordered
-   - [Vangelis Chariots of fire](https://rawl.rocks/browse/static/musescore_manual?song=Vangelis_Chariots_of_fire.mid)
-   - [Someone Like You easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Someone_Like_You_easy_piano.mid)
-   - [Avril 14 Aphex Twin](https://rawl.rocks/browse/static/musescore_manual?song=Avril_14_Aphex_Twin.mid) progression, unclear chords, ambiguous
-   - [Viva La Vida Coldplay](https://rawl.rocks/browse/static/musescore_manual?song=Viva_La_Vida_Coldplay.mid)
-   - [Good Bye Hachiko](https://rawl.rocks/browse/static/musescore_manual?song=Good_Bye_Hachiko.mid)
-   - [Cant Help Falling In Love](https://rawl.rocks/browse/static/musescore_manual?song=Cant_Help_Falling_In_Love.mid)
-   - [A Thousand Miles](https://rawl.rocks/browse/static/musescore_manual?song=A_Thousand_Miles.mid) polyphonic
-   - parallel minor
-      - [Lady Gaga Always remember us this way](https://rawl.rocks/browse/static/musescore_manual?song=Lady_Gaga_Always_remember_us_this_way.mid) functional, bVII, phrases
-      - [Titanic](https://rawl.rocks/browse/static/musescore_manual?song=Titanic.mid) ii, vi7, up at the end
-      - [Photograph Ed Sheeran](https://rawl.rocks/browse/static/musescore_manual?song=Photograph_Ed_Sheeran.mid) inversions
-- complex major
-   - applied chords
-      - [Happy Birthday to You](https://rawl.rocks/browse/static/musescore_manual?song=Happy_Birthday_to_You.mid) V7/IV
-      - [Summer Joe Hisaishi](https://rawl.rocks/browse/static/musescore_manual?song=Summer_Joe_Hisaishi.mid) (V/V), melody in octaves, power chords, show modulation with a verbatim repeat
-      - [Hallelujah](https://rawl.rocks/browse/static/musescore_manual?song=Hallelujah.mid) functional, V/vi, double-tonic
-      - [Test Drive How to Train Your Dragon](https://rawl.rocks/browse/static/musescore_manual?song=Test_Drive_How_to_Train_Your_Dragon.mid) V/V, otherwise easy, but with modulations
-      - [Kiss The Rain   Yiruma   10th Anniversary Version Piano Updated 2019](https://rawl.rocks/browse/static/musescore_manual?song=Kiss_The_Rain_-_Yiruma_-_10th_Anniversary_Version_Piano_Updated_2019.mid) ii/-V/iii, functional, up at the end
-      - [All I Want for Christmas is You](https://rawl.rocks/browse/static/musescore_manual?song=All_I_Want_for_Christmas_is_You.mid) (iv, V/vi, V/iii)
-      - [Moon River Breakfast at Tiffanys](https://rawl.rocks/browse/static/musescore_manual?song=Moon_River_Breakfast_at_Tiffanys.mid)
-      - [Love Like You Steven Universe](https://rawl.rocks/browse/static/musescore_manual?song=Love_Like_You_Steven_Universe.mid) V/V/V, applied, iv
-      - [Michael Giaccino Married Life](https://rawl.rocks/browse/static/musescore_manual?song=Michael_Giaccino_Married_Life.mid) Vsus4|, V+, V/V
-         - [Disney Pixar Up Theme](https://rawl.rocks/browse/static/musescore_manual?song=Disney_Pixar_Up_Theme.mid) variation 
-   - flat/sharp
-      - borrowed bVII: [Wet Hands Minecraft](https://rawl.rocks/browse/static/musescore_manual?song=Wet_Hands_Minecraft.mid)
-      - [Axel F Beverly Hills Cop III](https://rawl.rocks/browse/static/musescore_manual?song=Axel_F_Beverly_Hills_Cop_III.mid) Picardy third, Mario cadence
-      - [Super Mario Bros Main Theme](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Main_Theme.mid)
-      - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid (maj7)
-      - [One Summers Day Spirited Away](https://rawl.rocks/browse/static/musescore_manual?song=One_Summers_Day_Spirited_Away.mid) (bug: annotation isn't saved)
-   - maj7
-      - https://rawl.rocks/browse/static/musescore_manual?song=Golden_Hour__JVKE_Updated_Ver..mid (maj7, iv)
-   - romantic
-      - [Waltz in A MinorChopin](https://rawl.rocks/browse/static/musescore_manual?song=Waltz_in_A_MinorChopin.mid) parallel V/V
-      - [Chopin   Nocturne Op 9 No 2 E Flat Major](https://rawl.rocks/browse/static/musescore_manual?song=Chopin_-_Nocturne_Op_9_No_2_E_Flat_Major.mid)
-      - [Clair de Lune  Debussy](https://rawl.rocks/browse/static/musescore_manual?song=Clair_de_Lune__Debussy.mid) (end: show I)
-      - https://rawl.rocks/browse/static/musescore_manual?song=Gymnopdie_No._1__Satie.mid shuttle, seventh chords, mixture
-      - [Dawn Pride and Prejudice](https://rawl.rocks/browse/static/musescore_manual?song=Dawn_Pride_and_Prejudice.mid) diatonic chords with chromatic tones in melody
-      - https://rawl.rocks/browse/static/musescore_manual?song=Liebestraum_No._3_in_A_Major.mid
-      - https://rawl.rocks/browse/static/musescore_manual?song=tude_S._1413_in_G_Minor_La_Campanella__Liszt.mid
-   - jazz
-      - [Fly Me to the Moon](https://rawl.rocks/browse/static/musescore_manual?song=Fly_Me_to_the_Moon.mid) parallel minor
-      - [Dream a little dream of me](https://rawl.rocks/browse/static/musescore_manual?song=Dream_a_little_dream_of_me.mid) io7 (CTo7), iv
-      - [You ve got a friend in me](https://rawl.rocks/browse/static/musescore_manual?song=You_ve_got_a_friend_in_me.mid) chromatic bass
 
 Ambiguous
 ---
