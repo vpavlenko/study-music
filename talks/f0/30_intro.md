@@ -28,10 +28,6 @@ Major
    - [Good Bye Hachiko](https://rawl.rocks/browse/static/musescore_manual?song=Good_Bye_Hachiko.mid)
    - [Cant Help Falling In Love](https://rawl.rocks/browse/static/musescore_manual?song=Cant_Help_Falling_In_Love.mid)
    - [A Thousand Miles](https://rawl.rocks/browse/static/musescore_manual?song=A_Thousand_Miles.mid) polyphonic
-   - parallel minor
-      - [Lady Gaga Always remember us this way](https://rawl.rocks/browse/static/musescore_manual?song=Lady_Gaga_Always_remember_us_this_way.mid) functional, bVII, phrases
-      - [Titanic](https://rawl.rocks/browse/static/musescore_manual?song=Titanic.mid) ii, vi7, up at the end
-      - [Photograph Ed Sheeran](https://rawl.rocks/browse/static/musescore_manual?song=Photograph_Ed_Sheeran.mid) inversions
 - complex major
    - applied chords
       - [Happy Birthday to You](https://rawl.rocks/browse/static/musescore_manual?song=Happy_Birthday_to_You.mid) V7/IV
@@ -91,6 +87,11 @@ Minor
       - [Godfather](https://rawl.rocks/browse/static/musescore_manual?song=Godfather.mid) bII, viio7, up at the end
       - [Schindlers List](https://rawl.rocks/browse/static/musescore_manual?song=Schindlers_List.mid) with Fr (end: show i)
       - [We Dont Talk about Bruno](https://rawl.rocks/browse/static/musescore_manual?song=We_Dont_Talk_about_Bruno.mid) complex rhythms, riff/polyphonic vibes
+- mix
+   - [Gravity Falls Opening](https://rawl.rocks/browse/static/musescore_manual?song=Gravity_Falls_Opening.mid) VII-V
+   - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid)
+   - [Je Te Laisserai Des Mots   Patrick Watson](https://rawl.rocks/browse/static/musescore_manual?song=Je_Te_Laisserai_Des_Mots_-_Patrick_Watson.mid)
+   - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid)
 - natural minor
    - [Yann Tiersen Amelie](https://rawl.rocks/browse/static/musescore_manual?song=Yann_Tiersen_Amelie.mid)
    - [Wellerman Sea Shanty](https://rawl.rocks/browse/static/musescore_manual?song=Wellerman_Sea_Shanty.mid)
@@ -107,11 +108,11 @@ Minor
    - [Johnny Cash Hurt](https://rawl.rocks/browse/static/musescore_manual?song=Johnny_Cash_Hurt.mid) power chords
    - [Interstellar](https://rawl.rocks/browse/static/musescore_manual?song=Interstellar.mid)
    - [Alone Marshmello](https://rawl.rocks/browse/static/musescore_manual?song=Alone_Marshmello.mid)
-- mix
-   - [Gravity Falls Opening](https://rawl.rocks/browse/static/musescore_manual?song=Gravity_Falls_Opening.mid) VII-V
-   - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid)
-   - [Je Te Laisserai Des Mots   Patrick Watson](https://rawl.rocks/browse/static/musescore_manual?song=Je_Te_Laisserai_Des_Mots_-_Patrick_Watson.mid)
-   - [Super Mario Bros Peaches](https://rawl.rocks/browse/static/musescore_manual?song=Super_Mario_Bros_Peaches.mid)
+   - parallel minor
+      - [Lady Gaga Always remember us this way](https://rawl.rocks/browse/static/musescore_manual?song=Lady_Gaga_Always_remember_us_this_way.mid) functional, bVII, phrases
+      - [Titanic](https://rawl.rocks/browse/static/musescore_manual?song=Titanic.mid) ii, vi7, up at the end
+      - [Photograph Ed Sheeran](https://rawl.rocks/browse/static/musescore_manual?song=Photograph_Ed_Sheeran.mid) inversions
+
 - dorian
    - [Mad world Piano](https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid)
    - [TheFatRat Unity](https://rawl.rocks/browse/static/musescore_manual?song=TheFatRat_Unity.mid)
