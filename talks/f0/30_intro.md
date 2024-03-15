@@ -39,10 +39,10 @@ Major
    - [Someone You Loved](https://rawl.rocks/browse/static/musescore_manual?song=Someone_You_Loved.mid)
    - [Someone Like You easy piano](https://rawl.rocks/browse/static/musescore_manual?song=Someone_Like_You_easy_piano.mid)
    - [Viva La Vida Coldplay](https://rawl.rocks/browse/static/musescore_manual?song=Viva_La_Vida_Coldplay.mid)
-   - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid) riff, chords above the bass
+   - [Take on me](https://rawl.rocks/browse/static/musescore_manual?song=Take_on_me.mid)
    - [Good Bye Hachiko](https://rawl.rocks/browse/static/musescore_manual?song=Good_Bye_Hachiko.mid)
    - [Cant Help Falling In Love](https://rawl.rocks/browse/static/musescore_manual?song=Cant_Help_Falling_In_Love.mid)
-   - [A Thousand Miles](https://rawl.rocks/browse/static/musescore_manual?song=A_Thousand_Miles.mid) polyphonic
+   - [A Thousand Miles](https://rawl.rocks/browse/static/musescore_manual?song=A_Thousand_Miles.mid)
 - complex major
    - applied chords
       - [Happy Birthday to You](https://rawl.rocks/browse/static/musescore_manual?song=Happy_Birthday_to_You.mid) V7/IV
