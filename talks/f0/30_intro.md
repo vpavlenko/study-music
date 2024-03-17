@@ -90,6 +90,7 @@ Minor
       - [Believer   Imagine Dragons](https://rawl.rocks/browse/static/musescore_manual?song=Believer_-_Imagine_Dragons.mid)
       - [Sweet Dreams](https://rawl.rocks/browse/static/musescore_manual?song=Sweet_Dreams.mid)
       - [Love Store Francis Lai](https://rawl.rocks/browse/static/musescore_manual?song=Love_Store_Francis_Lai.mid) - simple, Picardy third, V7/V
+      - https://www.pianote.com/blog/sad-chord-progressions/#4-the-harmonic-vamp-i-i-vi-v
    - i-VII-VI-V
      - [Hit the Road Jack](https://rawl.rocks/browse/static/musescore_manual?song=Hit_the_Road_Jack.mid)
      - [Carol of the Bells](https://rawl.rocks/browse/static/musescore_manual?song=Carol_of_the_Bells.mid) chromatic
