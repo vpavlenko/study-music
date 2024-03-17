@@ -47,7 +47,6 @@ Major
    - applied chords
       - [Happy Birthday to You](https://rawl.rocks/browse/static/musescore_manual?song=Happy_Birthday_to_You.mid) V7/IV
       - [Summer Joe Hisaishi](https://rawl.rocks/browse/static/musescore_manual?song=Summer_Joe_Hisaishi.mid) (V/V), melody in octaves, power chords, show modulation with a verbatim repeat
-      - [Hallelujah](https://rawl.rocks/browse/static/musescore_manual?song=Hallelujah.mid) functional, V/vi, double-tonic
       - [Test Drive How to Train Your Dragon](https://rawl.rocks/browse/static/musescore_manual?song=Test_Drive_How_to_Train_Your_Dragon.mid) V/V, otherwise easy, but with modulations
       - [Kiss The Rain   Yiruma   10th Anniversary Version Piano Updated 2019](https://rawl.rocks/browse/static/musescore_manual?song=Kiss_The_Rain_-_Yiruma_-_10th_Anniversary_Version_Piano_Updated_2019.mid) ii/-V/iii, functional, up at the end
       - [All I Want for Christmas is You](https://rawl.rocks/browse/static/musescore_manual?song=All_I_Want_for_Christmas_is_You.mid) (iv, V/vi, V/iii)
@@ -121,6 +120,7 @@ Minor
    - [Johnny Cash Hurt](https://rawl.rocks/browse/static/musescore_manual?song=Johnny_Cash_Hurt.mid) power chords
    - [Interstellar](https://rawl.rocks/browse/static/musescore_manual?song=Interstellar.mid)
    - [Alone Marshmello](https://rawl.rocks/browse/static/musescore_manual?song=Alone_Marshmello.mid)
+   - [Hallelujah](https://rawl.rocks/browse/static/musescore_manual?song=Hallelujah.mid) functional, V/vi, double-tonic
 - dorian
    - [Mad world Piano](https://rawl.rocks/browse/static/musescore_manual?song=Mad_world_Piano.mid)
    - [TheFatRat Unity](https://rawl.rocks/browse/static/musescore_manual?song=TheFatRat_Unity.mid)
