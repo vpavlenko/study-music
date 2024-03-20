@@ -188,3 +188,7 @@ Exercises
 - Fur Elise
 - Amelie
 - Despacito
+- Requiem of the Dream
+- Carol of the Bells
+- Interstellar
+
