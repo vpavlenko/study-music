@@ -183,6 +183,7 @@ Exercises
    - major/minor https://rawl.rocks/browse/static/musescore_manual?song=smth.mid 
    - student arrangement https://musescore.com/user/23842351/scores/6875716
    - Arr. WontonSauce https://musescore.com/user/30540285/scores/5469040
+   - https://gifx.co/music/Game%20MIDI/-%20Arranged%20-/New%20Tetris,%20The%20(Nintendo%2064,%201999)/DVIE.MID
 - Bella Ciao
    - melody to harmonize https://musescore.com/user/28613542/scores/5207234
 - Godfather
