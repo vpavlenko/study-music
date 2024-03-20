@@ -185,6 +185,7 @@ Exercises
 - Цыганочка
 - Очи черные
 - Pirates
+   - bass + melody https://musescore.com/user/54626892/scores/9550411
 - Fur Elise
 - Amelie
 - Despacito
