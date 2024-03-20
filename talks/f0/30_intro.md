@@ -179,9 +179,7 @@ Exercises
 Продумать вторую лекцию. Про что?
 ---
 
-- Тетрис
-   - выходы: на аранжировку
-   - на iv-i-V-i
+- Tetris
 - Godfather
 - Bella Ciao
 - Pirates
@@ -193,3 +191,4 @@ Exercises
 - Interstellar
 - Hallelujah
 - California dreamin
+   - https://musescore.com/user/7430066/scores/5069796
