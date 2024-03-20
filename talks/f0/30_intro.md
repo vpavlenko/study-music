@@ -182,3 +182,9 @@ Exercises
 - Тетрис
    - выходы: на аранжировку
    - на iv-i-V-i
+- Godfather
+- Bella Ciao
+- Pirates
+- Fur Elise
+- Amelie
+- Despacito
