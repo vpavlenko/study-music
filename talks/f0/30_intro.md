@@ -182,8 +182,11 @@ Exercises
 - Tetris
    - major/minor https://rawl.rocks/browse/static/musescore_manual?song=smth.mid 
    - student arrangement https://musescore.com/user/23842351/scores/6875716
-- Godfather
+   - Arr. WontonSauce https://musescore.com/user/30540285/scores/5469040
 - Bella Ciao
+   - melody to harmonize https://musescore.com/user/28613542/scores/5207234
+- Godfather
+   - melody to harmonize https://musescore.com/user/3636231/scores/4058601
 - Цыганочка
 - Очи черные
    - Wynton Kelly jazz
