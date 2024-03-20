@@ -180,7 +180,9 @@ Exercises
 ---
 
 - Tetris
-   - major/minor https://rawl.rocks/browse/static/musescore_manual?song=smth.mid 
+   - major/minor
+      - https://rawl.rocks/browse/static/musescore_manual?song=smth2.mid
+      - https://rawl.rocks/browse/static/musescore_manual?song=smth.mid 
    - student arrangement https://musescore.com/user/23842351/scores/6875716
    - two voices https://musescore.com/user/1204336/scores/1906746
    - developed internal voices https://musescore.com/user/572376/scores/394941
