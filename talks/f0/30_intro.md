@@ -209,6 +209,7 @@ Exercises
    - rock version https://musescore.com/user/54313461/scores/10820395
 - Fur Elise
 - Amelie
+- The Lonely Shepherd
 - Despacito
 - Requiem of the Dream
 - Carol of the Bells
