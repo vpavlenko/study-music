@@ -182,6 +182,8 @@ Exercises
 - Tetris
 - Godfather
 - Bella Ciao
+- Цыганочка
+- Очи черные
 - Pirates
 - Fur Elise
 - Amelie
