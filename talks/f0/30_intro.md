@@ -182,8 +182,19 @@ Exercises
 - Tetris
    - major/minor https://rawl.rocks/browse/static/musescore_manual?song=smth.mid 
    - student arrangement https://musescore.com/user/23842351/scores/6875716
+   - two voices https://musescore.com/user/1204336/scores/1906746
+   - developed internal voices https://musescore.com/user/572376/scores/394941
+   - a lot of texture https://musescore.com/user/16633956/scores/6056561/
    - Arr. WontonSauce https://musescore.com/user/30540285/scores/5469040
-   - https://gifx.co/music/Game%20MIDI/-%20Arranged%20-/New%20Tetris,%20The%20(Nintendo%2064,%201999)/DVIE.MID
+   - string quartet https://musescore.com/user/21544691/scores/4503181
+   - alto sax trio https://musescore.com/user/14048536/scores/3579646/
+   - rich quintet https://musescore.com/user/8722411/scores/1952976
+   - remixes:
+      - https://musescore.com/user/24195596/scores/4823620
+      - https://musescore.com/user/31480864/scores/5478792
+      - (interesting harmonies) https://musescore.com/user/38235231/scores/3440746
+   - https://rawl.rocks/browse/Game%20MIDI/-%20Arranged%20-/New%20Tetris,%20The%20(Nintendo%2064,%201999)
+   - https://rawl.rocks/browse/Game%20MIDI/-%20Arranged%20-/Tetris%20(NES,%201988)
 - Bella Ciao
    - melody to harmonize https://musescore.com/user/28613542/scores/5207234
 - Godfather
