@@ -180,12 +180,16 @@ Exercises
 ---
 
 - Tetris
+   - major/minor https://rawl.rocks/browse/static/musescore_manual?song=smth.mid 
+   - student arrangement https://musescore.com/user/23842351/scores/6875716
 - Godfather
 - Bella Ciao
 - Цыганочка
 - Очи черные
+   - Wynton Kelly jazz
 - Pirates
    - bass + melody https://musescore.com/user/54626892/scores/9550411
+   - rock version https://musescore.com/user/54313461/scores/10820395
 - Fur Elise
 - Amelie
 - Despacito
