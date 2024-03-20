@@ -173,3 +173,12 @@ Exercises
 
 - Find several arrangements of the same piece in MuseScore. Download MIDIs, open in Rawl, describe the difference.
 - Choose an artist. Find several arrangements of their songs in MIDIs. Describe his harmonic language. Create a "fake song" that's similar to their style.
+
+
+
+Продумать вторую лекцию. Про что?
+---
+
+- Тетрис
+   - выходы: на аранжировку
+   - на iv-i-V-i
