@@ -207,6 +207,7 @@ Exercises
 - Pirates
    - bass + melody https://musescore.com/user/54626892/scores/9550411
    - rock version https://musescore.com/user/54313461/scores/10820395
+   - multipart https://musescore.com/user/38235231/scores/3986006
 - Fur Elise
 - Amelie
 - The Lonely Shepherd
