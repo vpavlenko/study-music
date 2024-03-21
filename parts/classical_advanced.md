@@ -36,6 +36,7 @@ Advanced harmony
 - Yosef Goldenberg.	Prolongation of Seventh Chords in Tonal Music
 - https://mtosmt.org/issues/mto.09.15.2/mto.09.15.2.mcfarland.html
 - Marshall Tuttle. Modal Ethos and Semiotics in Tonal Music: Bach, Mozart, Beethoven, Schumann, Brahms, Massenet, Mahler and Debussy
+- Leland Smith. Handbook of Harmonic Analysis
 
 Advanced form
 ---
