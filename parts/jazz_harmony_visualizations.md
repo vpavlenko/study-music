@@ -29,3 +29,8 @@ HookPad:
 
 <img width="1206" alt="Screenshot 2023-02-03 at 09 43 54" src="https://user-images.githubusercontent.com/1491908/216522047-85567af1-6fe9-4232-9048-ace124e077c3.png">
 
+https://compmus.ime.usp.br/sbcm/2007/papers/sbcm-2007-15.pdf
+
+<img width="875" alt="Screenshot 2024-03-26 at 19 09 23" src="https://github.com/vpavlenko/study-music/assets/1491908/ceeab8f7-8699-4cb0-b239-ecc56fcfa799">
+
+https://github.com/vpavlenko/changes
