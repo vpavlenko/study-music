@@ -16,6 +16,8 @@ Digital composition
 
 <img width="400" alt="Screenshot 2022-02-15 at 5 32 25 PM" src="https://user-images.githubusercontent.com/1491908/154082815-08213e00-0959-49f7-a75c-938c734e749a.png">
 
+- Will Kuhn, Ethan Hein.	Electronic Music School: A Contemporary Approach to Teaching Musical Creativity
+
 - [Антон Маскелиаде. Твой первый трек](https://maskeliade.school/book) - Очень вдохновляющий учебник по созданию электронной музыки в Аблетоне для начинающих 
  с посылом "у вас сразу всё начнёт получаться" и "не дайте внешней критике загубить ваш талант". Разбирает строение треков (элементы гармонии, форму, сведение), много примеров из Radiohead, есть разделы про психологию начинающего музыканта и сетап домашней студии. Также есть большое дружелюбное комьюнити, [интенсивные курсы](https://maskeliade.school/), [ежемесячная рассылка](https://maskeliade.school/links), [справочник по эффектам Аблетона](https://maskeliade.school/fx)
 
