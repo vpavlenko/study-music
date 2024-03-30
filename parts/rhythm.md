@@ -1,6 +1,8 @@
 Rhythm
 ===
 
+I'm not interested in rhythms whatsoever, so this page really needs a maintainer.
+
 - [Types of clave on Chromatone](https://chromatone.center/theory/rhythm/system/clave/)
 - https://experiments.withgoogle.com/ai/drum-machine/view/
 - https://musiclab.chromeexperiments.com/Rhythm/
@@ -28,3 +30,4 @@ Rhythm
 - search "aksak theory"
 - https://sites.tufts.edu/yewevu/
 - Garrett Michaelsen. Groove Topics in Improvised Jazz
+- [Groove Pizza](https://www.ethanhein.com/wp/groove-pizza/)
