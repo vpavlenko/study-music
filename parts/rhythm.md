@@ -31,3 +31,4 @@ I'm not interested in rhythms whatsoever, so this page really needs a maintainer
 - https://sites.tufts.edu/yewevu/
 - Garrett Michaelsen. Groove Topics in Improvised Jazz
 - [Groove Pizza](https://www.ethanhein.com/wp/groove-pizza/)
+- John McLaughlin, S. Ganesh Vinayakram. Gateway to Rhythm (or any other course on konnakol)
