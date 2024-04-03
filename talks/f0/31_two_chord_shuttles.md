@@ -22,7 +22,10 @@ for every piece ask:
 - https://www.youtube.com/watch?v=EcWxe5DrcPA
 - https://www.youtube.com/watch?v=TY18iSrLEuM
 
-остальное - из 2.txt
+остальное:
+- 2.txt
+- russian_two_only.txt
+- two_only_repeats.txt
 
 порядок показа:
 - корпус
