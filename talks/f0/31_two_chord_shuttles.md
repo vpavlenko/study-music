@@ -26,8 +26,8 @@ for every piece ask:
 - https://www.youtube.com/watch?v=cfmtEJMq1xE |: C G G C :|
 - https://www.youtube.com/watch?v=EcWxe5DrcPA |: Am D# :|
 - https://www.youtube.com/watch?v=TY18iSrLEuM |: CMaj7 FMaj7 :| 
-- https://www.youtube.com/watch?v=EbrnoEAI0Lk |: 
-- https://www.youtube.com/watch?v=3bfkyXtuIXk
+- https://www.youtube.com/watch?v=EbrnoEAI0Lk |: A F7 :| = |: C Ab7 :|
+- https://www.youtube.com/watch?v=3bfkyXtuIXk |: Am B :|
 
 остальное:
 - 2.txt
