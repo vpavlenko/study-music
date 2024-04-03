@@ -26,6 +26,7 @@ for every piece ask:
 - https://www.youtube.com/watch?v=EcWxe5DrcPA
 - https://www.youtube.com/watch?v=TY18iSrLEuM
 - https://www.youtube.com/watch?v=EbrnoEAI0Lk
+- https://www.youtube.com/watch?v=3bfkyXtuIXk
 
 остальное:
 - 2.txt
