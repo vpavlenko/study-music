@@ -2,7 +2,7 @@ for every piece ask:
 - what's happening in the arrangement
 - what's the genre
 
-сначала послушать несколько трэков на два аккорда (десять штук) - без анализа:
+сначала послушать несколько трэков на два аккорда - без анализа:
 - https://www.youtube.com/watch?v=F64vtDkmGog
 - https://www.youtube.com/watch?v=_pKkOOQR7_o
 - https://www.youtube.com/watch?v=pCC5S5VMe3U
