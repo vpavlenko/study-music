@@ -18,6 +18,11 @@ for every piece ask:
 - https://www.youtube.com/watch?v=lXT8YIZRYmE
 - https://www.youtube.com/watch?v=qJNVYUzV500
 - https://www.youtube.com/watch?v=HQGTFdUXYaY
+- https://www.youtube.com/watch?v=cfmtEJMq1xE
+- https://www.youtube.com/watch?v=EcWxe5DrcPA
+- https://www.youtube.com/watch?v=TY18iSrLEuM
+
+остальное - из 2.txt
 
 порядок показа:
 - корпус
