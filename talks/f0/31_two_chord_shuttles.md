@@ -1,6 +1,10 @@
 for every piece ask:
+- what's the genre/style
 - what's happening in the arrangement
-- what's the genre
+- is this a track on two chords
+- which are these two chords
+- what's the form
+- was there a track before with similar harmony/form
 
 сначала послушать несколько трэков на два аккорда - без анализа:
 - https://www.youtube.com/watch?v=F64vtDkmGog
