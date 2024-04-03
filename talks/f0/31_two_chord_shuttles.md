@@ -30,10 +30,7 @@ for every piece ask:
 - 2.txt
 - russian_two_only.txt
 - two_only_repeats.txt
-
-порядок показа:
-- корпус
-
+- rareShuttles.txt
 
 
 спорные трэки
