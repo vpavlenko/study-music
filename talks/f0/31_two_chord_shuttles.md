@@ -7,25 +7,26 @@ for every piece ask:
 - was there a track before with similar harmony/form
 
 сначала послушать несколько трэков на два аккорда:
-- https://www.youtube.com/watch?v=F64vtDkmGog
-- https://www.youtube.com/watch?v=_pKkOOQR7_o
-- https://www.youtube.com/watch?v=pCC5S5VMe3U
-- https://www.youtube.com/watch?v=ULVrZrj_veo
-- https://www.youtube.com/watch?v=d89v7099mZ0
-- https://www.youtube.com/watch?v=yhfATC9baPo
-- https://www.youtube.com/watch?v=wDbyOLzEyfk
-- https://www.youtube.com/watch?v=IhelG-L_vT0
-- https://www.youtube.com/watch?v=DraA3PUuoQc
-- https://www.youtube.com/watch?v=TlxmC3xYr-E
-- https://www.youtube.com/watch?v=NGLxoKOvzu4
-- https://www.youtube.com/watch?v=Qxodw_dccDc
-- https://www.youtube.com/watch?v=lXT8YIZRYmE
-- https://www.youtube.com/watch?v=qJNVYUzV500
-- https://www.youtube.com/watch?v=HQGTFdUXYaY
-- https://www.youtube.com/watch?v=cfmtEJMq1xE
-- https://www.youtube.com/watch?v=EcWxe5DrcPA
-- https://www.youtube.com/watch?v=TY18iSrLEuM
-- https://www.youtube.com/watch?v=EbrnoEAI0Lk
+- https://www.youtube.com/watch?v=F64vtDkmGog |: C Dm :|
+- https://www.youtube.com/watch?v=_pKkOOQR7_o |: C Dm Dm C :|    |: C F F C :|
+- https://www.youtube.com/watch?v=pCC5S5VMe3U |: C _ C _ F _ C _ :|
+- https://www.youtube.com/watch?v=ULVrZrj_veo |: C _ _ G | G _ _ C :|
+- https://www.youtube.com/watch?v=d89v7099mZ0 ???
+- https://www.youtube.com/watch?v=yhfATC9baPo |: C F C F :|
+- https://www.youtube.com/watch?v=wDbyOLzEyfk |: C Bb :| домашнее задание: найти в русском роке
+- https://www.youtube.com/watch?v=IhelG-L_vT0 |: Am F :| 
+- https://www.youtube.com/watch?v=DraA3PUuoQc |: C _ _ _ | Am _ _ _ :|
+- https://www.youtube.com/watch?v=TlxmC3xYr-E |: Am Dm :|
+- https://www.youtube.com/watch?v=NRuoXqpL6ZM |: C F :|
+- https://www.youtube.com/watch?v=NGLxoKOvzu4 |: Am G :|
+- https://www.youtube.com/watch?v=Qxodw_dccDc |: Am F :|
+- https://www.youtube.com/watch?v=lXT8YIZRYmE |: C F :|
+- https://www.youtube.com/watch?v=qJNVYUzV500 |: C F :|
+- https://www.youtube.com/watch?v=HQGTFdUXYaY |: Am G :|
+- https://www.youtube.com/watch?v=cfmtEJMq1xE |: C G G C :|
+- https://www.youtube.com/watch?v=EcWxe5DrcPA |: Am D# :|
+- https://www.youtube.com/watch?v=TY18iSrLEuM |: CMaj7 FMaj7 :| 
+- https://www.youtube.com/watch?v=EbrnoEAI0Lk |: 
 - https://www.youtube.com/watch?v=3bfkyXtuIXk
 
 остальное:
