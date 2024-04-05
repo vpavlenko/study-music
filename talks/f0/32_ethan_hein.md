@@ -3,11 +3,15 @@
 - https://cvarun7.wixsite.com/website/post/some-scattered-comments-on-ethan-hein
 - https://ethanhein.bandcamp.com/album/music-theory-songs
 - https://www.ethanhein.com/wp/2017/philip-taggs-everyday-tonality/
+- https://www.ethanhein.com/wp/2016/musical-simple-groove-is-in-the-heart/
 
 
 some tracks:
 - https://www.youtube.com/watch?v=qxRRxN5Lx3o
 
+rawl:
+- https://rawl.rocks/course/15
+- https://rawl.rocks/browse/MIDI/Herbie%20Hancock?song=Chameleon.mid
 
 other funk:
 - https://www.youtube.com/watch?v=SZ0vHYfxkUY
