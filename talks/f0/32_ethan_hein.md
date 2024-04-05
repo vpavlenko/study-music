@@ -1,4 +1,6 @@
 # part 1. ethan hein:
+
+a person:
 - https://www.linkedin.com/in/ethanhein/
 - https://www.reddit.com/user/ethanhein/comments/
 - https://ethanhein.bandcamp.com/
@@ -7,6 +9,7 @@
 - https://www.youtube.com/results?search_query=ethan+hein+podcast
 - https://cvarun7.wixsite.com/website/post/some-scattered-comments-on-ethan-hein
 
+groove/blues:
 - https://ethanhein.substack.com/p/groove-harmony-outline
 - https://www.ethanhein.com/wp/2021/groove-harmony/
 - https://www.ethanhein.com/wp/2023/there-was-a-time-i-got-to-move
