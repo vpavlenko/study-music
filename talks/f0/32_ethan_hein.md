@@ -11,12 +11,21 @@ a person:
 
 groove/blues:
 - https://ethanhein.substack.com/p/groove-harmony-outline
-- https://www.ethanhein.com/wp/2021/groove-harmony/
-- https://www.ethanhein.com/wp/2023/there-was-a-time-i-got-to-move
-- https://www.ethanhein.com/wp/2017/philip-taggs-everyday-tonality/
-- https://www.ethanhein.com/wp/2016/musical-simple-groove-is-in-the-heart/
+- https://www.ethanhein.com/wp/2021/pieces-vs-songs-vs-grooves/
+  - https://www.ethanhein.com/wp/2020/songs-vs-grooves/  
+  - https://www.ethanhein.com/wp/2021/groove-harmony/
+  - https://www.ethanhein.com/wp/2023/there-was-a-time-i-got-to-move
+  - https://www.ethanhein.com/wp/2023/love-rollercoaster-genius-of-love-and-nonsensical-chord-loops/
+  - https://www.ethanhein.com/wp/2017/philip-taggs-everyday-tonality/
+  - https://www.ethanhein.com/wp/2016/musical-simple-groove-is-in-the-heart/
 - https://www.ethanhein.com/wp/2023/building-the-funky-drummer-beat/
   - https://www.ethanhein.com/wp/2023/god-make-me-funky/
+  - https://www.ethanhein.com/wp/2022/dilla-time-in-chameleon/
+- https://www.ethanhein.com/wp/2022/blues-harmony-primer/
+  - https://www.ethanhein.com/wp/2021/chain-of-fools/
+  - https://www.ethanhein.com/wp/2014/blues-tonality/
+- https://www.ethanhein.com/wp/2022/we-dont-talk-about-bruno/
+- https://www.ethanhein.com/wp/2023/rap-before-hip-hop/
 
 # part 2. funk on rawl:
 - https://rawl.rocks/course/15
