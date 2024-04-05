@@ -1,17 +1,21 @@
-part 1. ethan hein:
-
+# part 1. ethan hein:
 - https://www.linkedin.com/in/ethanhein/
+- https://www.reddit.com/user/ethanhein/comments/
+- https://ethanhein.bandcamp.com/
+- https://musedlab.org/
+- https://www.youtube.com/@EthanHein
+- https://www.youtube.com/results?search_query=ethan+hein+podcast
+- https://cvarun7.wixsite.com/website/post/some-scattered-comments-on-ethan-hein
+
 - https://ethanhein.substack.com/p/groove-harmony-outline
 - https://www.ethanhein.com/wp/2021/groove-harmony/
-- https://cvarun7.wixsite.com/website/post/some-scattered-comments-on-ethan-hein
-- https://ethanhein.bandcamp.com/
-  - https://ethanhein.bandcamp.com/album/music-theory-songs
+- https://www.ethanhein.com/wp/2023/there-was-a-time-i-got-to-move
 - https://www.ethanhein.com/wp/2017/philip-taggs-everyday-tonality/
 - https://www.ethanhein.com/wp/2016/musical-simple-groove-is-in-the-heart/
 - https://www.ethanhein.com/wp/2023/building-the-funky-drummer-beat/
   - https://www.ethanhein.com/wp/2023/god-make-me-funky/
 
-part 2. rawl:
+# part 2. funk on rawl:
 - https://rawl.rocks/course/15
 - https://rawl.rocks/browse/MIDI/Herbie%20Hancock?song=Chameleon.mid
 - https://rawl.rocks/browse/MIDI/Brown%20James
@@ -36,7 +40,7 @@ part 2. rawl:
 - https://rawl.rocks/browse/Demo%20MIDI/Yamaha%20XG%20Library/FUNKY
 - https://rawl.rocks/browse/Roland%20SMF%20MIDI%20Disks/RJL-3003J%20-%20Fusion%20%26%20Jazz%20Funk%20Collection%20(1993)%20(Idecs)
 
-part 3. random content:
+# part 3. random content:
 - https://www.youtube.com/watch?v=SZ0vHYfxkUY
 - https://www.youtube.com/watch?v=gzkI5BqRw_Y
 - Nahre Sol - https://www.youtube.com/watch?v=AXk6Bt0QrD0
