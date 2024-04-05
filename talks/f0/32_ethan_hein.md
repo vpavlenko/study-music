@@ -16,12 +16,19 @@ part 2. rawl:
 - https://rawl.rocks/browse/MIDI/Chaka%20Khan
 - https://rawl.rocks/browse/MIDI/Rufus
 - https://rawl.rocks/browse/MIDI/Prince
+- https://rawl.rocks/browse/MIDI/Kool%20%26%20The%20Gang
+- https://rawl.rocks/browse/MIDI/Wild%20Cherry
+- https://rawl.rocks/browse/MIDI/Lenny%20Kravitz
+- https://rawl.rocks/browse/MIDI/Rage%20Against%20the%20Machine
+- https://rawl.rocks/browse/MIDI/Faith%20No%20More
 - https://rawl.rocks/browse/Game%20MIDI/-%20Arranged%20-/Pilotwings%2064%20(Nintendo%2064,%201996)
 - https://rawl.rocks/browse/Game%20MIDI/-%20Arranged%20-/Pilotwings%20(SNES,%201991)
 - https://rawl.rocks/browse/Game%20MIDI/-%20Arranged%20-/Toejam%20%26%20Earl%20(Genesis,%201991)
 - https://rawl.rocks/browse/Game%20MIDI/-%20Arranged%20-/Streets%20of%20Rage%20(Genesis,%201991)
 - https://rawl.rocks/browse/Game%20MIDI/-%20Arranged%20-/Streets%20of%20Rage%202%20(Genesis,%201993)
 - https://rawl.rocks/browse/Game%20MIDI/-%20Arranged%20-/Streets%20of%20Rage%203%20(Genesis,%201994)
+- https://rawl.rocks/browse/Demo%20MIDI/Yamaha%20XG%20Library/FUNKY
+- https://rawl.rocks/browse/Roland%20SMF%20MIDI%20Disks/RJL-3003J%20-%20Fusion%20%26%20Jazz%20Funk%20Collection%20(1993)%20(Idecs)
 
 part 3. random content:
 - https://www.youtube.com/watch?v=SZ0vHYfxkUY
