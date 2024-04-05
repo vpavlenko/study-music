@@ -5,3 +5,9 @@
 
 some tracks:
 - https://www.youtube.com/watch?v=qxRRxN5Lx3o
+
+
+other funk:
+- https://www.youtube.com/watch?v=SZ0vHYfxkUY
+- https://www.youtube.com/watch?v=gzkI5BqRw_Y
+- Nahre Sol - https://www.youtube.com/watch?v=AXk6Bt0QrD0
