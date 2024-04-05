@@ -2,7 +2,8 @@ part 1. ethan hein:
 - https://ethanhein.substack.com/p/groove-harmony-outline
 - https://www.ethanhein.com/wp/2021/groove-harmony/
 - https://cvarun7.wixsite.com/website/post/some-scattered-comments-on-ethan-hein
-- https://ethanhein.bandcamp.com/album/music-theory-songs
+- https://ethanhein.bandcamp.com/
+  - https://ethanhein.bandcamp.com/album/music-theory-songs
 - https://www.ethanhein.com/wp/2017/philip-taggs-everyday-tonality/
 - https://www.ethanhein.com/wp/2016/musical-simple-groove-is-in-the-heart/
 - https://www.ethanhein.com/wp/2023/building-the-funky-drummer-beat/
@@ -11,7 +12,7 @@ part 1. ethan hein:
 part 2. rawl:
 - https://rawl.rocks/course/15
 - https://rawl.rocks/browse/MIDI/Herbie%20Hancock?song=Chameleon.mid
-- https://rawl.rocks/browse/MIDI/James%20Brown?song=Sex+Machine+%28Get+Up+I+Feel+Like+Being+A%29.mid
+- https://rawl.rocks/browse/MIDI/Brown%20James
 - https://rawl.rocks/browse/MIDI/Sly%20%26%20The%20Family%20Stone
 - https://rawl.rocks/browse/MIDI/Stevie%20Wonder
 - https://rawl.rocks/browse/MIDI/Rick%20James
@@ -23,6 +24,7 @@ part 2. rawl:
 - https://rawl.rocks/browse/MIDI/Lenny%20Kravitz
 - https://rawl.rocks/browse/MIDI/Rage%20Against%20the%20Machine
 - https://rawl.rocks/browse/MIDI/Faith%20No%20More
+- https://rawl.rocks/browse/MIDI/Grateful%20Dead
 - https://rawl.rocks/browse/Game%20MIDI/-%20Arranged%20-/Pilotwings%2064%20(Nintendo%2064,%201996)
 - https://rawl.rocks/browse/Game%20MIDI/-%20Arranged%20-/Pilotwings%20(SNES,%201991)
 - https://rawl.rocks/browse/Game%20MIDI/-%20Arranged%20-/Toejam%20%26%20Earl%20(Genesis,%201991)
