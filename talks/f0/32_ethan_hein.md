@@ -5,6 +5,8 @@ part 1. ethan hein:
 - https://ethanhein.bandcamp.com/album/music-theory-songs
 - https://www.ethanhein.com/wp/2017/philip-taggs-everyday-tonality/
 - https://www.ethanhein.com/wp/2016/musical-simple-groove-is-in-the-heart/
+- https://www.ethanhein.com/wp/2023/building-the-funky-drummer-beat/
+  - https://www.ethanhein.com/wp/2023/god-make-me-funky/
 
 part 2. rawl:
 - https://rawl.rocks/course/15
