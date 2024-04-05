@@ -12,6 +12,8 @@ some tracks:
 rawl:
 - https://rawl.rocks/course/15
 - https://rawl.rocks/browse/MIDI/Herbie%20Hancock?song=Chameleon.mid
+- http://localhost:3000/browse/MIDI/James%20Brown?song=Sex+Machine+%28Get+Up+I+Feel+Like+Being+A%29.mid
+- http://localhost:3000/browse/MIDI/Sly%20%26%20The%20Family%20Stone
 
 other funk:
 - https://www.youtube.com/watch?v=SZ0vHYfxkUY
