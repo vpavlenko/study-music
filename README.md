@@ -120,6 +120,7 @@ Topics
 - [**Improvisation**](parts/improvisation.md)
 - [**Sociology**](parts/sociology.md)
 - [**Psychology**](parts/psychology.md)
+- [**Decolonization**](parts/decolonization.md)
 - [**YouTube, podcasts and lists of resources**](parts/youtube_and_podcasts.md)
 
 
