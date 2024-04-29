@@ -141,8 +141,10 @@ Topics on electronic music
 Contacts
 ---
 
-I post updates and other rant on music theory on [Telegram](https://t.me/keetezh) (in Russian)
+I post updates and other rant on music theory on [Twitter](https://twitter.com/vitalypavlenko) (in English) and on [Telegram](https://t.me/keetezh) (in Russian)
 
 Do you know how to enroll in a music theory program (master's/PhD) after a computer science BSc and two years of jazz college ([linkedin](https://www.linkedin.com/in/vitaly-pavlenko-9729bb76/))? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself)
 
 I'm always happy to chat about visualisation-aided music education and research popularisation. Also, I constantly feel severely deprived of communication with the real academic theoretic community, so drop me a line ;)
+
+Also, I reside in London and I'd happy co-work with you anywhere.
