@@ -26,7 +26,7 @@ Jazz harmony
 
 - [Dariusz Terefenko. Jazz Theory: From Basic to Advanced Study](https://amzn.to/3oOlXEC) - Also has [a companion website](https://routledgetextbooks.com/textbooks/9780415537612/recordings.php) with [a 1st edition workbook](https://routledgetextbooks.com/textbooks/9780415537612/workbook.php). See [review 1](https://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.salley.html), [review 2](https://www.jstor.org/stable/26477737)
 
-- Wayne J. Naus: Beyond Functional Harmony - The music of the Yellowjackets
+- Wayne J. Naus: Beyond Functional Harmony - The music of the Yellowjackets. Also his "Advanced Harmonic Concepts".
 
 - [**Lego**](lego.md) - the method of making sense of chunks of several jazz chords going together
 
@@ -37,5 +37,4 @@ More
 2. https://github.com/shanahdt/smt_jazz_2019#some-reading
 3. [Роман Столяр. Джаз. Введение в стилистику](https://t.me/keetezh/694)
 4. Чугунов Ю.Н. Учитесь подбирать на слух. 10 уроков по гармонизации эстрадных и джазовых мелодий
-5. Wayne J. Naus. Beyond Functional Harmony
 6. Frank Sikora. Jazz Harmony. Think – Listen – Play. A Practical Approach
