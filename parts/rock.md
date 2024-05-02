@@ -16,7 +16,7 @@ Rock
 
 - [Brett Clement. Rock Tonality Amplified. A Theory of Modality, Harmonic Function, and Tonal Hierarchy](https://www.routledge.com/Rock-Tonality-Amplified-A-Theory-of-Modality-Harmonic-Function-and-Tonal/Clement/p/book/9781032291444), [also see this](https://www.zappa-analysis.com/brett-clement.htm)
 
-- [David Tagg. Everyday Tonality II](http://tagg.org/mmmsp/EverydayTonalityInfo.htm) - The author proves that applying classical harmony framework to all of modern popular Western music gives poor results, and that one must accept the wide existence of music in different modes, scales and non-tertian chord structures on our TV and radio.
+- [Philip Tagg. Everyday Tonality II](http://tagg.org/mmmsp/EverydayTonalityInfo.htm) - The author proves that applying classical harmony framework to all of modern popular Western music gives poor results, and that one must accept the wide existence of music in different modes, scales and non-tertian chord structures on our TV and radio.
 
 <img width="500" alt="Screenshot 2022-01-21 at 12 57 44 AM" src="https://user-images.githubusercontent.com/1491908/150502146-c43924b3-8468-442e-a8f6-25cba5aaf1e0.png">
 
