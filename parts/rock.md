@@ -61,7 +61,7 @@ Progressive rock
 Metal
 ---
 
-- Esa Lilja. Theory and Analysis of Classic Heavy Metal Harmony
+- Esa Lilja. Theory and Analysis of Classic Heavy Metal Harmony. (Caution: I suspect it may be esoteric due to overemphasizing the influence of power chord harmonics onto the chord patterns.)
 - works of James Boddington Jordan and Jan-Peter Herbst
 - https://www.youtube.com/@metalmusictheory5401
 - https://mtosmt.org/issues/mto.21.27.1/mto.21.27.1.garza.html
