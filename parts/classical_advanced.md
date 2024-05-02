@@ -57,6 +57,7 @@ Advanced form
 - [Yosef Goldenberg. Continuous Question-Answer Pairs](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.goldenberg.html)
 - Matthew Riley. The Viennese Minor-Key Symphony in the Age of Haydn and Mozart
 - [Diego Cubero. Romantic Periods](https://mtosmt.org/issues/mto.21.27.4/mto.21.27.4.cubero.html)
+- Yoel Greenberg. How sonata forms
 
 
 
