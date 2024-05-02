@@ -1,3 +1,4 @@
+- [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
 - https://www.esm.rochester.edu/integral/36-2023/osborn/
 - https://mhte.music.unt.edu/sites/default/files/HARMONIA%202013-14.pdf (Ensign)
 - https://www.mtosmt.org/issues/mto.05.11.4/mto.05.11.4.garcia.html
