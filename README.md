@@ -147,4 +147,4 @@ Do you know how to enroll in a music theory program (master's/PhD) after a compu
 
 I'm always happy to chat about visualisation-aided music education and research popularisation. Also, I constantly feel severely deprived of communication with the real academic theoretic community, so drop me a line ;)
 
-Also, I reside in London and I'd happily co-work with you from anywhere. I do music theory.
+Also, if you're from the UK, and especially from London, drop me a line, let's get coffee.
