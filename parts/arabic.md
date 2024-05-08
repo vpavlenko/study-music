@@ -30,3 +30,5 @@ Arabic music
 - [Darbuka Rhythms on several simultaneous instruments visualized](https://www.youtube.com/watch?v=gG5e893sbvY&list=PLGifnNEER0cJyAV2HsQTPA_CizVEH1zFO&index=2)
 
 <img width="791" alt="Screenshot 2023-09-24 at 16 10 31" src="https://github.com/vpavlenko/study-music/assets/1491908/a21fe760-de6e-47ee-8e8e-cea42222eccd">
+
+- [Recordings](https://archive.org/details/13.PsaumeDeLaTristesse/) from [1932 Cairo Congress](https://en.wikipedia.org/wiki/Cairo_Congress_of_Arab_Music)
