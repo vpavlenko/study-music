@@ -43,6 +43,7 @@ Other lists
 - [Awesome Music](https://github.com/ciconia/awesome-music)
 - [http://www.findingmusicresources.com/](http://www.findingmusicresources.com/)
 - Courses at American universities, eg. [CCRMA](https://ccrma.stanford.edu/)
+- https://fourscoreandmore.org/musoRepo/
 
 
 Lists of books
