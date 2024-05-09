@@ -108,5 +108,6 @@ Post-tonal theory
 3. [Integrated Music Theory](https://intmus.github.io/inttheory22-23/23-intro-to-post-tonal/a1-ex-pcintnotation.html) 
 4. Dariusz Terefenko. Jazz Theory. Chapter 27 "Post-Tonal Jazz"
 5. [Miguel A. Roig-Francolí. Understanding Post-Tonal Music](https://www.taylorfrancis.com/books/mono/10.4324/9780429340123/understanding-post-tonal-music-miguel-roig-francol%C3%AD)
-6. [**Pseudoscience**](pseudoscience.md#post-tonal-theory)
+6. https://en.m.wikipedia.org/wiki/Tone_clock
+7. [**Pseudoscience**](pseudoscience.md#post-tonal-theory)
 
