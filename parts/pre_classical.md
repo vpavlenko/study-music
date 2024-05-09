@@ -68,6 +68,7 @@ Rough evolution: monophonic Gregorian chants -> polyphony of various rules and c
   - [Wikipedia on Galant Schemata](https://en.wikipedia.org/wiki/Galant_Schemata)
   - [Partimento and Continuo Playing in Theory and in Practice](https://www.amazon.com/Partimento-Continuo-Practice-Collected-Institute/dp/9058678288)
   - [Robert Gjerdingen. Child Composers in the Old Conservatories: How Orphans Became Elite Musicians](https://www.amazon.com/Child-Composers-Old-Conservatories-Musicians/dp/0190653590)
+  - https://mtosmt.org/issues/mto.15.21.2/mto.15.21.2.gjerdingen_bourne.html
 
 ## Counterpoint
 
