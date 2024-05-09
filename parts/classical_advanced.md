@@ -41,6 +41,8 @@ Advanced harmony
 Advanced form
 ---
 
+See a review of form-analytical methods for classical form in Hepokoski 2020, p. 17.
+
 - [Steven Vande Moortele](https://scholar.google.be/citations?user=Nu2Ajf4AAAAJ) - references Caplin and Hepokoski, a good sign
 - [Steven Vande Moortele. Two-Dimensional Sonata Form: Form and Cycle in Single-Movement Instrumental Works by Liszt, Strauss, Schoenberg, and Zemlinsky](https://www.amazon.com/Two-Dimensional-Sonata-Form-Single-Movement-Instrumental/dp/9058677516)
 - [Andrew Davis. Sonata Fragments. Romantic Narratives in Chopin, Schumann, and Brahms](https://www.amazon.com/Sonata-Fragments-Romantic-Narratives-Interpretation/dp/0253028930)
@@ -57,6 +59,7 @@ Advanced form
 - [Yosef Goldenberg. Continuous Question-Answer Pairs](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.goldenberg.html)
 - Matthew Riley. The Viennese Minor-Key Symphony in the Age of Haydn and Mozart
 - [Diego Cubero. Romantic Periods](https://mtosmt.org/issues/mto.21.27.4/mto.21.27.4.cubero.html)
+- a generalization of theme types: https://www.mtosmt.org/issues/mto.20.26.3/mto.20.26.3.goldenberg.php
 
 
 
