@@ -25,6 +25,7 @@ Conferences
 - [MEI](https://music-encoding.org/conference/proceedings.html)
 - ISMIR
 - [TENOR](https://www.tenor-conference.org/)
+- [EdMAC](https://www.sma.ac.uk/edinburgh-music-analysis-conference-edmac-2024/) - the largest UK-based conference on music analysis
 
 Labs
 ---
