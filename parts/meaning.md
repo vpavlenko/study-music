@@ -7,4 +7,5 @@
 - [Bibliography by Robert Hatten](https://intranet.music.indiana.edu/departments/academic/music-theory/course-topics/t658_s04_hatten.html), also check his own books
 - The Oxford Handbook of Topic Theory
 - Garrett Michaelsen. Groove Topics in Improvised Jazz
+- https://mtosmt.org/issues/mto.24.30.1/mto.24.30.1.principi.html
 - [**Теория музыкального содержания**](pseudoscience.md#теория-музыкального-содержания)
