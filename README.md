@@ -47,7 +47,7 @@ Where to start
 **Read**
 1. [📚 Hooktheory 📚](https://hooktheory.com/affiliate/275-2-3-1.html) - interactive books on pop harmony. A must-read for anyone
 1. [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/pdf/en-us/the-whole-enchilada-set.pdf) 
-1. Dig into the structure of [Beethoven's sonata #5 movement #1](https://rawl.vercel.app/edit?a=beethoven_op10no1mov1), also see what we as a society [**know about it**](parts/beethoven_op10no1mov1.md).
+1. Dig into the structure of [Beethoven's sonata #5 movement #1](https://rawl.rocks/f/beethoven_sonate_5_1st), also see what we as a society [**know about it**](parts/beethoven_op10no1mov1.md).
 17. Visualizations: [**classical**](parts/classical_visualizations.md), [**jazz harmony**](parts/jazz_harmony_visualizations.md), [**jazz solos**](parts/jazz_solo_visualizations.md), [**rock**](parts/rock_visualizations.md)
 
 
