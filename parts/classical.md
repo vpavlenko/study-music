@@ -87,7 +87,7 @@ Form
 ---
 
 
-- [William E. Caplin. Analyzing Classical Form](http://www.music.mcgill.ca/acf/) - Focuses solely on works of Haydn, Mozart and Beethoven, this book teaches a theory of formal functions to analyze the structure of their pieces. [A review](https://mtosmt.org/issues/mto.14.20.1/mto.14.20.1.aziz.html), [a podcast with the author](https://www.youtube.com/watch?v=TB5BN328O-Q), [another podcast](https://www.artofcomposing.com/aoc-013-william-caplin-and-analyzing-classical-form)
+- [William E. Caplin. Analyzing Classical Form](http://www.music.mcgill.ca/acf/) - Focuses solely on works of Haydn, Mozart and Beethoven, this book teaches a theory of formal functions to analyze the structure of their pieces. [A review](https://mtosmt.org/issues/mto.14.20.1/mto.14.20.1.aziz.html), [a podcast with the author]. (https://www.youtube.com/watch?v=TB5BN328O-Q), [another podcast](https://www.artofcomposing.com/aoc-013-william-caplin-and-analyzing-classical-form). Scores for its examples are on [**🌈 rawl.rocks**](https://rawl.rocks)
 - A form isn't a fixed theory, rather, different theorists have different approaches on form, which is excellently represented in [William E. Caplin, James Hepokoski, James Webster. Musical Form, Forms, and Formenlehre: Three Methodological Reflections](https://www.amazon.com/Musical-Form-Forms-Formenlehre-Methodological/dp/9058678229)
 - [James Hepokoski. Sonata Theory Handbook](https://amzn.to/3GRLHGa) - Focuses on broader set of composers (going deep into 19th century) comparing to Caplin's book, the author narrows the scope to a sonata form. [A Wikipedia article on Sonata Theory](https://en.wikipedia.org/wiki/Sonata_theory). Scores for its examples are on [**🌈 rawl.rocks**](https://rawl.rocks)
 
