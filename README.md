@@ -107,7 +107,10 @@ Topics
 
 <img src="https://user-images.githubusercontent.com/1491908/220949769-3a8467df-3e6c-4664-a973-21c81cfe8fa0.png" width="200" align="right">
 
-- [**Research**](parts/research.md): [**corpus studies**](parts/corpus.md)
+- [**Research**](parts/research.md)
+   - [**corpus studies**](parts/corpus.md)
+   - [**expressive performance**](parts/expressive.md)
+   - [**interactive harmonic analysis**](parts/harmonic_analysis.md)
 - [**Composition**](parts/composition.md)
 - [**Visualizations and notation**](parts/visualizations.md)
 - [**Maps of genres**](parts/maps_of_genres.md)
