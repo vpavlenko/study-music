@@ -24,9 +24,6 @@ Online courses
 Misc
 ===
 
-- [Kyrgyz tradition](kyrgyz.md)
-- [Georgian polyphony](georgian.md)
-- [Konnakol playlist](https://www.youtube.com/playlist?list=PLfnCkzbc3EMfAOxD80tM6I4w6CmpH-jV3)
 - [Татьяна Бершадская: Основные композиционные закономерности многоголосия русской народной песни](https://www.labirint.ru/books/806608/)
 - У Ген-Ир. История музыки Восточной Азии (Китай, Корея, Япония)
 - Tonic, Final, Kyū: Tonal Mappings in the Meiji Period and Beyond. Liam Hynes-Tawa
