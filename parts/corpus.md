@@ -3,7 +3,7 @@
 1. [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
 1. [The Oxford Handbook of Music and Corpus Studies](https://academic.oup.com/edited-volume/41992)
 2. [Christopher White. The Music in the Data: Corpus Analysis, Music Analysis, and Tonal Traditions](https://www.routledge.com/The-Music-in-the-Data-Corpus-Analysis-Music-Analysis-and-Tonal-Traditions/White/p/book/9781032259222)
-3. [A Corpus Study of Rock Music](http://rockcorpus.midside.com/)
+3. [A Corpus Study of Rock Music](http://rockcorpus.midside.com/) and as a result [David Temperley. The Musical Language of Rock](https://global.oup.com/academic/product/the-musical-language-of-rock-9780190870522)
 6. [Mark Richards. Film Music Themes: Analysis and Corpus Study](https://mtosmt.org/issues/mto.16.22.1/mto.16.22.1.richards.php)
 7. [See "Datasets" section](https://marcos.sampaio.me/en/talk/2020-computational-musicology-algorithms-datasets/)
 8. [Datasets released by the Algomus team](http://www.algomus.fr/data/)
