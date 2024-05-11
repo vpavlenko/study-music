@@ -1,6 +1,5 @@
 # Corpus studies
 
-1. [When in Rome corpus](https://github.com/MarkGotham/When-in-Rome) which has links to other corpora 
 1. [The Oxford Handbook of Music and Corpus Studies](https://academic.oup.com/edited-volume/41992)
 2. [Christopher White. The Music in the Data: Corpus Analysis, Music Analysis, and Tonal Traditions](https://www.routledge.com/The-Music-in-the-Data-Corpus-Analysis-Music-Analysis-and-Tonal-Traditions/White/p/book/9781032259222)
 3. [A Corpus Study of Rock Music](http://rockcorpus.midside.com/) and as a result [David Temperley. The Musical Language of Rock](https://global.oup.com/academic/product/the-musical-language-of-rock-9780190870522)
@@ -19,18 +18,14 @@
 
 ## Datasets
 
-[Links curated by Mark Gotham](https://fourscoreandmore.org/musoRepo/)
-
 Meta lists:
 - [Tegridy](https://github.com/asigalov61/Tegridy-MIDI-Dataset)
 - [awesome](https://github.com/albertmeronyo/awesome-midi-sources)
 - [virtualphilharmonic](http://www.virtualphilharmonic.co.uk/MIDIlinks.htm)
-- [audio content analysis](https://www.audiocontentanalysis.org/datasets.html)
 - https://github.com/Yuan-ManX/ai-audio-datasets-list
 - https://www.metacreation.net/corpora/
 
 Individual datasets:
-- [Yale–Classical Archives Corpus](https://ycac.yale.edu/)
 - [Bernd Krueger. Classics step sequenced with dynamics](http://www.piano-midi.de/). Where do I find more CC0 piano music with dynamics?
 - [Kaggle search](https://www.kaggle.com/search?q=midi+in%3Adatasets):
   - [4x22 pianists](https://www.kaggle.com/datasets/ashkhagan/the-vienna-4x22-piano-corpus)
