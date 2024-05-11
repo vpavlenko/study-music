@@ -19,6 +19,7 @@
 
 ## Datasets
 
+[Links curated by Mark Gotham](https://fourscoreandmore.org/musoRepo/)
 
 Meta lists:
 - [Tegridy](https://github.com/asigalov61/Tegridy-MIDI-Dataset)
