@@ -108,6 +108,7 @@ Topics
 <img src="https://user-images.githubusercontent.com/1491908/220949769-3a8467df-3e6c-4664-a973-21c81cfe8fa0.png" width="200" align="right">
 
 - [**Research**](parts/research.md)
+   - [MusoRepo: a Directory of Resources for Computational Musicology](https://fourscoreandmore.org/musoRepo/) - curated by Mark Gotham
    - [**corpus studies**](parts/corpus.md)
    - [**expressive performance**](parts/expressive.md)
    - [**interactive harmonic analysis**](parts/harmonic_analysis.md)
