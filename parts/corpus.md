@@ -17,7 +17,7 @@
 16. [Chord analysis on Hooktheory's Theorytab](https://salu133445.github.io/pdf/chord_progression_analysis_report.pdf)
 17. https://mtosmt.org/issues/mto.24.30.1/mto.24.30.1.shea_et_al.html
 
-## Datasets (stub)
+## Datasets
 
 
 Meta lists:
