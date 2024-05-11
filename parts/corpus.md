@@ -16,3 +16,28 @@
 15. [CompMusic](https://compmusic.upf.edu/corpora)
 16. [Chord analysis on Hooktheory's Theorytab](https://salu133445.github.io/pdf/chord_progression_analysis_report.pdf)
 17. https://mtosmt.org/issues/mto.24.30.1/mto.24.30.1.shea_et_al.html
+
+## Datasets (stub)
+
+
+Meta lists:
+- [Tegridy](https://github.com/asigalov61/Tegridy-MIDI-Dataset)
+- [awesome](https://github.com/albertmeronyo/awesome-midi-sources)
+- [virtualphilharmonic](http://www.virtualphilharmonic.co.uk/MIDIlinks.htm)
+- [audio content analysis](https://www.audiocontentanalysis.org/datasets.html)
+- https://github.com/Yuan-ManX/ai-audio-datasets-list
+- https://www.metacreation.net/corpora/
+
+Individual datasets:
+- [Yale–Classical Archives Corpus](https://ycac.yale.edu/)
+- [Bernd Krueger. Classics step sequenced with dynamics](http://www.piano-midi.de/). Where do I find more CC0 piano music with dynamics?
+- [Kaggle search](https://www.kaggle.com/search?q=midi+in%3Adatasets):
+  - [4x22 pianists](https://www.kaggle.com/datasets/ashkhagan/the-vienna-4x22-piano-corpus)
+  - [boogie woogie hand separation](https://www.kaggle.com/datasets/burekpapi/sepiwoogie)
+  - [NES MDB](https://www.kaggle.com/datasets/imsparsh/nes-mdb-dataset), used in LakhNES
+  - [Anthems](https://www.kaggle.com/datasets/awesomepgm/national-anthems-of-every-country)
+  - [Baroque 17th century](https://www.kaggle.com/datasets/celiarubiomadrigal/baroque-midi-music-17th-century)
+  - [Old phone ringtones](https://www.kaggle.com/datasets/narektorosyan/old-phone-ringtones-as-midi)
+
+Kunst der Fuge and Classical Archives are prohibitive. There are individual sequencers whose work is [sometimes licensed](http://www.piano-midi.de/), [sometimes not](http://www.bc9.jp/~oguri/indexe1.html).
+
