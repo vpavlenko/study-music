@@ -27,6 +27,7 @@ I'm not interested in rhythms whatsoever, so this page really needs a maintainer
 - https://mtosmt.org/issues/mto.16.22.2/mto.16.22.2.cohn.html
 - https://mtosmt.org/issues/mto.16.22.3/mto.16.22.3.murphy.html
 - https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.pearson.html
+- https://www.mtosmt.org/issues/mto.14.20.2/mto.14.20.2.biamonte.html
 - search "aksak theory"
 - https://sites.tufts.edu/yewevu/
 - Garrett Michaelsen. Groove Topics in Improvised Jazz
