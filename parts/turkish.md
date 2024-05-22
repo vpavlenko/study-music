@@ -5,3 +5,4 @@
 5. [Neyzen Note Archive](https://neyzen.com/ney_klasik_eserler.html)
 6. [Structure Analysis Experiments on Ottoman-Turkish Makam Music Scores](https://github.com/sertansenturk/otmm_score_structure_experiments)
 7. [Rast Musicology Journal](https://dergipark.org.tr/en/pub/rastmd)
+8. https://www.uni-muenster.de/CMO-Edition/
