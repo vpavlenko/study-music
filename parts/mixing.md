@@ -29,3 +29,5 @@ Mixing
 - https://mixwiththemasters.com/
 
 - https://mtosmt.org/issues/mto.22.28.4/mto.22.28.4.duguay.html
+
+- Cunningham, M. 1998. Good Vibrations: A History of Record Production.
