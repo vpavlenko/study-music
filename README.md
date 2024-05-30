@@ -71,6 +71,7 @@ Music languages can be divided into a number of families. Historically, the most
 - homophony: melody over chords, chords give a separate narrative
 - chords as stacked thirds
 - any of the 12 notes can be a tonic
+- after two repetitions of any idea there should be a contrasting idea
 
 The languages are (roughly speaking):
 - [**Rock**](parts/rock.md) - probably worth exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts. Rock here is an umbrella term for pop, soul/RnB, blues rock, folk rock, alternative, punk, prog, and heavy metal. [**Advanced**](parts/advanced_rock.md)
