@@ -13,3 +13,5 @@ This culture is very roughly described as maqam music shaped by Western influenc
 - Risto Pekka Pennanen. The Development of Chordal Harmony in Greek Rebetika and Laika Music, 1930s to 1960s
 - [Hans Baken. Folk Music from Bulgaria, Fake Book](https://hjj.home.xs4all.nl/Bladmuziek/Fakebook_Bulgarian_Music.pdf)
 - Maqam: Historical Traces and Present Practice in Southern European Music Traditions. Edited by Jürgen Elsner, Gisa Jähnichen and Jasmina Talam
+- https://www.pelister.org/folklore/songs/index.php
+- Bulgarian Fake Book
