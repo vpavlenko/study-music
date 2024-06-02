@@ -15,3 +15,4 @@ This culture is very roughly described as maqam music shaped by Western influenc
 - Maqam: Historical Traces and Present Practice in Southern European Music Traditions. Edited by Jürgen Elsner, Gisa Jähnichen and Jasmina Talam
 - https://www.pelister.org/folklore/songs/index.php
 - Bulgarian Fake Book
+- klezmer
