@@ -42,3 +42,6 @@ There are many ways to paint chorale scores to reveal their harmony:
 - https://partwriter.com/
 
 - https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.remes.html
+
+- Lori Burns. Bach's Modal Chorales
+
