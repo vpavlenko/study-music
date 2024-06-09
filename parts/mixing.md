@@ -28,6 +28,10 @@ Mixing
 
 - https://mixwiththemasters.com/
 
-- https://mtosmt.org/issues/mto.22.28.4/mto.22.28.4.duguay.html
+
 
 - Cunningham, M. 1998. Good Vibrations: A History of Record Production.
+
+- Papers:
+  - [Ruth Dockwray and Allan F. Moore. Configuring the sound-box 1965–1972](https://sci-hub.se/10.1017/S0261143010000024)
+  - https://mtosmt.org/issues/mto.22.28.4/mto.22.28.4.duguay.html
