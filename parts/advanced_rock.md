@@ -2,11 +2,17 @@
 
 ## Harmony
 
+- Rock-specific languages
+  - Nicole Biamonte. Triadic Modal and Pentatonic Patterns in Rock Music.
+  - Nicole Biamonte. Pop/Rock Tonalities
+  - [David Temperley, Iris Ren, and Zhiyao Duan. Mediant Mixture and “Blue Notes” in Rock: An Exploratory Study](https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.temperley.html)
 - Double-Tonic Complexes
   - https://www.esm.rochester.edu/integral/35-2022/ferrandino/
   - https://mtosmt.org/issues/mto.17.23.2/mto.17.23.2.spicer.html
   - https://www.mtosmt.org/issues/mto.19.25.4/mto.19.25.4.duinker.html
   - https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.richards.html
+  - [Drew Nobile. Double-Tonic Complexes in Rock Music](https://www.jstor.org/stable/27141598)
+  - Matthew BaileyShea. The Hexatonic and Double-Tonic: Wolf’s “Christmas Rose”
 
 ## Form
 
@@ -17,6 +23,7 @@
 - [Victoria Malawey. Strophic Modification in Songs by Amy Beach](https://www.mtosmt.org/issues/mto.14.20.4/mto.14.20.4.malawey.html)
 - https://mtosmt.org/issues/mto.22.28.3/mto.22.28.3.nobile.html
 - Jeremy M. Robins. Phrase Structure, Hypermeter, and Closure in Popular Music
+- Jeffrey S. Ensign. Form in Popular Song, 1990-2009
 
 ## Unsorted
 
@@ -49,4 +56,5 @@
 - https://mtosmt.org/issues/mto.05.11.4/mto.05.11.4.moore.html
 - https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.nobile.html
 - https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1171&context=gamut
+- Christopher Endrinal. Form and Style in the Music of U2
 
