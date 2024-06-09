@@ -1,16 +1,28 @@
 # Advanced concept in rock music analysis
 
-- [Matthew Kolar.
-Redefining Ornamentation as Formal Functions in 21st-Century
-Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
-- https://www.mtosmt.org/issues/mto.14.20.2/mto.14.20.2.biamonte.html
-- Languages: Everett, Biamonte, Temperley on blue notes
-- Jeremy M. Robins on Phrase Structure, see References
+## Harmony
+
 - Double-Tonic Complexes
   - https://www.esm.rochester.edu/integral/35-2022/ferrandino/
   - https://mtosmt.org/issues/mto.17.23.2/mto.17.23.2.spicer.html
   - https://www.mtosmt.org/issues/mto.19.25.4/mto.19.25.4.duinker.html
   - https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.richards.html
+
+## Form
+
+- [Trevor de Clercq. Embracing Ambiguity in the Analysis of Form in Pop/Rock Music, 1982–1991](https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.de_clercq.html)
+- [David B. Easley. Riff Schemes, Form, and the Genre of Early American Hardcore Punk (1978–83)](https://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.easley.html)
+- [Christopher Endrinal. Burning Bridges: Defining the Interverse in the Music of U2](https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.endrinal.html)
+- [David S. Carter. Generic Norms, Irony, and Authenticity in the AABA Songs of the Rolling Stones, 1963–1971](https://mtosmt.org/issues/mto.21.27.4/mto.21.27.4.carter.html)
+- [Victoria Malawey. Strophic Modification in Songs by Amy Beach](https://www.mtosmt.org/issues/mto.14.20.4/mto.14.20.4.malawey.html)
+- https://mtosmt.org/issues/mto.22.28.3/mto.22.28.3.nobile.html
+- Jeremy M. Robins. Phrase Structure, Hypermeter, and Closure in Popular Music
+
+## Unsorted
+
+- Matthew Kolar. Redefining Ornamentation as Formal Functions in 21st-Century Popular Music
+- [Nicole Biamonte. Formal Functions of Metric Dissonance in Rock Music](https://www.mtosmt.org/issues/mto.14.20.2/mto.14.20.2.biamonte.html)
+- Languages: Everett, Biamonte, Temperley on blue notes
 - Brad Osborn
 - Hypermeter
   - https://core.ac.uk/download/pdf/84118984.pdf
@@ -38,12 +50,3 @@ Popular Music](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636)
 - https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.nobile.html
 - https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1171&context=gamut
 
-  
-## Form
-
-- [Trevor de Clercq. Embracing Ambiguity in the Analysis of Form in Pop/Rock Music, 1982–1991](https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.de_clercq.html)
-- [David B. Easley. Riff Schemes, Form, and the Genre of Early American Hardcore Punk (1978–83)](https://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.easley.html)
-- [Christopher Endrinal. Burning Bridges: Defining the Interverse in the Music of U2](https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.endrinal.html)
-- [David S. Carter. Generic Norms, Irony, and Authenticity in the AABA Songs of the Rolling Stones, 1963–1971](https://mtosmt.org/issues/mto.21.27.4/mto.21.27.4.carter.html)
-- [Victoria Malawey. Strophic Modification in Songs by Amy Beach](https://www.mtosmt.org/issues/mto.14.20.4/mto.14.20.4.malawey.html)
-- https://mtosmt.org/issues/mto.22.28.3/mto.22.28.3.nobile.html
