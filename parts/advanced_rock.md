@@ -4,7 +4,7 @@ Also see [**Foundational books**](rock.md)
 
 ## Harmony
 
-- Rock-specific languages
+- Tonality
   - Nicole Biamonte. Triadic Modal and Pentatonic Patterns in Rock Music.
   - Nicole Biamonte. Pop/Rock Tonalities
   - [Walter Everett. Making Sense of Rock’s Tonal Systems](https://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html)
@@ -13,7 +13,7 @@ Also see [**Foundational books**](rock.md)
   - [David Temperley, Iris Ren, and Zhiyao Duan. Mediant Mixture and “Blue Notes” in Rock: An Exploratory Study](https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.temperley.html)
   - [Allan Moore. The so called "flattened seventh" in rock](https://sci-hub.se/10.2307/853399)
   - [Naphtali Wagner. ‘Domestication’ of Blue Notes in the Beatles’ Songs](https://sci-hub.se/https://doi.org/10.1525/mts.2003.25.2.353)
-- Double-Tonic Complexes
+- Double-tonic complexes
   - https://www.esm.rochester.edu/integral/35-2022/ferrandino/
   - https://mtosmt.org/issues/mto.17.23.2/mto.17.23.2.spicer.html
   - https://www.mtosmt.org/issues/mto.19.25.4/mto.19.25.4.duinker.html
@@ -23,8 +23,11 @@ Also see [**Foundational books**](rock.md)
 - Melodic-harmonic divorce
   - [David Temperley. The melodic-harmonic ‘divorce’ in rock](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-pm07.pdf)
   - [S. Alexander Reed. An Idiom of Melodic-Harmonic Divorce: Sub-Circle Motion in Popular Music](https://www.mtosmt.org/issues/mto.22.28.2/mto.22.28.2.reed.html)
+- Modulation
+  - [Christopher Doll. Rockin’ Out: Expressive Modulation in Verse-Chorus Form](https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.doll.html)
+  - [Scott J. Hanenberg. Rock Modulation and Narrative](https://mtosmt.org/issues/mto.16.22.2/mto.16.22.2.hanenberg.html)
 - Misc
-  - [Allan Moore. Patterns of harmony](https://sci-hub.se/https://doi.org/10.1017/S0261143000004852) 
+  - [Allan Moore. Patterns of harmony](https://sci-hub.se/https://doi.org/10.1017/S0261143000004852)
 
 ## Form
 
@@ -37,30 +40,27 @@ Also see [**Foundational books**](rock.md)
 - Jeffrey S. Ensign. Form in Popular Song, 1990-2009
 - Jeremy M. Robins. Phrase Structure, Hypermeter, and Closure in Popular Music
 - [Patrick Sallings. Metrical Transition and Resolution in the Music of Blindside](https://core.ac.uk/download/pdf/84118984.pdf)
+- [Nicole Biamonte. Formal Functions of Metric Dissonance in Rock Music](https://www.mtosmt.org/issues/mto.14.20.2/mto.14.20.2.biamonte.html)
 - [Brad Osborn. Subverting the Verse–Chorus Paradigm: Terminally Climactic Forms in Recent Rock Music](https://kuscholarworks.ku.edu/bitstream/handle/1808/19147/OSBORN_paradigm2013_AFD.pdf?sequence=1&isAllowed=y)
 - Sonic functions
   - Works by Asaf Peres
   - [Robin Attas. Form as Process: The Buildup Introduction in Popular Music](https://doi.org/10.1093/mts/mtv020)
 
 
-## Mixing
+## Sound
 
 - [Ruth Dockwray and Allan F. Moore. Configuring the sound-box 1965–1972](https://sci-hub.se/10.1017/S0261143010000024)
+- [Megan L. Lavengood. The Cultural Significance of Timbre Analysis: A Case Study in 1980s Pop Music, Texture, and Narrative](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.lavengood.html)
 
 ## Unsorted
 
 - Matthew Kolar. Redefining Ornamentation as Formal Functions in 21st-Century Popular Music
-- [Nicole Biamonte. Formal Functions of Metric Dissonance in Rock Music](https://www.mtosmt.org/issues/mto.14.20.2/mto.14.20.2.biamonte.html)
-- Brad Osborn
 - [John Covach. Analyzing Texture in Rock](https://d-nb.info/1216144591/34)
 - [Kyle Hutchinson. Retrospective Time and the Subdominant Past: Tonal Hermeneutics in Contemporary Broadway Megamusicals](https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.hutchinson.html)
-- https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.doll.html
-- [Scott J. Hanenberg. Rock Modulation and Narrative](https://mtosmt.org/issues/mto.16.22.2/mto.16.22.2.hanenberg.html)
 - https://mtosmt.org/issues/mto.20.26.1/mto.20.26.1.heetderks.html
 - https://mtosmt.org/issues/mto.12.18.2/mto.12.18.2.blake.html
 - https://www.mtosmt.org/issues/mto.19.25.3/mto.19.25.3.conklin.html
 - https://www.mtosmt.org/issues/mto.00.6.3/mto.00.6.3.kaminsky.html
-- [Megan L. Lavengood. The Cultural Significance of Timbre Analysis: A Case Study in 1980s Pop Music, Texture, and Narrative](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.lavengood.html)
 - https://www.mtosmt.org/issues/mto.10.16.1/mto.10.16.1.malawey.html
 - https://mtosmt.org/issues/mto.05.11.4/mto.05.11.4.moore.html
 - https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.nobile.html
