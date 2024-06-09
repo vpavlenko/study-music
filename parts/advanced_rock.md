@@ -1,5 +1,7 @@
 # Advanced concept in rock music analysis
 
+Also see [**Foundational books**](rock.md)
+
 ## Harmony
 
 - Rock-specific languages
@@ -18,11 +20,11 @@
   - https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.richards.html
   - [Drew Nobile. Double-Tonic Complexes in Rock Music](https://www.jstor.org/stable/27141598)
   - Matthew BaileyShea. The Hexatonic and Double-Tonic: Wolf’s “Christmas Rose”
-
 - Melodic-harmonic divorce
   - [David Temperley. The melodic-harmonic ‘divorce’ in rock](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-pm07.pdf)
   - [S. Alexander Reed. An Idiom of Melodic-Harmonic Divorce: Sub-Circle Motion in Popular Music](https://www.mtosmt.org/issues/mto.22.28.2/mto.22.28.2.reed.html)
-
+- Misc
+  - [Allan Moore. Patterns of harmony](https://sci-hub.se/https://doi.org/10.1017/S0261143000004852) 
 
 ## Form
 
@@ -36,6 +38,10 @@
 - Jeremy M. Robins. Phrase Structure, Hypermeter, and Closure in Popular Music
 - [Patrick Sallings. Metrical Transition and Resolution in the Music of Blindside](https://core.ac.uk/download/pdf/84118984.pdf)
 - [Brad Osborn. Subverting the Verse–Chorus Paradigm: Terminally Climactic Forms in Recent Rock Music](https://kuscholarworks.ku.edu/bitstream/handle/1808/19147/OSBORN_paradigm2013_AFD.pdf?sequence=1&isAllowed=y)
+- Sonic functions
+  - Works by Asaf Peres
+  - [Robin Attas. Form as Process: The Buildup Introduction in Popular Music](https://doi.org/10.1093/mts/mtv020)
+
 
 ## Mixing
 
@@ -45,12 +51,9 @@
 
 - Matthew Kolar. Redefining Ornamentation as Formal Functions in 21st-Century Popular Music
 - [Nicole Biamonte. Formal Functions of Metric Dissonance in Rock Music](https://www.mtosmt.org/issues/mto.14.20.2/mto.14.20.2.biamonte.html)
-- Languages: Everett, Biamonte, Temperley on blue notes
 - Brad Osborn
 - [John Covach. Analyzing Texture in Rock](https://d-nb.info/1216144591/34)
-- [Moore, A. (1992). Patterns of harmony](https://sci-hub.se/https://doi.org/10.1017/S0261143000004852)
 - [Kyle Hutchinson. Retrospective Time and the Subdominant Past: Tonal Hermeneutics in Contemporary Broadway Megamusicals](https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.hutchinson.html)
-- https://doi.org/10.1093/mts/mtv020
 - https://www.mtosmt.org/issues/mto.11.17.3/mto.11.17.3.doll.html
 - [Scott J. Hanenberg. Rock Modulation and Narrative](https://mtosmt.org/issues/mto.16.22.2/mto.16.22.2.hanenberg.html)
 - https://mtosmt.org/issues/mto.20.26.1/mto.20.26.1.heetderks.html
