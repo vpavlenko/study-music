@@ -6,8 +6,7 @@
   - Nicole Biamonte. Triadic Modal and Pentatonic Patterns in Rock Music.
   - Nicole Biamonte. Pop/Rock Tonalities
   - [Walter Everett. Making Sense of Rock’s Tonal Systems](https://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html)
-  - [Steingold, Marissa Leigh. Journey to the Flat Side: dualism, subdominants, stacked fourths, pentatonics, and the ‘musical left’
-](https://escholarship.org/uc/item/3s41640v)
+  - [Steingold, Marissa Leigh. Journey to the Flat Side: dualism, subdominants, stacked fourths, pentatonics, and the ‘musical left’](https://escholarship.org/uc/item/3s41640v)
 - Blue notes
   - [David Temperley, Iris Ren, and Zhiyao Duan. Mediant Mixture and “Blue Notes” in Rock: An Exploratory Study](https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.temperley.html)
   - [Allan Moore. The so called "flattened seventh" in rock](https://sci-hub.se/10.2307/853399)
@@ -20,6 +19,9 @@
   - [Drew Nobile. Double-Tonic Complexes in Rock Music](https://www.jstor.org/stable/27141598)
   - Matthew BaileyShea. The Hexatonic and Double-Tonic: Wolf’s “Christmas Rose”
 
+- Melodic-harmonic divorce
+  - [David Temperley. The melodic-harmonic ‘divorce’ in rock](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-pm07.pdf)
+  - [S. Alexander Reed. An Idiom of Melodic-Harmonic Divorce: Sub-Circle Motion in Popular Music](https://www.mtosmt.org/issues/mto.22.28.2/mto.22.28.2.reed.html)
 
 
 ## Form
@@ -35,7 +37,9 @@
 - [Patrick Sallings. Metrical Transition and Resolution in the Music of Blindside](https://core.ac.uk/download/pdf/84118984.pdf)
 - [Brad Osborn. Subverting the Verse–Chorus Paradigm: Terminally Climactic Forms in Recent Rock Music](https://kuscholarworks.ku.edu/bitstream/handle/1808/19147/OSBORN_paradigm2013_AFD.pdf?sequence=1&isAllowed=y)
 
+## Mixing
 
+- [Ruth Dockwray and Allan F. Moore. Configuring the sound-box 1965–1972](https://sci-hub.se/10.1017/S0261143010000024)
 
 ## Unsorted
 
@@ -43,10 +47,7 @@
 - [Nicole Biamonte. Formal Functions of Metric Dissonance in Rock Music](https://www.mtosmt.org/issues/mto.14.20.2/mto.14.20.2.biamonte.html)
 - Languages: Everett, Biamonte, Temperley on blue notes
 - Brad Osborn
-- [Melodic-harmonic divorce](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-pm07.pdf)
-  - https://www.mtosmt.org/issues/mto.22.28.2/mto.22.28.2.reed.html
 - [John Covach. Analyzing Texture in Rock](https://d-nb.info/1216144591/34)
-- [Ruth Dockwray and Allan F. Moore. Configuring the sound-box 1965–1972](https://sci-hub.se/10.1017/S0261143010000024)
 - [Moore, A. (1992). Patterns of harmony](https://sci-hub.se/https://doi.org/10.1017/S0261143000004852)
 - [Kyle Hutchinson. Retrospective Time and the Subdominant Past: Tonal Hermeneutics in Contemporary Broadway Megamusicals](https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.hutchinson.html)
 - https://doi.org/10.1093/mts/mtv020
