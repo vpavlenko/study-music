@@ -31,6 +31,7 @@ Also see [**Foundational books**](rock.md)
   - [Andrew Conklin. Writing Wrong Notes: Chromatic Clashes in the Music of Tune-Yards](https://www.mtosmt.org/issues/mto.19.25.3/mto.19.25.3.conklin.html)
   - [Victoria Malawey. Harmonic Stasis and Oscillation in Björk’s Medúlla](https://www.mtosmt.org/issues/mto.10.16.1/mto.10.16.1.malawey.html)
   - [Allan Moore. Patterns of harmony](https://sci-hub.se/https://doi.org/10.1017/S0261143000004852)
+  - Walter Everett. Pitch Down the Middle
 
 ## Form
 
