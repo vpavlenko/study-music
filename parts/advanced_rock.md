@@ -47,6 +47,7 @@ Also see [**Foundational books**](rock.md)
 - [Nicole Biamonte. Formal Functions of Metric Dissonance in Rock Music](https://www.mtosmt.org/issues/mto.14.20.2/mto.14.20.2.biamonte.html)
 - [Brad Osborn. Subverting the Verse–Chorus Paradigm: Terminally Climactic Forms in Recent Rock Music](https://kuscholarworks.ku.edu/bitstream/handle/1808/19147/OSBORN_paradigm2013_AFD.pdf?sequence=1&isAllowed=y)
 - [David Heetderks. The “Rebuff Chorus” in 1960–2000 Pop Music](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1171&context=gamut)
+- Mark Spicer. (Ac)cumulative form in pop-rock music
 - Sonic functions
   - Works by Asaf Peres
   - [Robin Attas. Form as Process: The Buildup Introduction in Popular Music](https://doi.org/10.1093/mts/mtv020)
