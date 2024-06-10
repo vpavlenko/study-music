@@ -68,6 +68,7 @@ Books on individual composers and pieces
 ---
 
 - http://riteofspringproject.org/
+- Beethoven's Compositional Process (ed. William Kinderman)
 - [Cambridge Music Handbooks](https://www.cambridge.org/core/series/cambridge-music-handbooks/2CBC1457EDA4B9D6FB4DF6A988E6D538)
 - Pauline Fairclough. A Soviet Credo: Shostakovich's Fourth Symphony
 - James Webster. Haydn's "Farewell"
