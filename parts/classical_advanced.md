@@ -60,6 +60,7 @@ See a review of form-analytical methods for classical form in Hepokoski 2020, p.
 - [Yosef Goldenberg. Continuous Question-Answer Pairs](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.goldenberg.html) - a generalization of Caplin's theme types
 - Matthew Riley. The Viennese Minor-Key Symphony in the Age of Haydn and Mozart
 - [Diego Cubero. Romantic Periods](https://mtosmt.org/issues/mto.21.27.4/mto.21.27.4.cubero.html)
+- Formal Functions in Perspective. Steven Vande Moortele , Julie Pedneault-Deslauriers and Nathan John Martin
 
 
 
