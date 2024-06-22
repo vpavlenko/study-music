@@ -38,3 +38,4 @@ I'm not interested in rhythms whatsoever, so this page really needs a maintainer
 - John McLaughlin, S. Ganesh Vinayakram. Gateway to Rhythm (or any other course on konnakol)
 - rhythm games, bms dataset and community
 - The Big Beat: Origins and Development of Snare Backbeat and other Accompanimental Rhythms in Rock’n’Roll
+- Rhythmic translations: Gabay (2021), Baker (2022), Iyer (2009), and Schumann (2021)
