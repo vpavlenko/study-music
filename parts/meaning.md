@@ -8,5 +8,6 @@
 - The Oxford Handbook of Topic Theory
 - Garrett Michaelsen. Groove Topics in Improvised Jazz
 - https://mtosmt.org/issues/mto.24.30.1/mto.24.30.1.principi.html
+- Frymoyer 2017
 - [**Теория музыкального содержания**](pseudoscience.md#теория-музыкального-содержания)
 - https://arts.unco.edu/music/symposium-musical-topics/international_symposium_on_musical_topics_and_topic_theory_program.pdf
