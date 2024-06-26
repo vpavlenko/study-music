@@ -1,6 +1,9 @@
 Advanced materials on classical music
 ===
 
+General/unsorted
+---
+
 - [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
 - [The Future of Music: Towards a Computational Musical Theory of Everything](https://books.google.ru/books?id=YTzYDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
 - [Ю. Тюлин. Учение о музыкальной фактуре и мелодической фигурации (два тома теории, ещё задачник и ещё решебник)](https://archive.org/details/tiulin_muz_factura_1). [Глава 2 с привязанными примерами](https://kuregyan.vercel.app/books/tyulin/)
@@ -44,6 +47,7 @@ Advanced form
 
 See a review of form-analytical methods for classical form in Hepokoski 2020, p. 17.
 
+- Yoel Greenberg. How Sonata Forms. A Bottom-Up Approach to Musical Form
 - [Steven Vande Moortele](https://scholar.google.be/citations?user=Nu2Ajf4AAAAJ) - references Caplin and Hepokoski, a good sign
 - [Steven Vande Moortele. Two-Dimensional Sonata Form: Form and Cycle in Single-Movement Instrumental Works by Liszt, Strauss, Schoenberg, and Zemlinsky](https://www.amazon.com/Two-Dimensional-Sonata-Form-Single-Movement-Instrumental/dp/9058677516)
 - [Andrew Davis. Sonata Fragments. Romantic Narratives in Chopin, Schumann, and Brahms](https://www.amazon.com/Sonata-Fragments-Romantic-Narratives-Interpretation/dp/0253028930)
@@ -56,7 +60,6 @@ See a review of form-analytical methods for classical form in Hepokoski 2020, p.
 - Charles Rosen. Sonata Forms
 - [Charles Rosen. The Classical Style: Haydn, Mozart, Beethoven](https://amzn.to/3gLA5do) (is this actually about form, or is it vaguely musicological?)
 - Danuta Mirka, Julian Horton, Michael Klein etc.
-- Yoel Greenberg. How Sonata Forms. A Bottom-Up Approach to Musical Form. - he has corpus studies on evolution of recapitulation
 - [Yosef Goldenberg. Continuous Question-Answer Pairs](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.goldenberg.html) - a generalization of Caplin's theme types
 - Matthew Riley. The Viennese Minor-Key Symphony in the Age of Haydn and Mozart
 - [Diego Cubero. Romantic Periods](https://mtosmt.org/issues/mto.21.27.4/mto.21.27.4.cubero.html)
