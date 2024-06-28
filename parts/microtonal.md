@@ -22,3 +22,5 @@ Microtonal music
 - http://www.tonalsoft.com/enc/encyclopedia-index.aspx
 
 - https://yahootuninggroupsultimatebackup.github.io/tuning/
+
+- https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.willis.html
