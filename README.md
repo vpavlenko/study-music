@@ -115,7 +115,7 @@ Topics
    - [**corpus studies**](parts/corpus.md)
    - [**expressive performance**](parts/expressive.md)
    - [**interactive harmonic analysis**](parts/harmonic_analysis.md)
-- [**Composition**](parts/composition.md)
+- [**Composition, orchestration, conducting**](parts/composition.md)
 - [**Visualizations and notation**](parts/visualizations.md)
 - [**Maps of genres**](parts/maps_of_genres.md)
 - [**Listening guides**](parts/listening_guides.md) - how to enjoy classical music without a deep commitment to learn theory
