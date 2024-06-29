@@ -49,3 +49,5 @@ More
 
 ![image](https://github.com/vpavlenko/study-music/assets/1491908/b65558f2-a410-43ca-9815-9e734840b46b)
 
+- Eric Isaacson. Visualizing Music
+  - [Comments by Stephen Malinowski](https://www.musanim.com/IsaacsonVisualizingMusic/)
