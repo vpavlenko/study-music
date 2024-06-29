@@ -1,3 +1,5 @@
+![image](https://github.com/vpavlenko/study-music/assets/1491908/b65558f2-a410-43ca-9815-9e734840b46b)
+
 Visualizations
 ===
 
@@ -36,13 +38,9 @@ More
 - IEEE 1599: [the website](https://ieee1599.lim.di.unimi.it/music_collection.php), [the book](https://ieeexplore.ieee.org/book/6497235), [screenshots from the book](https://t.me/keetezh/715)
 - Chapter 24 in [Alexander Rehding (ed.), Steven Rings (ed.). The Oxford Handbook of Critical Concepts in Music Theory](https://academic.oup.com/edited-volume/43665)
 - [SeeGroove2](https://t.me/keetezh/739) - groove visualizations
-
 - [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - https://www.musicprocessing.net/features/analysis/
 - Roberto De Prisco, Delfina Malandrino, Donato Pirozzi, Gianluca Zaccagnino and Rocco Zaccagnino. Understanding the structure of musical compositions: Is visualization an effective approach?
 - https://www.youtube.com/@CERMAA-VIAMAP
-
-![image](https://github.com/vpavlenko/study-music/assets/1491908/b65558f2-a410-43ca-9815-9e734840b46b)
-
 - Eric Isaacson. Visualizing Music
   - [Comments by Stephen Malinowski](https://www.musanim.com/IsaacsonVisualizingMusic/)
