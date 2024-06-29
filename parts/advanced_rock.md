@@ -20,6 +20,7 @@ Also see [**Foundational books**](rock.md)
   - https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.richards.html
   - [Drew Nobile. Double-Tonic Complexes in Rock Music](https://www.jstor.org/stable/27141598)
   - Matthew BaileyShea. The Hexatonic and Double-Tonic: Wolf’s “Christmas Rose”
+  - Is "tonal pairing" the same? [Smith 2013](https://academic.oup.com/mts/article/35/1/77/1056504), [Schultz 2012](https://mtosmt.org/issues/mto.12.18.4/mto.12.18.4.schultz.html) 
 - Melodic-harmonic divorce
   - [David Temperley. The melodic-harmonic ‘divorce’ in rock](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-pm07.pdf)
   - [S. Alexander Reed. An Idiom of Melodic-Harmonic Divorce: Sub-Circle Motion in Popular Music](https://www.mtosmt.org/issues/mto.22.28.2/mto.22.28.2.reed.html)
