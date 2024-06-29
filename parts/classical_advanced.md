@@ -47,8 +47,9 @@ Advanced form
 
 See a review of form-analytical methods for classical form in Hepokoski 2020, p. 17.
 
+First two books are very important: they describe the current state of discussion on what do we study when we study form. I highly recommend reading an introduction of Vande Moortele's and summaries of all chapters in Greenberg simultaneously with studying Caplin or Hepokoski (no later).
+
 - Yoel Greenberg. How Sonata Forms. A Bottom-Up Approach to Musical Form
-- [Steven Vande Moortele](https://scholar.google.be/citations?user=Nu2Ajf4AAAAJ) - references Caplin and Hepokoski, a good sign
 - [Steven Vande Moortele. Two-Dimensional Sonata Form: Form and Cycle in Single-Movement Instrumental Works by Liszt, Strauss, Schoenberg, and Zemlinsky](https://www.amazon.com/Two-Dimensional-Sonata-Form-Single-Movement-Instrumental/dp/9058677516)
 - [Andrew Davis. Sonata Fragments. Romantic Narratives in Chopin, Schumann, and Brahms](https://www.amazon.com/Sonata-Fragments-Romantic-Narratives-Interpretation/dp/0253028930)
 - [Steven Craig Cannon. Sonata Form in the Nineteenth-Century Symphony](https://emusicology.org/article/view/4956/4502)
