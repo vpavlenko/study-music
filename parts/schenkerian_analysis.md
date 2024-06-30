@@ -20,14 +20,8 @@ Misc
 
 
 - [A Generative Theory of Tonal Music](https://en.wikipedia.org/wiki/Generative_theory_of_tonal_music) - An attempt to build a generative grammar for common-practice (pre-20-century) music. This work is also continued in [the essay](https://en.wikipedia.org/wiki/Cognitive_Constraints_on_Compositional_Systems), [the second book](https://amzn.to/3FRzPn1) where the switch from generative grammar to preference rules occurs, and the path is reflected in [the third one](https://amzn.to/3fJCm8p). [Tymoczko's critical review](https://mtosmt.org/issues/mto.20.26.1/mto.20.26.1.tymoczko.html)
-
-<img width="736" alt="Screenshot 2022-01-22 at 3 31 26 PM" src="https://user-images.githubusercontent.com/1491908/150638638-9a578b1b-092b-4c6f-a623-7351cdb131c8.png">
-
-<img width="734" alt="Screenshot 2023-05-17 at 00 08 38" src="https://github.com/vpavlenko/study-music/assets/1491908/35bc610a-dd53-4499-b6bf-a8cb1398ba87">
-
-<img width="720" alt="Screenshot 2023-05-17 at 00 08 48" src="https://github.com/vpavlenko/study-music/assets/1491908/464f9183-bb16-4bac-94f2-262e67e83c99">
-
-
 - [Jason Yust. Organized Time: Rhythm, Tonality, and Form](https://amzn.to/3BlTlaU) - not necessarily Schenkerian, but illustrations have that flavour of reductionism
 
 <img width="600" alt="Screenshot 2022-02-14 at 11 28 17 AM" src="https://user-images.githubusercontent.com/1491908/153827329-b364704d-5a5c-4c47-8b2b-a8f8f3200f25.png">
+
+- Eric Wen. Graphic Music Analysis
