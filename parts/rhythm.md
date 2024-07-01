@@ -32,6 +32,7 @@ I'm not interested in rhythms whatsoever, so this page really needs a maintainer
 - https://sites.tufts.edu/yewevu/
 - Garrett Michaelsen. Groove Topics in Improvised Jazz
 - [Groove Pizza](https://www.ethanhein.com/wp/groove-pizza/)
+- Justin London. Hearing in Time
    - https://www.ethanhein.com/wp/2021/swing-primer/
    - https://www.ethanhein.com/wp/2023/building-the-funky-drummer-beat/
    - https://www.ethanhein.com/wp/2023/god-make-me-funky/
