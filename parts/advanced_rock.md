@@ -49,6 +49,7 @@ Also see [**Foundational books**](rock.md)
 - [Brad Osborn. Subverting the Verse–Chorus Paradigm: Terminally Climactic Forms in Recent Rock Music](https://kuscholarworks.ku.edu/bitstream/handle/1808/19147/OSBORN_paradigm2013_AFD.pdf?sequence=1&isAllowed=y)
 - [David Heetderks. The “Rebuff Chorus” in 1960–2000 Pop Music](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1171&context=gamut)
 - Mark Spicer. (Ac)cumulative form in pop-rock music
+- [Cara Stroud. Codetta and Anthem Postchorus Types in Top-40 Pop from 2010 to 2015](https://www.mtosmt.org/issues/mto.22.28.2/mto.22.28.2.stroud.html)
 - Megan Lavengood, “‘Oops … I Did It Again’: The Complement Chorus in Britney Spears, The Backstreet Boys, and *NSYNC,” SMT-V 7.6 (2021). http://www.smt-v.org/archives/volume7.html#oops-i-did-it-again-the-complement-chorus-in-britney-spears-the-backstreet-boys-and-nsync
 - SMT-V 06.4 "The Dance Chorus in Recent Top-40 Music," by Alyssa Barna
 - Sonic functions
