@@ -6,7 +6,7 @@ Or maybe not. You decide.
 Pseudoscience in music theory is a description of a structure where there's no inherent structure. An attempt to catch patterns in a noise, patterns which are one-off and
 don't help in composition. Patterns which don't exist in minds of listeners until they become deeply immersed in your theory. A non-falsifiable, statistically non-disprovable arguments.
 
-- [**Schenkerian analysis**](schenkerian_analysis.md)
+- [**Schenkerian analysis**](schenkerian_analysis.md) - some scholars use it, others abstain
 
 - [Jonathan Christian Petty. Wagner's Lexical Tonality](https://www.amazon.com/Wagners-Lexical-Tonality-Studies-Interpretation/dp/0773460071). An author claims that keys in Wagner operas bear a wordable meaning, and every key change 
 means a new meaning. For some reason, this work doesn't seem to be referenced in any other research and is largely ignored by a scientific community.
