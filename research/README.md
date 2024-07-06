@@ -141,6 +141,10 @@ On the other hand, we have a lot of datasets of chords for the long tail of rock
 
 Video game music is a diverse representation of mostly Western musical idiom. It's usually short in form and sometimes it's solving certain tasks related to representing a game's content: location, emotion, cultural context. VGM began with a third generation of game consoles, gradually expanding it's capabilities in timbre and number of voices as audio chips matured.
 
+I speculate that if we take the same means of expression - a SN76489 - then we can probably make an argument about the development of harmony, texture, form and style across time. At least by directly comparing two sets of OSTs: Sega Master System (1985 - 1996) and Sega Game Gear (1990 - 1997)
+
+Listen to some https://chiptune.app/
+
 Some research articles:
 - [YM2413-MDB: A Multi-Instrumental FM Video Game Music Dataset with Emotion Annotations](https://jech2.github.io/YM2413-MDB/)
 - [LakhNES: Improving multi-instrumental music generation with cross-domain pre-training](https://chrisdonahue.com/LakhNES/)
