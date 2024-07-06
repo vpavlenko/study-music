@@ -62,7 +62,7 @@ Browse topics below. Pick one or design your own. [Reach out to me](https://t.me
 - However, optimize for teaching your friends on what you've discovered
 - Listen to the type of music you're researching, even if it's outside of your comfort zone
 - However, optimize for working on music that you deeply care about
-- Read books and papers to get an idea of how other researchers understand its structure
+- Read [books and papers](https://github.com/vpavlenko/study-music) to get an idea of how other researchers understand its structure
 - Switch back and forth between manual transcription/annotation and large-scale DS/ML processing
 - [Write down](https://emusicology.org/index.php/EMR/article/view/8103/6032#:~:text=with%20questions) [questions](https://kb.osu.edu/bitstream/handle/1811/93138/1/FDMC_2021_Huron_005.pdf) before the research
 
