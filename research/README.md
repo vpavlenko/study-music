@@ -90,6 +90,7 @@ Jazz music is constantly being developed: new composers compose new tunes. Every
 - Do composers and subgenres of jazz have certain preferences of lego blocks?
 - Can we visualize harmony of all jazz standards at a single page to uncover patterns?
 - Can the knowledge of lego blocks improve automatic lead sheet [generation](https://github.com/chrisdonahue/sheetsage)?
+- For abstract jazz OSTs like [Side Pocket 1&2&3](https://chiptune.app/?q=side+pocket), is there a way to credibly type it stylistically?
 
 ## Jazz solos
 
