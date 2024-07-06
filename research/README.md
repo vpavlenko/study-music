@@ -182,7 +182,7 @@ Traditional Arabic music is a heterophonic, with a single melody elaborated by s
 - Can we make an automatic transcription of a piece, exploiting this knowledge of expected structure?
 - How can we visualize the modulations in the most efficient way? What's the best piano roll for Arabic music?
 - Are [networks of maqams](https://maqamlessons.com/playground/010_01_MaqamRast.html) not cliques? Are certain edges really absent? Why?
-- Sami Abu Shumays claims, that maqam isn't just a tuning, it's a set of melodic patterns which is different between, say, rast and ajam (akin to radif). In cultures where maqamat gets 12-temperized (like rebetiko) and so maqams collapse, is there any way to historically show how maqams merge over generations of composers? 
+- Sami Abu Shumays claims that maqam isn't just a tuning, it's a set of melodic patterns which is different between, say, rast and ajam (akin to radif). In cultures where maqamat gets 12-temperized (like rebetiko) and so maqams collapse, is there any way to historically show how maqams merge over generations of composers? 
 
 Also, tuning of quartertones is not fixed. Can we say anything about it using cent-accurate tuner algorithms?
 
