@@ -74,7 +74,7 @@ Music languages can be divided into a number of families. Historically, the most
 - after two repetitions of any idea there should be a contrasting idea
 - mostly 4/4 and 3/4
 - cadences are chord patterns
-– verbatim recital of scores, expression in micropauses and velocity arcs, but not in extensive idiosyncratic ornamentations
+- verbatim recital of scores, expression in micropauses and velocity arcs, but not in extensive idiosyncratic ornamentations
 
 The languages are (roughly speaking):
 - [**Rock**](parts/rock.md) - probably worth exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts. Rock here is an umbrella term for pop, soul/RnB, blues rock, folk rock, alternative, punk, prog, and heavy metal. [**Advanced**](parts/advanced_rock.md)
