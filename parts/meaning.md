@@ -12,3 +12,4 @@
 - Leydon 2010, Spicer 2010, Echard 2017
 - [**Теория музыкального содержания**](pseudoscience.md#теория-музыкального-содержания)
 - https://arts.unco.edu/music/symposium-musical-topics/international_symposium_on_musical_topics_and_topic_theory_program.pdf
+- Eero Tarasti on semiotics
