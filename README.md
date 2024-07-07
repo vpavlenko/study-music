@@ -151,8 +151,6 @@ Contacts
 
 I post updates and other rant on music theory on [Twitter](https://twitter.com/vitalypavlenko) (in English) and on [Telegram](https://t.me/keetezh) (in Russian)
 
-Do you know how to enroll in a music theory program (master's/PhD) after a computer science BSc and two years of jazz college ([linkedin](https://www.linkedin.com/in/vitaly-pavlenko-9729bb76/))? Please, let me know: cxielamiko@gmail.com, [t.me/vitalypavlenko](https://t.me/vitalypavlenko) (asking for myself)
-
 I'm always happy to chat about visualisation-aided music education and research popularisation. Also, I constantly feel severely deprived of communication with the real academic theoretic community, so drop me a line ;)
 
 Also, if you're in the UK, and especially in London, drop me a line and let's grab coffee.
