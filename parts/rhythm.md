@@ -10,6 +10,7 @@ I'm not interested in rhythms whatsoever, so this page really needs a maintainer
 - https://observablehq.com/@toja/euclidean-rhythms
 - https://www.youtube.com/@rainerpolak8435/videos
    - https://www.mtosmt.org/issues/mto.10.16.4/mto.10.16.4.polak.html
+   - ski-hill graph, Zeitnetz
    - https://mtosmt.org/issues/mto.14.20.1/mto.14.20.1.polak-london.html
 - [Jonathan Foote. The Beat Spectrum: a New Approach To Rhythm Analysis](http://www.rotorbrain.com/foote/papers/icme2001/icmehtml.htm)
 - [Daniel Gómez Marín. Similarity and Style in Electronic Dance Music Drum Rhythms](https://www.tdx.cat/bitstream/handle/10803/543841/tdgm.pdf?sequence=1)
