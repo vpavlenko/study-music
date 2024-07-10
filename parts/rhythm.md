@@ -12,6 +12,7 @@ I'm not interested in rhythms whatsoever, so this page really needs a maintainer
    - https://www.mtosmt.org/issues/mto.10.16.4/mto.10.16.4.polak.html
    - ski-hill graph, Zeitnetz
    - https://mtosmt.org/issues/mto.14.20.1/mto.14.20.1.polak-london.html
+   - https://drummagazine.com/analysis-of-the-trickiest-drum-intros-on-record/
 - [Jonathan Foote. The Beat Spectrum: a New Approach To Rhythm Analysis](http://www.rotorbrain.com/foote/papers/icme2001/icmehtml.htm)
 - [Daniel Gómez Marín. Similarity and Style in Electronic Dance Music Drum Rhythms](https://www.tdx.cat/bitstream/handle/10803/543841/tdgm.pdf?sequence=1)
 - Studies on syncopation by David Temperley
