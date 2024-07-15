@@ -13,6 +13,7 @@ This culture is very roughly described as maqam music shaped by Western influenc
 - Bulgarian Fake Book
 - https://www.folkloretanznoten.de/
 - https://trillian.mit.edu/~jc/music/abc/Bulgaria/
+- http://musicart.imbm.bas.bg/izbor.asp
 
 ## Misc
 
