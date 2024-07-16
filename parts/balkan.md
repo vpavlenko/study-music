@@ -8,12 +8,15 @@ This culture is very roughly described as maqam music shaped by Western influenc
 
 <img width="683" alt="Screenshot 2022-06-27 at 11 50 59" src="https://user-images.githubusercontent.com/1491908/175868701-372d0698-26c0-453f-8886-3e4974b7f105.png">
 
-## Bulgarian tunes
+## Bulgarian music
 
 - Bulgarian Fake Book
 - https://www.folkloretanznoten.de/
 - https://trillian.mit.edu/~jc/music/abc/Bulgaria/
 - http://musicart.imbm.bas.bg/izbor.asp
+- Kalin S. Kirilov. Bulgarian Harmony. In Village, Wedding, and Choral Music of the Last Century
+- Петър Стоянов. Българска народна песен: тоналност, лад и мелодика
+
 
 ## Misc
 
