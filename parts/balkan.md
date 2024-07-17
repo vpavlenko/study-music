@@ -16,12 +16,16 @@ This culture is very roughly described as maqam music shaped by Western influenc
 - http://musicart.imbm.bas.bg/izbor.asp
 - Kalin S. Kirilov. Bulgarian Harmony. In Village, Wedding, and Choral Music of the Last Century
 - Петър Стоянов. Българска народна песен: тоналност, лад и мелодика
+- https://docs.google.com/document/d/1WsOwF66Cz6pFefQG0P09vULGJXYoxdFjkIZ8jW8Ofb4/edit
+
+## Greek music
+
+- Risto Pekka Pennanen. Westernisation and modernisation in Greek popular music
+   - Also "The Development of Chordal Harmony in Greek Rebetika and Laika Music, 1930s to 1960s" and maybe other papers
 
 
 ## Misc
 
-- Risto Pekka Pennanen. Westernisation and modernisation in Greek popular music
-  Also "The Development of Chordal Harmony in Greek Rebetika and Laika Music, 1930s to 1960s" and maybe other papers
 - [Hans Baken. Folk Music from Bulgaria, Fake Book](https://hjj.home.xs4all.nl/Bladmuziek/Fakebook_Bulgarian_Music.pdf)
 - Maqam: Historical Traces and Present Practice in Southern European Music Traditions. Edited by Jürgen Elsner, Gisa Jähnichen and Jasmina Talam
 - https://www.pelister.org/folklore/songs/index.php
