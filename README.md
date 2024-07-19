@@ -67,8 +67,8 @@ Western music languages
 
 Music languages can be divided into a number of families. Historically, the most dominant and influencial one is Western family of languages. Its languages share some common traits:
 - 12 equal temperament
-- major-minor tonality
-- homophony: melody over chords, chords give a separate narrative, chords reuse schemata (progressions, cadences), chords shape a voice-leading space for melody and bass
+- major-minor tonality, limited modes (dorian/mixolydian) with limited harmonic schemata (shuttles)
+- homophony: melody over chords, chords give a separate narrative, chords reuse schemata (functional harmony, cadences, progressions), chords shape a voice-leading space for melody and bass
 - chords as stacked thirds
 - any of the 12 notes can be a tonic
 - after two repetitions of any idea there should be a contrasting idea
