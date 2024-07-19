@@ -66,15 +66,14 @@ Western music languages
 
 
 Music languages can be divided into a number of families. Historically, the most dominant and influencial one is Western family of languages. Its languages share some common traits:
-- 12-tone temperament
-- major/minor keys
-- homophony: melody over chords, chords give a separate narrative
+- 12 equal temperament
+- major-minor tonality
+- homophony: melody over chords, chords give a separate narrative, chords reuse schemata (progressions, cadences), chords shape a voice-leading space for melody and bass
 - chords as stacked thirds
 - any of the 12 notes can be a tonic
 - after two repetitions of any idea there should be a contrasting idea
 - mostly 4/4 and 3/4
-- cadences are chord patterns
-- verbatim recital of scores, expression in micropauses and velocity arcs, but not in extensive idiosyncratic ornamentations
+- verbatim recital of scores by musicians, limited improvisation, expression in micropauses and velocity arcs, but not in extensive idiosyncratic ornamentations
 
 The languages are (roughly speaking):
 - [**Rock**](parts/rock.md) - probably worth exploring the first, as it's the simplest and pretty popular. It makes sense to start here and expand into other Western languages later on - as they share a lot of concepts. Rock here is an umbrella term for pop, soul/RnB, blues rock, folk rock, alternative, punk, prog, and heavy metal. [**Advanced**](parts/advanced_rock.md)
@@ -96,11 +95,11 @@ Non-Western music languages
 Non-Western music languages are different families. As they were developed all over the globe, they don't share many common features.
 
 The gradient of families is (roughly speaking):
-- [**Balkan languages**](parts/balkan.md)
-- [**Maqam languages**](parts/maqam_languages.md)
+- [**Balkan languages**](parts/balkan.md) - rooted in maqam (scales like hijaz and rhythms like 7/8, 9/8), shaped by 12 equal temperament and Western harmonization strategies
+- [**Maqam languages**](parts/maqam_languages.md) - microtonal scales, monophony and heterophony
 - [**Indian music**](parts/indian.md)
 - [**Gamelan**](parts/gamelan.md), [**piphat**](parts/piphat.md) and other gong chime languages
-- many other traditions: [**Chinese**](parts/chinese.md), [**Kyrgyz komuz**](parts/kyrgyz.md),  [**Georgian polyphonic singing**](parts/georgian.md), [**Japanese**](parts/japanese.md)
+- many other traditions: [**Chinese**](parts/chinese.md), [**Kyrgyz komuz**](parts/kyrgyz.md),  [**Georgian polyphonic singing**](parts/georgian.md), [**Japanese**](parts/japanese.md) etc etc
 
 [**Broad overview on non-Western languages**](parts/non_western_languages.md)
 
