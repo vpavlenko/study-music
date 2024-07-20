@@ -16,7 +16,7 @@ This culture is very roughly described as maqam music shaped by Western influenc
 - http://musicart.imbm.bas.bg/izbor.asp
 - https://youtube.com/@gerganof
 - Kalin S. Kirilov. Bulgarian Harmony. In Village, Wedding, and Choral Music of the Last Century
-- Петър Стоянов. Българска народна песен: тоналност, лад и мелодика
+- ~~Петър Стоянов. Българска народна песен: тоналност, лад и мелодика~~
 - https://docs.google.com/document/d/1WsOwF66Cz6pFefQG0P09vULGJXYoxdFjkIZ8jW8Ofb4/edit
 
 ## Greek music
