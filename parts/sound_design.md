@@ -43,6 +43,7 @@ Also, historically there was a number of environments to do sound synthesis with
 
 # Acoustics
 
+
 1. https://www.acs.psu.edu/drussell/demos.html
 9. https://www.phys.unsw.edu.au/music/
 10. https://www.mattmontag.com/auralization/
@@ -52,3 +53,6 @@ Also, historically there was a number of environments to do sound synthesis with
 14. [**More demos**](../talks/sound.md)
 
 
+# For the intro lecture on sound
+
+- [Posy. Every sound is SINE](https://www.youtube.com/watch?v=UrBZsUBibtk)
