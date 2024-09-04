@@ -21,6 +21,7 @@ Where to start
 
 
 **Wander around**
+1. See structures of Western music in [**rawl.rocks**](https://rawl.rocks/)
 1. Explore [Hooktheory's TheoryTab](https://www.hooktheory.com/theorytab): search for your favorite songs and anime openings. 
 1. [Ishkur's evolution of electronic music](https://music.ishkur.com/)
 12. Press Alt+"scan" at [Every Noise 🌐](https://everynoise.com/)
