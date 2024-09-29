@@ -1,7 +1,7 @@
 Jazz harmony 
 ===
 
-- [A corpus of jazz chords in a relative notation](https://vpavlenko.github.io/j/)
+- [**A corpus of jazz chords in a relative notation](https://vpavlenko.github.io/j/**)
 
 - [Joe Mulholland, Tom Hojnacki. The Berklee Book of Jazz Harmony Kindle Edition](https://amzn.to/3qKoDUT) - A book that describes all traditional concepts of a jazz harmony language
   (secondary dominants, tritone substitution, modal interchange, modulation, modal harmony). Each chapter analyzes a special piece written to 
