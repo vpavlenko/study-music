@@ -11,6 +11,7 @@ Where to start
 2. [Music Mouse 🐭](https://teropa.info/musicmouse/)
 3. [The Infinite Drum Machine 🥁](https://experiments.withgoogle.com/ai/drum-machine/view/) or [Groove Pizza](https://apps.musedlab.org/groovepizza/) or [Groove Pizzeria](https://tylerbisson.com/Groove-Pizzeria/)
 4. [Chord Player](https://www.onemotion.com/chord-player/) (check out "Melody" and "Explore" tabs) or [aQWERTYon](https://apps.musedlab.org/aqwertyon/)
+5. [Touch Pianist 🧙](https://touchpianist.com/)
 
 
 **Interact**
