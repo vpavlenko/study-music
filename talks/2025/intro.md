@@ -38,6 +38,22 @@
 - https://www.youtube.com/watch?v=AYSVDG8ZFNw
 - https://www.youtube.com/watch?v=O9a8pVGa1Mo
 
-# The Our Music
+# Mostly Western Music
 
 - https://everynoise.com/
+- https://everynoise.com/countries.html
+
+# Ноты и саунд
+
+- https://www.youtube.com/watch?v=vsMWVW4xtwI
+- https://www.youtube.com/watch?v=3nSRMF9xYXE
+- https://rawl.rocks/f/star-wars-v_-empire-strikes-back---the-imperial-march
+
+# The Core
+
+- https://nns.i-m-i.ru/
+- https://pikabu.ru/story/top500_luchshikh_russkikh_pesen_vsekh_vremen_3924938
+- https://en.wikipedia.org/wiki/The_Pitchfork_500
+- https://kworb.net/spotify/listeners.html
+- https://musescore.com/sheetmusic/non-official?sort=view_count
+- https://rawl.rocks/
