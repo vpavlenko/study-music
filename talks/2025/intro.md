@@ -4,9 +4,7 @@
 - как честно изучать всю ее структуру
 - насколько у нас всех общий музыкальный контекст
 
-# The Other Classical Musics
-
-
+# The Other Musics
 
 - https://www.youtube.com/watch?v=BfL-tJpERC4
 - https://www.youtube.com/watch?v=qTZzX07dvls
@@ -26,3 +24,11 @@
 - https://www.youtube.com/watch?v=LOLzaCtC_ck
 - https://www.youtube.com/watch?v=owqdu3z3tYM
 - https://www.youtube.com/watch?v=vgNUBHN0Y08&t=1139s
+- https://www.youtube.com/watch?v=zjj1XxGVffs
+- https://www.youtube.com/watch?v=ZhNoTzhzYHg
+- https://www.youtube.com/watch?v=LsNMbCYOdK0
+- https://www.youtube.com/watch?v=klO53XOcJJo
+- https://www.youtube.com/watch?v=3M7YAfc1-BU
+- https://www.youtube.com/watch?v=S2r5P1wmfJw
+- https://www.youtube.com/watch?v=AYSVDG8ZFNw
+- https://www.youtube.com/watch?v=O9a8pVGa1Mo
