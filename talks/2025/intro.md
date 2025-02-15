@@ -14,3 +14,15 @@
 - https://www.youtube.com/watch?v=mkY9z21BDP4
 - https://www.youtube.com/watch?v=0_ctoHxV4Ss
 - https://www.youtube.com/watch?v=_yXiI1kOhOg
+- https://www.youtube.com/watch?v=cYwDw4mhpss
+- https://www.youtube.com/watch?v=tnDfSrJcmnc
+- https://www.youtube.com/watch?v=D7tEClBaSM4
+- https://www.youtube.com/watch?v=zT7kAEDJMI4
+- https://www.youtube.com/watch?v=MLpapYYnukE
+- https://www.youtube.com/watch?v=eNv3Bu8Pxuc
+- https://www.youtube.com/watch?v=I74zhbOSBj0
+- https://www.youtube.com/watch?v=Xa_Ee8h_7GU
+- https://www.youtube.com/watch?v=rzcNUtZH8cg
+- https://www.youtube.com/watch?v=LOLzaCtC_ck
+- https://www.youtube.com/watch?v=owqdu3z3tYM
+- https://www.youtube.com/watch?v=vgNUBHN0Y08&t=1139s
