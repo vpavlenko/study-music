@@ -59,5 +59,7 @@
 - https://pikabu.ru/story/top500_luchshikh_russkikh_pesen_vsekh_vremen_3924938
 - https://en.wikipedia.org/wiki/The_Pitchfork_500
 - https://kworb.net/spotify/listeners.html
+- про сужение предмета изучения
 - https://musescore.com/sheetmusic/non-official?sort=view_count
 - https://rawl.rocks/
+- про то, музыка врождённа или культурна
