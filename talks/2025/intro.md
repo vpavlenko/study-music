@@ -36,6 +36,8 @@
 - https://www.youtube.com/watch?v=O9a8pVGa1Mo
 - https://www.youtube.com/watch?v=D7tEClBaSM4
 
+что здесь разного? что здесь общего?
+
 
 # Mostly Western Music (5 min)
 
