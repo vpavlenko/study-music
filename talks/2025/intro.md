@@ -3,11 +3,15 @@
 - как равномерно слушать всю западную музыку
 - как честно изучать всю ее структуру
 - насколько у нас всех общий музыкальный контекст
+- какой объект мы будем изучать
 
 # Протокол
 
 - 60 минут моего монолога, вы можете обсуждать происходящее в чате
 - потом вопросы и обсуждения, знакомство. будет круто, если на эту часть вы включите камеру
+
+- (мне) скрыть аватары на запись
+- объяснить, что чат в запись не попадёт
 
 # The Other Musics (25 min)
 
@@ -31,14 +35,13 @@
 - https://www.youtube.com/watch?v=owqdu3z3tYM
 - https://www.youtube.com/watch?v=rzcNUtZH8cg
 - https://www.youtube.com/watch?v=LsNMbCYOdK0
-- https://www.youtube.com/watch?v=S2r5P1wmfJw
-- https://www.youtube.com/watch?v=AYSVDG8ZFNw
-- https://www.youtube.com/watch?v=O9a8pVGa1Mo
 - https://www.youtube.com/watch?v=D7tEClBaSM4
+- https://www.youtube.com/watch?v=AYSVDG8ZFNw
+- https://www.youtube.com/watch?v=S2r5P1wmfJw
 
-что здесь разного? что здесь общего?
+что здесь общего? что здесь разного? 
 
-показать две книжки
+показать [две книжки](https://github.com/vpavlenko/study-music/blob/main/parts/non_western_languages.md)
 
 # Mostly Western Music (5 min)
 
