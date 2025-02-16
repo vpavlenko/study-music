@@ -18,9 +18,11 @@
 - https://www.youtube.com/watch?v=0_ctoHxV4Ss
 - https://www.youtube.com/watch?v=_yXiI1kOhOg
 - https://www.youtube.com/watch?v=cYwDw4mhpss
+- https://www.youtube.com/watch?v=3M7YAfc1-BU
 - https://www.youtube.com/watch?v=vgNUBHN0Y08&t=1139s
 - https://www.youtube.com/watch?v=zjj1XxGVffs
 - https://www.youtube.com/watch?v=ZhNoTzhzYHg
+- https://www.youtube.com/watch?v=klO53XOcJJo
 - https://www.youtube.com/watch?v=tnDfSrJcmnc
 - https://www.youtube.com/watch?v=zT7kAEDJMI4
 - https://www.youtube.com/watch?v=MLpapYYnukE
@@ -29,14 +31,10 @@
 - https://www.youtube.com/watch?v=owqdu3z3tYM
 - https://www.youtube.com/watch?v=rzcNUtZH8cg
 - https://www.youtube.com/watch?v=LsNMbCYOdK0
-- https://www.youtube.com/watch?v=klO53XOcJJo
-- https://www.youtube.com/watch?v=3M7YAfc1-BU
 - https://www.youtube.com/watch?v=S2r5P1wmfJw
 - https://www.youtube.com/watch?v=AYSVDG8ZFNw
 - https://www.youtube.com/watch?v=O9a8pVGa1Mo
 - https://www.youtube.com/watch?v=D7tEClBaSM4
-- https://www.youtube.com/watch?v=I74zhbOSBj0
-- https://www.youtube.com/watch?v=Xa_Ee8h_7GU
 
 
 # Mostly Western Music (5 min)
