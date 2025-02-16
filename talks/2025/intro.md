@@ -19,7 +19,6 @@
 - https://www.youtube.com/watch?v=_yXiI1kOhOg
 - https://www.youtube.com/watch?v=cYwDw4mhpss
 - https://www.youtube.com/watch?v=tnDfSrJcmnc
-- https://www.youtube.com/watch?v=D7tEClBaSM4
 - https://www.youtube.com/watch?v=zT7kAEDJMI4
 - https://www.youtube.com/watch?v=MLpapYYnukE
 - https://www.youtube.com/watch?v=eNv3Bu8Pxuc
@@ -37,6 +36,8 @@
 - https://www.youtube.com/watch?v=S2r5P1wmfJw
 - https://www.youtube.com/watch?v=AYSVDG8ZFNw
 - https://www.youtube.com/watch?v=O9a8pVGa1Mo
+- https://www.youtube.com/watch?v=D7tEClBaSM4
+
 
 # Mostly Western Music (5 min)
 
