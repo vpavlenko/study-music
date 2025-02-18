@@ -2,25 +2,41 @@
 
 ## мажор на два аккорда
 
-- Schubert D.365 #25, #26, #28
-- backup: flohwalzer (собачий вальс), chopsticks
+- https://rawl.rocks/f/wima.e480-schubert_de.-tanz-d.365.25
+- https://rawl.rocks/f/wima.1124-schubert_de.-tanz-d.365.26
+- https://rawl.rocks/f/wima.4be9-schubert_de.-tanz-d.365.28
+- https://rawl.rocks/f/der-flohwalzer
+- https://rawl.rocks/f/chopsticks
 - саратовская гармонь, flutina
 
 ## современный натуральный минор, циклы 
 
-- Gibran Alcocer, ideas 15, 22, 10
+- https://rawl.rocks/f/idea-15---gibran-alcocer
+- https://rawl.rocks/f/idea-22---gibran-alcocer
+- https://rawl.rocks/f/idea-n.10---gibran-alcocer
 
 ## стиль. тот же современный натуральный минор, но по-другому
 
-- Evgeny Grinko: melting, wind brought, carousel
-- Yann Tiersen: je suis jamais alle, la valse d'Amelie, rue de cascades
+- https://rawl.rocks/f/melting---evgeny-grinko
+- https://rawl.rocks/f/wind-brought---evgeny-grinko
+- https://rawl.rocks/f/carousel---evgeny-grinko
+- https://rawl.rocks/f/tiersen-yann----j-y-suis-jamais-alle
+- https://rawl.rocks/f/la-valse-d-amelie-piano
+- https://rawl.rocks/f/rue-des-cascades---yann-tiersen
 
 ## мажорная доминанта в миноре
 
-- Schubert, D.365 #22, #27
-- Evgeny Grinko, Valse
-- Gibran Alcocer, idea 20, idea 7, idea 1
-- Yann Tiersen, les-jours-triste, la-noyee, le-moulin, a-quai
+- https://rawl.rocks/f/wima.01fa-schubert_deut.tanz-d.365.22
+- https://rawl.rocks/f/wima.738b-schubert_de.-tanz-d.365.27
+- https://rawl.rocks/f/evgeny-grinko---valse
+- https://rawl.rocks/f/idea-20---gibran-alcocer
+- https://rawl.rocks/f/idea-7---gibran-alcocer
+- https://rawl.rocks/f/idea-1---gibran-alcocer
+- https://rawl.rocks/f/les-jours-triste
+- https://rawl.rocks/f/la-noyee---yann-tiersen-la-noyee
+- https://rawl.rocks/f/le-moulin---yann-tiersen
+- https://rawl.rocks/f/a-quai---yann-tiersen
+- https://rawl.rocks/f/Gravity_Falls_Opening
 - Opening of Gravity Falls
 - Attack on Titan
 
