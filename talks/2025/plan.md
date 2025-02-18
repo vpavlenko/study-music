@@ -42,9 +42,13 @@
 
 ## DJ Okawari
 
+- https://rawl.rocks/corpus/dj_okawari
+
 ## циклы в мажоре
 
-Runaway, The Office, Salvato
+- https://rawl.rocks/f/runaway---kanye-west-ramin-djawadi-arr.-by-alex-patience
+- https://rawl.rocks/f/the-office
+- https://rawl.rocks/corpus/dan_salvato
 
 ## субдоминанта
 
@@ -55,8 +59,8 @@ Runaway, The Office, Salvato
 ## мелодический минор поверх V7, текстуры
 
 - Bella Ciao
-- Tetris (Kyle Landry)
-- Comptine (Kyle Landry) + third up
+- https://rawl.rocks/f/comptine-d-un-autre-ete-arr.-kyle-landry-2021
+- https://rawl.rocks/f/Kyle_Landrys_Tetris_Theme_Variations_for_Piano_SoloKorobeiniki
 - Slavianka
 
 ## minor circle of fifths
