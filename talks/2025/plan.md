@@ -50,11 +50,11 @@ Runaway, The Office, Salvato
 - Handel-Halvorsen Prelude
 - Croatian Rhapsody
 
-## TheFatRat
+## TheFatRat: minor pentatonic
 
-## Parov Stelar
+## Parov Stelar: blues scale
 
-## Minimalism
+## Philip Glass: minimalism
 
 ## Shuttles
 
