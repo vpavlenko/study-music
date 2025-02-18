@@ -101,7 +101,7 @@ has bII, bVII, reverse applied, Vsus4, rel - not for beginners.
 
 ## shostakovich waltz
 
-## Theo Northrup
+## Simple ragtimes: Theo Northrup
 
 ## Plants vs Zombies
 
