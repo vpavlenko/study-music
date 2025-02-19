@@ -51,6 +51,4 @@ https://vpavlenko.github.io/layouts/flat-chromatic-layout
 
 - https://rawl.rocks/f/der-flohwalzer
 - https://rawl.rocks/f/chopsticks
-- https://rawl.rocks/s/nonchord_tone/chromatic_passing
-- https://rawl.rocks/s/nonchord_tone/chromatic_auxiliary
 - саратовская гармонь, flutina
