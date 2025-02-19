@@ -23,6 +23,7 @@
 
 - https://rawl.rocks/f/wima.01fa-schubert_deut.tanz-d.365.22
 - https://rawl.rocks/f/wima.738b-schubert_de.-tanz-d.365.27
+- https://rawl.rocks/f/schubert-ecossaise-no-8-op-18-d.145
 - https://rawl.rocks/f/evgeny-grinko---valse
 - https://rawl.rocks/f/idea-20---gibran-alcocer
 - https://rawl.rocks/f/idea-7---gibran-alcocer
@@ -32,7 +33,8 @@
 - https://rawl.rocks/f/le-moulin---yann-tiersen
 - https://rawl.rocks/f/a-quai---yann-tiersen
 - https://rawl.rocks/f/Gravity_Falls_Opening
-- Opening of Gravity Falls
+- https://rawl.rocks/f/My_War_Attack_on_Titan
+- https://rawl.rocks/f/attack-on-titan-theme-guren-no-yumiya
 - Attack on Titan
 
 ## DJ Okawari
@@ -47,7 +49,7 @@
 
 ## субдоминанта
 
-- Schubert D. 365 #13, #17, #18
+- Schubert D. 365 #2, #13, #17, #18
 - happy birthday
 - гармонь 25 \* 12
 
@@ -80,6 +82,11 @@
 start with https://rawl.rocks/f/surfboard-boogie
 
 ## IV iii ii I, Pedro Silva
+
+## voice-leading
+
+- Schubert D.365 #5, #7, #10, #11
+- diatonic/chromatic bass/lines
 
 ## second up
 
