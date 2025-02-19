@@ -34,5 +34,8 @@ https://vpavlenko.github.io/layouts/flat-chromatic-layout
 
 - https://www.classical-scene.com/2021/01/13/minuet-to-waltz/
 - https://rawl.rocks/f/wima.e480-schubert_de.-tanz-d.365.25
+- https://rawl.rocks/e/wima.e480-schubert_de.-tanz-d.365.25
 - https://rawl.rocks/f/wima.1124-schubert_de.-tanz-d.365.26
+- https://rawl.rocks/e/wima.1124-schubert_de.-tanz-d.365.26
 - https://rawl.rocks/f/wima.4be9-schubert_de.-tanz-d.365.28
+- https://rawl.rocks/e/wima.4be9-schubert_de.-tanz-d.365.28
