@@ -30,7 +30,7 @@ https://vpavlenko.github.io/layouts/flat-chromatic-layout
 - https://www.youtube.com/watch?v=kg6FaxV-Jf8
 - https://www.youtube.com/watch?v=cikdYAx9p_Q&t=856s
 
-# Three waltzes
+# Three waltzes (45 min)
 
 - https://www.classical-scene.com/2021/01/13/minuet-to-waltz/
 - https://rawl.rocks/f/wima.e480-schubert_de.-tanz-d.365.25
