@@ -21,9 +21,6 @@
 
 ## мажорная доминанта в миноре
 
-- https://rawl.rocks/f/wima.01fa-schubert_deut.tanz-d.365.22
-- https://rawl.rocks/f/wima.738b-schubert_de.-tanz-d.365.27
-- https://rawl.rocks/f/schubert-ecossaise-no-8-op-18-d.145
 - https://rawl.rocks/f/evgeny-grinko---valse
 - https://rawl.rocks/f/idea-20---gibran-alcocer
 - https://rawl.rocks/f/idea-7---gibran-alcocer
@@ -35,7 +32,15 @@
 - https://rawl.rocks/f/Gravity_Falls_Opening
 - https://rawl.rocks/f/My_War_Attack_on_Titan
 - https://rawl.rocks/f/attack-on-titan-theme-guren-no-yumiya
-- Attack on Titan
+
+## parallel/relative symmetry
+
+- https://rawl.rocks/f/schumann-the-wild-horseman-op.-68-no.-8
+- https://rawl.rocks/f/schubert-waltz-in-b-minor-op.-18-no.-6-d.145
+- https://rawl.rocks/f/wima.01fa-schubert_deut.tanz-d.365.22
+- https://rawl.rocks/f/wima.738b-schubert_de.-tanz-d.365.27
+- https://rawl.rocks/f/schubert-ecossaise-no-8-op-18-d.145
+
 
 ## DJ Okawari
 
