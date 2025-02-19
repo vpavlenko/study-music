@@ -41,7 +41,7 @@ https://vpavlenko.github.io/layouts/flat-chromatic-layout
 - https://rawl.rocks/f/wima.4be9-schubert_de.-tanz-d.365.28
 - https://rawl.rocks/e/wima.4be9-schubert_de.-tanz-d.365.28
 - https://rawl.rocks/f/wima.7e1e-schubert_deut.tanz-d.365.09
-- http://rawl.rocks/e/wima.7e1e-schubert_deut.tanz-d.365.09
+- https://rawl.rocks/e/wima.7e1e-schubert_deut.tanz-d.365.09
 
 # Homework (15 min)
 
