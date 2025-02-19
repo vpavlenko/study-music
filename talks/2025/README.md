@@ -1,15 +1,8 @@
-## лекция 0. границы западной музыки
+- [лекция 0. границы западной музыки](00_intro.md)
 
-## лекция 1. мажор на два аккорда
+- [лекция 1. мажор на два аккорда](01_two_chords_in_major.md)
 
-- https://rawl.rocks/f/wima.e480-schubert_de.-tanz-d.365.25
-- https://rawl.rocks/f/wima.1124-schubert_de.-tanz-d.365.26
-- https://rawl.rocks/f/wima.4be9-schubert_de.-tanz-d.365.28
-- https://rawl.rocks/f/der-flohwalzer
-- https://rawl.rocks/f/chopsticks
-- саратовская гармонь, flutina
-
-## современный натуральный минор, циклы 
+## лекция 2. современный натуральный минор, циклы 
 
 - https://rawl.rocks/f/idea-15---gibran-alcocer
 - https://rawl.rocks/f/idea-22---gibran-alcocer
