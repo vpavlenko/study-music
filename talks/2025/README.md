@@ -84,6 +84,7 @@ https://rawl.rocks/corpus/parov_stelar
 ## Philip Glass: minimalism
 
 - https://rawl.rocks/corpus/philip_glass
+- maybe Rob Costlow instead?
 
 ## Shuttles
 
