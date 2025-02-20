@@ -63,6 +63,7 @@ https://vpavlenko.github.io/layouts/flat-chromatic-layout
 <img width="1172" alt="Screenshot 2025-02-20 at 14 10 05" src="https://github.com/user-attachments/assets/3511b2f3-9b10-492b-bce7-47b408d5565d" />
 
 
+<img width="1717" alt="Screenshot 2025-02-20 at 14 16 48" src="https://github.com/user-attachments/assets/54a0ec41-41b5-429c-88ab-103498c36fa6" />
 
 
 
