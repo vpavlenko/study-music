@@ -168,9 +168,12 @@ has bII, bVII, reverse applied, Vsus4, rel - not for beginners.
 
 ## shostakovich waltz
 
+- https://rawl.rocks/f/Waltz_No._2_The_Second_Waltz_by_Dmitri_Shostakovich_for_Piano
 
 
 ## Simple ragtimes: Theo Northrup
+
+- https://rawl.rocks/corpus/theo_northrup
 
 ## Plants vs Zombies
 
@@ -237,13 +240,19 @@ Zequinha de Abreu, Ernesto Nazareth, Carlos Gardel, Astor Piazzolla.
 
 ## Rhythm changes
 
+- https://rawl.rocks/corpus/rhythm_changes
+
 ## Modulation 2 down
+
+- https://rawl.rocks/s/modulation/2_down
 
 ## Solo
 
+- https://rawl.rocks/s/form/solo
+
 ## Jazz
 
-Gershwin's Songbook
+- https://rawl.rocks/corpus/gershwin_songbook
 
 Jelly Roll Morton and Fats Waller (James Brigham has sequenced them)
 
