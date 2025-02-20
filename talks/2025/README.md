@@ -162,6 +162,8 @@ https://rawl.rocks/s/cycle_root_motion/autumn_leaves
 
 has bII, bVII, reverse applied, Vsus4, rel - not for beginners.
 
+## David Lanz
+
 ## 6 b6
 
 - https://rawl.rocks/s/6_b6/IV_iv
@@ -169,7 +171,6 @@ has bII, bVII, reverse applied, Vsus4, rel - not for beginners.
 ## shostakovich waltz
 
 - https://rawl.rocks/f/Waltz_No._2_The_Second_Waltz_by_Dmitri_Shostakovich_for_Piano
-
 
 ## Simple ragtimes: Theo Northrup
 
