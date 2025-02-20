@@ -55,3 +55,15 @@ https://vpavlenko.github.io/layouts/flat-chromatic-layout
 - https://rawl.rocks/f/chopsticks
 - [саратовская гармонь](https://www.youtube.com/watch?v=AbdaIB0TLoQ)
 
+# Scores
+
+<img width="1179" alt="Screenshot 2025-02-20 at 14 09 19" src="https://github.com/user-attachments/assets/e24ec65f-b6b9-423b-941c-7eed82fd76e8" />
+<img width="1200" alt="Screenshot 2025-02-20 at 14 09 35" src="https://github.com/user-attachments/assets/d751ba9d-2d82-4e9f-adf7-a13c9d051e5d" />
+<img width="1174" alt="Screenshot 2025-02-20 at 14 09 48" src="https://github.com/user-attachments/assets/fa9cb868-628a-4c49-9f1b-4c122816e220" />
+<img width="1172" alt="Screenshot 2025-02-20 at 14 10 05" src="https://github.com/user-attachments/assets/3511b2f3-9b10-492b-bce7-47b408d5565d" />
+
+
+
+
+
+
