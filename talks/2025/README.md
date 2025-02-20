@@ -185,6 +185,8 @@ Jelly Roll Morton and Fats Waller (James Brigham has sequenced them)
 
 ## Minuet
 
+## Edward MacDowell, Ten Woodland Sketches
+
 ## Brahms's Hungarian Dances
 
 ## Sonata form
