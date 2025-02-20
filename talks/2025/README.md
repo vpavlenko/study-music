@@ -116,6 +116,7 @@ https://rawl.rocks/s/cycle_root_motion/autumn_leaves
 ## pachelbel's canon
 
 - https://rawl.rocks/s/progression/pachelbels_canon
+- Gregory Winston vs David Lanz, new age
 
 ## minor pachelbel
 
