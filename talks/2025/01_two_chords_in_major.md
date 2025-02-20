@@ -27,8 +27,10 @@ https://vpavlenko.github.io/layouts/flat-chromatic-layout
 
 # Interpretation (5 min)
 
-- https://www.youtube.com/watch?v=kg6FaxV-Jf8
-- https://www.youtube.com/watch?v=cikdYAx9p_Q&t=856s
+- https://www.youtube.com/watch?v=w5nhspbgEKU
+- https://youtu.be/cikdYAx9p_Q?si=mUDeN30x0rrYWD6A&t=296
+- https://www.youtube.com/watch?v=cyUpz9UP8tM
+- https://www.youtube.com/watch?v=Kul4vaU5X7M
 
 # Four waltzes (30 min)
 
@@ -40,7 +42,7 @@ https://vpavlenko.github.io/layouts/flat-chromatic-layout
 - https://rawl.rocks/e/wima.1124-schubert_de.-tanz-d.365.26
 - https://rawl.rocks/f/wima.4be9-schubert_de.-tanz-d.365.28
 - https://rawl.rocks/e/wima.4be9-schubert_de.-tanz-d.365.28
-- https://rawl.rocks/f/wima.7e1e-schubert_deut.tanz-d.365.09
+- https://rawl.rocks/f/schubert_d365_09
 - https://rawl.rocks/e/wima.7e1e-schubert_deut.tanz-d.365.09
 
 # Homework (15 min)
