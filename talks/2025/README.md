@@ -178,29 +178,53 @@ has bII, bVII, reverse applied, Vsus4, rel - not for beginners.
 
 ## Constant structures
 
+- https://rawl.rocks/s/constant_structures/major_chords
+
 ## Manfred Schmitz
+
+- https://rawl.rocks/corpus/manfred_schmitz
 
 ## Zequinha de Abreu's choros
 
+- https://rawl.rocks/corpus/zequinha_de_abreu
+
 ## chord scales
+
+- https://rawl.rocks/s/chord_scale/iii
 
 ## symmetric chords
 
+- https://rawl.rocks/s/symmetric_chords/diminished
+
 ## Ger
+
+- https://rawl.rocks/s/chromatic_chords/Ger
 
 ## bII
 
+- https://rawl.rocks/s/chromatic_chords/bII
+
 ## applied viio7/
+
+- https://rawl.rocks/s/applied/viio7/V
 
 ## cto7
 
+- https://rawl.rocks/s/cto7/to_I
+
 ## Tom Lehrer
 
+- https://rawl.rocks/corpus/tom_lehrer
+
 ## Long form: ma vlast
+
+- https://rawl.rocks/f/mein-vaterland-nr2-moldau---bedrich-smetana-for-piano-solo
 
 Маленькой елочке холодно зимой
 
 ## Malaguena
+
+- https://rawl.rocks/corpus/malaguena
 
 ## Tangos
 
@@ -208,7 +232,8 @@ Zequinha de Abreu, Ernesto Nazareth, Carlos Gardel, Astor Piazzolla.
 
 ## Ragtime
 
-Scott Joplin (requires diminished chords): Maple Leaf Rag and Entertainer are two separate classes of first sections.
+- Scott Joplin (requires diminished chords): Maple Leaf Rag and Entertainer are two separate classes of first sections.
+- https://rawl.rocks/corpus/scott_joplin
 
 ## Rhythm changes
 
