@@ -75,19 +75,33 @@
 
 ## TheFatRat: minor pentatonic
 
+- https://rawl.rocks/corpus/thefatrat
+
 ## Parov Stelar: blues scale
+
+https://rawl.rocks/corpus/parov_stelar
 
 ## Philip Glass: minimalism
 
+- https://rawl.rocks/corpus/philip_glass
+
 ## Shuttles
+
+- https://rawl.rocks/s/shuttle/i_bVI
 
 ## autumn leaves
 
+https://rawl.rocks/s/cycle_root_motion/autumn_leaves
+
 ## Boogie Woogie
 
-start with https://rawl.rocks/f/surfboard-boogie
+- https://rawl.rocks/corpus/boogie_woogie
+- start with https://rawl.rocks/f/surfboard-boogie
 
 ## IV iii ii I, Pedro Silva
+
+- https://rawl.rocks/s/cycle_root_motion/second_down
+- https://rawl.rocks/corpus/pedro_silva
 
 ## voice-leading
 
@@ -96,19 +110,40 @@ start with https://rawl.rocks/f/surfboard-boogie
 
 ## second up
 
+- https://rawl.rocks/s/cycle_root_motion/second_up
+
 ## pachelbel's canon
+
+- https://rawl.rocks/s/progression/pachelbels_canon
+
+## minor pachelbel
+
+- https://rawl.rocks/s/progression/minor_pachelbel
 
 ## sus4
 
+- https://rawl.rocks/s/V/sus4
+
+
 ## Blues scale ideas
+
+- https://rawl.rocks/s/scale/blues
 
 ## Yiruma, First Love
 
+- https://rawl.rocks/corpus/yiruma_first_love
+
 ## Fkj
+
+- https://rawl.rocks/corpus/fkj
 
 ## C418 Minecraft
 
+- https://rawl.rocks/corpus/minecraft_c418
+
 ## dorian IV
+
+- https://rawl.rocks/s/dorian/episodic
 
 ## applieds - Schubert D.365
 
@@ -123,11 +158,17 @@ start with https://rawl.rocks/f/surfboard-boogie
 
 ## Catherine Rollin, descending bass
 
+- https://rawl.rocks/corpus/catherine_rollin
+
 has bII, bVII, reverse applied, Vsus4, rel - not for beginners.
 
 ## 6 b6
 
+- https://rawl.rocks/s/6_b6/IV_iv
+
 ## shostakovich waltz
+
+
 
 ## Simple ragtimes: Theo Northrup
 
