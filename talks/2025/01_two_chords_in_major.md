@@ -47,7 +47,7 @@ https://vpavlenko.github.io/layouts/flat-chromatic-layout
 
 # Homework (15 min)
 
-- https://rawl.rocks/e/new
+- Возьмите код одного из вальсов за основу. Придумайте какой-то другой узор. Попробуйте внести правки в вальс, которые соответствуют новой идее.
 
 # Backup
 
