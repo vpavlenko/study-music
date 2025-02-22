@@ -23,27 +23,9 @@ More:
 
 https://vpavlenko.github.io/layouts/flat-chromatic-layout
 
-
-
-# Interpretation (5 min)
-
-- https://www.youtube.com/watch?v=w5nhspbgEKU
-- https://youtu.be/cikdYAx9p_Q?si=mUDeN30x0rrYWD6A&t=296
-- https://www.youtube.com/watch?v=cyUpz9UP8tM
-- https://www.youtube.com/watch?v=Kul4vaU5X7M
-
 # Four waltzes (30 min)
 
-- https://www.classical-scene.com/2021/01/13/minuet-to-waltz/
-- https://vmirror.imslp.org/files/imglnks/usimg/1/15/IMSLP53693-PMLP07842-Schubert_Werke_Breitkopf_Serie_12_No_124_Op_9.pdf
-- https://rawl.rocks/f/wima.e480-schubert_de.-tanz-d.365.25
-- https://rawl.rocks/e/wima.e480-schubert_de.-tanz-d.365.25
-- https://rawl.rocks/f/wima.1124-schubert_de.-tanz-d.365.26
-- https://rawl.rocks/e/wima.1124-schubert_de.-tanz-d.365.26
-- https://rawl.rocks/f/wima.4be9-schubert_de.-tanz-d.365.28
-- https://rawl.rocks/e/wima.4be9-schubert_de.-tanz-d.365.28
-- https://rawl.rocks/f/schubert_d365_09
-- https://rawl.rocks/e/schubert_d365_09
+- https://rawl.rocks/e/
 
 # Homework (15 min)
 
@@ -51,6 +33,7 @@ https://vpavlenko.github.io/layouts/flat-chromatic-layout
 
 # Backup
 
+- https://www.classical-scene.com/2021/01/13/minuet-to-waltz/
 - https://rawl.rocks/f/der-flohwalzer
 - https://rawl.rocks/f/chopsticks
 - [саратовская гармонь](https://www.youtube.com/watch?v=AbdaIB0TLoQ)
