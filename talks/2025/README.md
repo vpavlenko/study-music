@@ -4,31 +4,21 @@
 
 - [лекция 1. мажор на два аккорда](01_two_chords_in_major.md)
 
-## лекция 2. современный натуральный минор, циклы 
+- [лекция 2. современный натуральный минор, циклы](02_21_century_natural_minor_loops.md)
 
-- https://rawl.rocks/f/idea-15---gibran-alcocer
-- https://rawl.rocks/f/idea-22---gibran-alcocer
-- https://rawl.rocks/f/idea-n.10---gibran-alcocer
 
-## стиль. тот же современный натуральный минор, но по-другому
 
-- https://rawl.rocks/f/melting---evgeny-grinko
-- https://rawl.rocks/f/wind-brought---evgeny-grinko
-- https://rawl.rocks/f/carousel---evgeny-grinko
-- https://rawl.rocks/f/tiersen-yann----j-y-suis-jamais-alle
-- https://rawl.rocks/f/la-valse-d-amelie-piano
-- https://rawl.rocks/f/rue-des-cascades---yann-tiersen
+## 3. мажорная доминанта в миноре
 
-## мажорная доминанта в миноре
 
-- https://rawl.rocks/f/evgeny-grinko---valse
-- https://rawl.rocks/f/idea-20---gibran-alcocer
-- https://rawl.rocks/f/idea-7---gibran-alcocer
-- https://rawl.rocks/f/idea-1---gibran-alcocer
 - https://rawl.rocks/f/les-jours-triste
 - https://rawl.rocks/f/la-noyee---yann-tiersen-la-noyee
 - https://rawl.rocks/f/le-moulin---yann-tiersen
 - https://rawl.rocks/f/a-quai---yann-tiersen
+- https://rawl.rocks/f/evgeny-grinko---valse
+- https://rawl.rocks/f/idea-20---gibran-alcocer
+- https://rawl.rocks/f/idea-7---gibran-alcocer
+- https://rawl.rocks/f/idea-1---gibran-alcocer
 - https://rawl.rocks/f/Gravity_Falls_Opening
 - https://rawl.rocks/f/My_War_Attack_on_Titan
 - https://rawl.rocks/f/attack-on-titan-theme-guren-no-yumiya
