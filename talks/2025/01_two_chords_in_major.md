@@ -19,11 +19,11 @@ More:
    - https://musiclab.chromeexperiments.com/Oscillators/
 
 
-# 12-edo (5 min)
+# 12-edo (10 min)
 
 https://vpavlenko.github.io/layouts/chromatic-sequences
 
-# Four waltzes (50 min)
+# Four waltzes (45 min)
 
 - https://rawl.rocks/e/
 
