@@ -167,6 +167,10 @@ has bII, bVII, reverse applied, Vsus4, rel - not for beginners.
 
 - https://rawl.rocks/s/6_b6/IV_iv
 
+## Doga
+
+Easier minor
+
 ## shostakovich waltz
 
 - https://rawl.rocks/f/Waltz_No._2_The_Second_Waltz_by_Dmitri_Shostakovich_for_Piano
