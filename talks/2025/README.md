@@ -79,6 +79,13 @@ https://rawl.rocks/corpus/parov_stelar
 ## Shuttles
 
 - https://rawl.rocks/s/shuttle/i_bVI
+- https://rawl.rocks/f/colors-dance---george-winston
+- https://rawl.rocks/f/polyester-jammy-rome-2---age-of-empires
+- https://rawl.rocks/f/my-confession---dan-salvato-my-confession-ddlc
+- https://rawl.rocks/f/overworld-from-kid-icarus---hirokazu-tanaka
+- https://rawl.rocks/f/yoshimatsu---4-little-dream-songs-ii.-summer---distorted-waltz-on-august
+- https://rawl.rocks/f/fee-just-piano-version---fkj
+- https://rawl.rocks/f/meeting-again-in-the-void-just-piano-version---fkj
 
 ## autumn leaves
 
