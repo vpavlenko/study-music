@@ -2,11 +2,11 @@
 
 - [лекция 0. границы западной музыки](00_intro.md)
 
-- [лекция 1. мажор на два аккорда](01_two_chords_in_major.md)
+- [лекция 1. мажор на два аккорда, Шуберт](01_two_chords_in_major.md)
 
-- [лекция 2. современный натуральный минор, циклы](02_21_century_natural_minor_loops.md)
+- [лекция 2. современный натуральный минор, циклы, Gibran Alcocer](02_21_century_natural_minor_loops.md)
 
-- минорная пентатоника: thefatrat
+- минорная пентатоника: TheFatRat
 
 - [мажорная доминанта (V) в миноре. стиль: Yann Tiersen vs Gibran Alcocer](03_minor_V_and_yann_tiersen.md)
 
