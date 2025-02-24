@@ -6,9 +6,11 @@
 
 - [лекция 2. современный натуральный минор, циклы](02_21_century_natural_minor_loops.md)
 
-- [лекция 3. мажорная доминанта (V) в миноре. стиль: Yann Tiersen vs Gibran Alcocer](03_minor_V_and_yann_tiersen.md)
+- thefatrat
 
-- [лекция 4. мелодический минор на V, модуляция, аранжировка](04_melodic_minor_modulation_and_arrangement.md) 
+- [мажорная доминанта (V) в миноре. стиль: Yann Tiersen vs Gibran Alcocer](03_minor_V_and_yann_tiersen.md)
+
+- [мелодический минор на V, модуляция, аранжировка](04_melodic_minor_modulation_and_arrangement.md) 
 
 - лекция 5. простой буги-вуги
 
