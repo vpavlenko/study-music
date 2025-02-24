@@ -8,15 +8,15 @@
 
 - минорная пентатоника: TheFatRat
 
-- [мажорная доминанта (V) в миноре. стиль: Yann Tiersen vs Gibran Alcocer](03_minor_V_and_yann_tiersen.md)
-
-- [мелодический минор на V, модуляция, аранжировка](04_melodic_minor_modulation_and_arrangement.md) 
-
-- лекция 5. простой буги-вуги
+- [мажорная доминанта (V) в миноре, стиль. Yann Tiersen](03_minor_V_and_yann_tiersen.md)
 
 - лекция 6. parov stelar: блюзовая гамма
 
 - лекция 7. dj okawari: арпеджио, picardy third
+
+- [мелодический минор на V, аранжировка. тетрис](04_melodic_minor_modulation_and_arrangement.md) 
+
+- лекция 5. простой буги-вуги
 
 - лекция 8. minor circle of fifths
 
