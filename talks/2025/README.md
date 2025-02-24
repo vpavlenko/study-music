@@ -6,22 +6,64 @@
 
 - [лекция 2. современный натуральный минор, циклы](02_21_century_natural_minor_loops.md)
 
+- [лекция 3. мажорная доминанта (V) в миноре. стиль: Yann Tiersen vs Gibran Alcocer](03_minor_V_and_yann_tiersen.md)
 
+- [лекция 4. мелодический минор на V, модуляция, аранжировка](04_melodic_minor_modulation_and_arrangement.md) 
 
-## 3. мажорная доминанта в миноре
+- лекция 5. простой буги-вуги
 
+- лекция 6. parov stelar: блюзовая гамма
 
-- https://rawl.rocks/f/les-jours-triste
-- https://rawl.rocks/f/la-noyee---yann-tiersen-la-noyee
-- https://rawl.rocks/f/le-moulin---yann-tiersen
-- https://rawl.rocks/f/a-quai---yann-tiersen
-- https://rawl.rocks/f/evgeny-grinko---valse
-- https://rawl.rocks/f/idea-20---gibran-alcocer
-- https://rawl.rocks/f/idea-7---gibran-alcocer
-- https://rawl.rocks/f/idea-1---gibran-alcocer
-- https://rawl.rocks/f/Gravity_Falls_Opening
-- https://rawl.rocks/f/My_War_Attack_on_Titan
-- https://rawl.rocks/f/attack-on-titan-theme-guren-no-yumiya
+- лекция 7. dj okawari: арпеджио, picardy third
+
+- лекция 8. minor circle of fifths
+
+- лекция 9. шатлы
+ 
+- лекция 10. дорийский минор
+
+- лекция 11. pachelbel's canon
+
+- лекция 12. Vsus4
+
+- лекция 13. V/V, период
+
+- Yiruma's First Love
+
+- relative symmetry, minor's pachelbel
+
+- C418
+
+- побочные доминанты
+
+- Евгений Дога
+
+- простые регтаймы: Theo Northrup
+
+- autumn leaves, ii V I-джаз в септаккордах
+
+- symmetric chords: viio7/, cto7
+
+- bII
+
+- constant structures, Manfred Schmitz
+
+- vgm chromatic
+
+- descending bass, line cliche
+
+- Catherine Rollin
+
+- Zequinha de Abreu's choros
+
+- 6 b6
+
+- Scott Joplin: Maple Leaf Rag
+
+- Rhythm changes
+
+- Nocturnes
+
 
 ## parallel/relative symmetry
 
@@ -48,12 +90,6 @@
 - happy birthday
 - гармонь 25 \* 12
 
-## мелодический минор поверх V7, текстуры
-
-- https://rawl.rocks/f/Bella_Ciao
-- https://rawl.rocks/f/march-slav-s-farewel-marsh-proshchanie-slavyanki
-- https://rawl.rocks/f/comptine-d-un-autre-ete-arr.-kyle-landry-2021
-- https://rawl.rocks/f/Kyle_Landrys_Tetris_Theme_Variations_for_Piano_SoloKorobeiniki
 
 
 ## minor circle of fifths
@@ -131,7 +167,6 @@ https://rawl.rocks/s/cycle_root_motion/autumn_leaves
 ## sus4
 
 - https://rawl.rocks/s/V/sus4
-
 
 ## Blues scale ideas
 
