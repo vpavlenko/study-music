@@ -57,11 +57,6 @@
 
 
 ## minor circle of fifths
-- Bebu Silvetti
-- Paul de Senneville
-- Luo Ni, G minor Bach
-- Handel-Halvorsen Prelude
-- Croatian Rhapsody
 - https://rawl.rocks/f/nostalgy-by-olivier-toussaint-arranged-richard-clayderman-for-piano
 - https://rawl.rocks/f/mariage-d-amour---paul-de-senneville-marriage-d-amour
 - https://rawl.rocks/f/lettre-a-ma-mere
@@ -74,6 +69,7 @@
 - https://rawl.rocks/f/lyric-nocturne---catherine-rollin
 - https://rawl.rocks/f/piano---raul-di-blasio
 - https://rawl.rocks/f/corazon-de-nino-child-s-heart-by-raul-di-blasio---raul-di-blasio-corazon-de-nino-child-s-heart-by-raul-di-blasio
+- https://rawl.rocks/f/croatian-rhapsody-hard-piano
 
 ## TheFatRat: minor pentatonic
 
