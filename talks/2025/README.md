@@ -6,7 +6,7 @@
 
 - [лекция 2. современный натуральный минор, циклы](02_21_century_natural_minor_loops.md)
 
-- thefatrat
+- минорная пентатоника: thefatrat
 
 - [мажорная доминанта (V) в миноре. стиль: Yann Tiersen vs Gibran Alcocer](03_minor_V_and_yann_tiersen.md)
 
