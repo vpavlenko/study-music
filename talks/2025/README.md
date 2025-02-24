@@ -62,6 +62,18 @@
 - Luo Ni, G minor Bach
 - Handel-Halvorsen Prelude
 - Croatian Rhapsody
+- https://rawl.rocks/f/nostalgy-by-olivier-toussaint-arranged-richard-clayderman-for-piano
+- https://rawl.rocks/f/mariage-d-amour---paul-de-senneville-marriage-d-amour
+- https://rawl.rocks/f/lettre-a-ma-mere
+- https://rawl.rocks/f/voyage-a-venice---richard-clayderman
+- https://rawl.rocks/f/thanksgiving
+- https://rawl.rocks/f/ennio-morricone-chi-mai-from-le-professionnel-easy-piano-arr.-by-free-musickey
+- https://rawl.rocks/f/passacaglia---handel-halvorsen
+- https://rawl.rocks/f/mendelssohn-opus-67-no.-2-aka-lost-illusions
+- https://rawl.rocks/f/g-minor-bach-original
+- https://rawl.rocks/f/lyric-nocturne---catherine-rollin
+- https://rawl.rocks/f/piano---raul-di-blasio
+- https://rawl.rocks/f/corazon-de-nino-child-s-heart-by-raul-di-blasio---raul-di-blasio-corazon-de-nino-child-s-heart-by-raul-di-blasio
 
 ## TheFatRat: minor pentatonic
 
@@ -78,12 +90,12 @@ https://rawl.rocks/corpus/parov_stelar
 
 ## Shuttles
 
-- https://rawl.rocks/s/shuttle/i_bVI
 - https://rawl.rocks/f/colors-dance---george-winston
 - https://rawl.rocks/f/polyester-jammy-rome-2---age-of-empires
 - https://rawl.rocks/f/my-confession---dan-salvato-my-confession-ddlc
 - https://rawl.rocks/f/overworld-from-kid-icarus---hirokazu-tanaka
 - https://rawl.rocks/f/yoshimatsu---4-little-dream-songs-ii.-summer---distorted-waltz-on-august
+- https://rawl.rocks/f/mexico-de-noche
 - https://rawl.rocks/f/fee-just-piano-version---fkj
 - https://rawl.rocks/f/meeting-again-in-the-void-just-piano-version---fkj
 
