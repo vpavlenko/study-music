@@ -6,7 +6,7 @@
 
 - [лекция 2. современный натуральный минор, циклы, Gibran Alcocer](02_21_century_natural_minor_loops.md)
 
-- минорная пентатоника: TheFatRat
+- минорная пентатоника: TheFatRat, MDK
 
 - [мажорная доминанта (V) в миноре, стиль. Yann Tiersen](03_minor_V_and_yann_tiersen.md)
 
