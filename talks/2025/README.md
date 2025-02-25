@@ -48,6 +48,8 @@
 
 - bII
 
+- chord scale, extensions
+
 - constant structures, Manfred Schmitz
 
 - vgm chromatic
