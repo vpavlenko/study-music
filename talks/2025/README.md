@@ -12,27 +12,25 @@
 
 - лекция 6. parov stelar: блюзовая гамма
 
-- лекция 7. dj okawari: арпеджио, picardy third
-
 - [мелодический минор на V, аранжировка. тетрис](04_melodic_minor_modulation_and_arrangement.md) 
 
-- лекция 5. простой буги-вуги
-
-- лекция 8. minor circle of fifths
-
-- лекция 9. шатлы
- 
-- лекция 10. дорийский минор
-
-- лекция 11. pachelbel's canon
-
-- лекция 12. Vsus4
-
-- лекция 13. V/V, период
-
-- Yiruma's First Love
+- pachelbel's canon
 
 - relative symmetry, minor's pachelbel
+
+- minor circle of fifths
+
+- шатлы
+
+- буги-вуги
+ 
+- дорийский минор
+
+- Vsus4
+
+- V/V, период
+
+- Yiruma's First Love
 
 - C418
 
@@ -54,7 +52,7 @@
 
 - vgm chromatic
 
-- descending bass, line cliche
+- descending bass, line cliche, chromatic lines
 
 - Catherine Rollin
 
