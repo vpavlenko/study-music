@@ -10,6 +10,11 @@
 - https://rawl.rocks/f/idea-7---gibran-alcocer
 - https://rawl.rocks/f/idea-1---gibran-alcocer
 
+# relative symmetry on two chords
+
+- https://rawl.rocks/f/36-original-dances-no.-27---franz-schubert
+- https://rawl.rocks/f/schubert-ecossaise-no-8-op-18-d.145
+
 # Домашка
 
 С этой недели вы можете играть в хардмод: выкладывая домашку в чат, вы можете указывать "я старался максимально соответствовать стилю Gibran Alcocer". Тогда любой в чате может заджаджить вашу работу утверждениями вида "у вас в нотах есть структура Х, но у Gibran Alcocer она нигде не встречается". (Домашка в любом случае будет сразу зачтена. Этот режим направлен лишь на поиск знания о том, что реально происходит в стилях, а что нет.)
