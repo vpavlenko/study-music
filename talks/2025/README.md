@@ -40,15 +40,19 @@
 
 - простые регтаймы: Theo Northrup
 
+- формулы конца
+
 - autumn leaves, ii V I-джаз в септаккордах
 
-- symmetric chords: viio7/, cto7
+- diminished chords: viio7/, cto7
 
 - bII
 
 - chord scale, extensions
 
 - constant structures, Manfred Schmitz
+
+- whole-tone scale, augmented chords
 
 - vgm chromatic
 
