@@ -6,7 +6,9 @@
 
 - [лекция 2. современный натуральный минор, циклы, Gibran Alcocer](02_21_century_natural_minor_loops.md) (contemporary neoclassical piano)
 
-- минорная пентатоника: TheFatRat, MDK, Jim Yosef (edm: glitch hop and melodic dubstep)
+- секция от i до V
+
+- минорная пентатоника: Street Fighter Honda, TheFatRat, MDK, Jim Yosef (edm: glitch hop and melodic dubstep), Genshin Impact
 
 - [стиль. Yann Tiersen, Evgeny Grinko, DJ Okawari](03_minor_V_and_yann_tiersen.md)
 
