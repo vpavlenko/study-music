@@ -7,6 +7,6 @@
 - https://rawl.rocks/f/idea-7---gibran-alcocer
 - https://rawl.rocks/f/idea-1---gibran-alcocer
 - https://rawl.rocks/f/Gravity_Falls_Opening
-papers please
-lux aeterna
-all my joy paterlini
+- papers please
+- lux aeterna
+- all my joy paterlini
