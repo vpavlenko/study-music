@@ -6,15 +6,17 @@
 
 - [лекция 2. современный натуральный минор, циклы, Gibran Alcocer](02_21_century_natural_minor_loops.md) (contemporary neoclassical piano)
 
-- секция от i до V
+- [лекция 3. секция от i до V](03_minor_V.md)
+
+- [мелодический минор на V, аранжировка. тетрис](04_melodic_minor_modulation_and_arrangement.md) 
 
 - минорная пентатоника: Street Fighter Honda, TheFatRat, MDK, Jim Yosef (edm: glitch hop and melodic dubstep), Genshin Impact
 
-- [стиль. Yann Tiersen, Evgeny Grinko, DJ Okawari](03_minor_V_and_yann_tiersen.md)
+
 
 - лекция 6. parov stelar: блюзовая гамма
 
-- [мелодический минор на V, аранжировка. тетрис](04_melodic_minor_modulation_and_arrangement.md) 
+
 
 - pachelbel's canon
 
