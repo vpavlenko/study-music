@@ -16,7 +16,7 @@
 
 - лекция 6. parov stelar: блюзовая гамма
 
-- enya: simple new-age major
+- enya: simple new-age major. also brian crain
 
 - pachelbel's canon
 
