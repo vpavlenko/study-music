@@ -17,4 +17,6 @@
 - https://rawl.rocks/f/fabrizio-paterlini---my-misty-mornings
 - https://rawl.rocks/f/week-10---fabrizio-paterlini
 - https://rawl.rocks/f/if-only-i-could-tell---fabrizio-paterlini
-
+- https://rawl.rocks/f/primi-passi---fabrizio-paterlin
+- https://rawl.rocks/f/lost-song---fabrizio-paterlini
+- https://rawl.rocks/f/my-piano-the-clouds---paterlini
