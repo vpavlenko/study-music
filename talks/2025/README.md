@@ -202,6 +202,9 @@ https://rawl.rocks/s/cycle_root_motion/autumn_leaves
 
 ## applieds - Schubert D.365
 
+- https://rawl.rocks/f/huit-septembre-mazurka-op.-7---eugeniusz-zaluski
+
+
 ## On period and V/V
 
 - make minor ragtime jingle bells-like out of any period
