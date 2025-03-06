@@ -7,7 +7,7 @@
 - https://rawl.rocks/f/idea-7---gibran-alcocer
 - https://rawl.rocks/f/idea-1---gibran-alcocer
 - https://rawl.rocks/f/Gravity_Falls_Opening
-- papers please
-- lux aeterna
+- https://rawl.rocks/f/papers-please
+- lux aeterna - flex? better for arrangements talk
 - all my joy paterlini
 - https://rawl.rocks/f/the-witcher-3---priscilla-s-song
