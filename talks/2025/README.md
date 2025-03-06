@@ -240,6 +240,11 @@ Easier minor
 
 ## Plants vs Zombies
 
+## bVII
+
+- https://rawl.rocks/s/chromatic_chords/bVII
+- http://rawl.rocks/s/chunks/bVII_IV_I
+
 ## Bo Burnham
 
 ## Constant structures
