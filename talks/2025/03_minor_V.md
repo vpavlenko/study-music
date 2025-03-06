@@ -15,5 +15,6 @@
 
 - https://rawl.rocks/f/all-my-joy-all-my-pain---fabrizio-paterlini
 - https://rawl.rocks/f/fabrizio-paterlini---my-misty-mornings
-- if only i could tell
+- https://rawl.rocks/f/week-10---fabrizio-paterlini
+- https://rawl.rocks/f/if-only-i-could-tell---fabrizio-paterlini
 
