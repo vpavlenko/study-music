@@ -8,7 +8,12 @@
 - https://rawl.rocks/f/idea-1---gibran-alcocer
 - https://rawl.rocks/f/Gravity_Falls_Opening
 - https://rawl.rocks/f/papers-please
-- lux aeterna - flex? better for arrangements talk
+- https://rawl.rocks/f/the-witcher-3---priscilla-s-song
+
+# paterlini
+
+
 - https://rawl.rocks/f/all-my-joy-all-my-pain---fabrizio-paterlini
 - https://rawl.rocks/f/fabrizio-paterlini---my-misty-mornings
-- https://rawl.rocks/f/the-witcher-3---priscilla-s-song
+- if only i could tell
+
