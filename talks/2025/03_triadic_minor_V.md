@@ -10,11 +10,7 @@
 - https://rawl.rocks/f/papers-please
 - https://rawl.rocks/f/jeanny-falco
 - https://rawl.rocks/f/Pirates_of_the_Caribbean_-_Hes_a_Pirate
-
-# Yann Tiersen
-
 - https://rawl.rocks/f/la-dispute---yann-tiersen
-- https://rawl.rocks/f/le-moulin---yann-tiersen
 - https://rawl.rocks/f/les-jours-triste
 
 # Fabrizio Paterlini
