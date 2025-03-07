@@ -6,7 +6,7 @@
 
 - [лекция 2. современный натуральный минор, циклы, Gibran Alcocer](02_21_century_natural_minor_loops.md) (contemporary neoclassical piano)
 
-- [лекция 3. секция от i до V](03_minor_V.md)
+- [лекция 3. triadic minor with V](03_triadic_minor_V.md)
 
 - [мелодический минор на V, аранжировка. тетрис](04_melodic_minor_modulation_and_arrangement.md) 
 
