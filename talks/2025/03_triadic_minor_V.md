@@ -15,6 +15,8 @@
 
 # Fabrizio Paterlini
 
+"Neo-classical, Ambient, Minimalist and New Age": https://fabriziopaterlini.com/about
+
 
 - https://rawl.rocks/f/all-my-joy-all-my-pain---fabrizio-paterlini
 - https://rawl.rocks/f/fabrizio-paterlini---my-misty-mornings
