@@ -25,4 +25,5 @@
 - https://rawl.rocks/f/primi-passi---fabrizio-paterlin
 - https://rawl.rocks/f/lost-song---fabrizio-paterlini
 - https://rawl.rocks/f/my-piano-the-clouds---paterlini
+- и всё остальное: https://rawl.rocks/corpus/fabrizio_paterlini
 
