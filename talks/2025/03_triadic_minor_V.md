@@ -16,8 +16,6 @@
 - https://rawl.rocks/f/la-dispute---yann-tiersen
 - https://rawl.rocks/f/le-moulin---yann-tiersen
 - https://rawl.rocks/f/les-jours-triste
-- https://rawl.rocks/f/la-noyee---yann-tiersen-la-noyee
-- https://rawl.rocks/f/a-quai---yann-tiersen
 
 # Fabrizio Paterlini
 
