@@ -10,7 +10,7 @@
 
 - [лекция 4. ещё примеры на V, аранжировка](04_V_and_arrangement.md) 
 
-- [минорная пентатоника и IV](05_minor_pentatonic_and_IV.md)
+- [минорная пентатоника и IV](minor_pentatonic_and_IV.md)
 
 - parov stelar: блюзовая гамма
 
