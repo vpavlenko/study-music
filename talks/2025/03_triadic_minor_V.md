@@ -1,6 +1,7 @@
 # План
 
 - минорные и мажорные аккорды
+- https://vpavlenko.github.io/layouts/roman-numerals
 
 # Misc
 
