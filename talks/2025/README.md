@@ -10,7 +10,7 @@
 
 - [лекция 4. ещё примеры на V, аранжировка](04_V_and_arrangement.md) 
 
-- минорная пентатоника: Street Fighter Honda, TheFatRat, MDK, Jim Yosef (edm: glitch hop and melodic dubstep), Genshin Impact
+- [минорная пентатоника и IV](05_minor_pentatonic_and_IV.md)
 
 - parov stelar: блюзовая гамма
 
