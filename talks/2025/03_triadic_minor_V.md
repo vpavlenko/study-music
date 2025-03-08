@@ -1,7 +1,7 @@
 # План
 
 - natural minor in Fabrizio Paterlini (30 min)
-- his pieces with minor V
+- his pieces with minor V (25 min)
 - минорные и мажорные аккорды (5 min)
 - https://vpavlenko.github.io/layouts/roman-numerals
 
