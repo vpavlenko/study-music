@@ -8,13 +8,11 @@
 
 - [лекция 3. triadic minor with V](03_triadic_minor_V.md)
 
-- [мелодический минор на V, аранжировка. тетрис](04_melodic_minor_modulation_and_arrangement.md) 
+- [лекция 4. ещё примеры на V, аранжировка](04_V_and_arrangement.md) 
 
 - минорная пентатоника: Street Fighter Honda, TheFatRat, MDK, Jim Yosef (edm: glitch hop and melodic dubstep), Genshin Impact
 
-
-
-- лекция 6. parov stelar: блюзовая гамма
+- parov stelar: блюзовая гамма
 
 - enya: simple new-age major. also brian crain
 
