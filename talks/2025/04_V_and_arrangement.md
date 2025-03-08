@@ -1,7 +1,5 @@
 ## V, аранжировка
 
-Исходники аранжировки: тетрис. Зависит от блюзовой гаммы, поставить после Parov Stelar.
-
 - https://rawl.rocks/f/Bella_Ciao
 - https://rawl.rocks/f/march-slav-s-farewel-marsh-proshchanie-slavyanki
 - https://rawl.rocks/f/comptine-d-un-autre-ete-arr.-kyle-landry-2021
