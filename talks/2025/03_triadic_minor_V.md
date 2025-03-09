@@ -6,6 +6,7 @@
 - natural minor in Fabrizio Paterlini (30 min): snow to distractions
 - his pieces with minor V (25 min)
 - минорные и мажорные аккорды (5 min)
+- как писать V в редакторе (5 min)
 - https://vpavlenko.github.io/layouts/natural-minor-scale
 - https://vpavlenko.github.io/layouts/roman-numerals
 - минорная и мажорная гамма vs аккорд
