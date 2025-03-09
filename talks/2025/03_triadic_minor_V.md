@@ -1,6 +1,8 @@
 # План
 
 - сетка на 12
+  - https://rawl.rocks/e/idea-15---gibran-alcocer
+  - https://rawl.rocks/d/gibran_alcocer_-_idea_15/11
 - natural minor in Fabrizio Paterlini (30 min): snow to distractions
 - his pieces with minor V (25 min)
 - минорные и мажорные аккорды (5 min)
