@@ -42,7 +42,7 @@
 
 - простые регтаймы: Theo Northrup
 
-- формулы конца
+- формулы конца: lush arpeggios, picardy third, coda
 
 - autumn leaves, ii V I-джаз в септаккордах
 
