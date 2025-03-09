@@ -1,6 +1,6 @@
 # План
 
-- natural minor in Fabrizio Paterlini (30 min): distractions to snow
+- natural minor in Fabrizio Paterlini (30 min): snow to distractions
 - his pieces with minor V (25 min)
 - минорные и мажорные аккорды (5 min)
 - https://vpavlenko.github.io/layouts/roman-numerals
