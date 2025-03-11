@@ -8,5 +8,7 @@
 - https://rawl.rocks/f/Requiem_for_a_Dream
 - https://rawl.rocks/f/dying-dream-arrangement-by-reik
 - https://rawl.rocks/f/tango-to-evora
+- https://musescore.com/user/34784746/scores/6096406
 - He's a pirate
 - все остальные примеры на V
+- https://rawl.rocks/f/fur-elise-super-easy
