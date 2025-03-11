@@ -12,9 +12,7 @@
 
 - [минорная пентатоника и IV](minor_pentatonic_and_IV.md)
 
-- parov stelar: блюзовая гамма
-
-- enya: simple new-age major. also brian crain
+- enya: simple new-age major (although she doesn't have a lot of instrumental stuff)
 
 - pachelbel's canon
 
@@ -22,15 +20,13 @@
 
 - minor circle of fifths
 
-- шатлы
+- parov stelar: блюзовая гамма
 
 - буги-вуги
- 
-- дорийский минор
 
-- Vsus4
+- шатлы
 
-- V/V, период
+- Vsus4, V/V, период
 
 - Yiruma's First Love
 
