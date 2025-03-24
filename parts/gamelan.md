@@ -77,6 +77,7 @@ Notable youtube videos
 
 - https://youtube.com/@pelogmania?si=Vuj8dfjDFx9y_F93
 - https://youtu.be/6WPZCFTBNJ4?si=E8Mhi-e_CZ7Q2L1C&t=30 - noisy hearable colotomic pattern
+- https://www.youtube.com/watch?v=DTm1lvdMU_Y - e-gamelan
 
 Sundanese gamelan
 ---
