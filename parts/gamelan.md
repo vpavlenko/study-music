@@ -66,6 +66,11 @@ Misc
 
 - https://music.arts.uci.edu/abauer/148_2018/
 
+Split-screen videos
+---
+
+- https://youtu.be/r5zoKilh0Dk
+
 Sundanese gamelan
 ---
 
@@ -96,6 +101,7 @@ Free gamelan samples
 - https://jsimonvanderwalt.com/2020/12/14/gamelan-samples/
 - https://github.com/celanajaya/kotekanator
 - https://wiki.laptop.org/go/Free_sound_samples
+- https://github.com/Digitopia/CDM-GAMELAN-SAMPLE-LIBRARY
 
 <img width="854" alt="Screenshot 2023-10-02 at 05 26 15" src="https://github.com/vpavlenko/study-music/assets/1491908/a3037558-ac1e-442e-bb6c-44e594b9ccef">
 
