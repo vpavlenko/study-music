@@ -72,6 +72,11 @@ Split-screen videos
 - https://youtu.be/r5zoKilh0Dk
 - https://youtu.be/7rJePjX1mNg
 
+Notable youtube videos
+---
+
+- https://youtube.com/@pelogmania?si=Vuj8dfjDFx9y_F93
+
 Sundanese gamelan
 ---
 
