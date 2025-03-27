@@ -12,13 +12,13 @@
 
 - [минорная пентатоника и IV](minor_pentatonic_and_IV.md)
 
-- enya: simple new-age major (although she doesn't have a lot of instrumental stuff)
+- minor circle of fifths
 
 - pachelbel's canon
 
 - relative symmetry, minor's pachelbel, autumn leaves
 
-- minor circle of fifths
+- enya: simple new-age major (although she doesn't have a lot of instrumental stuff)
 
 - parov stelar: блюзовая гамма
 
