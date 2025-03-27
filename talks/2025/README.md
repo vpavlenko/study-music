@@ -30,6 +30,8 @@
 
 - Yiruma's First Love
 
+- IV iii ii I
+
 - C418
 
 - побочные доминанты
@@ -68,6 +70,13 @@
 
 - Nocturnes
 
+
+# backup: layering?
+
+- https://rawl.rocks/f/papers-please
+- https://rawl.rocks/corpus/requiem_for_a_dream
+- https://rawl.rocks/f/Yann_Tiersen_Amelie
+- https://rawl.rocks/f/comptine-d-un-autre-ete-arr.-kyle-landry-2021
 
 ## parallel/relative symmetry
 
