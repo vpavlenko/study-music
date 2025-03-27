@@ -36,8 +36,6 @@
 
 - побочные доминанты
 
-- Евгений Дога
-
 - простые регтаймы: Theo Northrup
 
 - формулы конца: lush arpeggios, picardy third, coda
