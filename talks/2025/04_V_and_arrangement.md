@@ -1,4 +1,4 @@
-# мелодия над V, аранжировка
+# аранжировка мелодий в миноре с V
 
 - https://rawl.rocks/corpus/tetris_theme_a
 - https://rawl.rocks/corpus/he_is_a_pirate_arrangements
