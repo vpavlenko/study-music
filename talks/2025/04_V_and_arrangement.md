@@ -12,3 +12,18 @@
 - He's a pirate
 - все остальные примеры на V
 - https://rawl.rocks/f/fur-elise-super-easy
+
+
+
+
+
+
+## He's a pirate
+
+там сложная мелодия, длинная, но есть перегармонизация, что прям прикольно
+
+
+
+
+
+## Fur Elise
