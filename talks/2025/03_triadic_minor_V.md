@@ -33,3 +33,7 @@
 - https://rawl.rocks/f/Pirates_of_the_Caribbean_-_Hes_a_Pirate
 - https://rawl.rocks/f/la-dispute---yann-tiersen
 - https://rawl.rocks/f/les-jours-triste
+- https://rawl.rocks/f/march-slav-s-farewel-marsh-proshchanie-slavyanki
+- https://rawl.rocks/f/My_War_Attack_on_Titan
+- https://rawl.rocks/f/attack-on-titan-theme-guren-no-yumiya
+- https://rawl.rocks/f/tango-to-evora
