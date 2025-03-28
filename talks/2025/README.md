@@ -10,6 +10,8 @@
 
 - [лекция 4. ещё примеры на V, аранжировка](04_V_and_arrangement.md) 
 
+- [лекция 5. диатонический мажор](05_diatonic_major.md)
+
 - [минорная пентатоника и IV](minor_pentatonic_and_IV.md)
 
 - minor circle of fifths
