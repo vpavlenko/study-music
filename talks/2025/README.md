@@ -16,11 +16,7 @@
 
 - minor circle of fifths
 
-- pachelbel's canon
-
 - relative symmetry, minor's pachelbel, autumn leaves
-
-- enya: simple new-age major (although she doesn't have a lot of instrumental stuff)
 
 - parov stelar: блюзовая гамма
 
@@ -29,8 +25,6 @@
 - шатлы
 
 - Vsus4, V/V, период
-
-- Yiruma's First Love
 
 - IV iii ii I
 
@@ -49,6 +43,8 @@
 - bII
 
 - chord scale, extensions
+
+- Yiruma's First Love
 
 - constant structures, Manfred Schmitz
 
