@@ -7,14 +7,14 @@
 - https://rawl.rocks/f/der-flohwalzer
 - https://rawl.rocks/f/chopsticks
 
-## Diatonic major
+## Diatonic new age major
 
-
-- https://rawl.rocks/corpus/enya
-- https://rawl.rocks/corpus/vicenzo_piano
+- https://rawl.rocks/corpus/vicenzo_piano 3 (caveat: a no-name)
 - https://rawl.rocks/corpus/jim_brickman
 - https://rawl.rocks/corpus/kevin_kern 4
-- https://rawl.rocks/corpus/yiruma_first_love 1..2
+- https://rawl.rocks/f/it-s-your-day---yiruma
+- https://rawl.rocks/f/shepherd-moons---enya
+- https://rawl.rocks/f/fairytale---enya
 
 
 ## bVII
