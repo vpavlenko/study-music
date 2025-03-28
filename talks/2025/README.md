@@ -243,6 +243,9 @@ Easier minor
 
 - https://rawl.rocks/s/chromatic_chords/bVII
 - http://rawl.rocks/s/chunks/bVII_IV_I
+- https://rawl.rocks/corpus/suzanne_ciani
+- https://rawl.rocks/corpus/fabrizio_paterlini
+- https://rawl.rocks/f/going-places---dennis-alexander
 
 ## Bo Burnham
 
