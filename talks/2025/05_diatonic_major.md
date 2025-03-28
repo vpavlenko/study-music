@@ -14,8 +14,11 @@
 - https://rawl.rocks/f/shepherd-moons---enya
 - https://rawl.rocks/f/fairytale---enya
 - https://rawl.rocks/s/progression/pachelbels_canon
+- https://rawl.rocks/f/a-whiter-shade-of-pale-~-david-lanz
+- https://rawl.rocks/f/a-lovely-little-town---brandon-hesslau---buddy-simulator-1984
+- https://rawl.rocks/f/the-fabelmans---john-williams
+- schubert op. 9: #12, #13, #17, #18
+- https://rawl.rocks/f/minuet-from-music-for-the-royal-fireworks---georg-friedrich-handel
+- https://rawl.rocks/f/chariots-of-fire-theme
+- https://rawl.rocks/f/messages-easy-piano---vangelis
 
-## bVII
-
-- https://rawl.rocks/corpus/suzanne_ciani
-- https://rawl.rocks/corpus/fabrizio_paterlini
