@@ -12,19 +12,19 @@
 
 - [лекция 5. диатонический мажор](05_diatonic_major.md)
 
-- [минорная пентатоника и IV](minor_pentatonic_and_IV.md)
-
 - minor circle of fifths
 
-- relative symmetry, minor's pachelbel, autumn leaves
+- [минорная пентатоника и IV](minor_pentatonic_and_IV.md)
 
 - parov stelar: блюзовая гамма
+
+- период, V/V, Vsus4
+
+- relative symmetry, minor's pachelbel, autumn leaves
 
 - буги-вуги
 
 - шатлы
-
-- Vsus4, V/V, период
 
 - IV iii ii I
 
