@@ -9,6 +9,19 @@
 - https://rawl.rocks/corpus/tetris_theme_a
 - https://rawl.rocks/corpus/he_is_a_pirate_arrangements
 
+# Домашка
+
+Аранжируйте любую минорную мелодию.
+
+Вот две самые простые, если хотите:
+- https://rawl.rocks/f/bella-ciao-melody
+- https://rawl.rocks/f/les-yeux-noirs
+
+Вот подборка минорных трэков:
+- https://rawl.rocks/corpus/minor_V
+
+Также вы можете выбрать любую другую мелодию, я помогу её подобрать/залить.
+
 # Backup
 
 - https://rawl.rocks/corpus/brad_breeck
