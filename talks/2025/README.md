@@ -2,6 +2,8 @@
 
 Видеозаписи: https://www.youtube.com/playlist?list=PLzQrZe3EemP5pVPYMwBJGtiejiN3qtCce
 
+Канал в тележке: https://t.me/keetezh
+
 - [лекция 0. границы западной музыки](00_intro.md)
 
 - [лекция 1. мажор на два аккорда, Шуберт](01_two_chords_in_major.md) (Classical)
