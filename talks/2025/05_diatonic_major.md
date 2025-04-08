@@ -18,7 +18,11 @@
 - https://rawl.rocks/f/a-whiter-shade-of-pale-~-david-lanz
 - https://rawl.rocks/f/a-lovely-little-town---brandon-hesslau---buddy-simulator-1984
 - https://rawl.rocks/f/the-fabelmans---john-williams
-- schubert op. 9: #12, #13, #17, #18
+- Schubert:
+  - https://rawl.rocks/f/wima.dc1e-schubert_deut.tanzd365.12
+  - https://rawl.rocks/f/wima.d5ac-schubert_deut.tanzd365.13
+  - https://rawl.rocks/f/wima.e3f7-schubert_deut.tanzd365.17
+  - https://rawl.rocks/f/wima.3657-schubert_deut.tanzd365.18
 - https://rawl.rocks/f/minuet-from-music-for-the-royal-fireworks---georg-friedrich-handel
 - https://rawl.rocks/f/chariots-of-fire-theme
 - https://rawl.rocks/f/messages-easy-piano---vangelis
