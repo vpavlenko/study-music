@@ -16,13 +16,15 @@
 
 - [лекция 5. диатонический мажор](05_diatonic_major.md)
 
+- лекция 6. период, V/V, Vsus4
+
 - minor circle of fifths
 
 - [минорная пентатоника и IV](minor_pentatonic_and_IV.md)
 
 - parov stelar: блюзовая гамма
 
-- период, V/V, Vsus4
+
 
 - relative symmetry, minor's pachelbel, autumn leaves
 
