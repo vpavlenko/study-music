@@ -17,9 +17,15 @@
   - https://rawl.rocks/f/wima.e3f7-schubert_deut.tanzd365.17
   - https://rawl.rocks/f/wima.3657-schubert_deut.tanzd365.18
 - https://rawl.rocks/f/undertale-dog-song-piano-solo
+- https://rawl.rocks/f/minuet-from-music-for-the-royal-fireworks---georg-friedrich-handel
 
 ## More chords
 
+- https://rawl.rocks/f/chariots-of-fire-theme
+- https://rawl.rocks/f/messages-easy-piano---vangelis
+- https://rawl.rocks/f/a-lovely-little-town---brandon-hesslau---buddy-simulator-1984
+- https://rawl.rocks/f/animato-24-pieces-for-children-op.-39-no.-18---dmitri-kabalevsky
+- https://rawl.rocks/f/the-fabelmans---john-williams
 - https://rawl.rocks/f/fairytale---enya
 - https://rawl.rocks/f/we-had-today
 - https://rawl.rocks/f/it-s-your-day---yiruma
@@ -35,24 +41,7 @@ Sorting order: start from simplest works.
   - https://rawl.rocks/f/letter-to-my-mother---vicenzo-piano
   - https://rawl.rocks/f/awakening---vicenzo-piano
 - https://rawl.rocks/corpus/jim_brickman todo, see album "no words"
-
-
-
-
 - https://rawl.rocks/s/progression/pachelbels_canon
-
-- https://rawl.rocks/f/a-lovely-little-town---brandon-hesslau---buddy-simulator-1984
-- https://rawl.rocks/f/the-fabelmans---john-williams
-- https://rawl.rocks/f/minuet-from-music-for-the-royal-fireworks---georg-friedrich-handel
-- https://rawl.rocks/f/chariots-of-fire-theme
-- https://rawl.rocks/f/messages-easy-piano---vangelis
-
-- https://rawl.rocks/f/forest-gump---main-title-feather-theme
-
-
-- https://rawl.rocks/f/animato-24-pieces-for-children-op.-39-no.-18---dmitri-kabalevsky
-- https://rawl.rocks/f/wedding-ballet---austin-farwell
-- https://rawl.rocks/f/pallet-town---pokemon-red-blue-green-yellow-by-junichi-masuda
 
 
 ## Double-tonic
