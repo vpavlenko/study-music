@@ -1,1 +1,2 @@
 - https://rawl.rocks/corpus/kevin_kern - defer to talk on periods
+- https://rawl.rocks/corpus/jim_brickman todo, see album "no words"
