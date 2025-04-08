@@ -27,23 +27,16 @@
 - https://rawl.rocks/f/messages-easy-piano---vangelis
 - https://rawl.rocks/f/a-lovely-little-town---brandon-hesslau---buddy-simulator-1984
 - https://rawl.rocks/f/animato-24-pieces-for-children-op.-39-no.-18---dmitri-kabalevsky
+- https://rawl.rocks/f/awakening---vicenzo-piano
 - https://rawl.rocks/f/the-fabelmans---john-williams
 - https://rawl.rocks/f/fairytale---enya
 - https://rawl.rocks/f/we-had-today
 - https://rawl.rocks/f/it-s-your-day---yiruma
 - https://rawl.rocks/f/a-whiter-shade-of-pale-~-david-lanz
 - https://rawl.rocks/f/butterfly
+- https://rawl.rocks/f/winter---lucia-salieri-vicenzo-piano
+- https://rawl.rocks/f/letter-to-my-mother---vicenzo-piano
 
-## Diatonic new age major
-
-Sorting order: start from simplest works.
-
-- Vicenzo Piano (caveat: a no-name, maybe does not exist)
-  - https://rawl.rocks/f/winter---lucia-salieri-vicenzo-piano
-  - https://rawl.rocks/f/letter-to-my-mother---vicenzo-piano
-  - https://rawl.rocks/f/awakening---vicenzo-piano
-- https://rawl.rocks/corpus/jim_brickman todo, see album "no words"
-- https://rawl.rocks/s/progression/pachelbels_canon
 
 
 ## Double-tonic
