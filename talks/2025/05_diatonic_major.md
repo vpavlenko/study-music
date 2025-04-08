@@ -36,3 +36,5 @@
 - https://rawl.rocks/f/forest-gump---main-title-feather-theme
 - https://rawl.rocks/f/we-had-today
 - https://rawl.rocks/f/butterfly
+- https://rawl.rocks/f/animato-24-pieces-for-children-op.-39-no.-18---dmitri-kabalevsky
+- https://rawl.rocks/f/wedding-ballet---austin-farwell
