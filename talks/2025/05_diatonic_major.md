@@ -1,3 +1,9 @@
+## Double-tonic
+
+На этой лекции нужно будет обязательно поговорить о double-tonic, иначе рассказ будет неполным.
+- https://rawl.rocks/f/river-flows-in-you
+- https://rawl.rocks/f/Yann_Tiersen_Amelie
+
 ## Simple songs
 
 - https://rawl.rocks/f/baby-shark-song
