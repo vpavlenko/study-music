@@ -3,6 +3,7 @@
 На этой лекции нужно будет обязательно поговорить о double-tonic, иначе рассказ будет неполным.
 - https://rawl.rocks/f/river-flows-in-you
 - https://rawl.rocks/f/Yann_Tiersen_Amelie
+- https://rawl.rocks/f/idea-5---gibran-alcocer
 
 ## Simple songs
 
