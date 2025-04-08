@@ -40,3 +40,4 @@
 - https://rawl.rocks/f/butterfly
 - https://rawl.rocks/f/animato-24-pieces-for-children-op.-39-no.-18---dmitri-kabalevsky
 - https://rawl.rocks/f/wedding-ballet---austin-farwell
+- https://rawl.rocks/f/pallet-town---pokemon-red-blue-green-yellow-by-junichi-masuda
