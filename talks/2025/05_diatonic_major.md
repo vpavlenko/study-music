@@ -16,7 +16,10 @@
 
 ## Diatonic new age major
 
-- https://rawl.rocks/corpus/vicenzo_piano 3 (caveat: a no-name, maybe does not exist)
+- Vicenzo Piano (caveat: a no-name, maybe does not exist)
+  - https://rawl.rocks/f/winter---lucia-salieri-vicenzo-piano
+  - https://rawl.rocks/f/letter-to-my-mother---vicenzo-piano
+  - https://rawl.rocks/f/awakening---vicenzo-piano
 - https://rawl.rocks/corpus/jim_brickman todo, see album "no words"
 - https://rawl.rocks/corpus/kevin_kern 4
 - https://rawl.rocks/f/it-s-your-day---yiruma
