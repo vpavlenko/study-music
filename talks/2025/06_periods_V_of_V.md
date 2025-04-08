@@ -1,0 +1,1 @@
+- https://rawl.rocks/corpus/kevin_kern - defer to talk on periods
