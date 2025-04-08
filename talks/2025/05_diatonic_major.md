@@ -21,7 +21,7 @@
   - https://rawl.rocks/f/letter-to-my-mother---vicenzo-piano
   - https://rawl.rocks/f/awakening---vicenzo-piano
 - https://rawl.rocks/corpus/jim_brickman todo, see album "no words"
-- https://rawl.rocks/corpus/kevin_kern 4
+- https://rawl.rocks/corpus/kevin_kern - defer to talk on periods
 - https://rawl.rocks/f/it-s-your-day---yiruma
 - https://rawl.rocks/f/shepherd-moons---enya
 - https://rawl.rocks/f/fairytale---enya
