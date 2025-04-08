@@ -16,6 +16,8 @@
 
 ## Diatonic new age major
 
+Sorting order: start from simplest works.
+
 - Vicenzo Piano (caveat: a no-name, maybe does not exist)
   - https://rawl.rocks/f/winter---lucia-salieri-vicenzo-piano
   - https://rawl.rocks/f/letter-to-my-mother---vicenzo-piano
