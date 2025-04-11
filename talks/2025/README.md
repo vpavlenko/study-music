@@ -24,7 +24,7 @@
 
 - лекция 9. симметричные последовательности в мажоре (root cycles etc) 
 
-- лекция 10. relative symmetry, autumn leaves
+- [лекция 10. relative symmetry, autumn leaves](10_relative_symmetry.md)
 
 
 
