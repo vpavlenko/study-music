@@ -29,4 +29,4 @@
 - [лекция 11. voice-leading](11_voice_leading.md)
 
 
-- [**longlist**](longlist.md)
+[**longlist**](longlist.md)
