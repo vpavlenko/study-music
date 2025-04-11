@@ -32,8 +32,6 @@
 - https://rawl.rocks/f/awakening---vicenzo-piano
 - https://rawl.rocks/f/fairytale---enya
 - https://rawl.rocks/f/we-had-today
-- https://rawl.rocks/f/it-s-your-day---yiruma
-- https://rawl.rocks/f/a-whiter-shade-of-pale-~-david-lanz
 - https://rawl.rocks/f/butterfly
 - https://rawl.rocks/f/winter---lucia-salieri-vicenzo-piano
 - https://rawl.rocks/f/letter-to-my-mother---vicenzo-piano
