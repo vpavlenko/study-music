@@ -26,7 +26,6 @@
 
 - https://rawl.rocks/f/baby-shark-song
   - https://rawl.rocks/f/pinkfong-babyshark-anonymous-20190203093900-nonstop2k.com
-  - https://rawl.rocks/f/jaws-theme
 - https://rawl.rocks/f/the-office
 - https://rawl.rocks/f/under-no-flag-battlefield-v---johan-soderqvist-patrik-andren
 - https://rawl.rocks/100/single-loop-in-major
