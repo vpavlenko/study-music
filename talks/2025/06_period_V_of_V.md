@@ -17,6 +17,11 @@
 
 # V/V periods
 
+- https://rawl.rocks/f/jingle-bells
+- https://rawl.rocks/f/still-waters---tonci-huljic (minor circle of fifths)
+- https://rawl.rocks/f/away-in-a-manger-cradle-song (it's a hymn)
+- https://rawl.rocks/f/aphrodites_child_rain_and_tears
+- https://rawl.rocks/f/can-can
 - https://rawl.rocks/f/minuet-bwv-anhang-114-in-g-major
 
 # Pachelbel's periods
