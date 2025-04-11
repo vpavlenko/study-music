@@ -1,4 +1,8 @@
-## I and V
+## Triads in major (5 min)
+
+- https://rawl.rocks/f/animato-24-pieces-for-children-op.-39-no.-18---dmitri-kabalevsky
+
+## I and V (5 min)
 
 - https://rawl.rocks/f/der-flohwalzer
 - https://rawl.rocks/f/chopsticks
@@ -45,8 +49,3 @@
 - https://rawl.rocks/f/idea-5---gibran-alcocer
 - https://rawl.rocks/f/dearly-beloved-piano-collections-kingdom-hearts
 - https://rawl.rocks/100/double-tonic
-
-
-## Backup
-
-- https://rawl.rocks/f/portal_still_alive - modulation
