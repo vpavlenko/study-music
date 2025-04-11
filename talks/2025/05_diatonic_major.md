@@ -8,7 +8,7 @@
 - https://rawl.rocks/f/chopsticks
 - [**четыре вальса Шуберта**](01_two_chords_in_major.md)
 
-## I, IV and V
+## I, IV and V (15 min)
 
 - https://rawl.rocks/f/happy-birthday
 - https://rawl.rocks/f/Feliz_Navidad
