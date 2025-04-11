@@ -26,6 +26,7 @@
 
 - [лекция 10. relative symmetry, autumn leaves](10_relative_symmetry.md)
 
+- [лекция 11. voice-leading](11_voice_leading.md)
 
 
 - [**longlist**](longlist.md)
