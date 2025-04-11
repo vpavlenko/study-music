@@ -13,16 +13,12 @@
 - https://rawl.rocks/f/undertale-dog-song-piano-solo
 - https://rawl.rocks/f/pallet-town---pokemon-red-blue-green-yellow-by-junichi-masuda
 - https://rawl.rocks/f/fairy-tail---mirajane-no-theme---yasuharu-takanashi-fairy-tail---mirajane-no-theme---yasuharu-takanashi-mira-s-theme
+- https://rawl.rocks/f/kevin-kern---through-the-arbor
 
 # V/V periods
 
 - https://rawl.rocks/f/jingle-bells
-- https://rawl.rocks/f/away-in-a-manger-cradle-song (it's a hymn)
-- https://rawl.rocks/f/aphrodites_child_rain_and_tears
 - https://rawl.rocks/f/can-can
+- https://rawl.rocks/f/away-in-a-manger-cradle-song (it's a hymn)
+- https://rawl.rocks/f/aphrodites_child_rain_and_tears (pachelbel's canon)
 - https://rawl.rocks/f/minuet-bwv-anhang-114-in-g-major
-
-# Composers actively using periods
-
-- https://rawl.rocks/corpus/kevin_kern
-- https://rawl.rocks/corpus/jim_brickman todo, see album "no words"
