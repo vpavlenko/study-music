@@ -10,7 +10,7 @@
 
 - [лекция 2. современный натуральный минор, циклы, Gibran Alcocer](02_21_century_natural_minor_loops.md) (contemporary neoclassical piano)
 
-- [лекция 3. triadic minor with V](03_triadic_minor_V.md)
+- [лекция 3. triadic minor with V, Fabrizio Paterlini](03_triadic_minor_V.md)
 
 - [лекция 4. ещё примеры на V, аранжировка](04_V_and_arrangement.md) 
 
