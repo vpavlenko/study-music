@@ -1,4 +1,4 @@
-## minor circle of fifths
+# minor circle of fifths
 
 - https://rawl.rocks/f/passacaglia---handel-halvorsen
 - https://rawl.rocks/f/g-minor-bach-original
