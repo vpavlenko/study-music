@@ -1,13 +1,12 @@
-
-
 # Diatonic minor periods
 
 - https://rawl.rocks/f/greensleeves-for-piano-easy-and-beautiful
 - https://rawl.rocks/f/harmony-piano-arrangement-runescape-3
 - https://rawl.rocks/f/My_War_Attack_on_Titan
 - https://rawl.rocks/f/sadness-and-sorrow-for-piano-solo (double-tonic vibes)
-- https://rawl.rocks/f/the-raising-fighting-spirit---toshio-masuda---jarvis-phan (requires dorian IV)
 - https://rawl.rocks/f/cuphead---kristofer-maddigan---die-house (swing)
+- https://rawl.rocks/f/the-raising-fighting-spirit---toshio-masuda---jarvis-phan (requires dorian IV)
+
 
 # Diatonic major periods
 
@@ -23,12 +22,6 @@
 - https://rawl.rocks/f/aphrodites_child_rain_and_tears
 - https://rawl.rocks/f/can-can
 - https://rawl.rocks/f/minuet-bwv-anhang-114-in-g-major
-
-# Pachelbel's periods
-
-- https://rawl.rocks/f/itsumo-nando-demo-always-with-me---spirited-away
-- https://rawl.rocks/f/flower-dance-dj-okawari (requires Mario cadence)
-
 
 # Composers actively using periods
 
