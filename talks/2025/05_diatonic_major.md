@@ -8,7 +8,6 @@
 - https://rawl.rocks/f/chopsticks
 - https://rawl.rocks/f/pretty-belinda
 - [**четыре вальса Шуберта**](01_two_chords_in_major.md)
-- https://www.hooktheory.com/trends#key=C&scale=major&path=1.5.1.5.1
 
 ## I, IV and V
 
