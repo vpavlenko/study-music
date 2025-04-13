@@ -29,6 +29,8 @@
 - https://rawl.rocks/f/under-no-flag-battlefield-v---johan-soderqvist-patrik-andren
 - https://rawl.rocks/100/single-loop-in-major
 - https://rawl.rocks/100/different-loops-for-verse-chorus
+- https://en.wikipedia.org/wiki/List_of_chord_progressions
+- https://rawl.rocks/s/progression/four_chords
 
 ## Double-tonic
 
