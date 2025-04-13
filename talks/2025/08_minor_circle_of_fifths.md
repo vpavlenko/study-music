@@ -1,6 +1,6 @@
 # minor circle of fifths
 
-should also explain [melodic minor](https://rawl.rocks/s/chord_scale/melodic_minor)
+should also explain [melodic minor](https://rawl.rocks/s/chord_scale/melodic_minor) vs [harmonic minor](https://rawl.rocks/s/scale/harmonic_minor)
 
 - https://rawl.rocks/f/passacaglia---handel-halvorsen
 - https://rawl.rocks/f/g-minor-bach-original
