@@ -1,5 +1,7 @@
 # minor circle of fifths
 
+should also explain [melodic minor](https://rawl.rocks/s/chord_scale/melodic_minor)
+
 - https://rawl.rocks/f/passacaglia---handel-halvorsen
 - https://rawl.rocks/f/g-minor-bach-original
 - https://rawl.rocks/f/thanksgiving
@@ -15,6 +17,7 @@
 - https://rawl.rocks/f/mariage-d-amour---paul-de-senneville-marriage-d-amour
 - https://rawl.rocks/f/lettre-a-ma-mere
 - https://rawl.rocks/f/voyage-a-venice---richard-clayderman
+- https://rawl.rocks/f/hungarian-sonata---paul-de-senneville
 
 
 
