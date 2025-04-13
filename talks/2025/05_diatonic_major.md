@@ -6,11 +6,13 @@
 
 - https://rawl.rocks/f/der-flohwalzer
 - https://rawl.rocks/f/chopsticks
+- https://rawl.rocks/f/pretty-belinda
 - [**четыре вальса Шуберта**](01_two_chords_in_major.md)
 
 ## I, IV and V
 
 - https://rawl.rocks/f/happy-birthday
+- https://rawl.rocks/f/la-bamba.1
 - Schubert:
   - https://rawl.rocks/f/wima.dc1e-schubert_deut.tanzd365.12
   - https://rawl.rocks/f/wima.d5ac-schubert_deut.tanzd365.13
