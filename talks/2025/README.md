@@ -16,6 +16,4 @@
 9. [smooth bass line, pachelbel's canon, root cycles](09_major_progressions.md)
 10. [relative symmetry, autumn leaves](10_relative_symmetry.md)
 11. [voice-leading](11_voice_leading.md)
-
-
-[**longlist**](longlist.md)
+12. ... [**longlist**](longlist.md)
