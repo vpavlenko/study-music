@@ -11,21 +11,23 @@
 ## I, IV and V
 
 - https://rawl.rocks/f/happy-birthday
-- https://rawl.rocks/f/shepherd-moons---enya
 - Schubert:
   - https://rawl.rocks/f/wima.dc1e-schubert_deut.tanzd365.12
   - https://rawl.rocks/f/wima.d5ac-schubert_deut.tanzd365.13
   - https://rawl.rocks/f/wima.e3f7-schubert_deut.tanzd365.17
   - https://rawl.rocks/f/wima.3657-schubert_deut.tanzd365.18
 
-
-## Loops
+# I, IV, V and vi
 
 - https://rawl.rocks/f/Feliz_Navidad
   - https://rawl.rocks/f/feliz-navidad.2
+- https://rawl.rocks/f/shepherd-moons---enya
+- https://www.hooktheory.com/theorytab/difficulties/beginner
+
+## Loops
+
 - https://rawl.rocks/f/baby-shark-song
   - https://rawl.rocks/f/pinkfong-babyshark-anonymous-20190203093900-nonstop2k.com
-- [IAL E21](https://youtu.be/a-AqhlfV_Pk?si=b51y-67DWkeZTaHx&t=170)
 - https://rawl.rocks/f/the-office
 - https://rawl.rocks/f/under-no-flag-battlefield-v---johan-soderqvist-patrik-andren
 
@@ -35,8 +37,7 @@
 - https://rawl.rocks/100/different-loops-for-verse-chorus
 - https://en.wikipedia.org/wiki/List_of_chord_progressions
 - https://rawl.rocks/s/progression/four_chords
-- https://www.hooktheory.com/theorytab/difficulties/beginner
-- https://www.hooktheory.com/theorytab/difficulties/beginner-ii
+
 
 ## Double-tonic
 
@@ -59,6 +60,6 @@
 - https://rawl.rocks/f/minuet-from-music-for-the-royal-fireworks---georg-friedrich-handel
 - https://rawl.rocks/f/winter---lucia-salieri-vicenzo-piano
 - https://rawl.rocks/f/letter-to-my-mother---vicenzo-piano
-
+- https://www.hooktheory.com/theorytab/difficulties/beginner-ii
 
 
