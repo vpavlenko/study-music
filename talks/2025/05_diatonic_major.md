@@ -11,8 +11,6 @@
 ## I, IV and V
 
 - https://rawl.rocks/f/happy-birthday
-- https://rawl.rocks/f/Feliz_Navidad
-  - https://rawl.rocks/f/feliz-navidad.2
 - https://rawl.rocks/f/shepherd-moons---enya
 - Schubert:
   - https://rawl.rocks/f/wima.dc1e-schubert_deut.tanzd365.12
@@ -23,6 +21,8 @@
 
 ## Loops
 
+- https://rawl.rocks/f/Feliz_Navidad
+  - https://rawl.rocks/f/feliz-navidad.2
 - https://rawl.rocks/f/baby-shark-song
   - https://rawl.rocks/f/pinkfong-babyshark-anonymous-20190203093900-nonstop2k.com
 - https://rawl.rocks/f/the-office
