@@ -50,15 +50,6 @@
 - https://rawl.rocks/f/Yann_Tiersen_Amelie
 - https://rawl.rocks/f/comptine-d-un-autre-ete-arr.-kyle-landry-2021
 
-## parallel/relative symmetry
-
-- https://rawl.rocks/f/wima.738b-schubert_de.-tanz-d.365.27
-- https://rawl.rocks/f/schubert-ecossaise-no-8-op-18-d.145
-- https://rawl.rocks/f/schumann-the-wild-horseman-op.-68-no.-8
-- https://rawl.rocks/f/schubert-waltz-in-b-minor-op.-18-no.-6-d.145
-- https://rawl.rocks/f/wima.01fa-schubert_deut.tanz-d.365.22
-- https://rawl.rocks/f/jeux-interdits
-- https://rawl.rocks/f/happy-birthday-insane
 
 
 ## DJ Okawari
@@ -70,21 +61,6 @@
 - https://rawl.rocks/f/runaway---kanye-west-ramin-djawadi-arr.-by-alex-patience
 - https://rawl.rocks/f/the-office
 - https://rawl.rocks/corpus/dan_salvato
-
-## субдоминанта
-
-- Schubert D. 365 #2, #13, #17, #18
-- happy birthday
-- гармонь 25 \* 12
-- https://rawl.rocks/f/undertale-dog-song-piano-solo
-
-## TheFatRat: minor pentatonic
-
-- https://rawl.rocks/corpus/thefatrat
-
-## Parov Stelar: blues scale
-
-https://rawl.rocks/corpus/parov_stelar
 
 ## Philip Glass: minimalism
 
@@ -102,10 +78,6 @@ https://rawl.rocks/corpus/parov_stelar
 - https://rawl.rocks/f/fee-just-piano-version---fkj
 - https://rawl.rocks/f/meeting-again-in-the-void-just-piano-version---fkj
 
-## autumn leaves
-
-https://rawl.rocks/s/cycle_root_motion/autumn_leaves
-
 ## Boogie Woogie
 
 - https://rawl.rocks/corpus/boogie_woogie
@@ -117,15 +89,6 @@ https://rawl.rocks/s/cycle_root_motion/autumn_leaves
 - https://rawl.rocks/s/cycle_root_motion/second_down
 - https://rawl.rocks/corpus/pedro_silva
 
-## voice-leading
-
-- Schubert D.365 #5, #7, #10, #11
-- diatonic/chromatic bass/lines
-
-## second up
-
-- https://rawl.rocks/s/cycle_root_motion/second_up
-
 ## pachelbel's canon
 
 - https://rawl.rocks/s/progression/pachelbels_canon
@@ -135,29 +98,9 @@ https://rawl.rocks/s/cycle_root_motion/autumn_leaves
 
 - https://rawl.rocks/s/progression/minor_pachelbel
 
-## sus4
-
-- https://rawl.rocks/s/V/sus4
-
-## Blues scale ideas
-
-- https://rawl.rocks/s/scale/blues
-
-## Yiruma, First Love
-
-- https://rawl.rocks/corpus/yiruma_first_love
-
 ## Fkj
 
 - https://rawl.rocks/corpus/fkj
-
-## C418 Minecraft
-
-- https://rawl.rocks/corpus/minecraft_c418
-
-## dorian IV
-
-- https://rawl.rocks/s/dorian/episodic
 
 ## applieds - Schubert D.365
 
@@ -221,10 +164,6 @@ Easier minor
 
 - https://rawl.rocks/corpus/zequinha_de_abreu
 
-## chord scales
-
-- https://rawl.rocks/s/chord_scale/iii
-
 ## symmetric chords
 
 - https://rawl.rocks/s/symmetric_chords/diminished
@@ -232,18 +171,6 @@ Easier minor
 ## Ger
 
 - https://rawl.rocks/s/chromatic_chords/Ger
-
-## bII
-
-- https://rawl.rocks/s/chromatic_chords/bII
-
-## applied viio7/
-
-- https://rawl.rocks/s/applied/viio7/V
-
-## cto7
-
-- https://rawl.rocks/s/cto7/to_I
 
 ## Tom Lehrer
 
