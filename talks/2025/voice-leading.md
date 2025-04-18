@@ -1,0 +1,5 @@
+- https://rawl.rocks/s/voice-leading/chromatic_bass
+- https://rawl.rocks/s/voice-leading/chromatic_inner_voice
+- https://rawl.rocks/s/voice-leading/line_cliche
+- https://rawl.rocks/s/bass/diatonic_line_down
+- https://rawl.rocks/s/bass/diatonic_line_up
