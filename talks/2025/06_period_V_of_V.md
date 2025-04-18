@@ -42,8 +42,7 @@
 Также можете попробовать решить задание 3.27 из [Caplin](https://www.dropbox.com/scl/fi/kokofqpcytf8qx2pamixf/William-E.-Caplin-Analyzing-Classical-Form_-An-Approach-for-the-Classroom-Oxford-University-Press-2013.pdf?rlkey=cqt90egnyj5wl5r5jolo813ol&st=mtaspzvb&dl=0).
 
 > Use the opening basic idea in Example 3.27 to create a nonmodulating,
-8-m. period. End the antecedent with a half cadence. Begin the conse-
-quent with a restatement of the basic idea (possibly varied, but don’t
+8-m. period. End the antecedent with a half cadence. Begin the consequent with a restatement of the basic idea (possibly varied, but don’t
 overdo it!), ending that phrase with a PAC. Analyze the harmony, form,
 and cadences.
 
