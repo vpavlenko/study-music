@@ -39,7 +39,7 @@
 
 Сочинить что угодно с темой в форме периода, использовать V/V.
 
-Также можете попробовать решить задание 3.27 из [Caplin](https://www.dropbox.com/scl/fi/kokofqpcytf8qx2pamixf/William-E.-Caplin-Analyzing-Classical-Form_-An-Approach-for-the-Classroom-Oxford-University-Press-2013.pdf?rlkey=cqt90egnyj5wl5r5jolo813ol&st=mtaspzvb&dl=0).
+Также можете попробовать решить [задание 3.27](https://rawl.rocks/ef/6QrBgb2uUOnRaqGKg2AV/1) из [Caplin](https://www.dropbox.com/scl/fi/kokofqpcytf8qx2pamixf/William-E.-Caplin-Analyzing-Classical-Form_-An-Approach-for-the-Classroom-Oxford-University-Press-2013.pdf?rlkey=cqt90egnyj5wl5r5jolo813ol&st=mtaspzvb&dl=0).
 
 <img width="952" alt="Screenshot 2025-04-18 at 17 52 47" src="https://github.com/user-attachments/assets/5801ecfb-d5e5-4389-b23b-ecc744974c37" />
 
