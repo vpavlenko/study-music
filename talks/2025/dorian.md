@@ -1,4 +1,4 @@
-# Dorian IV
+# Dorian IV (incl. periods)
 
 # Dorian shuttle
 
