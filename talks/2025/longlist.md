@@ -18,8 +18,6 @@
 
 - autumn leaves, ii V I-джаз в септаккордах
 
-- diminished chords: viio7/, cto7
-
 - bII
 
 - chord scale, extensions
