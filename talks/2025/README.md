@@ -20,5 +20,5 @@
 7. [пентатоника](pentatonic.md)
 9. [smooth bass line, pachelbel's canon, root cycles](major_progressions.md)
 10. [relative symmetry, autumn leaves](relative_symmetry.md)
-11. [voice-leading](voice_leading.md)
+11. [voice-leading](voice-leading.md)
 12. ... [**longlist**](longlist.md)
