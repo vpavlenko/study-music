@@ -1,7 +1,5 @@
 - parov stelar: блюзовая гамма
 
-- relative symmetry, minor's pachelbel, autumn leaves
-
 - буги-вуги
 
 - шатлы
@@ -16,7 +14,7 @@
 
 - формулы конца: lush arpeggios (last chord), picardy third and mario cadence, coda
 
-- autumn leaves, ii V I-джаз в септаккордах
+- ii V I-джаз в септаккордах
 
 - bII
 
