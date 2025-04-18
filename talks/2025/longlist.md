@@ -14,7 +14,7 @@
 
 - простые регтаймы: Theo Northrup
 
-- формулы конца: lush arpeggios, picardy third, coda
+- формулы конца: lush arpeggios (last chord), picardy third and mario cadence, coda
 
 - autumn leaves, ii V I-джаз в септаккордах
 
