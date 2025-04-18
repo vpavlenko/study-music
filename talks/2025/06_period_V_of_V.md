@@ -34,3 +34,17 @@
 
 - https://rawl.rocks/f/minuet-bwv-anhang-114-in-g-major
 - https://rawl.rocks/f/bosun-bill---sea-of-thieves
+
+# Домашка
+
+Сочинить что угодно с темой в форме периода, использовать V/V.
+
+Также можете попробовать решить задание 3.27 из [Caplin](https://www.dropbox.com/scl/fi/kokofqpcytf8qx2pamixf/William-E.-Caplin-Analyzing-Classical-Form_-An-Approach-for-the-Classroom-Oxford-University-Press-2013.pdf?rlkey=cqt90egnyj5wl5r5jolo813ol&st=mtaspzvb&dl=0).
+
+> Use the opening basic idea in Example 3.27 to create a nonmodulating,
+8-m. period. End the antecedent with a half cadence. Begin the conse-
+quent with a restatement of the basic idea (possibly varied, but don’t
+overdo it!), ending that phrase with a PAC. Analyze the harmony, form,
+and cadences.
+
+(Скажите, если вы захотите понять какие-то страницы или главы из Caplin. Он там весь в нотной нотации, но я могу сделать все примеры оттуда цветными.)
