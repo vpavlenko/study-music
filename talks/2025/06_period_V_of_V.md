@@ -26,6 +26,11 @@
 - https://rawl.rocks/f/away-in-a-manger-cradle-song (it's a hymn)
 - https://rawl.rocks/f/aphrodites_child_rain_and_tears (pachelbel's canon)
 
+# More V/V
+
+- https://rawl.rocks/f/one-little-waltz-tonight---andrea-vanzo
+- https://rawl.rocks/100/v7-v
+
 # Preview of classic tonality
 
 - https://rawl.rocks/f/minuet-bwv-anhang-114-in-g-major
