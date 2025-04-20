@@ -18,7 +18,7 @@
 - https://rawl.rocks/f/kevin-kern---through-the-arbor
 - https://rawl.rocks/f/fairytale---enya
 
-# V/V periods (20 min)
+# V/V periods (15 min)
 
 - https://rawl.rocks/f/jingle-bells
 - https://rawl.rocks/f/can-can
@@ -31,7 +31,7 @@
 - https://rawl.rocks/f/one-little-waltz-tonight---andrea-vanzo
 - https://rawl.rocks/100/v7-v
 
-# Preview of classic tonality
+# Preview of classic tonality (5 min)
 
 - https://rawl.rocks/f/minuet-bwv-anhang-114-in-g-major
 - https://rawl.rocks/f/bosun-bill---sea-of-thieves
