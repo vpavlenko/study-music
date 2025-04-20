@@ -20,6 +20,8 @@
 
 # V/V periods (15 min)
 
+V/V = II
+
 - https://rawl.rocks/f/jingle-bells
 - https://rawl.rocks/f/can-can
 - https://rawl.rocks/f/piano-man-piano
