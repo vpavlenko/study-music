@@ -1,9 +1,15 @@
+
+
+- https://en.wikipedia.org/wiki/Period_(music)
+
+
 # Diatonic minor periods (10 min)
 
 - https://rawl.rocks/f/sadness-and-sorrow-for-piano-solo
 - https://rawl.rocks/f/harmony-piano-arrangement-runescape-3
+- https://rawl.rocks/f/cuphead---kristofer-maddigan---die-house
 - https://rawl.rocks/f/My_War_Attack_on_Titan (two periods)
-- https://rawl.rocks/f/cuphead---kristofer-maddigan---die-house (swing)
+
 
 
 # Diatonic major periods (20 min)
