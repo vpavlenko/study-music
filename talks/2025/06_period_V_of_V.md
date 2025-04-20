@@ -1,4 +1,4 @@
-# Diatonic minor periods
+# Diatonic minor periods (10 min)
 
 - https://rawl.rocks/f/sadness-and-sorrow-for-piano-solo
 - https://rawl.rocks/f/harmony-piano-arrangement-runescape-3
@@ -6,7 +6,7 @@
 - https://rawl.rocks/f/cuphead---kristofer-maddigan---die-house (swing)
 
 
-# Diatonic major periods
+# Diatonic major periods (20 min)
 
 - https://www.music.mcgill.ca/acf/example3-1.php
   - [Caplin 3.1](https://rawl.rocks/f/serenade-no.-13-_eine-kleine-nachtmusik_-k525---ii.-romanze)
@@ -18,7 +18,7 @@
 - https://rawl.rocks/f/kevin-kern---through-the-arbor
 - https://rawl.rocks/f/fairytale---enya
 
-# V/V periods
+# V/V periods (20 min)
 
 - https://rawl.rocks/f/jingle-bells
 - https://rawl.rocks/f/can-can
@@ -26,7 +26,7 @@
 - https://rawl.rocks/f/away-in-a-manger-cradle-song (it's a hymn)
 - https://rawl.rocks/f/aphrodites_child_rain_and_tears (pachelbel's canon)
 
-# More V/V
+# More V/V (10 min)
 
 - https://rawl.rocks/f/one-little-waltz-tonight---andrea-vanzo
 - https://rawl.rocks/100/v7-v
