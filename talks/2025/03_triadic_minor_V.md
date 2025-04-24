@@ -37,3 +37,4 @@
 - https://rawl.rocks/f/My_War_Attack_on_Titan
 - https://rawl.rocks/f/attack-on-titan-theme-guren-no-yumiya
 - https://rawl.rocks/f/tango-to-evora
+- https://rawl.rocks/f/next-to-you-parasite-ost-by-ken-arai
