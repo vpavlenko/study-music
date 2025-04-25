@@ -14,3 +14,6 @@
 # Dorian melody
 
 
+# Dorian extension
+
+- http://rawl.rocks/s/extensions/minor_iadd6
