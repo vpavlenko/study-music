@@ -24,6 +24,7 @@
 - https://rawl.rocks/f/kevin-kern---through-the-arbor
 - https://rawl.rocks/f/fairytale---enya
 
+
 # V/V periods (15 min)
 
 V/V = II
@@ -35,12 +36,11 @@ V/V = II
 - https://rawl.rocks/f/aphrodites_child_rain_and_tears (pachelbel's canon)
 - https://rawl.rocks/f/tico-tico-no-fuba---zequinha-de-abreu
 - https://rawl.rocks/f/bosun-bill---sea-of-thieves
-
+- https://rawl.rocks/f/my-old-kentucky-home---stephen-collins-foster (all major chords)
 
 # More V/V (10 min)
 
 - https://rawl.rocks/f/one-little-waltz-tonight---andrea-vanzo
-- https://rawl.rocks/f/stephen-foster---hard-times-come-again-no-more
 - https://rawl.rocks/100/v7-v
 
 
