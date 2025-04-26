@@ -14,7 +14,6 @@ should also explain [melodic minor](https://rawl.rocks/s/chord_scale/melodic_min
 
 # Paul de Senneville
 
-- https://rawl.rocks/f/nostalgy-by-olivier-toussaint-arranged-richard-clayderman-for-piano
 - https://rawl.rocks/f/mariage-d-amour---paul-de-senneville-marriage-d-amour
 - https://rawl.rocks/f/lettre-a-ma-mere
 - https://rawl.rocks/f/voyage-a-venice---richard-clayderman
