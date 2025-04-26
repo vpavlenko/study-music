@@ -8,6 +8,7 @@ should also explain [melodic minor](https://rawl.rocks/s/chord_scale/melodic_min
 - https://rawl.rocks/f/thanksgiving
 - https://rawl.rocks/f/piano---raul-di-blasio
 - https://rawl.rocks/f/ennio-morricone-chi-mai-from-le-professionnel-easy-piano-arr.-by-free-musickey (V/iv)
+- https://rawl.rocks/f/vivaldi---summer---piano
 
 # Paul de Senneville
 
@@ -16,8 +17,5 @@ should also explain [melodic minor](https://rawl.rocks/s/chord_scale/melodic_min
 - https://rawl.rocks/f/voyage-a-venice---richard-clayderman
 - https://rawl.rocks/f/hungarian-sonata---paul-de-senneville
 
-# bII в minor circle of fifths
 
-- https://rawl.rocks/f/promenade-dans-les-bois
-- https://rawl.rocks/f/vivaldi---summer---piano
-- https://rawl.rocks/f/batoru2-battle-2---romansingu-saga-romancing-saga-sfc-snes---kenji-ito
+
