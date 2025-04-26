@@ -1,3 +1,11 @@
 - https://rawl.rocks/s/chunks/bIII_IV
 - https://rawl.rocks/s/mixolydian/inflection
 - https://rawl.rocks/100/vii-in-major
+- https://rawl.rocks/s/chromatic_chords/bVII
+- https://rawl.rocks/s/chromatic_chords/bIII
+- https://rawl.rocks/s/chromatic_chords/bVI
+- http://rawl.rocks/s/chunks/bVII_IV_I
+- https://rawl.rocks/corpus/suzanne_ciani
+- https://rawl.rocks/corpus/fabrizio_paterlini
+- https://rawl.rocks/f/going-places---dennis-alexander
+- https://rawl.rocks/s/cycle_root_motion/reverse_autumn_leaves
