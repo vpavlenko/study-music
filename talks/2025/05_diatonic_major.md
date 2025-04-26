@@ -62,6 +62,7 @@
 - https://rawl.rocks/f/winter---lucia-salieri-vicenzo-piano
 - https://rawl.rocks/f/letter-to-my-mother---vicenzo-piano
 - https://rawl.rocks/f/triste-coeur
+- https://rawl.rocks/f/revivre-sa-vie--richard-clayderman
 - https://www.hooktheory.com/theorytab/difficulties/beginner-ii
 
 
