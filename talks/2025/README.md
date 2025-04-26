@@ -15,7 +15,7 @@
 4. [ещё примеры на V, аранжировка](04_V_and_arrangement.md) 
 5. [диатонический мажор](05_diatonic_major.md)
 6. [период, V/V](06_period_V_of_V.md)
-8. [minor circle of fifths, Paul de Senneville](minor_circle_of_fifths.md)
+8. [minor circle of fifths](minor_circle_of_fifths.md)
 9. [дорийский минор](dorian.md)
 7. [пентатоника](pentatonic.md)
 9. [smooth bass line, pachelbel's canon, root cycles](major_progressions.md)
