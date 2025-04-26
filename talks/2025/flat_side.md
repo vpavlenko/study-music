@@ -4,6 +4,7 @@
 - https://rawl.rocks/s/chromatic_chords/bVII
 - https://rawl.rocks/s/chromatic_chords/bIII
 - https://rawl.rocks/s/chromatic_chords/bVI
+- https://rawl.rocks/s/chromatic_chords/iv
 - http://rawl.rocks/s/chunks/bVII_IV_I
 - https://rawl.rocks/corpus/suzanne_ciani
 - https://rawl.rocks/corpus/fabrizio_paterlini
