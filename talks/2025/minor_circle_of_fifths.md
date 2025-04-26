@@ -17,5 +17,8 @@ should also explain [melodic minor](https://rawl.rocks/s/chord_scale/melodic_min
 - https://rawl.rocks/f/voyage-a-venice---richard-clayderman
 - https://rawl.rocks/f/hungarian-sonata---paul-de-senneville
 
+# домашка
 
-
+Помимо сочинения, попробуйте:
+- Найти ещё примеры произведений на minor circle of fifths. Если услышите где-то — обязательно шазамьте и присылайте. Вообще, если какие-то структуры из лекций вы начнёте слышать в музыке вокруг — присылайте.
+- Подумать, встречается ли эта структура в мажоре. (Размышления пишите в чат со спойлером.)
