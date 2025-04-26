@@ -10,6 +10,7 @@
 - https://vpavlenko.github.io/layouts/roman-numerals
 - как писать V в редакторе (5 min)
 - минорная и мажорная гамма vs аккорд (3 min)
+- https://rawl.rocks/s/V/v_vs_V
 
 
 
