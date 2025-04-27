@@ -9,8 +9,8 @@
 
 # melodic vs harmonic minor
 
-- [melodic minor](https://rawl.rocks/s/chord_scale/melodic_minor)
 - [harmonic minor](https://rawl.rocks/s/scale/harmonic_minor)
+- [melodic minor](https://rawl.rocks/s/chord_scale/melodic_minor)
 - https://rawl.rocks/f/vivaldi---summer---piano
 
 # Paul de Senneville
