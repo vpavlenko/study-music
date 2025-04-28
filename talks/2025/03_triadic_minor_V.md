@@ -39,3 +39,4 @@
 - https://rawl.rocks/f/attack-on-titan-theme-guren-no-yumiya
 - https://rawl.rocks/f/tango-to-evora
 - https://rawl.rocks/f/next-to-you-parasite-ost-by-ken-arai
+- https://rawl.rocks/f/waltz-of-the-temple-forest-elves-trine-2-soundtrack
