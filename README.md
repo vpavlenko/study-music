@@ -87,7 +87,7 @@ The languages are (roughly speaking):
 - [**Video games**](parts/vgm.md)
 - [**EDM**](parts/edm.md)
 - Other genres like country, gospel, contemporary worship music, rap
-- Western regional traditions (eg. [Latin](https://www.halleonard.com/menu/562/latin), flamenco?)
+- Western regional traditions (eg. [Latin](https://www.halleonard.com/menu/562/latin), [Flamenco](https://en.wikipedia.org/wiki/Palo_(flamenco)))
 
 Somewhat related to that are church chants: Gregorian, Byzantine, Armenian, [Znamenny](https://files.tandav.me/orthodox-midi/rawl.html)
 
