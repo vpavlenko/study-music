@@ -13,7 +13,7 @@
 
 - побочные доминанты
 
-- простые регтаймы: Theo Northrup
+- простые регтаймы: Theo Northrup, Theo A Metz
 
 - формулы конца: lush arpeggios (last chord), picardy third and mario cadence, coda
 
