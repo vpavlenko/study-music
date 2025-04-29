@@ -13,6 +13,7 @@
 
 - https://rawl.rocks/f/happy-birthday
 - https://rawl.rocks/f/la-bamba.1
+- https://rawl.rocks/f/la-schottische
 - Schubert:
   - https://rawl.rocks/f/wima.dc1e-schubert_deut.tanzd365.12
   - https://rawl.rocks/f/wima.d5ac-schubert_deut.tanzd365.13
