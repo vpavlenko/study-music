@@ -26,7 +26,6 @@
   - https://rawl.rocks/f/feliz-navidad.2
 - https://rawl.rocks/f/baby-shark-song
   - https://rawl.rocks/f/pinkfong-babyshark-anonymous-20190203093900-nonstop2k.com
-- https://rawl.rocks/f/goodbye-hachiko 
 - https://www.hooktheory.com/theorytab/difficulties/beginner
 
 ## Loops
