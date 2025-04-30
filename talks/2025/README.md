@@ -28,5 +28,7 @@
 17. [voice-leading](voice-leading.md)
 18. [extensions](extensions.md)
 19. [rhythm changes](rhythm_changes.md)
+20. bII, Ger
+21. b2 scales
 16. ... [**longlist**](longlist.md)
 
