@@ -24,5 +24,7 @@
 12. [constant structures](constant_structures.md)
 13. [blues](blues.md)
 14. [flat side](flat_side.md)
-15. ... [**longlist**](longlist.md)
-16. [voice-leading](voice-leading.md)
+15. [diminished chords](diminished_chords.md)
+17. [voice-leading](voice-leading.md)
+16. ... [**longlist**](longlist.md)
+
