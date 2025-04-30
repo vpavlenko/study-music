@@ -1,0 +1,3 @@
+- https://rawl.rocks/s/chromatic_chords/minor_bvi
+- https://rawl.rocks/s/chromatic_chords/sharpIV
+- https://rawl.rocks/s/constant_structures/major_chords
