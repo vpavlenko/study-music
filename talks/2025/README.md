@@ -23,5 +23,6 @@
 11. [applied dominants](applied.md)
 12. [constant structures](constant_structures.md)
 13. [blues](blues.md)
-14. ... [**longlist**](longlist.md)
-15. [voice-leading](voice-leading.md)
+14. [flat side](flat_side.md)
+15. ... [**longlist**](longlist.md)
+16. [voice-leading](voice-leading.md)
