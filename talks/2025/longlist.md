@@ -1,17 +1,11 @@
-- flat_side.md
 - tonicization_of_iv.md
-- extensions.md
 - parov stelar: блюзовая гамма
 
 - буги-вуги
 
 - шатлы
 
-- IV iii ii I
-
 - C418
-
-- побочные доминанты
 
 - простые регтаймы: Theo Northrup, Theo A Metz
 
@@ -147,13 +141,6 @@ Easier minor
 
 ## Plants vs Zombies
 
-
-## Bo Burnham
-
-## Constant structures
-
-- https://rawl.rocks/s/constant_structures/major_chords
-
 ## Manfred Schmitz
 
 - https://rawl.rocks/corpus/manfred_schmitz
@@ -161,10 +148,6 @@ Easier minor
 ## Zequinha de Abreu's choros
 
 - https://rawl.rocks/corpus/zequinha_de_abreu
-
-## symmetric chords
-
-- https://rawl.rocks/s/symmetric_chords/diminished
 
 ## Ger
 
