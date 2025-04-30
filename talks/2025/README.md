@@ -28,7 +28,8 @@
 17. [voice-leading](voice-leading.md)
 18. [extensions](extensions.md)
 19. [rhythm changes](rhythm_changes.md)
-20. bII, Ger
+20. bII, Ger, I iv, IV iv
 21. b2 scales
+22. augmented chord, whole-tone scale, neo-riemannian
 16. ... [**longlist**](longlist.md)
 
