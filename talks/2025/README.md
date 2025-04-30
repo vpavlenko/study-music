@@ -22,5 +22,6 @@
 10. [relative symmetry, autumn leaves](relative_symmetry.md)
 11. [applied dominants](applied.md)
 12. [constant structures](constant_structures.md)
-13. ... [**longlist**](longlist.md)
-14. [voice-leading](voice-leading.md)
+13. [blues](blues.md)
+14. ... [**longlist**](longlist.md)
+15. [voice-leading](voice-leading.md)
