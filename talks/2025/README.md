@@ -26,5 +26,6 @@
 14. [flat side](flat_side.md)
 15. [diminished chords](diminished_chords.md)
 17. [voice-leading](voice-leading.md)
+18. [extensions](extensions.md)
 16. ... [**longlist**](longlist.md)
 
