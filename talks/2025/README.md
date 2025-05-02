@@ -18,7 +18,7 @@
 8. [minor circle of fifths](minor_circle_of_fifths.md)
 9. [дорийский минор](dorian.md)
 7. [пентатоника](pentatonic.md)
-9. [smooth bass line, pachelbel's canon, root cycles](major_progressions.md)
+9. [pachelbel's canon, root cycles](major_progressions.md)
 10. [relative symmetry, autumn leaves](relative_symmetry.md)
 11. [applied dominants](applied.md)
 12. [constant structures](constant_structures.md)
