@@ -1,3 +1,5 @@
+- https://rawl.rocks/100/iv-in-minor
+
 # Dorian IV (incl. periods)
 
 - https://rawl.rocks/f/manfredschmitzunpeutriste  - no dorian melody!
