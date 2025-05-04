@@ -7,6 +7,7 @@ Also explain picardy third.
 Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. Or in cadence: IV V.
 
 - https://rawl.rocks/100/iv-in-minor (here first four example)
+- https://rawl.rocks/s/dorian/IV
 - https://rawl.rocks/f/Pokemon_Theme_Song
 - https://rawl.rocks/f/love-is-blue---paul-mauriat-love-is-blue-easyish
 - https://rawl.rocks/f/tokyo-ghoul---licht-und-schatten-akmigone-transcription
