@@ -10,7 +10,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/s/dorian/IV
 - https://rawl.rocks/f/Pokemon_Theme_Song
 - https://rawl.rocks/f/tokyo-ghoul---licht-und-schatten-akmigone-transcription
-- https://rawl.rocks/f/manfredschmitzunpeutriste  - no dorian melody!
+- https://rawl.rocks/f/manfredschmitzunpeutriste
 - https://rawl.rocks/f/academy-hallways
 - https://rawl.rocks/f/brawl-stars-ost---battle-8
 - https://rawl.rocks/f/brawl-star
@@ -20,6 +20,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/malevolent-shrine---yoshimasa-terui---jujutsu-kaisen-s2-ost-full-version
 - https://rawl.rocks/f/mass-effect-2-suicide-mission-end-run
 - https://rawl.rocks/f/blue-bird
+- https://rawl.rocks/f/plelude---vangelis
 - **https://rawl.rocks/s/dorian/vs_minor_iv**
 - https://rawl.rocks/f/beast-of-england-animal-farm-1954---matyas-seiber-piano-transcription
 - https://rawl.rocks/f/chocolat---main-titles
