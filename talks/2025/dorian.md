@@ -2,7 +2,7 @@
 
 Also explain picardy third.
 
-## Episodic (30 min)
+## Episodic (25 min)
 
 Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. Or in cadence: IV V.
 
@@ -52,7 +52,7 @@ Skip for the sake of time: treat in voice-leading.
 - https://rawl.rocks/f/heated-mind---falcom-sound-team-jdk
 - https://rawl.rocks/f/fallout-4-main-theme
 
-# Cadential ii
+# Cadential ii (5 min)
 
 - https://rawl.rocks/s/dorian/ii
 
