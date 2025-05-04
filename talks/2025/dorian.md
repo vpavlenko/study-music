@@ -2,11 +2,9 @@
 
 Also explain picardy third.
 
-## Episodic
+## Episodic (30 min)
 
 Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. Or in cadence: IV V.
-
-
 
 - https://rawl.rocks/100/iv-in-minor (here first four example)
 - https://rawl.rocks/f/Pokemon_Theme_Song
@@ -31,7 +29,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/green-greens---jun-ishikawa
 - https://rawl.rocks/f/seven-nation-army-arr.-nikodem-lorenz (pentatonic cadence? idk)
 
-## Coda IV
+## Coda IV (5 min)
 
 - https://rawl.rocks/f/kass-theme--full-the-legend-of-zelda-breath-of-the-wild
 - https://rawl.rocks/f/andrea---manfred-schmitz
@@ -58,7 +56,7 @@ Skip for the sake of time: treat in voice-leading.
 
 - https://rawl.rocks/s/dorian/ii
 
-# Dorian melody
+# Dorian melody (10 min)
 
 - https://rawl.rocks/f/angry-birds-theme---ari-pulkkinen-angry-birds-theme
 - https://rawl.rocks/f/gloomy-village-of-cottondale---spooky-autumn-ii---derek-brandon-fiechter (drone)
@@ -73,7 +71,7 @@ Skip for the sake of time: treat in voice-leading.
 - https://rawl.rocks/f/heroes-of-might-and-magic-2--sorceress-town---paul-anthony-romero (second voice)
 
 
-# Dorian loops (double-tonic)
+# Dorian loops (double-tonic) (10 min)
 
 - https://rawl.rocks/f/brawl-stars---draw-theme
 - https://rawl.rocks/f/the-weeknd---blinding-lights---advanced-cover-by-majorandminor
@@ -85,7 +83,7 @@ Skip for the sake of time: treat in voice-leading.
 - https://rawl.rocks/f/Mad_world_Piano
 
 
-# Dorian shuttle
+# Dorian shuttle (5 min)
 
 - https://rawl.rocks/f/n-a-v-s-t-e-v-n-i-c-i
 - https://rawl.rocks/f/christina-steins-gate
