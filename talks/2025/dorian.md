@@ -17,6 +17,11 @@
 - https://rawl.rocks/f/pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki---gennadiy-gladkov-pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki-g.-gladkov (V/V in bIII tonicization)
 
 
+## Complex IV, skip for now
+
+- https://rawl.rocks/f/come-sei-veramente-~-giovani-allevi
+- 
+
 # Dorian shuttle
 
 - https://rawl.rocks/f/Mad_world_Piano (double-tonic four chord progression)
