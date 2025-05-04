@@ -26,6 +26,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 ## Chromatic bass line
 
 - https://rawl.rocks/f/ender-lilies-quietus-of-the-knights---holy-land-save-ver.
+- https://rawl.rocks/f/cirkus-humberto
 - https://rawl.rocks/s/voice-leading/chromatic_bass
 - https://rawl.rocks/f/hotel-california.7 (implied)
 
