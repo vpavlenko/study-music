@@ -8,7 +8,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 
 - https://rawl.rocks/100/iv-in-minor (here first four example)
 - https://rawl.rocks/s/dorian/IV
-- https://rawl.rocks/f/Pokemon_Theme_Song (bridge)
+- https://rawl.rocks/f/Pokemon_Theme_Song
 - https://rawl.rocks/f/tokyo-ghoul---licht-und-schatten-akmigone-transcription
 - https://rawl.rocks/f/manfredschmitzunpeutriste  - no dorian melody!
 - https://rawl.rocks/f/academy-hallways
@@ -42,18 +42,18 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 ## Complex IV, skip for now
 
 - https://rawl.rocks/f/come-sei-veramente-~-giovani-allevi
-- 
 
 # Dorian shuttle
 
-
+- https://rawl.rocks/f/n-a-v-s-t-e-v-n-i-c-i
+- https://rawl.rocks/f/christina-steins-gate
 - https://rawl.rocks/f/Mad_world_Piano (double-tonic four chord progression)
 
 # Dorian melody
 
 - https://rawl.rocks/f/angry-birds-theme---ari-pulkkinen-angry-birds-theme
-- https://rawl.rocks/f/undertale---ruins-piano
 - https://rawl.rocks/f/gloomy-village-of-cottondale---spooky-autumn-ii---derek-brandon-fiechter (drone)
+- https://rawl.rocks/f/undertale---ruins-piano
 - https://rawl.rocks/f/two-rivers---suikoden-2
 - https://rawl.rocks/f/ys-viii---dana-arcanashift
 - https://rawl.rocks/f/fate-apocrypha-hope---masaru-yokoyama
@@ -66,3 +66,4 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 
 - http://rawl.rocks/s/extensions/minor_iadd6
 - https://rawl.rocks/f/sowhat
+- https://rawl.rocks/f/riofunk
