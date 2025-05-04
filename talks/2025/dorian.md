@@ -59,6 +59,7 @@ Skip for the sake of time: treat in voice-leading.
 
 # Dorian melody (10 min)
 
+- https://rawl.rocks/s/dorian/melody
 - https://rawl.rocks/f/angry-birds-theme---ari-pulkkinen-angry-birds-theme
 - https://rawl.rocks/f/gloomy-village-of-cottondale---spooky-autumn-ii---derek-brandon-fiechter (drone)
 - https://rawl.rocks/f/undertale---ruins-piano
@@ -74,6 +75,7 @@ Skip for the sake of time: treat in voice-leading.
 
 # Dorian loops (double-tonic) (10 min)
 
+- https://rawl.rocks/s/dorian/four_chords
 - https://rawl.rocks/f/brawl-stars---draw-theme
 - https://rawl.rocks/f/the-weeknd---blinding-lights---advanced-cover-by-majorandminor
 - https://rawl.rocks/f/keygen-church-ultrachurch-ultrakill-20240226152402-nonstop2k.com
