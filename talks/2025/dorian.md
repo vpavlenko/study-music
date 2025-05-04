@@ -20,6 +20,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/malevolent-shrine---yoshimasa-terui---jujutsu-kaisen-s2-ost-full-version
 - **https://rawl.rocks/s/dorian/vs_minor_iv**
 - https://rawl.rocks/f/beast-of-england-animal-farm-1954---matyas-seiber-piano-transcription
+- https://rawl.rocks/f/chocolat---main-titles
 - https://rawl.rocks/f/seven-nation-army-arr.-nikodem-lorenz (pentatonic cadence? idk)
 
 # Coda IV
@@ -64,6 +65,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/batoru2-battle-2---romansingu-saga-romancing-saga-sfc-snes---kenji-ito
 - https://rawl.rocks/f/he-s-a-pirate-david-garrett-x-jarrod-radnich
 - https://rawl.rocks/f/homing-pigeon-violin-piano---in-d-major-b-minor
+- https://rawl.rocks/f/game-over---in-stars-and-time-ost---studio-thumpy-puppy (vio)
 - https://rawl.rocks/f/heroes-of-might-and-magic-2--sorceress-town---paul-anthony-romero (second voice)
 
 
