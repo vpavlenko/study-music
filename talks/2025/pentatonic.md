@@ -20,6 +20,7 @@
 
 # Hexatonic (10 min)
 
+- https://rawl.rocks/f/fairy-tail-ost---natsu-theme (each chord - its own hexatonic)
 - https://rawl.rocks/f/can-you-hear-the-music---ludwig-goransson-from-oppenheimer
 - https://rawl.rocks/f/doki-doki-literature-club-ost---your-reality
 - https://rawl.rocks/f/kimi-no-na-wa---sparkle-theishter-2016
