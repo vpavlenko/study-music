@@ -10,6 +10,13 @@
 - https://rawl.rocks/f/Pokemon_Theme_Song (Vsus4)
 
 
+## Episodic IV
+
+- https://rawl.rocks/f/Pokemon_Theme_Song (bridge)
+- https://rawl.rocks/f/tokyo-ghoul---licht-und-schatten-akmigone-transcription
+- https://rawl.rocks/f/pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki---gennadiy-gladkov-pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki-g.-gladkov (V/V in bIII tonicization)
+
+
 # Dorian shuttle
 
 - https://rawl.rocks/f/Mad_world_Piano (double-tonic four chord progression)
