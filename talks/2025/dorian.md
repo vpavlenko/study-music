@@ -31,11 +31,15 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/green-greens---jun-ishikawa
 - https://rawl.rocks/f/seven-nation-army-arr.-nikodem-lorenz (pentatonic cadence? idk)
 
-# Coda IV
+## Coda IV
 
 - https://rawl.rocks/f/kass-theme--full-the-legend-of-zelda-breath-of-the-wild
 - https://rawl.rocks/f/andrea---manfred-schmitz
+- https://rawl.rocks/f/zima_potolok_ledjanoi_-diomin_vjacheslav
 
+# Voice-leading dorian
+
+Skip for the sake of time: treat in voice-leading.
   
 ## Chromatic bass line
 
@@ -49,15 +53,6 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/the-guidance-of-a-white-tower---hayato-sonoda-ys-origin
 - https://rawl.rocks/f/heated-mind---falcom-sound-team-jdk
 - https://rawl.rocks/f/fallout-4-main-theme
-
-## Other IV
-
-- https://rawl.rocks/f/pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki---gennadiy-gladkov-pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki-g.-gladkov (V/V in bIII tonicization)
-
-
-## Complex IV, skip for now
-
-- https://rawl.rocks/f/come-sei-veramente-~-giovani-allevi
 
 # Cadential ii
 
@@ -94,7 +89,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 
 - https://rawl.rocks/f/n-a-v-s-t-e-v-n-i-c-i
 - https://rawl.rocks/f/christina-steins-gate
-- https://rawl.rocks/f/zima_potolok_ledjanoi_-diomin_vjacheslav
+
 
 # Backup
 
