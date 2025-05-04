@@ -18,6 +18,8 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/metro-exodus---race-against-fate
 - https://rawl.rocks/f/weiner-leo---esik-az-eso
 - https://rawl.rocks/f/malevolent-shrine---yoshimasa-terui---jujutsu-kaisen-s2-ost-full-version
+- https://rawl.rocks/f/mass-effect-2-suicide-mission-end-run
+- https://rawl.rocks/f/blue-bird
 - **https://rawl.rocks/s/dorian/vs_minor_iv**
 - https://rawl.rocks/f/beast-of-england-animal-farm-1954---matyas-seiber-piano-transcription
 - https://rawl.rocks/f/chocolat---main-titles
@@ -65,6 +67,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/fate-apocrypha-hope---masaru-yokoyama
 - https://rawl.rocks/f/batoru2-battle-2---romansingu-saga-romancing-saga-sfc-snes---kenji-ito
 - https://rawl.rocks/f/heartstone-pull-up-a-chair-piano
+- https://rawl.rocks/f/adventure---alexander-nakarada
 - https://rawl.rocks/f/he-s-a-pirate-david-garrett-x-jarrod-radnich
 - https://rawl.rocks/f/homing-pigeon-violin-piano---in-d-major-b-minor
 - https://rawl.rocks/f/heroes-of-might-and-magic-2--sorceress-town---paul-anthony-romero (second voice)
@@ -76,6 +79,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/the-weeknd---blinding-lights---advanced-cover-by-majorandminor
 - https://rawl.rocks/f/keygen-church-ultrachurch-ultrakill-20240226152402-nonstop2k.com
 - https://rawl.rocks/f/valzer-d-inverno---andrea-vanzo
+- https://rawl.rocks/f/i-am-the-doctor
 - https://rawl.rocks/f/Mad_world_Piano
 
 
