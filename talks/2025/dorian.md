@@ -7,15 +7,16 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/Pokemon_Theme_Song (bridge)
 - https://rawl.rocks/f/tokyo-ghoul---licht-und-schatten-akmigone-transcription
 - https://rawl.rocks/f/manfredschmitzunpeutriste  - no dorian melody!
-- https://rawl.rocks/s/dorian/vs_minor_iv
 - https://rawl.rocks/f/academy-hallways
 - https://rawl.rocks/f/brawl-stars-ost---battle-8
 - https://rawl.rocks/f/brawl-star
 - https://rawl.rocks/f/dragonsong---nobuo-uematsu-advanced-solo-piano
 - https://rawl.rocks/f/metro-exodus---race-against-fate
 - https://rawl.rocks/f/weiner-leo---esik-az-eso
+- https://rawl.rocks/s/dorian/vs_minor_iv
 - https://rawl.rocks/f/beast-of-england-animal-farm-1954---matyas-seiber-piano-transcription
 - https://rawl.rocks/f/seven-nation-army-arr.-nikodem-lorenz (pentatonic cadence? idk)
+
   
 # Dorian IV due to chromatic bass line
 
@@ -51,11 +52,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/homing-pigeon-violin-piano---in-d-major-b-minor
 - https://rawl.rocks/f/heroes-of-might-and-magic-2--sorceress-town---paul-anthony-romero (second voice)
 
-# Dorian extension
+# Backup
 
 - http://rawl.rocks/s/extensions/minor_iadd6
-
-
-# Dorian modal
-
-# Irish and Scottish tunes
+- https://rawl.rocks/f/sowhat
