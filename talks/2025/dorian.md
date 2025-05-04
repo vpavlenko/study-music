@@ -13,6 +13,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/dragonsong---nobuo-uematsu-advanced-solo-piano
 - https://rawl.rocks/f/metro-exodus---race-against-fate
 - https://rawl.rocks/f/weiner-leo---esik-az-eso
+- https://rawl.rocks/f/malevolent-shrine---yoshimasa-terui---jujutsu-kaisen-s2-ost-full-version
 - **https://rawl.rocks/s/dorian/vs_minor_iv**
 - https://rawl.rocks/f/beast-of-england-animal-farm-1954---matyas-seiber-piano-transcription
 - https://rawl.rocks/f/seven-nation-army-arr.-nikodem-lorenz (pentatonic cadence? idk)
