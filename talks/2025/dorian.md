@@ -1,6 +1,10 @@
-# Dorian IV - episodic
+# Dorian IV
+
+## Episodic
 
 Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. Or in cadence: IV V.
+
+
 
 - https://rawl.rocks/100/iv-in-minor (here first four example)
 - https://rawl.rocks/s/dorian/IV
@@ -19,11 +23,16 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/seven-nation-army-arr.-nikodem-lorenz (pentatonic cadence? idk)
 
   
-# Dorian IV due to chromatic bass line
+## Chromatic bass line
 
 - https://rawl.rocks/f/ender-lilies-quietus-of-the-knights---holy-land-save-ver.
 - https://rawl.rocks/s/voice-leading/chromatic_bass
 - https://rawl.rocks/f/hotel-california.7 (implied)
+
+## Other voice-leading
+
+- https://rawl.rocks/f/the-guidance-of-a-white-tower---hayato-sonoda-ys-origin
+- https://rawl.rocks/f/heated-mind---falcom-sound-team-jdk
 
 ## Other IV
 
