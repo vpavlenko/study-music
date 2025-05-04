@@ -1,6 +1,6 @@
 # Dorian IV - episodic
 
-Hypothesis: dorian IV usually happens next to bIII tonicization.
+Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. Or in cadence: IV V.
 
 - https://rawl.rocks/100/iv-in-minor (here first four example)
 - https://rawl.rocks/s/dorian/IV
@@ -9,7 +9,9 @@ Hypothesis: dorian IV usually happens next to bIII tonicization.
 - https://rawl.rocks/f/manfredschmitzunpeutriste  - no dorian melody!
 - https://rawl.rocks/s/dorian/vs_minor_iv
 - https://rawl.rocks/f/academy-hallways
-
+- https://rawl.rocks/f/brawl-stars-ost---battle-8
+- https://rawl.rocks/f/brawl-star
+- https://rawl.rocks/f/dragonsong---nobuo-uematsu-advanced-solo-piano
 
 # Dorian IV due to chromatic bass line
 
