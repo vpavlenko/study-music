@@ -44,11 +44,6 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 
 - https://rawl.rocks/f/come-sei-veramente-~-giovani-allevi
 
-# Dorian shuttle
-
-- https://rawl.rocks/f/n-a-v-s-t-e-v-n-i-c-i
-- https://rawl.rocks/f/christina-steins-gate
-- https://rawl.rocks/f/Mad_world_Piano (double-tonic four chord progression)
 
 # Dorian melody
 
@@ -62,6 +57,21 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/he-s-a-pirate-david-garrett-x-jarrod-radnich
 - https://rawl.rocks/f/homing-pigeon-violin-piano---in-d-major-b-minor
 - https://rawl.rocks/f/heroes-of-might-and-magic-2--sorceress-town---paul-anthony-romero (second voice)
+
+
+# Dorian shuttle
+
+- https://rawl.rocks/f/n-a-v-s-t-e-v-n-i-c-i
+- https://rawl.rocks/f/christina-steins-gate
+- https://rawl.rocks/f/zima_potolok_ledjanoi_-diomin_vjacheslav
+- https://rawl.rocks/f/valzer-d-inverno---andrea-vanzo
+- https://rawl.rocks/f/Mad_world_Piano (double-tonic four chord progression)
+
+# Dorian loops (double-tonic)
+
+- https://rawl.rocks/f/brawl-stars---draw-theme
+- https://rawl.rocks/f/the-weeknd---blinding-lights---advanced-cover-by-majorandminor
+- https://rawl.rocks/f/keygen-church-ultrachurch-ultrakill-20240226152402-nonstop2k.com
 
 # Backup
 
