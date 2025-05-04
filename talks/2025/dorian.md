@@ -1,19 +1,19 @@
-- https://rawl.rocks/100/iv-in-minor
+# Dorian IV - episodic
 
-# Dorian IV (incl. periods)
-
-- https://rawl.rocks/f/manfredschmitzunpeutriste  - no dorian melody!
-- https://rawl.rocks/f/nothing-else-matters---metallica
-- https://rawl.rocks/f/dragonborn---skyrim-theme-song-piano-solo
-- https://rawl.rocks/f/solas---jamie-duffy
-- https://rawl.rocks/f/isabella-s-lullaby-the-promised-neverland-emotional-anime-on-piano-vol.-2
-- https://rawl.rocks/f/Pokemon_Theme_Song (Vsus4)
-
-
-## Episodic IV
-
+- https://rawl.rocks/100/iv-in-minor (here first four example)
+- https://rawl.rocks/s/dorian/IV
 - https://rawl.rocks/f/Pokemon_Theme_Song (bridge)
 - https://rawl.rocks/f/tokyo-ghoul---licht-und-schatten-akmigone-transcription
+- https://rawl.rocks/f/manfredschmitzunpeutriste  - no dorian melody!
+
+# Dorian IV due to chromatic bass line
+
+- https://rawl.rocks/f/ender-lilies-quietus-of-the-knights---holy-land-save-ver.
+- https://rawl.rocks/s/voice-leading/chromatic_bass
+- https://rawl.rocks/f/hotel-california.7 (implied)
+
+## Other IV
+
 - https://rawl.rocks/f/pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki---gennadiy-gladkov-pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki-g.-gladkov (V/V in bIII tonicization)
 
 
