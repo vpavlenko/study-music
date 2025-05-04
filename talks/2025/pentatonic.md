@@ -13,6 +13,11 @@
 - https://rawl.rocks/s/scale/major_pentatonic
 - https://rawl.rocks/f/tf2---mannrobics---piano
 
+# Blues scale (10 min)
+
+- https://rawl.rocks/f/loonboon---laura-shigihara-arranged-by-piano-keyng
+- https://rawl.rocks/s/scale/blues
+
 # Hexatonic (10 min)
 
 - https://rawl.rocks/f/can-you-hear-the-music---ludwig-goransson-from-oppenheimer
