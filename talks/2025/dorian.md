@@ -1,5 +1,7 @@
 # Dorian IV
 
+Also explain picardy third.
+
 ## Episodic
 
 Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. Or in cadence: IV V.
@@ -7,21 +9,23 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 
 
 - https://rawl.rocks/100/iv-in-minor (here first four example)
-- https://rawl.rocks/s/dorian/IV
 - https://rawl.rocks/f/Pokemon_Theme_Song
+- https://rawl.rocks/f/love-is-blue---paul-mauriat-love-is-blue-easyish
 - https://rawl.rocks/f/tokyo-ghoul---licht-und-schatten-akmigone-transcription
-- https://rawl.rocks/f/manfredschmitzunpeutriste
-- https://rawl.rocks/f/academy-hallways
+- https://rawl.rocks/f/the-empire-strikes-back---may-the-force-be-with-you
 - https://rawl.rocks/f/brawl-stars-ost---battle-8
+- https://rawl.rocks/f/mass-effect-2-suicide-mission-end-run
 - https://rawl.rocks/f/brawl-star
 - https://rawl.rocks/f/dragonsong---nobuo-uematsu-advanced-solo-piano
+- https://rawl.rocks/f/manfredschmitzunpeutriste
+- https://rawl.rocks/f/academy-hallways
 - https://rawl.rocks/f/metro-exodus---race-against-fate
 - https://rawl.rocks/f/weiner-leo---esik-az-eso
 - https://rawl.rocks/f/malevolent-shrine---yoshimasa-terui---jujutsu-kaisen-s2-ost-full-version
-- https://rawl.rocks/f/mass-effect-2-suicide-mission-end-run
 - https://rawl.rocks/f/blue-bird
 - https://rawl.rocks/f/plelude---vangelis
 - **https://rawl.rocks/s/dorian/vs_minor_iv**
+- https://rawl.rocks/f/runescape---medieval
 - https://rawl.rocks/f/beast-of-england-animal-farm-1954---matyas-seiber-piano-transcription
 - https://rawl.rocks/f/chocolat---main-titles
 - https://rawl.rocks/f/green-greens---jun-ishikawa
@@ -44,6 +48,7 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 
 - https://rawl.rocks/f/the-guidance-of-a-white-tower---hayato-sonoda-ys-origin
 - https://rawl.rocks/f/heated-mind---falcom-sound-team-jdk
+- https://rawl.rocks/f/fallout-4-main-theme
 
 ## Other IV
 
@@ -66,7 +71,6 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/two-rivers---suikoden-2
 - https://rawl.rocks/f/ys-viii---dana-arcanashift
 - https://rawl.rocks/f/fate-apocrypha-hope---masaru-yokoyama
-- https://rawl.rocks/f/batoru2-battle-2---romansingu-saga-romancing-saga-sfc-snes---kenji-ito
 - https://rawl.rocks/f/heartstone-pull-up-a-chair-piano
 - https://rawl.rocks/f/adventure---alexander-nakarada
 - https://rawl.rocks/f/he-s-a-pirate-david-garrett-x-jarrod-radnich
@@ -81,6 +85,8 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - https://rawl.rocks/f/keygen-church-ultrachurch-ultrakill-20240226152402-nonstop2k.com
 - https://rawl.rocks/f/valzer-d-inverno---andrea-vanzo
 - https://rawl.rocks/f/i-am-the-doctor
+- https://rawl.rocks/f/waterflame---glorious-morning
+- https://rawl.rocks/f/the-hall-is-dancing---fabrizio-paterlini
 - https://rawl.rocks/f/Mad_world_Piano
 
 
@@ -95,3 +101,5 @@ Hypothesis: dorian IV usually happens next to bIII tonicization: bVII bIII IV. O
 - http://rawl.rocks/s/extensions/minor_iadd6
 - https://rawl.rocks/f/sowhat
 - https://rawl.rocks/f/riofunk
+- https://rawl.rocks/f/higher-ground.2
+- https://rawl.rocks/f/the-winding-path---kevin-kern
