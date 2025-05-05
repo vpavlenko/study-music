@@ -52,6 +52,7 @@ Skip for the sake of time: treat in voice-leading.
 - https://rawl.rocks/f/the-guidance-of-a-white-tower---hayato-sonoda-ys-origin
 - https://rawl.rocks/f/heated-mind---falcom-sound-team-jdk
 - https://rawl.rocks/f/fallout-4-main-theme
+- https://rawl.rocks/f/it-s-over-isn-t-it-steven-universe-ost
 
 # Cadential ii (5 min)
 
