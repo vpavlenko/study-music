@@ -42,7 +42,11 @@
 - https://rawl.rocks/f/nefertiti---k.-nakagawa-d.-achiwa-mana-khemia
   - https://www.youtube.com/watch?v=2guiRH2FsSk
 - https://rawl.rocks/f/superstition
+- https://rawl.rocks/f/cruisin---jared-emerson-johnson
+- https://rawl.rocks/f/sam-and-max-save-the-world-the-office---jared-emerson-johnson
+- https://rawl.rocks/f/inkwell-hell-piano-from-cuphead---kristofer-maddigan
 - https://rawl.rocks/f/murican-tetris-.rag...
+- https://rawl.rocks/f/mozzie---elissa-milne
 - https://rawl.rocks/s/scale/blues
 
 ## Swing
@@ -50,6 +54,7 @@
 - https://rawl.rocks/f/sing-sing-sing-1938-carnegie-hall-piano-transcription
 - https://rawl.rocks/f/a-new-hope---cantina-band-1
 - https://rawl.rocks/corpus/parov_stelar
+- https://rawl.rocks/f/jingle-bells---minor-ragtime-advanced---piano
 
 
 # Major hexatonic 
