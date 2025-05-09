@@ -32,12 +32,6 @@
 - https://rawl.rocks/f/icelandic-dance-op.-11-no.-1---jon-leifs
 - https://rawl.rocks/s/scale/major_pentatonic
 
-## Swing
-
-- https://rawl.rocks/f/sing-sing-sing-1938-carnegie-hall-piano-transcription
-- https://rawl.rocks/f/a-new-hope---cantina-band-1
-- https://rawl.rocks/corpus/parov_stelar
-- https://rawl.rocks/f/jingle-bells---minor-ragtime-advanced---piano
 
 
 # Major hexatonic 
@@ -78,3 +72,10 @@ Also explain swing.
 - https://rawl.rocks/f/murican-tetris-.rag...
 - https://rawl.rocks/f/mozzie---elissa-milne
 - https://rawl.rocks/s/scale/blues
+
+## Swing
+
+- https://rawl.rocks/f/sing-sing-sing-1938-carnegie-hall-piano-transcription
+- https://rawl.rocks/f/a-new-hope---cantina-band-1
+- https://rawl.rocks/corpus/parov_stelar
+- https://rawl.rocks/f/jingle-bells---minor-ragtime-advanced---piano
