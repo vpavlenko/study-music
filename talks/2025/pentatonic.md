@@ -23,8 +23,14 @@
 
 # Major pentatonic
 
-- https://rawl.rocks/f/tf2---mannrobics---piano
 - https://rawl.rocks/f/chun-li-chun-li-china---sutoritohuaitaii-street-fighter-ii-ac---yoko-shimomura
+- https://rawl.rocks/f/han-gong-chun-li-chun-ri---song-yu-ning
+- https://rawl.rocks/f/spring-festival-overture-chun-jie-xu-qu---li-huan-zhi-piano-cover
+- https://rawl.rocks/f/tf2---mannrobics---piano
+- https://rawl.rocks/f/Symphony_No9__From_The_New_World__2nd_movement
+- https://rawl.rocks/f/sir-duke
+- https://rawl.rocks/f/prelude-etnika---piano-transcription
+- https://rawl.rocks/f/icelandic-dance-op.-11-no.-1---jon-leifs
 - https://rawl.rocks/s/scale/major_pentatonic
 
 
@@ -63,6 +69,7 @@
 - https://rawl.rocks/f/can-you-hear-the-music---ludwig-goransson-from-oppenheimer
 - https://rawl.rocks/f/doki-doki-literature-club-ost---your-reality
 - https://rawl.rocks/f/kimi-no-na-wa---sparkle-theishter-2016
+- https://rawl.rocks/f/Symphony_No.9_From_The_New_World_3rd_movement_Scherzo
 - https://rawl.rocks/s/scale/hexatonic_minor
 
 # Minor hexatonic 
