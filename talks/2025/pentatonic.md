@@ -1,4 +1,4 @@
-- https://rawl.rocks/f/e.ben-tian-e.honda-japan---sutoritohuaitaii-street-fighter-ii-ac---yoko-shimomura
+- https://rawl.rocks/f/e.ben-tian-e.honda-japan---sutoritohuaitaii-street-fighter-ii-ac---yoko-shimomura https://www.youtube.com/watch?v=jqgN1IdNoK4
 - https://rawl.rocks/f/chun-li-chun-li-china---sutoritohuaitaii-street-fighter-ii-ac---yoko-shimomura
 - https://rawl.rocks/f/moog-city-minecraft
 - https://rawl.rocks/f/minecraft-title
@@ -15,9 +15,11 @@
 
 # Blues scale (10 min)
 
+- https://rawl.rocks/f/Undertale_-_Megalovania_Piano_ver._3
 - https://rawl.rocks/f/loonboon---laura-shigihara-arranged-by-piano-keyng
 - https://rawl.rocks/s/scale/blues
 - https://rawl.rocks/f/wind-piano-sheet-music-naruto-ending-1 (orienting in double-tonic)
+- https://rawl.rocks/f/murican-tetris-.rag...
 
 # Hexatonic (10 min)
 
@@ -26,3 +28,6 @@
 - https://rawl.rocks/f/doki-doki-literature-club-ost---your-reality
 - https://rawl.rocks/f/kimi-no-na-wa---sparkle-theishter-2016
 - https://rawl.rocks/s/scale/hexatonic_minor
+
+
+Also explain swing.
