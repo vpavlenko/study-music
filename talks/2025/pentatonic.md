@@ -37,12 +37,13 @@
 # Major hexatonic 
 
 - https://rawl.rocks/f/fairy-tail-ost---natsu-theme (each chord - its own hexatonic)
-- https://rawl.rocks/f/can-you-hear-the-music---ludwig-goransson-from-oppenheimer
 - https://rawl.rocks/f/doki-doki-literature-club-ost---your-reality
 - https://rawl.rocks/f/kimi-no-na-wa---sparkle-theishter-2016
+- https://rawl.rocks/f/music_for_airports_1_1-eno
 - https://rawl.rocks/f/Symphony_No.9_From_The_New_World_3rd_movement_Scherzo
-- https://rawl.rocks/s/scale/hexatonic_minor
+
 
 # Minor hexatonic 
 
 - https://rawl.rocks/f/can-you-hear-the-music---ludwig-goransson-from-oppenheimer
+- https://rawl.rocks/s/scale/hexatonic_minor
