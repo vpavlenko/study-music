@@ -45,6 +45,13 @@
 - https://rawl.rocks/f/murican-tetris-.rag...
 - https://rawl.rocks/s/scale/blues
 
+## Swing
+
+- https://rawl.rocks/f/sing-sing-sing-1938-carnegie-hall-piano-transcription
+- https://rawl.rocks/f/a-new-hope---cantina-band-1
+- https://rawl.rocks/corpus/parov_stelar
+
+
 # Major hexatonic 
 
 - https://rawl.rocks/f/fairy-tail-ost---natsu-theme (each chord - its own hexatonic)
