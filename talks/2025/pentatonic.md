@@ -1,17 +1,20 @@
 - https://rawl.rocks/f/e.ben-tian-e.honda-japan---sutoritohuaitaii-street-fighter-ii-ac---yoko-shimomura https://www.youtube.com/watch?v=jqgN1IdNoK4
-- https://rawl.rocks/f/chun-li-chun-li-china---sutoritohuaitaii-street-fighter-ii-ac---yoko-shimomura
-- https://rawl.rocks/f/moog-city-minecraft
 - https://rawl.rocks/f/minecraft-title
 - https://rawl.rocks/f/garden-osrs---ian-taylor
 - https://chiptune.app/browse/Nintendo/Bao%20Qing%20Tian
   - https://youtu.be/EdVLyPuB4uQ
 - https://rawl.rocks/corpus/thefatrat
 - https://rawl.rocks/corpus/mdk
+  - https://rawl.rocks/f/press-start
 - https://rawl.rocks/corpus/yim_josef
 - https://rawl.rocks/corpus/yu-peng_chen
 - https://rawl.rocks/s/scale/minor_pentatonic
 - https://rawl.rocks/s/scale/major_pentatonic
 - https://rawl.rocks/f/tf2---mannrobics---piano
+
+# Major pentatonic
+
+- https://rawl.rocks/f/chun-li-chun-li-china---sutoritohuaitaii-street-fighter-ii-ac---yoko-shimomura
 
 # Blues scale (10 min)
 
@@ -20,6 +23,8 @@
 - https://rawl.rocks/s/scale/blues
 - https://rawl.rocks/f/wind-piano-sheet-music-naruto-ending-1 (orienting in double-tonic)
 - https://rawl.rocks/f/murican-tetris-.rag...
+- https://rawl.rocks/f/superstition
+- https://rawl.rocks/f/master-blaster
 
 # Hexatonic (10 min)
 
