@@ -14,3 +14,4 @@
 - https://rawl.rocks/f/going-places---dennis-alexander
 - https://rawl.rocks/s/cycle_root_motion/reverse_autumn_leaves
 - https://rawl.rocks/f/gourmet-race---kirby-super-star-ultra-solo-piano-arrangement mm. 41-42
+- https://rawl.rocks/f/elegy---thefatrat-piano-cover
