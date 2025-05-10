@@ -17,7 +17,7 @@
 6. [период, V/V](06_period_V_of_V.md)
 8. [minor circle of fifths](minor_circle_of_fifths.md)
 9. [дорийский минор](dorian.md)
-7. [пентатоника](pentatonic.md)
+7. [пентатоника, TheFatRat](pentatonic.md)
 9. [pachelbel's canon, root cycles](major_progressions.md)
 10. [relative symmetry, autumn leaves](relative_symmetry.md)
 11. [applied dominants](applied.md)
