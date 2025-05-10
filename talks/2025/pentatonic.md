@@ -2,15 +2,9 @@
 
 - https://rawl.rocks/f/e.ben-tian-e.honda-japan---sutoritohuaitaii-street-fighter-ii-ac---yoko-shimomura
   - https://www.youtube.com/watch?v=jqgN1IdNoK4
-- https://rawl.rocks/f/garden-osrs---ian-taylor
-- https://rawl.rocks/f/Let_Her_Go_Passenger
-- https://rawl.rocks/f/Believer_-_Imagine_Dragons
-- https://rawl.rocks/f/master-blaster
 - https://rawl.rocks/corpus/thefatrat
-  - https://rawl.rocks/f/TheFatRat_Monody
   - https://rawl.rocks/f/thefatrat---time-lapse-piano-arrangement
   - https://rawl.rocks/f/TheFatRat_Unity
-  - https://rawl.rocks/f/jackpot-thefatrat
   - https://rawl.rocks/f/thefatrat---windfall
   - https://rawl.rocks/f/xenogenesis---thefatrat
 - https://rawl.rocks/corpus/mdk
@@ -28,6 +22,11 @@
 ## Episodic minor pentatonic
 
 - https://rawl.rocks/f/fight-for-freedom---lionel-yu - picardy third
+- https://rawl.rocks/f/Let_Her_Go_Passenger
+- https://rawl.rocks/f/Believer_-_Imagine_Dragons
+- https://rawl.rocks/f/master-blaster
+- https://rawl.rocks/f/garden-osrs---ian-taylor
+
 
 # Major pentatonic
 
@@ -59,8 +58,15 @@
 
 # Minor hexatonic 
 
+- https://rawl.rocks/f/TheFatRat_Monody
 - https://rawl.rocks/f/thefatrat---origin-reprise-dota-2-music-pack
 - https://rawl.rocks/f/thefatrat---envelope-dota-2-music-pack
 - https://rawl.rocks/f/thefatrat-slaydit---solitude
+- https://rawl.rocks/f/jackpot-thefatrat
 - https://rawl.rocks/f/can-you-hear-the-music---ludwig-goransson-from-oppenheimer
 - https://rawl.rocks/s/scale/hexatonic_minor
+
+
+# Домашка
+
+Послушайте ещё какие-нибудь произведения с канала https://www.youtube.com/@TheFatRat/videos . Можете ли вы услышать пентатонику/гексатонику? Свинг? Дорийский IV?
