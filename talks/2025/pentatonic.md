@@ -2,7 +2,6 @@
 
 - https://rawl.rocks/f/e.ben-tian-e.honda-japan---sutoritohuaitaii-street-fighter-ii-ac---yoko-shimomura
   - https://www.youtube.com/watch?v=jqgN1IdNoK4
-- https://rawl.rocks/f/minecraft-title
 - https://rawl.rocks/f/garden-osrs---ian-taylor
 - https://rawl.rocks/f/Let_Her_Go_Passenger
 - https://rawl.rocks/f/Believer_-_Imagine_Dragons
@@ -14,7 +13,6 @@
   - https://rawl.rocks/f/jackpot-thefatrat
   - https://rawl.rocks/f/thefatrat---windfall
   - https://rawl.rocks/f/xenogenesis---thefatrat
-  
 - https://rawl.rocks/corpus/mdk
   - https://rawl.rocks/f/press-start
   - https://rawl.rocks/f/fingerdash
@@ -33,6 +31,7 @@
 
 # Major pentatonic
 
+- https://rawl.rocks/f/minecraft-title
 - https://rawl.rocks/f/chun-li-chun-li-china---sutoritohuaitaii-street-fighter-ii-ac---yoko-shimomura
 - https://rawl.rocks/f/han-gong-chun-li-chun-ri---song-yu-ning
 - https://rawl.rocks/f/spring-festival-overture-chun-jie-xu-qu---li-huan-zhi-piano-cover
