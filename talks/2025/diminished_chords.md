@@ -4,3 +4,4 @@
 - https://rawl.rocks/s/cto7/to_I
 - https://rawl.rocks/s/symmetric_chords/diminished
 - https://rawl.rocks/s/modulation/pivot
+- https://rawl.rocks/s/major_cadence/io7_ii_V_I
