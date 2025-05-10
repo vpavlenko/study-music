@@ -1,3 +1,9 @@
+# Root cycle 2
+
+# Up: I ii iii IV
+
+## Down: IV iii ii I
+
 # Diatonic smooth bass line
 
 - https://rawl.rocks/f/waltz-in-green---takashi-yoshimatsu-lu-nowarutu
