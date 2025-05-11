@@ -73,5 +73,5 @@
 - Послушайте ещё какие-нибудь произведения с канала https://www.youtube.com/@TheFatRat/videos . Можете ли вы услышать пентатонику/гексатонику? Свинг? Дорийский IV? Попробуйте то же самое с любыми саундтрэками к Genshin Impact.
 - Тот же вопрос про https://chiptune.app/browse/Nintendo/Bao%20Qing%20Tian
   - https://youtu.be/EdVLyPuB4uQ
-- Чем похожи и чем отличаются все темы короля Дедеде из вселенной Кирби? https://www.youtube.com/watch?v=86-0W8qZi78
+- Чем похожи и чем отличаются [все темы короля Дедеде](https://www.youtube.com/watch?v=86-0W8qZi78) из франшизы Кирби?
 - Сочините что угодно.
