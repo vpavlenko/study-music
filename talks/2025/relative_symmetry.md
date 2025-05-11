@@ -15,8 +15,18 @@
 - https://rawl.rocks/f/jeux-interdits
 - https://rawl.rocks/f/happy-birthday-insane
 
-# Autumn Leaves
+# Simple triadic autumn leaves
 
-- https://rawl.rocks/s/cycle_root_motion/autumn_leaves
-- https://rawl.rocks/s/chunks/autumn_leaves_exit
 - https://rawl.rocks/f/nostalgy-by-olivier-toussaint-arranged-richard-clayderman-for-piano
+- https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov
+- https://rawl.rocks/f/noce-i-dnie---walc-barbary---misc-soundtrack-walc-barbary
+- https://rawl.rocks/f/dream-of-the-forgotten-child---david-lanz
+- https://rawl.rocks/f/barroco---raul-di-blasio
+- https://rawl.rocks/f/loonboon---laura-shigihara-arranged-by-piano-keyng
+- https://rawl.rocks/f/waltz-no.1-op.6-collapse---hikaru-shirosu
+- https://rawl.rocks/f/Love_Store_Francis_Lai
+- https://rawl.rocks/f/winter-waltz---catherine-rollin
+- https://rawl.rocks/f/moonlight-nocturne---catherine-rollin
+- https://rawl.rocks/f/i-will-wait-for-you---michel-legrand
+- https://rawl.rocks/f/icarus---tony-ann
+- https://rawl.rocks/f/norihiro-tsuru---last-carnival
