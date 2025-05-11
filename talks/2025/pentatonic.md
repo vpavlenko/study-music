@@ -21,7 +21,7 @@
 - https://rawl.rocks/f/master-blaster
 - https://rawl.rocks/f/garden-osrs---ian-taylor
 - https://rawl.rocks/f/masked-dedede-kirby-triple-deluxe
-- https://rawl.rocks/f/fight-for-freedom---lionel-yu - picardy third
+- https://rawl.rocks/f/fight-for-freedom---lionel-yu
 
 
 
