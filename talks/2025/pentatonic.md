@@ -16,12 +16,13 @@
 
 ## Episodic minor pentatonic
 
-- https://rawl.rocks/f/fight-for-freedom---lionel-yu - picardy third
 - https://rawl.rocks/f/Let_Her_Go_Passenger
 - https://rawl.rocks/f/Believer_-_Imagine_Dragons
 - https://rawl.rocks/f/master-blaster
 - https://rawl.rocks/f/garden-osrs---ian-taylor
 - https://rawl.rocks/f/masked-dedede-kirby-triple-deluxe
+- https://rawl.rocks/f/fight-for-freedom---lionel-yu - picardy third
+
 
 
 # Major pentatonic
