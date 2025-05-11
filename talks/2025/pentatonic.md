@@ -74,5 +74,5 @@
 - Тот же вопрос про https://chiptune.app/browse/Nintendo/Bao%20Qing%20Tian
   - https://youtu.be/EdVLyPuB4uQ
 - Чем похожи и чем отличаются [все темы короля Дидиди](https://www.youtube.com/watch?v=86-0W8qZi78) из серии игр Кирби?
-- Разберитесь в том, как из [Song for My Father](https://rawl.rocks/f/song-for-my-father---horace-silver) получился [Yekermo Sew](https://rawl.rocks/f/yekermo_sew_-_mulatu_astatke-no-acc), офк послушайте оригиналы. Я не знаю как правильно красить Yekermo Sew – с чем сравнивать?
+- Разберитесь в том, как из [Song for My Father](https://rawl.rocks/f/song-for-my-father---horace-silver) получился [Yekermo Sew](https://rawl.rocks/f/yekermo_sew_-_mulatu_astatke-no-acc), офк послушайте оригиналы. Я не знаю как правильно красить Yekermo Sew – с чем сравнивать? Как устроено соло в Yekermo Sew?
 - Сочините что угодно.
