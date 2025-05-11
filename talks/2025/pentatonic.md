@@ -11,8 +11,7 @@
   - https://rawl.rocks/f/rex-incognito-zhongli-s-theme-from-genshin-impact---yu-peng-chen-hoyo-mix
   - https://rawl.rocks/f/yoimiya-dazzling-lights-in-the-summer-genshin-impact---yu-peng-chen
 - https://rawl.rocks/s/scale/minor_pentatonic
-- https://chiptune.app/browse/Nintendo/Bao%20Qing%20Tian
-  - https://youtu.be/EdVLyPuB4uQ
+
 
 
 ## Episodic minor pentatonic
@@ -70,4 +69,6 @@
 # Домашка
 
 - Послушайте ещё какие-нибудь произведения с канала https://www.youtube.com/@TheFatRat/videos . Можете ли вы услышать пентатонику/гексатонику? Свинг? Дорийский IV? Попробуйте то же самое с любыми саундтрэками к Genshin Impact.
+- Тот же вопрос про https://chiptune.app/browse/Nintendo/Bao%20Qing%20Tian
+  - https://youtu.be/EdVLyPuB4uQ
 - Сочините что угодно.
