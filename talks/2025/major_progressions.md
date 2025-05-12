@@ -1,4 +1,11 @@
 
+# Major Pachelbel
+
+- https://rawl.rocks/f/canon-in-d-quartet---johann-pachelbel
+- https://rawl.rocks/f/variations-on-the-canon-qia-nong-bian-zou-qu
+- https://rawl.rocks/f/melissa---bebu-silvetti
+- https://rawl.rocks/f/etude-op.25-no.9-butterfly---f.-chopin
+
 
 # Minor Pachelbel
 
