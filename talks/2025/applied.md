@@ -6,6 +6,11 @@
 - https://rawl.rocks/f/the-office-opening-theme (chord scale?)
 - https://rawl.rocks/f/nocturne-in-e-flat-major---dennis-alexander
 - https://rawl.rocks/f/kimi-no-na-wa---sparkle-theishter-2016
+- https://rawl.rocks/100/v7-vi
+
+# V7/IV
+
+- https://rawl.rocks/f/happy-birthday-to-you-c-major
 
 # Misc
 
