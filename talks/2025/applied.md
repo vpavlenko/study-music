@@ -1,6 +1,6 @@
-# Schubert Op. 9
+# Schubert
 
-- https://rawl.rocks/f/wima.d719-schubert_atzenbrugger-tanz-d.365.30 tonicization of V
+All applieds.
 
 # V/vi only (also uses V/V)
 
