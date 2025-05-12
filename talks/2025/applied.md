@@ -20,12 +20,10 @@ All applieds.
 - https://rawl.rocks/s/applied/ii_V
 - https://rawl.rocks/s/jazz/rapid_ii_V_quarters
 
-# V7/IV
-
-- https://rawl.rocks/f/happy-birthday-to-you-c-major
 
 # Misc
 
+- https://rawl.rocks/f/happy-birthday-to-you-c-major
 - https://rawl.rocks/f/yo-ho-a-pirate-s-life-for-me---george-bruns-xavier-atencio-yo-ho-a-pirates-life-for-me
 - https://rawl.rocks/f/communion-funebre---gustave-tritant
 
