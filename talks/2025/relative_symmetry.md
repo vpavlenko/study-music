@@ -14,6 +14,12 @@
 - https://rawl.rocks/f/jeux-interdits
 - https://rawl.rocks/f/happy-birthday-insane
 
+## tonicization of V: the most classical style
+
+- https://rawl.rocks/f/wima.d719-schubert_atzenbrugger-tanz-d.365.30
+- https://rawl.rocks/f/piano_sonata_no_16_in_c_major_k_545_wolfgang_amadeus_mozart_piano_solo
+- https://rawl.rocks/f/beethoven---piano-sonata-no.-20-in-g-major-op.-49-1st-movement
+
 # Simple triadic autumn leaves
 
 - https://rawl.rocks/f/nostalgy-by-olivier-toussaint-arranged-richard-clayderman-for-piano
