@@ -11,6 +11,9 @@ All applieds.
 - https://rawl.rocks/f/nocturne-in-e-flat-major---dennis-alexander
 - https://rawl.rocks/f/kimi-no-na-wa---sparkle-theishter-2016
 - https://rawl.rocks/100/v7-vi
+
+# More applieds 
+
 - https://rawl.rocks/100/v7-ii
 - https://rawl.rocks/s/applied/V/V/V
 - https://rawl.rocks/s/applied/chain_of_dominants
@@ -20,8 +23,6 @@ All applieds.
 - https://rawl.rocks/f/happy-birthday-to-you-c-major
 
 # Misc
-
-
 
 - https://rawl.rocks/f/yo-ho-a-pirate-s-life-for-me---george-bruns-xavier-atencio-yo-ho-a-pirates-life-for-me
 - https://rawl.rocks/f/communion-funebre---gustave-tritant
