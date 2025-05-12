@@ -15,6 +15,7 @@ All applieds.
 # More applieds 
 
 - https://rawl.rocks/100/v7-ii
+- https://rawl.rocks/s/progression/pullback
 - https://rawl.rocks/s/applied/V/V/V
 - https://rawl.rocks/s/applied/chain_of_dominants
 
