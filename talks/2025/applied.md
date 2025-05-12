@@ -17,6 +17,8 @@ All applieds.
 - https://rawl.rocks/s/progression/pullback
 - https://rawl.rocks/s/applied/V/V/V
 - https://rawl.rocks/s/applied/chain_of_dominants
+- https://rawl.rocks/s/applied/ii_V
+- https://rawl.rocks/s/jazz/rapid_ii_V_quarters
 
 # V7/IV
 
