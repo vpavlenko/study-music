@@ -3,6 +3,8 @@
 
 - https://rawl.rocks/f/canon-in-d-quartet---johann-pachelbel
 - https://rawl.rocks/f/variations-on-the-canon-qia-nong-bian-zou-qu
+- https://rawl.rocks/f/variations-on-a-theme-from-pachelbel-s-canon-in-d-major---david-lanz
+- https://rawl.rocks/f/westlife---beautiful-in-white
 - https://rawl.rocks/f/melissa---bebu-silvetti
 - https://rawl.rocks/f/etude-op.25-no.9-butterfly---f.-chopin
 
