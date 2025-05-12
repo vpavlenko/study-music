@@ -11,6 +11,9 @@ All applieds.
 - https://rawl.rocks/f/nocturne-in-e-flat-major---dennis-alexander
 - https://rawl.rocks/f/kimi-no-na-wa---sparkle-theishter-2016
 - https://rawl.rocks/100/v7-vi
+- https://rawl.rocks/100/v7-ii
+- https://rawl.rocks/s/applied/V/V/V
+- https://rawl.rocks/s/applied/chain_of_dominants
 
 # V7/IV
 
