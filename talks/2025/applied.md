@@ -1,6 +1,10 @@
-# V/vi only
+# V/vi only (also uses V/V)
 
 - https://rawl.rocks/f/ruu-s-song---yu-peng-chen
+- https://rawl.rocks/f/valentine---jim-brickman-with-martina-mcbride
+- https://rawl.rocks/f/day-off---vicenzo-piano
+- https://rawl.rocks/f/the-office-opening-theme (chord scale?)
+- 
 
 # Misc
 
