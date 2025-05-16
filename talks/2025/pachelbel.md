@@ -21,7 +21,11 @@
 - https://rawl.rocks/f/game-of-thrones-main-piano
 - https://rawl.rocks/f/trine-4-moonlit-forest
 
-# Diatonic smooth bass line
+# Diatonic smooth bass line 1-7-6-5
+
+- https://rawl.rocks/f/Fallen_Down_Undertale
+
+# Backup diatonic bass line
 
 - https://rawl.rocks/f/greendale-is-where-i-belong---ludwig-goransson---community
 - https://rawl.rocks/f/waltz-in-green---takashi-yoshimatsu-lu-nowarutu
