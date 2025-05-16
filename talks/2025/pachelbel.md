@@ -6,6 +6,9 @@
 - https://rawl.rocks/f/variations-on-a-theme-from-pachelbel-s-canon-in-d-major---david-lanz
 - https://rawl.rocks/f/westlife---beautiful-in-white
 - https://rawl.rocks/f/aphrodites_child_rain_and_tears
+
+## Smooth bass line
+
 - https://rawl.rocks/f/melissa---bebu-silvetti
 - https://rawl.rocks/f/etude-op.25-no.9-butterfly---f.-chopin
 
@@ -23,7 +26,9 @@
 
 # Diatonic smooth bass line 1-7-6-5
 
-- https://rawl.rocks/f/Fallen_Down_Undertale
+- https://rawl.rocks/f/cara-mia-addio---full-piano-cover
+- https://rawl.rocks/f/Fallen_Down_Undertale (chromaticism in other parts)
+- https://rawl.rocks/f/piano-man-piano
 
 # Backup diatonic bass line
 
