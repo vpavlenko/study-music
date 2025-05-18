@@ -39,6 +39,9 @@
 - https://rawl.rocks/f/cara-mia-addio---full-piano-cover
 - https://rawl.rocks/f/Fallen_Down_Undertale (chromaticism in other parts)
 - https://rawl.rocks/f/piano-man-piano
+- https://rawl.rocks/f/waltz-in-green---takashi-yoshimatsu-lu-nowarutu
+- https://rawl.rocks/f/the-song-of-twilight---yoshinao-nakada
+- https://rawl.rocks/f/at-nightfall---yuki-kajiura
 
 # Backup diatonic bass line
 
