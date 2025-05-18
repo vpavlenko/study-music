@@ -19,16 +19,6 @@
 - https://rawl.rocks/f/melissa---bebu-silvetti
 - https://rawl.rocks/f/etude-op.25-no.9-butterfly---f.-chopin
 
-# Non-pachelbel major diatonic smooth bass line 1-7-6-5 (5 min)
-
-- https://rawl.rocks/f/cara-mia-addio---full-piano-cover
-- https://rawl.rocks/f/Fallen_Down_Undertale (chromaticism in other parts)
-- https://rawl.rocks/f/piano-man-piano
-- https://rawl.rocks/f/waltz-in-green---takashi-yoshimatsu-lu-nowarutu
-- https://rawl.rocks/f/the-song-of-twilight---yoshinao-nakada
-- https://rawl.rocks/f/at-nightfall---yuki-kajiura
-- https://rawl.rocks/f/greendale-is-where-i-belong---ludwig-goransson---community
-
 # Minor Pachelbel (20 min)
 
 - https://rawl.rocks/s/progression/minor_pachelbel
@@ -46,4 +36,12 @@
 - https://rawl.rocks/f/wa-mozart-marche-turque-turkish-march-fingered
 - https://rawl.rocks/f/bedrich-smetana---vltava-ma-vlast
 
+# Non-pachelbel major diatonic smooth bass line 1-7-6-5 (5 min)
 
+- https://rawl.rocks/f/cara-mia-addio---full-piano-cover
+- https://rawl.rocks/f/Fallen_Down_Undertale (chromaticism in other parts)
+- https://rawl.rocks/f/piano-man-piano
+- https://rawl.rocks/f/waltz-in-green---takashi-yoshimatsu-lu-nowarutu
+- https://rawl.rocks/f/the-song-of-twilight---yoshinao-nakada
+- https://rawl.rocks/f/at-nightfall---yuki-kajiura
+- https://rawl.rocks/f/greendale-is-where-i-belong---ludwig-goransson---community
