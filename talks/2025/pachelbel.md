@@ -10,7 +10,9 @@
 - https://rawl.rocks/f/variations-on-the-canon-qia-nong-bian-zou-qu
 - https://rawl.rocks/f/variations-on-a-theme-from-pachelbel-s-canon-in-d-major---david-lanz
 - https://rawl.rocks/f/westlife---beautiful-in-white
+  - https://www.nytimes.com/2019/05/09/fashion/weddings/canon-in-d-major-wedding-song.html
 - https://rawl.rocks/f/aphrodites_child_rain_and_tears
+  - https://en.wikipedia.org/wiki/Rain_and_Tears
 
 # Pachelbel smooth bass line
 
