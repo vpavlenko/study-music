@@ -1,3 +1,7 @@
+1 5 | 6 3 | 4 1 | 4 5
+
+1 (+4) 5 |+1| 6 (+4) 3 |+1| 4 (+4) 1
+
 # Major Pachelbel (30 min)
 
 - https://rawl.rocks/f/canon-in-d-quartet---johann-pachelbel
