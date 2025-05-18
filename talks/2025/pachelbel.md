@@ -1,4 +1,4 @@
-# Major Pachelbel
+# Major Pachelbel (30 min)
 
 - https://rawl.rocks/f/canon-in-d-quartet---johann-pachelbel
 - https://rawl.rocks/f/variations-on-the-canon-qia-nong-bian-zou-qu
@@ -11,7 +11,7 @@
 - https://rawl.rocks/f/melissa---bebu-silvetti
 - https://rawl.rocks/f/etude-op.25-no.9-butterfly---f.-chopin
 
-# Minor Pachelbel
+# Minor Pachelbel (20 min)
 
 - https://rawl.rocks/s/progression/minor_pachelbel
 - https://rawl.rocks/f/erinnerung-from-das-boot---klaus-doldinger
@@ -22,13 +22,13 @@
 - https://rawl.rocks/f/game-of-thrones-main-piano
 - https://rawl.rocks/f/trine-4-moonlit-forest
 
-# Symmetry
+# Symmetry (5 min)
 
 - https://rawl.rocks/f/funiculi-funicula
 - https://rawl.rocks/f/wa-mozart-marche-turque-turkish-march-fingered
 - https://rawl.rocks/f/bedrich-smetana---vltava-ma-vlast
 
-# Diatonic smooth bass line 1-7-6-5
+# Diatonic smooth bass line 1-7-6-5 (5 min)
 
 - https://rawl.rocks/f/cara-mia-addio---full-piano-cover
 - https://rawl.rocks/f/Fallen_Down_Undertale (chromaticism in other parts)
