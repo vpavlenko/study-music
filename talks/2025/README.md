@@ -27,7 +27,7 @@
 
 ## Планы на осень-2025
 
-14. [constant structures](constant_structures.md)
+12. [constant structures](constant_structures.md)
 12. [relative symmetry, autumn leaves](relative_symmetry.md)
 13. [applied ii V, chain of dominants](advanced_applied.md)
 15. [blues](blues.md)
