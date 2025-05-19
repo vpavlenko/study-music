@@ -8,6 +8,8 @@
 
 [Канал в тележке](https://t.me/keetezh)
 
+## Весна-2025
+
 0. [границы западной музыки](00_intro.md)
 1. [мажор на два аккорда, Шуберт](01_two_chords_in_major.md) (Classical)
 2. [современный натуральный минор, циклы, Gibran Alcocer](02_21_century_natural_minor_loops.md) (contemporary neoclassical piano)
@@ -20,17 +22,22 @@
 7. [пентатоника, TheFatRat](pentatonic.md)
 9. [pachelbel's progression, symmetry](pachelbel.md)
 10. [tonicization/modulation, applied dominants](tonicization_modulation.md)
-11. [relative symmetry, autumn leaves](relative_symmetry.md)
-12. [applied dominants](applied.md)
-13. [constant structures](constant_structures.md)
-14. [blues](blues.md)
-15. [flat side](flat_side.md)
-16. [diminished chords](diminished_chords.md)
-17. [voice-leading](voice-leading.md)
-18. [extensions](extensions.md)
-19. [rhythm changes](rhythm_changes.md)
-20. bII, Ger, I iv, IV iv
-21. b2 scales
-22. augmented chord, whole-tone scale, neo-riemannian
+
+Перерыв
+
+## Планы на осень-2025
+
+14. [constant structures](constant_structures.md)
+12. [relative symmetry, autumn leaves](relative_symmetry.md)
+13. [applied ii V, chain of dominants](advanced_applied.md)
+15. [blues](blues.md)
+16. [flat side](flat_side.md)
+17. [diminished chords](diminished_chords.md)
+18. [voice-leading](voice-leading.md)
+19. [extensions](extensions.md)
+20. [rhythm changes](rhythm_changes.md)
+21. bII, Ger, I iv, IV iv
+22. b2 scales
+23. augmented chord, whole-tone scale, neo-riemannian
 16. ... [**longlist**](longlist.md)
 
