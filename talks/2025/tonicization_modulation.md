@@ -15,7 +15,6 @@
 - https://rawl.rocks/f/Omori_Duet
 - https://rawl.rocks/f/abba--the-winner-takes-it-all
 - https://rawl.rocks/f/All_I_Want_for_Christmas_is_You
-- https://rawl.rocks/s/progression/pullback
 
 # Modulations
 
