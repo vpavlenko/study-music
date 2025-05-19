@@ -8,8 +8,6 @@
 
 [Канал в тележке](https://t.me/keetezh)
 
-## Весна-2025
-
 0. [границы западной музыки](00_intro.md)
 1. [мажор на два аккорда, Шуберт](01_two_chords_in_major.md) (Classical)
 2. [современный натуральный минор, циклы, Gibran Alcocer](02_21_century_natural_minor_loops.md) (contemporary neoclassical piano)
@@ -22,11 +20,6 @@
 7. [пентатоника, TheFatRat](pentatonic.md)
 9. [pachelbel's progression, symmetry](pachelbel.md)
 10. [tonicization/modulation, applied dominants](tonicization_modulation.md)
-
-Перерыв
-
-## Планы на осень-2025
-
 12. [constant structures](constant_structures.md)
 12. [relative symmetry, autumn leaves](relative_symmetry.md)
 13. [applied ii V, chain of dominants](advanced_applied.md)
