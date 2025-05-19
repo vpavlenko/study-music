@@ -101,7 +101,7 @@ The gradient of families is (roughly speaking):
 - [**Maqam languages**](parts/maqam_languages.md) - microtonal scales, monophony and heterophony
 - [**Indian music**](parts/indian.md)
 - [**Gamelan**](parts/gamelan.md), [**piphat**](parts/piphat.md) and other gong chime languages
-- many other traditions: [**Chinese**](parts/chinese.md), [**Kyrgyz komuz**](parts/kyrgyz.md),  [**Georgian polyphonic singing**](parts/georgian.md), [**Japanese**](parts/japanese.md), [**Amazonian**](parts/amazonian.md) etc etc
+- many other traditions: [**Chinese**](parts/chinese.md), [**Kyrgyz komuz**](parts/kyrgyz.md),  [**Georgian polyphonic singing**](parts/georgian.md), [**Japanese**](parts/japanese.md), [**Baka**](https://soundcloud.com/pittriversound-1/sets/bayaka-field-recordings-from), [**Amazonian**](parts/amazonian.md) etc etc
 
 [**Broad overview on non-Western languages**](parts/non_western_languages.md)
 
