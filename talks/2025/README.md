@@ -19,7 +19,7 @@
 9. [дорийский минор](dorian.md)
 7. [пентатоника, TheFatRat](pentatonic.md)
 9. [pachelbel's progression, symmetry](pachelbel.md)
-10. [tonicization/modulation, applied chords](tonicization_modulation.md)
+10. [tonicization/modulation, applied dominants](tonicization_modulation.md)
 11. [relative symmetry, autumn leaves](relative_symmetry.md)
 12. [applied dominants](applied.md)
 13. [constant structures](constant_structures.md)
