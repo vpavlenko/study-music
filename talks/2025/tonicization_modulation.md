@@ -3,6 +3,8 @@
 
 # V/vi
 
+Сначала первые 17 вальсов Шуберта, затем вот эти:
+
 - https://rawl.rocks/f/ruu-s-song---yu-peng-chen
 - https://rawl.rocks/f/my-lie-watashi-no-uso---your-lie-in-april
 - https://rawl.rocks/f/sia---snowman
@@ -12,6 +14,8 @@
 - https://rawl.rocks/f/nocturne-in-e-flat-major---dennis-alexander
 
 # V/ii
+
+Затем ещё четыре вальса Шуберта, затем вот эти:
 
 - https://rawl.rocks/f/Omori_Duet
 - https://rawl.rocks/f/abba--the-winner-takes-it-all
