@@ -19,7 +19,8 @@
 9. [дорийский минор](dorian.md)
 7. [пентатоника, TheFatRat](pentatonic.md)
 9. [pachelbel's progression, symmetry](pachelbel.md)
-10. [tonicization/modulation, applied dominants](tonicization_modulation.md)
+10. [tonicization/modulation in Schubert op. 9, applied dominants: V/vi and V/ii](tonicization_modulation.md)
+11. 12-bar blues
 12. [constant structures](constant_structures.md)
 12. [relative symmetry, autumn leaves](relative_symmetry.md)
 13. [applied ii V, chain of dominants](advanced_applied.md)
