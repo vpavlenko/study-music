@@ -1,6 +1,15 @@
 - https://rawl.rocks/corpus/schubert_op9_d365
 - https://www.youtube.com/watch?v=cikdYAx9p_Q
 
+# Формулы
+
+- V/i = V/I = V
+- V/ii = VI
+- V/iii = VII
+- V7/IV = I7
+- V/V = II
+- V/vi = III
+
 # V/vi
 
 Сначала первые 17 вальсов Шуберта, затем вот эти:
