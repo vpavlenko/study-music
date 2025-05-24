@@ -9,7 +9,7 @@
 [Канал в тележке](https://t.me/keetezh)
 
 0. [границы западной музыки](00_intro.md)
-1. [мажор на два аккорда, Шуберт](01_two_chords_in_major.md) (Classical)
+1. [мажор на два аккорда, четыре вальса Шуберта](01_two_chords_in_major.md) (Classical)
 2. [современный натуральный минор, циклы, Gibran Alcocer](02_21_century_natural_minor_loops.md) (contemporary neoclassical piano)
 3. [triadic minor with V, Fabrizio Paterlini](03_triadic_minor_V.md)
 4. [ещё примеры на V, аранжировка](04_V_and_arrangement.md) 
