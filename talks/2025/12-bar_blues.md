@@ -20,6 +20,7 @@
 - little_richard
 - https://rawl.rocks/f/be-bop-a-lula
 - https://rawl.rocks/f/s3005_09---rock-around-the-clock
+- https://rawl.rocks/f/at-the-hop.2
 
 
 # Major blues
@@ -36,3 +37,4 @@
 # Misc
 
 - https://chiptune.app/?q=blues
+- https://chatgpt.com/share/6835ea9d-be5c-8005-9e2f-a2e3d14a0f52
