@@ -31,3 +31,7 @@
 # Minor blues
 
 - https://rawl.rocks/f/cruisin---jared-emerson-johnson
+
+# Misc
+
+- https://chiptune.app/?q=blues
