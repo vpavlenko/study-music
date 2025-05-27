@@ -9,6 +9,8 @@
 
 - chuck_berry
 - little_richard
+- https://rawl.rocks/f/be-bop-a-lula
+- https://rawl.rocks/f/s3005_09---rock-around-the-clock
 
 # Little Richard
 
