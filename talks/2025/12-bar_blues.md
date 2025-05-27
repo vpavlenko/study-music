@@ -38,3 +38,4 @@
 
 - https://chiptune.app/?q=blues
 - https://chatgpt.com/share/6835ea9d-be5c-8005-9e2f-a2e3d14a0f52
+- https://chatgpt.com/share/6835eadd-b8ac-8005-b1e3-ec61560950b6
