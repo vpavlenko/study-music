@@ -5,6 +5,13 @@
 - https://rawl.rocks/f/boogie-blues-etude-1974---oscar-peterson-piano-solo-transcription
 - https://rawl.rocks/f/jazz-piano-etudes-book-2-no.-2---milan-dvorak
 
+# Rock'n'roll
+
+- chuck_berry
+- little_richard
+
+# Little Richard
+
 # Major blues
 
 - https://rawl.rocks/f/chicago-breakup
