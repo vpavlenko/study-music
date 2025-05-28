@@ -16,8 +16,8 @@
 
 # Rock'n'roll
 
-- chuck_berry
-- little_richard
+- https://rawl.rocks/corpus/chuck_berry
+- https://rawl.rocks/corpus/little_richard
 - https://rawl.rocks/f/be-bop-a-lula
 - https://rawl.rocks/f/s3005_09---rock-around-the-clock
 - https://rawl.rocks/f/at-the-hop.2
