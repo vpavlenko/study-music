@@ -13,6 +13,7 @@
   - https://www.nytimes.com/2019/05/09/fashion/weddings/canon-in-d-major-wedding-song.html (extra bar explained in Steins;Gate, don't bother)
 - https://rawl.rocks/f/aphrodites_child_rain_and_tears
   - https://en.wikipedia.org/wiki/Rain_and_Tears
+- Go West
 
 # Pachelbel smooth bass line
 
