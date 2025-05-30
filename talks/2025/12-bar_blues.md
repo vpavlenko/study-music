@@ -24,8 +24,10 @@
 
 # Rock'n'roll
 
+
 - https://rawl.rocks/corpus/chuck_berry
 - https://rawl.rocks/corpus/little_richard
+- https://rawl.rocks/f/shake-rattle-and-roll.1 (1954)
 - https://rawl.rocks/f/at-the-hop.2 (1957)
 - https://rawl.rocks/f/rock-and-roll.3 (1971)
 
