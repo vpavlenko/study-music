@@ -1,11 +1,3 @@
-# Teacher music
-
-- https://rawl.rocks/f/new-orleans-blues-extended-version---jurgen-moser
-- https://rawl.rocks/f/blues-train---catherine-rollin-catherine-rollin---blues-train-jazz
-- https://rawl.rocks/f/boogie-blues-etude-1974---oscar-peterson-piano-solo-transcription
-- https://rawl.rocks/f/jazz-piano-etudes-book-2-no.-2---milan-dvorak
-
-
 # Early blues
 
 - https://rawl.rocks/f/i-got-the-blues-1908
@@ -13,6 +5,17 @@
 - https://rawl.rocks/f/dallas-blues-1912
 - https://rawl.rocks/f/the-memphis-blues-w.c-handy-1912
 - https://rawl.rocks/f/backwater-blues (1927)
+- https://rawl.rocks/f/Sweet_home_Chicago (1936)
+- https://rawl.rocks/f/chicago-breakup (1941)
+
+# Boogie-woogie
+
+- https://rawl.rocks/f/pine-top-s-boogie-woogie---transcription-of-take-b (1928)
+- https://rawl.rocks/f/boogie-woogie---monday-struggle---by-albert-ammons 1939
+- https://rawl.rocks/f/surfboard-boogie Martha Mier 1960+
+- https://rawl.rocks/f/original-boogie-woogie (ca. 1939, QRS Piano Roll)
+- https://rawl.rocks/f/lewis-boogie-rock-n-roll-piano-arrangement (1950+, Jerry Lee Lewis)
+- https://rawl.rocks/f/boogie-woogie---misc-traditional-boogie-woogie-_-basic-piano-solo-for-beginners 1990+ teacher
 
 # Rockabilly
 
@@ -31,17 +34,23 @@
 - https://rawl.rocks/f/at-the-hop.2 (1957)
 - https://rawl.rocks/f/rock-and-roll.3 (1971)
 
+# Latin
 
-# Major blues
-
-- https://rawl.rocks/f/chicago-breakup (1941)
-- https://rawl.rocks/f/Sweet_home_Chicago (1936)
 - https://rawl.rocks/f/one-more-once---michel-camilo (1994)
-- https://rawl.rocks/corpus/boogie_woogie
 
-# Minor blues
 
-- https://rawl.rocks/f/cruisin---jared-emerson-johnson (2006)
+# Teacher music
+
+- https://rawl.rocks/f/new-orleans-blues-extended-version---jurgen-moser 1970+
+- https://rawl.rocks/f/blues-train---catherine-rollin-catherine-rollin---blues-train-jazz 1970+
+- https://rawl.rocks/f/boogie-blues-etude-1974---oscar-peterson-piano-solo-transcription
+- https://rawl.rocks/f/jazz-piano-etudes-book-2-no.-2---milan-dvorak 1960+
+
+
+# VGM
+
+- https://rawl.rocks/f/dragon-quest-viii-bar-theme (2004)
+- https://rawl.rocks/f/cruisin---jared-emerson-johnson (minor blues, 2006)
 
 # Misc
 
