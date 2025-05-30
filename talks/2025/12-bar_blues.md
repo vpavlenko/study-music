@@ -2,6 +2,11 @@
 
 - https://rawl.rocks/f/at-the-hop.2
 - https://rawl.rocks/f/shake-rattle-and-roll.1
+- https://rawl.rocks/f/johnny-b.-goode-rock-n-roll-piano-solo-arr
+
+## IV7 at m.2
+
+- https://rawl.rocks/f/johnny-b.-goode-rock-n-roll-piano-solo-arr
 
 # Early blues
 
