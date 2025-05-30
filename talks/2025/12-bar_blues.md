@@ -34,14 +34,14 @@
 
 # Major blues
 
-- https://rawl.rocks/f/chicago-breakup
-- https://rawl.rocks/f/Sweet_home_Chicago (m.2 IV7)
-- https://rawl.rocks/f/one-more-once---michel-camilo
+- https://rawl.rocks/f/chicago-breakup (1941)
+- https://rawl.rocks/f/Sweet_home_Chicago (1936)
+- https://rawl.rocks/f/one-more-once---michel-camilo (1994)
 - https://rawl.rocks/corpus/boogie_woogie
 
 # Minor blues
 
-- https://rawl.rocks/f/cruisin---jared-emerson-johnson
+- https://rawl.rocks/f/cruisin---jared-emerson-johnson (2006)
 
 # Misc
 
