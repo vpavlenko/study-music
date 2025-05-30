@@ -2,6 +2,7 @@
 - https://rawl.rocks/f/hello-blues---sage-guyton-jeremy-wakefield
 - https://rawl.rocks/f/a-hot-time-in-the-old-town-1897
 - https://rawl.rocks/s/applied/viio7/V
+- https://rawl.rocks/f/i-got-the-blues-1908
 - https://rawl.rocks/s/cto7/to_I
 - https://rawl.rocks/s/symmetric_chords/diminished
 - https://rawl.rocks/s/modulation/pivot
