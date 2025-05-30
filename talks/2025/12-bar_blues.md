@@ -1,6 +1,7 @@
 # Order from easiest
 
-
+- https://rawl.rocks/f/at-the-hop.2
+- https://rawl.rocks/f/shake-rattle-and-roll.1
 
 # Early blues
 
