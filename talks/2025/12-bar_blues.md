@@ -16,7 +16,8 @@
 
 # Rockabilly
 
-- https://chatgpt.com/share/6839abb8-76f0-8005-a6fb-79a1ebfcd9b1 
+- https://chatgpt.com/share/6839abb8-76f0-8005-a6fb-79a1ebfcd9b1
+- https://rawl.rocks/f/s3005_09---rock-around-the-clock (1952)
 - https://rawl.rocks/f/blue-suede-shoes (1955)
 - https://rawl.rocks/f/folsom-prison-blues.1 (1955)
 - https://rawl.rocks/f/be-bop-a-lula (1956)
@@ -25,9 +26,8 @@
 
 - https://rawl.rocks/corpus/chuck_berry
 - https://rawl.rocks/corpus/little_richard
-
-- https://rawl.rocks/f/s3005_09---rock-around-the-clock
-- https://rawl.rocks/f/at-the-hop.2
+- https://rawl.rocks/f/at-the-hop.2 (1957)
+- https://rawl.rocks/f/rock-and-roll.3 (1971)
 
 
 # Major blues
