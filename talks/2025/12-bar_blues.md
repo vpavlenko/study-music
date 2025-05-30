@@ -1,3 +1,7 @@
+# Order from easiest
+
+
+
 # Early blues
 
 - https://rawl.rocks/f/i-got-the-blues-1908
