@@ -34,5 +34,6 @@
 22. bII, Ger, I iv, IV iv
 23. b2 scales
 24. augmented chord, whole-tone scale, neo-riemannian
+25. tonal stretch
 16. ... [**longlist**](longlist.md)
 
