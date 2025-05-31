@@ -15,8 +15,9 @@
   - https://rawl.rocks/f/original-boogie-woogie
   - https://rawl.rocks/f/chicago-breakup
 - teacher's music
-  - https://rawl.rocks/f/new-orleans-blues-extended-version---jurgen-moser
-  - https://rawl.rocks/f/blues-train---catherine-rollin-catherine-rollin---blues-train-jazz
+  - https://rawl.rocks/f/new-orleans-blues-extended-version---jurgen-moser 1970+
+  - https://rawl.rocks/f/blues-train---catherine-rollin-catherine-rollin---blues-train-jazz 1970+
+  - https://rawl.rocks/f/jazz-piano-etudes-book-2-no.-2---milan-dvorak 1960+
 - vgm
   - https://rawl.rocks/f/dragon-quest-viii-bar-theme (2004)
   - https://rawl.rocks/f/cruisin---jared-emerson-johnson (minor blues, 2006)
@@ -61,15 +62,6 @@
 # Latin
 
 - https://rawl.rocks/f/one-more-once---michel-camilo (1994)
-
-
-# Teacher music
-
-- https://rawl.rocks/f/new-orleans-blues-extended-version---jurgen-moser 1970+
-- https://rawl.rocks/f/blues-train---catherine-rollin-catherine-rollin---blues-train-jazz 1970+
-- https://rawl.rocks/f/boogie-blues-etude-1974---oscar-peterson-piano-solo-transcription
-- https://rawl.rocks/f/jazz-piano-etudes-book-2-no.-2---milan-dvorak 1960+
-
 
 # Misc
 
