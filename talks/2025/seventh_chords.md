@@ -1,1 +1,3 @@
 - https://rawl.rocks/f/happily-ever-after-steven-universe-the-movie
+- https://rawl.rocks/s/seventh_chords/major_seventh_in_melody
+  
