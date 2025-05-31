@@ -6,14 +6,6 @@
 
 ## parallel/relative symmetry
 
-- https://rawl.rocks/f/wima.738b-schubert_de.-tanz-d.365.27
-- https://rawl.rocks/f/wima.01fa-schubert_deut.tanz-d.365.22
-- https://rawl.rocks/f/wima.02f6-schubert_deut.tanz-d.365.33
-- https://rawl.rocks/f/wima.d719-schubert_atzenbrugger-tanz-d.365.30
-- https://rawl.rocks/f/wima.a880-schubert_deut.tanz-d.365.20
-- https://rawl.rocks/f/wima.67e3-schubert_deut.tanz-d.365.32
-- https://rawl.rocks/f/wima.eac7-schubert_deut.tanzd365.14
-- https://rawl.rocks/f/wima.7abe-schubert_deut.tanz-d.365.35
 - https://rawl.rocks/f/schubert-ecossaise-no-8-op-18-d.145
 - https://rawl.rocks/f/schumann-the-wild-horseman-op.-68-no.-8
 - https://rawl.rocks/f/schubert-waltz-in-b-minor-op.-18-no.-6-d.145
