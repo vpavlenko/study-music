@@ -28,10 +28,11 @@
 15. [blues](blues.md)
 16. [flat side](flat_side.md)
 18. [voice-leading](voice-leading.md)
-19. [extensions](extensions.md)
-20. [rhythm changes](rhythm_changes.md)
-21. bII, Ger, I iv, IV iv
-22. b2 scales
-23. augmented chord, whole-tone scale, neo-riemannian
+19. [seventh chords](seventh_chords.md)
+20. [extensions](extensions.md)
+21. [rhythm changes](rhythm_changes.md)
+22. bII, Ger, I iv, IV iv
+23. b2 scales
+24. augmented chord, whole-tone scale, neo-riemannian
 16. ... [**longlist**](longlist.md)
 
