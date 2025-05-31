@@ -11,6 +11,7 @@
 - https://rawl.rocks/f/s3005_09---rock-around-the-clock
 - https://rawl.rocks/f/rock-and-roll.3
 - https://rawl.rocks/f/original-boogie-woogie
+- https://rawl.rocks/f/chicago-breakup
 - https://rawl.rocks/f/new-orleans-blues-extended-version---jurgen-moser
 - https://rawl.rocks/f/blues-train---catherine-rollin-catherine-rollin---blues-train-jazz
 
