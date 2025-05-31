@@ -7,3 +7,4 @@
 - https://rawl.rocks/s/symmetric_chords/diminished
 - https://rawl.rocks/s/modulation/pivot
 - https://rawl.rocks/s/major_cadence/io7_ii_V_I
+- https://rawl.rocks/f/Maple_Leaf_Rag_Scott_Joplin
