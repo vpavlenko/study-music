@@ -7,7 +7,6 @@
   - https://rawl.rocks/f/folsom-prison-blues.1
   - https://rawl.rocks/f/johnny-b.-goode-rock-n-roll-piano-solo-arr
     - [in "Back to the Future"](https://youtu.be/T_WSXXPQYeY?si=sKcoaTIwC1czAEdh&t=147)
-  - https://rawl.rocks/f/long-tall-sally
   - https://rawl.rocks/f/tutti-frutti
   - https://rawl.rocks/f/s3005_09---rock-around-the-clock
   - https://rawl.rocks/f/rock-and-roll.3
