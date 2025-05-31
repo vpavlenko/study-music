@@ -4,6 +4,7 @@
 - https://rawl.rocks/f/at-the-hop.2
 - https://rawl.rocks/f/shake-rattle-and-roll.1
 - https://rawl.rocks/f/folsom-prison-blues.1
+- https://rawl.rocks/f/dallas-blues-1912
 - https://rawl.rocks/f/johnny-b.-goode-rock-n-roll-piano-solo-arr
 - https://rawl.rocks/f/long-tall-sally
 - https://rawl.rocks/f/tutti-frutti
