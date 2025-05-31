@@ -20,6 +20,7 @@
 - vgm
   - https://rawl.rocks/f/dragon-quest-viii-bar-theme (2004)
   - https://rawl.rocks/f/cruisin---jared-emerson-johnson (minor blues, 2006)
+- https://rawl.rocks/corpus/jingle_bells
 
 # Early blues
 
