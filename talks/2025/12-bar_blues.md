@@ -83,4 +83,5 @@
 # IV7
 
 - https://rawl.rocks/s/predominants/IV7
+  - https://rawl.rocks/f/one-piece---bink-s-sake---kohei-tanaka
 - https://rawl.rocks/s/chord_scale/IV7
