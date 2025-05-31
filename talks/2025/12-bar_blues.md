@@ -77,3 +77,10 @@
 - https://chatgpt.com/share/6835ea9d-be5c-8005-9e2f-a2e3d14a0f52
 - https://chatgpt.com/share/6835eadd-b8ac-8005-b1e3-ec61560950b6
 - https://chatgpt.com/share/6839a82c-6844-8005-9377-731550782fa1
+
+
+
+# IV7
+
+- https://rawl.rocks/s/predominants/IV7
+- https://rawl.rocks/s/chord_scale/IV7
