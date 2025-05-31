@@ -46,7 +46,7 @@
 
 - https://chatgpt.com/share/6839abb8-76f0-8005-a6fb-79a1ebfcd9b1
 - https://rawl.rocks/f/s3005_09---rock-around-the-clock (1952)
-- https://rawl.rocks/f/blue-suede-shoes (1955)
+- https://rawl.rocks/f/blue-suede-shoes (1955) BACKUP
 - https://rawl.rocks/f/folsom-prison-blues.1 (1955)
 - https://rawl.rocks/f/be-bop-a-lula (1956)
 
