@@ -6,6 +6,7 @@
   - https://rawl.rocks/f/shake-rattle-and-roll.1
   - https://rawl.rocks/f/folsom-prison-blues.1
   - https://rawl.rocks/f/johnny-b.-goode-rock-n-roll-piano-solo-arr
+    - https://rawl.rocks/f/johnny-b-goode.3
     - [in "Back to the Future"](https://youtu.be/T_WSXXPQYeY?si=sKcoaTIwC1czAEdh&t=147)
   - https://rawl.rocks/f/tutti-frutti
   - https://rawl.rocks/f/s3005_09---rock-around-the-clock
