@@ -35,6 +35,7 @@
 
 - https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov ii_V/bIII
 - https://rawl.rocks/f/nam-nuzhna-odna-pobeda---dudakovmv ii_V/bIII
+- https://rawl.rocks/f/vals-iz-ironii-sudby-ili-s-legkim-parom-the-waltz-from-the-irony-of-fate /bIII
 - https://rawl.rocks/f/pesnjakrasnoishapochki IV_V/vi
 - https://rawl.rocks/f/elochka_lesnoy_aromat ii_V/vi
 - https://rawl.rocks/f/good_night_kids_-vitalis ii_V/IV
