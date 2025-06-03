@@ -8,7 +8,7 @@
 
 - https://rawl.rocks/f/ne-hodit-diti-v-afriku-gulyati---georgiy-firtich
 
-# ii/iv V7/iv
+# ii_V7/iv
 
 - https://rawl.rocks/f/syuyita-mayster-ta-margarita---i.-kornelyuk
 
@@ -20,6 +20,7 @@
 - https://rawl.rocks/s/chord_scale/iv
 - https://rawl.rocks/s/chord_scale/V/minor_iv
 
+# ii_V/bIII
 
 # V7/IV
 
