@@ -6,6 +6,8 @@
 
 # ii/iv V7/iv
 
+- https://rawl.rocks/f/syuyita-mayster-ta-margarita---i.-kornelyuk
+
 # Misc
 
 - https://rawl.rocks/s/applied/V/iv
@@ -13,3 +15,8 @@
 - https://rawl.rocks/s/chord_scale/iv
 - https://rawl.rocks/s/chord_scale/V/minor_iv
 
+
+
+# Трэки без нововведений
+
+- https://rawl.rocks/f/banditskiy-peterburg-gorod-kotorogo-net-fortepiano-a-town-that-does-not-exist
