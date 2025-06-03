@@ -22,6 +22,7 @@
 - https://rawl.rocks/f/kakim-ty-byl
 - https://rawl.rocks/f/tango-do-k-f-12-stulev---o.-zacepin
 - https://rawl.rocks/f/vladimirskiy_tsentral_-katerinskiy_andrei
+- https://rawl.rocks/f/mne-nravitsya-karaoke
 
 
 # Misc
