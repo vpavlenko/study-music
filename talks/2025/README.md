@@ -21,7 +21,7 @@
 9. [pachelbel's progression, symmetry](pachelbel.md)
 10. [tonicization/modulation in Schubert op. 9, applied dominants: V/vi and V/ii](tonicization_modulation.md)
 11. [12-bar blues](12-bar_blues.md)
-12. V7/iv
+12. [V7/iv: советская эстрада и русский шансон](tonicization_of_iv.md)
 17. [diminished chords](diminished_chords.md)
 13. [constant structures](constant_structures.md)
 12. [relative symmetry, autumn leaves](relative_symmetry.md)
