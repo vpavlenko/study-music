@@ -11,9 +11,10 @@
 - https://rawl.rocks/f/ne-hodit-diti-v-afriku-gulyati---georgiy-firtich
 - https://rawl.rocks/f/chemu-uchat-v-shkole----vladimir-shainskiy
 
-# ii_V7/iv
+# ii_V7/iv, iv_V7/iv
 
 - https://rawl.rocks/f/syuyita-mayster-ta-margarita---i.-kornelyuk
+- https://rawl.rocks/f/beri_shinel_poshli_domoi
 
 
 # Misc
@@ -26,6 +27,7 @@
 # other ii_V/
 
 - https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov ii_V/bIII
+- https://rawl.rocks/f/nam-nuzhna-odna-pobeda---dudakovmv ii_V/bIII
 - https://rawl.rocks/f/pesnjakrasnoishapochki IV_V/vi
 - https://rawl.rocks/f/good_night_kids_-vitalis ii_V/IV
 
