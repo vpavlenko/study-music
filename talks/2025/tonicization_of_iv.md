@@ -11,6 +11,7 @@
 - https://rawl.rocks/f/pesenka-krokodila-geny-iz-m-f-cheburashka---vladimir-shainskiy-perelozhenie-dlya-fortepiano-i-golosa
 - https://rawl.rocks/f/ne-hodit-diti-v-afriku-gulyati---georgiy-firtich
 - https://rawl.rocks/f/chemu-uchat-v-shkole----vladimir-shainskiy
+- https://rawl.rocks/f/s-lyubovyu-vstretitsya---a.-zacepin
 
 # ii_V7/iv, iv_V7/iv
 
