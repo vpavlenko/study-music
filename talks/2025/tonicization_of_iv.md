@@ -23,7 +23,7 @@
 # other ii_V/
 
 - https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov (ii_V/bIII)
-- https://rawl.rocks/f/pesnjakrasnoishapochki (ii_V/vi)
+- https://rawl.rocks/f/pesnjakrasnoishapochki (IV_V/vi)
 
 # V7/IV
 
