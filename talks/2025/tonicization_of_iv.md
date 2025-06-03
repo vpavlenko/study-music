@@ -3,6 +3,7 @@
 - https://rawl.rocks/f/island-of-misfortune-ostrov-nevezeniya---o.-zacepin
 - https://rawl.rocks/f/imslp181922-wima.ec84-oginski_polonez_a
   - https://youtu.be/h7qfjG4Yjm0?si=Bo50fSV4WguVq2xN&t=7
+- https://rawl.rocks/f/pisnya-kota-bazilio-ta-lisici-alisi---o.-ribnikov
 
 # V7b9/iv
 
@@ -22,8 +23,9 @@
 
 # other ii_V/
 
-- https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov (ii_V/bIII)
-- https://rawl.rocks/f/pesnjakrasnoishapochki (IV_V/vi)
+- https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov ii_V/bIII
+- https://rawl.rocks/f/pesnjakrasnoishapochki IV_V/vi
+- https://rawl.rocks/f/good_night_kids_-vitalis ii_V/IV
 
 # V7/IV
 
