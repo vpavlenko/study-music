@@ -20,7 +20,10 @@
 - https://rawl.rocks/s/chord_scale/iv
 - https://rawl.rocks/s/chord_scale/V/minor_iv
 
-# ii_V/bIII
+# other ii_V/
+
+- https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov (ii_V/bIII)
+- https://rawl.rocks/f/pesnjakrasnoishapochki (ii_V/vi)
 
 # V7/IV
 
