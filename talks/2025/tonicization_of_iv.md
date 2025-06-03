@@ -14,6 +14,7 @@
 - https://rawl.rocks/f/ne-hodit-diti-v-afriku-gulyati---georgiy-firtich
 - https://rawl.rocks/f/chemu-uchat-v-shkole----vladimir-shainskiy
 - https://rawl.rocks/f/s-lyubovyu-vstretitsya---a.-zacepin
+- https://rawl.rocks/f/surovye-gody-uhodyat-iz-k-f-sobache-serdce---vladimir-dashkevich-yuriy-kim
 
 # ii_V7/iv, iv_V7/iv
 
