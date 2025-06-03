@@ -21,6 +21,9 @@
 - https://rawl.rocks/s/chord_scale/V/minor_iv
 
 
+# V7/IV
+
+- https://rawl.rocks/f/captain-wrongel-s-song----g.-firtich----easy-violin
 
 # Трэки без нововведений
 
