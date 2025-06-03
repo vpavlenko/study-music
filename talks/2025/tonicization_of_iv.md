@@ -6,6 +6,7 @@
 - https://rawl.rocks/f/pisnya-kota-bazilio-ta-lisici-alisi---o.-ribnikov
 - https://rawl.rocks/f/pesenka_mamontenka
 - https://rawl.rocks/f/vot_kto-to_s_gorochki_spustilsya
+- https://rawl.rocks/f/tam-na-nevedomyh-dorozhkah---v.-dashkevich
 
 # V7b9/iv
 
