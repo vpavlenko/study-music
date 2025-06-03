@@ -7,6 +7,7 @@
 # ii/iv V7/iv
 
 - https://rawl.rocks/f/syuyita-mayster-ta-margarita---i.-kornelyuk
+- https://rawl.rocks/f/ne-hodit-diti-v-afriku-gulyati---georgiy-firtich
 
 # Misc
 
