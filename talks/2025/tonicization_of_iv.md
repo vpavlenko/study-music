@@ -37,6 +37,10 @@
 
 - https://rawl.rocks/f/captain-wrongel-s-song----g.-firtich----easy-violin
 
+# Всё сразу и сложно
+
+- https://rawl.rocks/corpus/gennady_gladkov
+
 # Трэки без нововведений
 
 - https://rawl.rocks/f/banditskiy-peterburg-gorod-kotorogo-net-fortepiano-a-town-that-does-not-exist
