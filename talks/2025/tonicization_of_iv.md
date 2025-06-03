@@ -31,6 +31,7 @@
 - https://rawl.rocks/f/pesnjakrasnoishapochki IV_V/vi
 - https://rawl.rocks/f/elochka_lesnoy_aromat ii_V/vi
 - https://rawl.rocks/f/good_night_kids_-vitalis ii_V/IV
+- https://rawl.rocks/f/pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki---gennadiy-gladkov-pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki-g.-gladkov II_V/bIII
 
 # V7/IV
 
