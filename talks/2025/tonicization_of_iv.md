@@ -5,6 +5,7 @@
   - https://youtu.be/h7qfjG4Yjm0?si=Bo50fSV4WguVq2xN&t=7
 - https://rawl.rocks/f/pisnya-kota-bazilio-ta-lisici-alisi---o.-ribnikov
 - https://rawl.rocks/f/pesenka_mamontenka
+- https://rawl.rocks/f/vot_kto-to_s_gorochki_spustilsya
 
 # V7b9/iv
 
@@ -49,3 +50,8 @@
 # Трэки без нововведений
 
 - https://rawl.rocks/f/banditskiy-peterburg-gorod-kotorogo-net-fortepiano-a-town-that-does-not-exist
+- https://rawl.rocks/f/volshebnik-nedouchka---aleksandr-zacepin
+
+# Источники
+
+- https://telkov-mv.narod.ru/midi.html
