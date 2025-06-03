@@ -7,6 +7,7 @@
 - https://rawl.rocks/f/pesenka_mamontenka
 - https://rawl.rocks/f/vot_kto-to_s_gorochki_spustilsya
 - https://rawl.rocks/f/tam-na-nevedomyh-dorozhkah---v.-dashkevich
+- https://rawl.rocks/f/sluzhebnyy_roman
 
 # V7b9/iv
 
@@ -23,9 +24,11 @@
 - https://rawl.rocks/f/beda
 - https://rawl.rocks/f/kakim-ty-byl
 - https://rawl.rocks/f/tango-do-k-f-12-stulev---o.-zacepin
+- https://rawl.rocks/f/pesenka-o-medvedyah---a.-zacepin
 - https://rawl.rocks/f/vladimirskiy_tsentral_-katerinskiy_andrei
 - https://rawl.rocks/f/mgnoveniya---m.-tariverdiiev
 - https://rawl.rocks/f/ya-sprosil-u-yasenya---tariverdiev-tariverdiev
+- https://rawl.rocks/f/a_naposledok_ya_skazhu
 
 
 # Misc
