@@ -22,7 +22,8 @@
 - https://rawl.rocks/f/kakim-ty-byl
 - https://rawl.rocks/f/tango-do-k-f-12-stulev---o.-zacepin
 - https://rawl.rocks/f/vladimirskiy_tsentral_-katerinskiy_andrei
-- https://rawl.rocks/f/mne-nravitsya-karaoke
+- https://rawl.rocks/f/mgnoveniya---m.-tariverdiiev
+- https://rawl.rocks/f/ya-sprosil-u-yasenya---tariverdiev-tariverdiev
 
 
 # Misc
@@ -56,6 +57,7 @@
 - https://rawl.rocks/f/banditskiy-peterburg-gorod-kotorogo-net-fortepiano-a-town-that-does-not-exist
 - https://rawl.rocks/f/volshebnik-nedouchka---aleksandr-zacepin
 - https://rawl.rocks/f/kolshchik
+- https://rawl.rocks/f/na-tihoreckuyu-sostav-otpravitsya
 
 # Источники
 
