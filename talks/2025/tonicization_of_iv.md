@@ -1,6 +1,10 @@
 # Baseline
 
 - https://rawl.rocks/f/kaby-ne-bylo-zimy-iz-m-f-zima-v-prostokvashino---evgeniy-krylatov-kaby-ne-bylo-zimy-iz-m-f-zima-v-prostokvashino
+- https://rawl.rocks/f/banditskiy-peterburg-gorod-kotorogo-net-fortepiano-a-town-that-does-not-exist
+- https://rawl.rocks/f/volshebnik-nedouchka---aleksandr-zacepin
+- https://rawl.rocks/f/kolshchik
+- https://rawl.rocks/f/na-tihoreckuyu-sostav-otpravitsya
 
 # V7/iv
 
@@ -60,13 +64,6 @@
 # Всё сразу и сложно
 
 - https://rawl.rocks/corpus/gennady_gladkov
-
-# Трэки без нововведений
-
-- https://rawl.rocks/f/banditskiy-peterburg-gorod-kotorogo-net-fortepiano-a-town-that-does-not-exist
-- https://rawl.rocks/f/volshebnik-nedouchka---aleksandr-zacepin
-- https://rawl.rocks/f/kolshchik
-- https://rawl.rocks/f/na-tihoreckuyu-sostav-otpravitsya
 
 # Источники
 
