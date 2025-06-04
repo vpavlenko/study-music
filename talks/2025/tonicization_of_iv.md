@@ -37,13 +37,6 @@
 - https://rawl.rocks/f/a_naposledok_ya_skazhu
 
 
-# Misc
-
-
-- https://rawl.rocks/s/applied/ii_V%2Fminor_iv
-- https://rawl.rocks/s/chord_scale/iv
-- https://rawl.rocks/s/chord_scale/V/minor_iv
-
 # other ii_V/
 
 ## /bIII
@@ -88,3 +81,6 @@
 # Tags
 
 - https://rawl.rocks/s/applied/V/iv
+- https://rawl.rocks/s/applied/ii_V%2Fminor_iv
+- https://rawl.rocks/s/chord_scale/iv
+- https://rawl.rocks/s/chord_scale/V/minor_iv
