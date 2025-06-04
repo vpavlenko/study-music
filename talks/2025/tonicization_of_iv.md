@@ -57,10 +57,6 @@
 - https://rawl.rocks/f/good_night_kids_-vitalis ii_V/IV
 - https://rawl.rocks/f/kolorovi-sni-cvetnye-sny---m.-dunaievskiy iv_V/ii
 
-# V7/IV
-
-- https://rawl.rocks/f/captain-wrongel-s-song----g.-firtich----easy-violin
-
 # Всё сразу и сложно
 
 - https://rawl.rocks/corpus/gennady_gladkov
