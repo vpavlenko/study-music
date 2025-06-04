@@ -8,6 +8,7 @@
 - https://rawl.rocks/f/vot_kto-to_s_gorochki_spustilsya
 - https://rawl.rocks/f/tam-na-nevedomyh-dorozhkah---v.-dashkevich
 - https://rawl.rocks/f/sluzhebnyy_roman
+- https://rawl.rocks/f/dzhentelmeny_udachi (autumn leaves)
 
 # V7b9/iv
 
