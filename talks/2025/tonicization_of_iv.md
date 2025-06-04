@@ -76,3 +76,4 @@
 # Источники
 
 - https://telkov-mv.narod.ru/midi.html
+- https://www.midi-karaoke.info/21b472d8.html
