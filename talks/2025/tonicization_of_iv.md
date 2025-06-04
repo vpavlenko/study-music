@@ -1,12 +1,12 @@
 # V7/iv
 
+- https://rawl.rocks/f/tam-na-nevedomyh-dorozhkah---v.-dashkevich
 - https://rawl.rocks/f/island-of-misfortune-ostrov-nevezeniya---o.-zacepin
 - https://rawl.rocks/f/imslp181922-wima.ec84-oginski_polonez_a
   - https://youtu.be/h7qfjG4Yjm0?si=Bo50fSV4WguVq2xN&t=7
 - https://rawl.rocks/f/pisnya-kota-bazilio-ta-lisici-alisi---o.-ribnikov
 - https://rawl.rocks/f/pesenka_mamontenka
 - https://rawl.rocks/f/vot_kto-to_s_gorochki_spustilsya
-- https://rawl.rocks/f/tam-na-nevedomyh-dorozhkah---v.-dashkevich
 - https://rawl.rocks/f/sluzhebnyy_roman
 - https://rawl.rocks/f/dzhentelmeny_udachi (autumn leaves)
 
@@ -17,6 +17,7 @@
 - https://rawl.rocks/f/chemu-uchat-v-shkole----vladimir-shainskiy
 - https://rawl.rocks/f/s-lyubovyu-vstretitsya---a.-zacepin
 - https://rawl.rocks/f/surovye-gody-uhodyat-iz-k-f-sobache-serdce---vladimir-dashkevich-yuriy-kim
+- https://rawl.rocks/f/talk_with_happyness
 
 # ii_V7/iv, iv_V7/iv
 
@@ -78,4 +79,4 @@
 
 - https://telkov-mv.narod.ru/midi.html
 - https://www.midi-karaoke.info/21b472d8.html
-- https://www.rusmidi.com/artist/
+- https://www.rusmidi.com/jenre/3/?p=5
