@@ -22,6 +22,7 @@
 - https://rawl.rocks/f/dzhentelmeny_udachi (autumn leaves)
 - https://rawl.rocks/f/ogney-tak-mnogo-zolotyh
 - https://rawl.rocks/f/zhuravlina-pisnya---k.-molchanov
+- https://rawl.rocks/f/and-the-gypsy-is-coming-a-cygan-idet
 
 # V7b9/iv
 
