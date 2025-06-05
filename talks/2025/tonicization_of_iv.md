@@ -61,10 +61,8 @@
 - https://rawl.rocks/f/good_night_kids_-vitalis ii_V/IV
 - https://rawl.rocks/f/kolorovi-sni-cvetnye-sny---m.-dunaievskiy iv_V/ii
 - https://rawl.rocks/f/vals---ie.-doga - long modulation to iv, not a tonicization
-
-# Всё сразу и сложно
-
-- https://rawl.rocks/corpus/gennady_gladkov
+- https://rawl.rocks/corpus/gennady_gladkov более сложный джазовый язык
+- http://localhost:3000/f/saundtrek-k-filmu-brat-2-brother-2-movie-ost практически никакого V7/iv
 
 # Источники
 
