@@ -15,7 +15,7 @@
 - https://rawl.rocks/f/pisnya-kota-bazilio-ta-lisici-alisi---o.-ribnikov
 - https://rawl.rocks/f/pesenka_mamontenka
 - https://rawl.rocks/f/vot_kto-to_s_gorochki_spustilsya
-- https://rawl.rocks/f/sluzhebnyy_roman
+- https://rawl.rocks/f/sluzhebnyy_roman V7b9
 - https://rawl.rocks/f/dzhentelmeny_udachi (autumn leaves)
 
 # V7b9/iv
