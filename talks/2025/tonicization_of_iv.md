@@ -60,6 +60,7 @@
 
 - https://rawl.rocks/f/good_night_kids_-vitalis ii_V/IV
 - https://rawl.rocks/f/kolorovi-sni-cvetnye-sny---m.-dunaievskiy iv_V/ii
+- https://rawl.rocks/f/vals---ie.-doga - long modulation to iv, not a tonicization
 
 # Всё сразу и сложно
 
