@@ -71,25 +71,20 @@
 - https://rawl.rocks/f/pisnya-pro-pogodu---a.-petrov iiø
 
 
-# other ii_V/
+# misc ii_V/
 
-## /bIII
+- https://rawl.rocks/f/elochka_lesnoy_aromat ii_V/vi
+- https://rawl.rocks/f/good_night_kids_-vitalis ii_V/IV
+- https://rawl.rocks/f/kolorovi-sni-cvetnye-sny---m.-dunaievskiy iv_V/ii
+- https://rawl.rocks/f/pesnjakrasnoishapochki IV_V/vi
 
+## misc 
 
+## cycle: 5
 
 - https://rawl.rocks/f/vals-iz-ironii-sudby-ili-s-legkim-parom-the-waltz-from-the-irony-of-fate /bIII
 - https://rawl.rocks/f/malenkiy-princ-m.-tariverdiev /bIII
 - https://rawl.rocks/f/pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki---gennadiy-gladkov-pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki-g.-gladkov II_V/bIII
-
-## /vi
-
-- https://rawl.rocks/f/pesnjakrasnoishapochki IV_V/vi
-- https://rawl.rocks/f/elochka_lesnoy_aromat ii_V/vi
-
-## misc 
-
-- https://rawl.rocks/f/good_night_kids_-vitalis ii_V/IV
-- https://rawl.rocks/f/kolorovi-sni-cvetnye-sny---m.-dunaievskiy iv_V/ii
 - https://rawl.rocks/f/vals---ie.-doga - long modulation to iv, not a tonicization
 - https://rawl.rocks/corpus/gennady_gladkov более сложный джазовый язык
 - https://rawl.rocks/f/saundtrek-k-filmu-brat-2-brother-2-movie-ost практически никакого V7/iv
