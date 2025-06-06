@@ -32,6 +32,7 @@
 - https://rawl.rocks/f/ogney-tak-mnogo-zolotyh
 - https://rawl.rocks/f/zhuravlina-pisnya---k.-molchanov
 - https://rawl.rocks/f/and-the-gypsy-is-coming-a-cygan-idet
+- https://rawl.rocks/f/lesnoy-olen
 - https://rawl.rocks/f/krylatye-kacheli-priklyucheniya-elektronika
 
 # V7b9/iv
