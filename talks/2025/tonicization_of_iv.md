@@ -25,7 +25,7 @@
 # V7/iv
 
 - https://rawl.rocks/f/island-of-misfortune-ostrov-nevezeniya---o.-zacepin
-
+- https://rawl.rocks/f/vot_kto-to_s_gorochki_spustilsya
 
 - https://rawl.rocks/f/tam-na-nevedomyh-dorozhkah---v.-dashkevich
 
@@ -33,9 +33,9 @@
   - https://youtu.be/h7qfjG4Yjm0?si=Bo50fSV4WguVq2xN&t=7
 - https://rawl.rocks/f/pisnya-kota-bazilio-ta-lisici-alisi---o.-ribnikov
 - https://rawl.rocks/f/pesenka_mamontenka lil V7b9
-- https://rawl.rocks/f/vot_kto-to_s_gorochki_spustilsya
-- https://rawl.rocks/f/sluzhebnyy_roman V7b9
-- https://rawl.rocks/f/ranok-morning---a.-petrov
+
+
+
 - https://rawl.rocks/f/dzhentelmeny_udachi (autumn leaves)
 - https://rawl.rocks/f/ogney-tak-mnogo-zolotyh
 - https://rawl.rocks/f/zhuravlina-pisnya---k.-molchanov
@@ -45,6 +45,8 @@
 
 # V7b9/iv
 
+- https://rawl.rocks/f/sluzhebnyy_roman
+  - https://rawl.rocks/f/ranok-morning---a.-petrov
 - https://rawl.rocks/f/pesenka-krokodila-geny-iz-m-f-cheburashka---vladimir-shainskiy-perelozhenie-dlya-fortepiano-i-golosa
 - https://rawl.rocks/f/ne-hodit-diti-v-afriku-gulyati---georgiy-firtich
 - https://rawl.rocks/f/chemu-uchat-v-shkole----vladimir-shainskiy
