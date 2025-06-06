@@ -16,6 +16,7 @@
 - https://rawl.rocks/f/banditskiy-peterburg-gorod-kotorogo-net-fortepiano-a-town-that-does-not-exist
 - https://rawl.rocks/f/nam-nuzhna-odna-pobeda---dudakovmv
 - https://rawl.rocks/f/volshebnik-nedouchka---aleksandr-zacepin
+- https://rawl.rocks/f/fraer---mihail-krug
 - backup:
 - https://rawl.rocks/f/na-tihoreckuyu-sostav-otpravitsya
 - https://rawl.rocks/f/tri-belyh-konya---e.-krylatov
