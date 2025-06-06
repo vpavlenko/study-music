@@ -1,14 +1,21 @@
 # Baseline, V7/bIII
 
 - https://rawl.rocks/f/kaby-ne-bylo-zimy-iz-m-f-zima-v-prostokvashino---evgeniy-krylatov-kaby-ne-bylo-zimy-iz-m-f-zima-v-prostokvashino
+- https://rawl.rocks/f/kuplety-kurochkina---b.-mokrousov
 - https://rawl.rocks/f/banditskiy-peterburg-gorod-kotorogo-net-fortepiano-a-town-that-does-not-exist
 - https://rawl.rocks/f/volshebnik-nedouchka---aleksandr-zacepin
-- https://rawl.rocks/f/kolshchik
-- https://rawl.rocks/f/na-tihoreckuyu-sostav-otpravitsya
-- https://rawl.rocks/f/kuplety-kurochkina---b.-mokrousov
-- https://rawl.rocks/f/odinokaya-garmon---misc-traditional-obr.-dlya-bayana
+- https://rawl.rocks/f/na-tihoreckuyu-sostav-otpravitsya (low quality)
 - https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov
 - https://rawl.rocks/f/nam-nuzhna-odna-pobeda---dudakovmv
+
+## three chords
+
+- https://rawl.rocks/f/troe-iz-prostokvashino
+
+## natural minor
+
+- https://rawl.rocks/f/kolshchik
+
 
 # V7/iv
 
@@ -25,6 +32,7 @@
 - https://rawl.rocks/f/ogney-tak-mnogo-zolotyh
 - https://rawl.rocks/f/zhuravlina-pisnya---k.-molchanov
 - https://rawl.rocks/f/and-the-gypsy-is-coming-a-cygan-idet
+- https://rawl.rocks/f/krylatye-kacheli-priklyucheniya-elektronika
 
 # V7b9/iv
 
