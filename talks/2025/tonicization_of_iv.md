@@ -7,6 +7,7 @@
 - https://rawl.rocks/f/na-tihoreckuyu-sostav-otpravitsya (low quality)
 - https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov
 - https://rawl.rocks/f/nam-nuzhna-odna-pobeda---dudakovmv
+- https://rawl.rocks/f/tri-belyh-konya---e.-krylatov
 
 ## three chords
 
