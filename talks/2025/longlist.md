@@ -1,8 +1,3 @@
-- tonicization_of_iv.md
-- parov stelar: блюзовая гамма
-
-- буги-вуги
-
 - шатлы
 
 - C418
@@ -34,8 +29,6 @@
 - 6 b6
 
 - Scott Joplin: Maple Leaf Rag
-
-- Rhythm changes
 
 - Nocturnes
 
