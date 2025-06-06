@@ -1,4 +1,4 @@
-# Baseline, V7/bIII
+# Baseline
 
 ## three chords
 
@@ -8,7 +8,7 @@
 
 - https://rawl.rocks/f/kolshchik (skip)
 
-## regular
+## regular, V7/bIII
 
 - https://rawl.rocks/f/kaby-ne-bylo-zimy-iz-m-f-zima-v-prostokvashino---evgeniy-krylatov-kaby-ne-bylo-zimy-iz-m-f-zima-v-prostokvashino
 - https://rawl.rocks/f/kuplety-kurochkina---b.-mokrousov
