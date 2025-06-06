@@ -6,7 +6,7 @@
 
 ## natural minor
 
-- https://rawl.rocks/f/kolshchik
+- https://rawl.rocks/f/kolshchik (skip)
 
 ## regular
 
