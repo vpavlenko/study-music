@@ -7,6 +7,8 @@
 - https://rawl.rocks/f/na-tihoreckuyu-sostav-otpravitsya
 - https://rawl.rocks/f/kuplety-kurochkina---b.-mokrousov
 - https://rawl.rocks/f/odinokaya-garmon---misc-traditional-obr.-dlya-bayana
+- https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov
+- https://rawl.rocks/f/nam-nuzhna-odna-pobeda---dudakovmv
 
 # V7/iv
 
@@ -55,8 +57,8 @@
 
 ## /bIII
 
-- https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov ii_V/bIII
-- https://rawl.rocks/f/nam-nuzhna-odna-pobeda---dudakovmv ii_V/bIII
+
+
 - https://rawl.rocks/f/vals-iz-ironii-sudby-ili-s-legkim-parom-the-waltz-from-the-irony-of-fate /bIII
 - https://rawl.rocks/f/malenkiy-princ-m.-tariverdiev /bIII
 - https://rawl.rocks/f/pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki---gennadiy-gladkov-pesnya-atamanshi-i-razboynikov-govoryat-my-byaki-buki-g.-gladkov II_V/bIII
