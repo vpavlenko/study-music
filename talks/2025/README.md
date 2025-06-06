@@ -22,6 +22,7 @@
 10. [tonicization/modulation in Schubert op. 9, applied dominants: V/vi and V/ii](tonicization_modulation.md)
 11. [12-bar blues](12-bar_blues.md)
 12. [iv/iv V7/iv: минорная гармония советских песен](tonicization_of_iv.md)
+19. [seventh chords](seventh_chords.md)
 17. [diminished chords](diminished_chords.md)
 13. [constant structures](constant_structures.md)
 12. [relative symmetry, autumn leaves](relative_symmetry.md)
@@ -29,7 +30,6 @@
 15. [blues](blues.md)
 16. [flat side](flat_side.md)
 18. [voice-leading](voice-leading.md)
-19. [seventh chords](seventh_chords.md)
 20. [extensions](extensions.md)
 21. [rhythm changes](rhythm_changes.md)
 22. bII, Ger, I iv, IV iv
