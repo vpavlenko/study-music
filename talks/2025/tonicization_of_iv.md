@@ -1,14 +1,5 @@
 # Baseline, V7/bIII
 
-- https://rawl.rocks/f/kaby-ne-bylo-zimy-iz-m-f-zima-v-prostokvashino---evgeniy-krylatov-kaby-ne-bylo-zimy-iz-m-f-zima-v-prostokvashino
-- https://rawl.rocks/f/kuplety-kurochkina---b.-mokrousov
-- https://rawl.rocks/f/banditskiy-peterburg-gorod-kotorogo-net-fortepiano-a-town-that-does-not-exist
-- https://rawl.rocks/f/volshebnik-nedouchka---aleksandr-zacepin
-- https://rawl.rocks/f/na-tihoreckuyu-sostav-otpravitsya (low quality)
-- https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov
-- https://rawl.rocks/f/nam-nuzhna-odna-pobeda---dudakovmv
-- https://rawl.rocks/f/tri-belyh-konya---e.-krylatov
-
 ## three chords
 
 - https://rawl.rocks/f/troe-iz-prostokvashino
@@ -16,6 +7,19 @@
 ## natural minor
 
 - https://rawl.rocks/f/kolshchik
+
+## regular
+
+- https://rawl.rocks/f/kaby-ne-bylo-zimy-iz-m-f-zima-v-prostokvashino---evgeniy-krylatov-kaby-ne-bylo-zimy-iz-m-f-zima-v-prostokvashino
+- https://rawl.rocks/f/kuplety-kurochkina---b.-mokrousov
+- https://rawl.rocks/f/ya-tebya-nikogda-ne-zabudu---o.-ribnikov
+- https://rawl.rocks/f/banditskiy-peterburg-gorod-kotorogo-net-fortepiano-a-town-that-does-not-exist
+- https://rawl.rocks/f/nam-nuzhna-odna-pobeda---dudakovmv
+- https://rawl.rocks/f/volshebnik-nedouchka---aleksandr-zacepin
+- backup:
+- https://rawl.rocks/f/na-tihoreckuyu-sostav-otpravitsya
+- https://rawl.rocks/f/tri-belyh-konya---e.-krylatov
+
 
 
 # V7/iv
