@@ -25,6 +25,7 @@
 19. [autumn leaves](relative_symmetry.md), [seventh chords](seventh_chords.md)
 20. fkj, shuttles
 17. [diminished chords](diminished_chords.md)
+18. maple leaf-like ragtimes of Scott Joplin
 13. [constant structures](constant_structures.md)
 13. [applied ii V, chain of dominants](advanced_applied.md)
 15. [blues](blues.md)
