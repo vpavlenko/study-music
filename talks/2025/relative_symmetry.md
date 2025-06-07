@@ -1,17 +1,3 @@
-# Symmetry
-
-- https://rawl.rocks/s/parallel/symmetry
-- https://rawl.rocks/s/relative/symmetry
-- https://rawl.rocks/f/the-song-of-twilight---yoshinao-nakada
-
-## parallel/relative symmetry
-
-- https://rawl.rocks/f/schubert-ecossaise-no-8-op-18-d.145
-- https://rawl.rocks/f/schumann-the-wild-horseman-op.-68-no.-8
-- https://rawl.rocks/f/schubert-waltz-in-b-minor-op.-18-no.-6-d.145
-- https://rawl.rocks/f/jeux-interdits
-- https://rawl.rocks/f/happy-birthday-insane
-
 ## tonicization of V: the most classical style
 
 - https://rawl.rocks/f/wima.d719-schubert_atzenbrugger-tanz-d.365.30
@@ -38,3 +24,12 @@
 - https://rawl.rocks/f/czardas-by-vittorio-monti
 - https://rawl.rocks/f/vals-iz-ironii-sudby-ili-s-legkim-parom-the-waltz-from-the-irony-of-fate
 - still got the blues
+
+
+## parallel/relative symmetry
+
+- https://rawl.rocks/f/schubert-ecossaise-no-8-op-18-d.145
+- https://rawl.rocks/f/schumann-the-wild-horseman-op.-68-no.-8
+- https://rawl.rocks/f/schubert-waltz-in-b-minor-op.-18-no.-6-d.145
+- https://rawl.rocks/f/jeux-interdits
+- https://rawl.rocks/f/happy-birthday-insane
