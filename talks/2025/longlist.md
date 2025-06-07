@@ -70,39 +70,16 @@
 - https://rawl.rocks/f/fee-just-piano-version---fkj
 - https://rawl.rocks/f/meeting-again-in-the-void-just-piano-version---fkj
 
-## Boogie Woogie
-
-- https://rawl.rocks/corpus/boogie_woogie
-- start with https://rawl.rocks/f/surfboard-boogie
-- https://rawl.rocks/corpus/pete_johnson
 
 ## IV iii ii I, Pedro Silva
 
 - https://rawl.rocks/s/cycle_root_motion/second_down
 - https://rawl.rocks/corpus/pedro_silva
 
-## pachelbel's canon
-
-- https://rawl.rocks/s/progression/pachelbels_canon
-- Gregory Winston vs David Lanz, new age
-
-## minor pachelbel
-
-- https://rawl.rocks/s/progression/minor_pachelbel
 
 ## Fkj
 
 - https://rawl.rocks/corpus/fkj
-
-## applieds - Schubert D.365
-
-- https://rawl.rocks/f/huit-septembre-mazurka-op.-7---eugeniusz-zaluski
-
-
-## On period and V/V
-
-- make minor ragtime jingle bells-like out of any period
-- 25 \* 16
 
 ## 12 bar jazz blues
 
@@ -196,6 +173,5 @@ Jelly Roll Morton and Fats Waller (James Brigham has sequenced them)
 ## Brahms's Hungarian Dances
 
 ## Sonata form
-
 
 ## Zun Touhou
