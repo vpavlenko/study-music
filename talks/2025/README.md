@@ -37,8 +37,9 @@
 20. [extensions](extensions.md)
 21. [rhythm changes](rhythm_changes.md)
 22. IV iv
-23. b2 scales
-24. augmented chord, whole-tone scale, neo-riemannian
-25. tonal stretch
+23. Chopin
+24. b2 scales, Greek music
+25. augmented chord, whole-tone scale, neo-riemannian
+26. tonal stretch
 16. ... [**longlist**](longlist.md)
 
