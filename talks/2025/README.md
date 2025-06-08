@@ -22,7 +22,7 @@
 10. [tonicization/modulation in Schubert op. 9, applied dominants: V/vi and V/ii](tonicization_modulation.md)
 11. [12-bar blues](12-bar_blues.md)
 12. [iv/iv V7/iv: минорная гармония советских песен](tonicization_of_iv.md)
-20. fkj
+20. [fkj](https://rawl.rocks/corpus/fkj)
 19. [autumn leaves](relative_symmetry.md), [seventh chords](seventh_chords.md)
 17. [diminished chords](diminished_chords.md)
 18. maple leaf-like ragtimes of Scott Joplin
