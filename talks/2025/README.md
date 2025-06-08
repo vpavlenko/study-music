@@ -23,7 +23,7 @@
 11. [12-bar blues](12-bar_blues.md)
 12. [iv/iv V7/iv: минорная гармония советских песен](tonicization_of_iv.md)
 19. [autumn leaves](relative_symmetry.md), [seventh chords](seventh_chords.md)
-20. fkj, shuttles
+20. fkj
 17. [diminished chords](diminished_chords.md)
 18. maple leaf-like ragtimes of Scott Joplin
 19. Paul de Senneville
