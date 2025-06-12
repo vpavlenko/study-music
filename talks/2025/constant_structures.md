@@ -1,8 +1,7 @@
 # Major chords
 
 - https://rawl.rocks/f/king-solomon-s-mines---main-theme
-
-- https://rawl.rocks/f/mid-boss-mayhem
+- https://rawl.rocks/f/mid-boss-mayhem - watch all Kirkhope
 - https://rawl.rocks/f/barkarole---manfred-schmitz
 
 # Misc
