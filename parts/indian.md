@@ -1,6 +1,6 @@
 Indian Classical Music
 ---
-
+- Nazir Ali Jairazbhoy. The Rags of North Indian Music: Their Structure and Evolution
 - [Anuja Kamat - Basic Theory of Indian Music](https://www.youtube.com/playlist?list=PLRKReciB2B9fUOgMx-dasWqAm-Y9Y5SLq)
 - [CompMusic](https://compmusic.upf.edu/publications) - search for "Carnatic" and "Hindustani"
    - Preeti Rao, Hema A. Murthy, S. R. M. Prasanna. Indian Art Music: A Computational Perspective
