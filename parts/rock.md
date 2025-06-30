@@ -113,4 +113,6 @@ More
 
 - https://www.top40theory.com/blog
 
+- Richard J. Scott. Chord Progressions for Songwriters
+
 - [**advanced**](advanced_rock.md)
