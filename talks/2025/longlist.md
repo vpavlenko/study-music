@@ -175,3 +175,6 @@ Jelly Roll Morton and Fats Waller (James Brigham has sequenced them)
 ## Sonata form
 
 ## Zun Touhou
+
+
+<img width="732" height="876" alt="image" src="https://github.com/user-attachments/assets/9f59abff-965d-4449-b10d-29cc0c6bb6fa" />
