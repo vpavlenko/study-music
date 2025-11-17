@@ -27,8 +27,9 @@
 17. [diminished chords](diminished_chords.md)
 18. maple leaf-like ragtimes of Scott Joplin
 19. Paul de Senneville
-20. Ger, bII
-21. sonata form
+20. [pullback](https://rawl.rocks/s/progression/pullback)
+21. Ger, bII
+22. sonata form
 13. [constant structures](constant_structures.md)
 13. [applied ii V, chain of dominants](advanced_applied.md)
 15. [blues](blues.md)
