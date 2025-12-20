@@ -12,4 +12,6 @@ https://www.dropbox.com/scl/fi/lzo9337ztflv8apt0b4lp/combined_output.mkv?rlkey=l
 
 https://docs.google.com/document/d/10qdxhBq-Pwzvkb2DwpQPiACbLmV_dmFrkpXzziiFh6k/edit?usp=sharing
 
+https://www.youtube.com/watch?v=ccHTOepjK_s
+
 http://www.durhamgamelan.org.uk/wp-content/uploads/2021/10/bendrongan-score.pdf
