@@ -34,6 +34,8 @@ Misc
 
 <img width="1000" alt="Screenshot 2022-01-24 at 3 59 28 PM" src="https://user-images.githubusercontent.com/1491908/150787122-617bd6e6-a77a-421c-a824-44754d321457.png">
 
+- Judith Becker. Traditional Music in Modern Java: Gamelan in a Changing Society
+
 - [gamelan.org](http://www.gamelan.org/), [Balungan](http://www.gamelan.org/balungan/back_issues/)
 
 - "The concept of pathet in Central Javanese gamelan music", paper.
