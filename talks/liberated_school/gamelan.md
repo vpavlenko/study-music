@@ -20,3 +20,5 @@ http://www.durhamgamelan.org.uk/wp-content/uploads/2021/10/bendrongan-score.pdf
 Дз:
 
 https://www.youtube.com/watch?v=7rJePjX1mNg
+
+проанализировать bubaran udan mas - проверить, что там всё так же
