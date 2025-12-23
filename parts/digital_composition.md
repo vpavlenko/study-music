@@ -74,3 +74,4 @@ More
 ---
 
 - [Павел Живайкин. Статьи и книги по аранжировке](http://musicinform.narod.ru/index.htm)
+- [Programming Languages Used for Music](https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes)
