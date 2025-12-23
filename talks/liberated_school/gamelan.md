@@ -15,3 +15,8 @@ https://www.youtube.com/watch?v=ccHTOepjK_s
 http://www.durhamgamelan.org.uk/wp-content/uploads/2021/10/bendrongan-score.pdf
 
 <img width="1528" height="820" alt="Screenshot 2025-12-21 at 11 52 33" src="https://github.com/user-attachments/assets/2b686b1f-49a3-4fde-bbf2-742733f39f8e" />
+
+
+Дз:
+
+https://www.youtube.com/watch?v=7rJePjX1mNg
