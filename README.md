@@ -30,6 +30,7 @@ Where to start
 15. [TuttiTempi: Chopin's Funeral March ⚰️](https://tuttitempi.com/#scoreId=U00000578581&from=0.5622&to=0.8122&youtube=1&spotify=0&muziekweb=0)
 10. Click "Show Timeline" for patterns similar to octatonic used in jazz solos: [upward](https://dig-that-lick.hfm-weimar.de/similarity_search/search?id=8855&target_layout=&group_by=&task_id=6c3656c4-724b-401a-a69a-4f874adddafc), [downward](https://dig-that-lick.hfm-weimar.de/similarity_search/search?id=8856&target_layout=&group_by=&task_id=dce240ac-68c9-49f4-90f5-636e0ad2d15b)
 11. See how form can be visualized in [MusicPlot](https://wlouie1.github.io/MusicPlot/musicplot.html) and in [BriFormer](https://www.brianedwardjarvis.com/MusicTheoryWebApps/BriFormer/briformer.html)
+12. Explore chords, scales, and progressions visually in [Chord Colors](https://chordcolors.com/chords/c-major/piano)
 
 
 **Watch**
