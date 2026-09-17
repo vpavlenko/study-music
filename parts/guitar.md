@@ -5,3 +5,4 @@
 - https://sethares.engr.wisc.edu/alternatetunings/alltunings.pdf
 - [С. Попов. Музыкальное и аппликатурное мышление гитариста](https://sontick.nethouse.ru/static/doc/0000/0000/0320/320429.liotntp5il.pdf)
 
+- [Tonecrafted Glossary](https://gap.tonecrafted.com) — free reference of guitar and music theory terms.
