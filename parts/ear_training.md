@@ -9,6 +9,8 @@ Ear training
 
 - [SoundGym](https://www.soundgym.co/dashboard/gym) - Ear training for mixing engineers: EQ, compression, stereo image, gain, reverb
 
+- [EQ Ear Training Game](https://theaudiostuff.com/tools/ear-training/) - Free browser game for learning to recognise frequency bands from 20 Hz to 22 kHz by ear, with five training modes; no account needed
+
 - [ToneGym](https://www.tonegym.co/dashboard/gym) - Intervals, chords, rhythms (with some gamification)
 
 - [Perfect Pitch](https://xn--80ahdkilbo1bvw1el.xn--p1ai/en/home/) - Intervals, chords, scales, inversions
