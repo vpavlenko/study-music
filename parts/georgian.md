@@ -11,3 +11,9 @@ https://www.researchgate.net/publication/342048009_Structural_analysis_and_model
 https://digitalcollections.wesleyan.edu/islandora/object/ir%3A2472/datastream/PDF/view
 
 https://www.facebook.com/watch/?v=508845260169018
+
+https://www.audiolabs-erlangen.de/resources/MIR/2019-GeorgianMusic-Erkomaishvili 
+
+https://polyphony.ge/en/acharan-folk-songs-collection-of-sheet-music-with-cd-for-self-study/?utm_source=chatgpt.com
+
+https://chanting.ge/en/svan-folk-songs
