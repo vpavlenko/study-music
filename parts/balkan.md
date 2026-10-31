@@ -27,7 +27,7 @@ This culture is very roughly described as maqam music shaped by Western influenc
 
 ## Misc
 
-- [Hans Baken. Folk Music from Bulgaria, Fake Book](https://hjj.home.xs4all.nl/Bladmuziek/Fakebook_Bulgarian_Music.pdf)
+- [Hans Baken. Folk Music from Bulgaria, Fake Book](https://bgko.org/wp-content/uploads/2020/06/Fakebook_Bulgarian_Music.pdf)
 - Maqam: Historical Traces and Present Practice in Southern European Music Traditions. Edited by Jürgen Elsner, Gisa Jähnichen and Jasmina Talam
 - https://www.pelister.org/folklore/songs/index.php
 - klezmer
