@@ -146,6 +146,7 @@ Topics on electronic music
 - [**Microtonal music**](parts/microtonal.md)
 - [**Notable instruments**](parts/instruments.md)
 - [Institute of Sonology: One-Year Course](http://sonology.org/one-year-course-admission/)
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Free remote MCP server and live-music venue directory across the US and Canada for touring musicians and talent buyers
 
 Contacts
 ---
