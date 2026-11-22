@@ -11,6 +11,8 @@ How to learn sight-reading
 - Start by sight-reading melodic pieces with right-hand only. Only sight-read with both hands if you are already fast enough with the right hand
 
 
+- [Ivories](https://ivories.music/) - piano note-reading practice for iOS and Android, using an on-screen keyboard or microphone input. Free levels with an optional one-time purchase; progress stays on the device.
+
 Fingers
 ---
 
