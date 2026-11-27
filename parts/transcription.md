@@ -107,3 +107,4 @@ Also, a paper by [Chordify (2014)](https://dspace.library.uu.nl/handle/1874/3037
 - https://paperswithcode.com/task/music-transcription/latest
 - [TuneFlow](https://tuneflow.com/) [is](https://github.com/tuneflow/tuneflow-plugin-demucs) [probably](https://github.com/tuneflow/basic-pitch) a wrapper around demucs and Basic Pitch.
 - https://splitter.fm/
+- [MusiCraft AI](https://www.musicraft.ai/) - web app that transcribes recordings into sheet music, MIDI and MusicXML, scans printed scores, and splits songs into stems for practice. Free trial available.
