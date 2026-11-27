@@ -7,6 +7,8 @@ Ear training
 
 - [Miranda Wilson. Integrated Musicianship: Aural Skills](https://intmus.github.io/intas19-20/) - An open-source, interactive, online textbook for college-level music courses
 
+- [Music Maestro Grade 1 Aural Practice](https://music.vensoai.com/ameb-grade-1-aural-test-practice?utm_source=github&utm_medium=directory&utm_campaign=study-music&utm_content=ear-training) - A free, browser-based beginner aural practice routine for AMEB Piano Grade 1 families, with original listening prompts and an interactive drill.
+
 - [SoundGym](https://www.soundgym.co/dashboard/gym) - Ear training for mixing engineers: EQ, compression, stereo image, gain, reverb
 
 - [ToneGym](https://www.tonegym.co/dashboard/gym) - Intervals, chords, rhythms (with some gamification)
@@ -41,4 +43,3 @@ Sight Singing
 - Matrix singing by Dr. Blaise Ferrandino
   - https://bridgingthemusictheorygap.wordpress.com/2022/02/10/aural-approach-to-part-writing/
  
-
