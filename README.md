@@ -18,6 +18,7 @@ Where to start
 1. Go through [Ableton's guide on music](https://learningmusic.ableton.com/) and [Ableton's guide on synths](https://learningsynths.ableton.com/)
 1. [Bartosz Ciechanowski. Sound](https://ciechanow.ski/sound/)
 2. [Chrome Music Lab](https://musiclab.chromeexperiments.com/)
+3. [PracticeLoop](https://musicpracticeapp.netlify.app/) - Slow down and loop sections of YouTube videos for practice (guitar, bass, piano, drums). Features progressive speed training and built-in metronome.
 16. [🤖 AI demos](https://github.com/affige/genmusic_demo_list): [Magenta](https://magenta.tensorflow.org/demos/), [MusicLM](https://google-research.github.io/seanet/musiclm/examples/), [LakhNES](https://chrisdonahue.com/LakhNES/), [Muzic](https://ai-muzic.github.io/), [Jazz Transformer](https://drive.google.com/drive/folders/1-EeV02jvRftdvwWXa0KpoMvyRQaXUJ0W)
 
 
